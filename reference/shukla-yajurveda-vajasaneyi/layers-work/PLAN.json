@@ -178,7 +178,7 @@
    "first": "1",
    "last": "39",
    "lines": 71,
-   "state": "checked",
+   "state": "written",
    "dir": "p00/ch12"
   },
   {
@@ -190,7 +190,7 @@
    "first": "40",
    "last": "78",
    "lines": 58,
-   "state": "applied",
+   "state": "written",
    "dir": "p00/ch12"
   },
   {
@@ -202,7 +202,7 @@
    "first": "79",
    "last": "117",
    "lines": 50,
-   "state": "applied",
+   "state": "written",
    "dir": "p00/ch12"
   },
   {

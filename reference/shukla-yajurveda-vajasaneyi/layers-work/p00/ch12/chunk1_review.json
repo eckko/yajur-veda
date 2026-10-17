@@ -1,0 +1,972 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "durmarṣam",
+     "problem": "durmarṣa agrees with neuter āyuḥ, not masculine",
+     "fix": "n. acc. sg.",
+     "severity": "minor",
+     "patch": {
+      "n": "1",
+      "op": "word",
+      "match_w": "durmarṣam",
+      "field": "gram",
+      "value": "n. acc. sg."
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "दुःसह आयु वाला",
+     "problem": "Hindi makes durmarṣam āyuḥ a possessive compound ('having a hard-to-bear life'); English and notes keep it as a plain phrase 'a life hard to bear'",
+     "fix": "दुःसह आयु",
+     "severity": "minor",
+     "patch": {
+      "n": "1",
+      "op": "replace",
+      "field": "hindi",
+      "old": "दुःसह आयु वाला",
+      "new": "दुःसह आयु"
+     }
+    }
+   ]
+  },
+  {
+   "n": "2",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "dyāvākṣāmā",
+     "problem": "English and notes take it as the object of antar ('between Heaven and Earth'), so the label should not be nominative",
+     "fix": "f. acc. du. dvandva (with antar)",
+     "severity": "minor",
+     "patch": {
+      "n": "2",
+      "op": "word",
+      "match_w": "dyāvākṣāmā",
+      "field": "gram",
+      "value": "f. acc. du. dvandva (with antar)"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "dhārayan",
+     "problem": "labelled impf. but the note says augmentless; an augmentless form is injunctive",
+     "fix": "3 pl. inj. (augmentless, past sense) caus. √dhṛ",
+     "severity": "minor",
+     "patch": {
+      "n": "2",
+      "op": "word",
+      "match_w": "dhārayan",
+      "field": "gram",
+      "value": "3 pl. inj. (augmentless, past sense) caus. √dhṛ"
+     }
+    }
+   ]
+  },
+  {
+   "n": "3",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "आकाश को प्रकाशित किया",
+     "problem": "Glossary fixes nāka = स्वर्ग in Hindi; आकाश breaks it",
+     "fix": "स्वर्ग को प्रकाशित किया",
+     "severity": "error",
+     "patch": {
+      "n": "3",
+      "op": "replace",
+      "field": "hindi",
+      "old": "आकाश को प्रकाशित किया",
+      "new": "स्वर्ग को प्रकाशित किया"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "glossary sentence",
+     "problem": "Notes misstate the glossary (it says nāka = स्वर्ग, not 'only where required')",
+     "fix": "nāka English \"firmament\", Hindi स्वर्ग per glossary; vi akhyat read as \"lit up\"; alternative \"looked upon\".",
+     "severity": "minor",
+     "patch": {
+      "n": "3",
+      "op": "set",
+      "field": "notes",
+      "value": "nāka English \"firmament\", Hindi स्वर्ग per glossary; vi akhyat read as \"lit up\"; alternative \"looked upon\"."
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "uṣasaḥ",
+     "problem": "uṣasaḥ cannot be genitive plural (that is uṣasām); gram says gen. sg. but gloss, English and Hindi say plural 'dawns'",
+     "fix": "gloss \"of the dawn\"; English \"the course of the dawn\"; Hindi उषा के प्रयाण",
+     "severity": "error",
+     "patch": {
+      "n": "3",
+      "op": "word",
+      "match_w": "uṣasaḥ",
+      "field": "gloss",
+      "value": "of the dawn"
+     }
+    },
+    {
+     "field": "english",
+     "where": "the course of the dawns",
+     "problem": "same plural error as above",
+     "fix": "the course of the dawn",
+     "severity": "error",
+     "patch": {
+      "n": "3",
+      "op": "replace",
+      "field": "english",
+      "old": "the course of the dawns",
+      "new": "the course of the dawn"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "उषाओं के प्रयाण",
+     "problem": "same plural error as above",
+     "fix": "उषा के प्रयाण",
+     "severity": "error",
+     "patch": {
+      "n": "3",
+      "op": "replace",
+      "field": "hindi",
+      "old": "उषाओं के प्रयाण",
+      "new": "उषा के प्रयाण"
+     }
+    }
+   ]
+  },
+  {
+   "n": "4",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "pucchaṃ",
+     "problem": "w must be the dictionary-style inflected form",
+     "fix": "puccham",
+     "severity": "minor",
+     "patch": {
+      "n": "4",
+      "op": "word",
+      "match_w": "pucchaṃ",
+      "field": "w",
+      "value": "puccham"
+     }
+    },
+    {
+     "field": "english",
+     "where": "fly to the light",
+     "problem": "English says 'light' while Hindi keeps svar and gloss says 'light, heaven'; the two languages disagree",
+     "fix": "fly to svar",
+     "severity": "minor",
+     "patch": {
+      "n": "4",
+      "op": "replace",
+      "field": "english",
+      "old": "fly to the light",
+      "new": "fly to svar"
+     }
+    }
+   ]
+  },
+  {
+   "n": "5",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "शत्रुओं को मारने वाले; ... विरोधियों को मारने वाले",
+     "problem": "Hindi swaps the renderings: sapatnahā is 'slayer of rivals', abhimātihā 'slayer of enemies' in English",
+     "fix": "line 1 प्रतिद्वन्द्वियों को मारने वाले; line 2 शत्रुओं को मारने वाले",
+     "severity": "minor",
+     "patch": {
+      "n": "5",
+      "op": "replace",
+      "field": "hindi",
+      "old": "शत्रुओं को मारने वाले; गायत्र",
+      "new": "प्रतिद्वन्द्वियों को मारने वाले; गायत्र"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "विरोधियों को मारने वाले; त्रैष्टुभ",
+     "problem": "see above",
+     "fix": "शत्रुओं को मारने वाले; त्रैष्टुभ",
+     "severity": "minor",
+     "patch": {
+      "n": "5",
+      "op": "replace",
+      "field": "hindi",
+      "old": "विरोधियों को मारने वाले; त्रैष्टुभ",
+      "new": "शत्रुओं को मारने वाले; त्रैष्टुभ"
+     }
+    },
+    {
+     "field": "english",
+     "where": "slayer of one who acts as a foe",
+     "problem": "Glossary renders arāti as 'hostile power'; arātīyat is built on it, but 'foe' is used (and 'foe' is not distinguished from śatru 'enemy')",
+     "fix": "consider 'one who acts as a hostile power' in English and Hindi together (needs a human decision)",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "6",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "hīmi̱ddho",
+     "problem": "hi + iddhaḥ does not give hīmiddho: the m is lost. The text has hi + īm + iddhaḥ (particle īm)",
+     "fix": "add a word īm (particle, 'indeed / him', ind.) between hi and iddhaḥ",
+     "severity": "error"
+    },
+    {
+     "field": "gram",
+     "where": "jajñānaḥ",
+     "problem": "jajñāna- is a perfect middle participle, not present",
+     "fix": "m. nom. sg. pf. part. mid. √jan",
+     "severity": "minor",
+     "patch": {
+      "n": "6",
+      "op": "word",
+      "match_w": "jajñānaḥ",
+      "field": "gram",
+      "value": "m. nom. sg. pf. part. mid. √jan"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "वनस्पतियों को सजाता हुआ",
+     "problem": "वनस्पति is the Hindi for vanaspati (units 37) and a different word from vīrudh; clash",
+     "fix": "पौधों को सजाता हुआ",
+     "severity": "minor",
+     "patch": {
+      "n": "6",
+      "op": "replace",
+      "field": "hindi",
+      "old": "वनस्पतियों को सजाता हुआ",
+      "new": "पौधों को सजाता हुआ"
+     }
+    }
+   ]
+  },
+  {
+   "n": "7",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "8",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "rayim / English 'wealth'",
+     "problem": "rayi and dhana both come out as 'wealth' (unit 7 separates them: rayyā = riches). Keep rayi = riches (सम्पत्ति) in every unit",
+     "fix": "gloss \"riches\"; English \"bring us riches again\"",
+     "severity": "minor",
+     "patch": {
+      "n": "8",
+      "op": "replace",
+      "field": "english",
+      "old": "bring us wealth again",
+      "new": "bring us riches again"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "rayim",
+     "problem": "same",
+     "fix": "riches",
+     "severity": "minor",
+     "patch": {
+      "n": "8",
+      "op": "word",
+      "match_w": "rayim",
+      "field": "gloss",
+      "value": "riches"
+     }
+    }
+   ]
+  },
+  {
+   "n": "9",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "with sap and strength",
+     "problem": "Glossary gives ūrj as sap/strength; 'and' turns one word into two items",
+     "fix": "with sap/strength",
+     "severity": "minor",
+     "patch": {
+      "n": "9",
+      "op": "replace",
+      "field": "english",
+      "old": "with sap and strength",
+      "new": "with sap/strength"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "रस और बल के साथ",
+     "problem": "same",
+     "fix": "रस/बल के साथ",
+     "severity": "minor",
+     "patch": {
+      "n": "9",
+      "op": "replace",
+      "field": "hindi",
+      "old": "रस और बल के साथ",
+      "new": "रस/बल के साथ"
+     }
+    }
+   ]
+  },
+  {
+   "n": "10",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "with wealth",
+     "problem": "rayyā should be 'riches' (cf. unit 7, where dhana is 'wealth')",
+     "fix": "Turn back together with riches",
+     "severity": "minor",
+     "patch": {
+      "n": "10",
+      "op": "replace",
+      "field": "english",
+      "old": "Turn back together with wealth",
+      "new": "Turn back together with riches"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "धन के साथ लौट आओ",
+     "problem": "rayi = सम्पत्ति (as in units 7, 8)",
+     "fix": "सम्पत्ति के साथ लौट आओ",
+     "severity": "minor",
+     "patch": {
+      "n": "10",
+      "op": "replace",
+      "field": "hindi",
+      "old": "धन के साथ लौट आओ",
+      "new": "सम्पत्ति के साथ लौट आओ"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "rayyā",
+     "problem": "see above",
+     "fix": "with riches",
+     "severity": "minor",
+     "patch": {
+      "n": "10",
+      "op": "word",
+      "match_w": "rayyā",
+      "field": "gloss",
+      "value": "with riches"
+     }
+    }
+   ]
+  },
+  {
+   "n": "11",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "12",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "13",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "14",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "śuci-sad",
+     "problem": "nominative before 'vasuḥ' shows the sandhi voicing; undone it is śuci-sat, as the other members (antarikṣa-sat etc.)",
+     "fix": "śuci-sat",
+     "severity": "minor",
+     "patch": {
+      "n": "14",
+      "op": "word",
+      "match_w": "śuci-sad",
+      "field": "w",
+      "value": "śuci-sat"
+     }
+    },
+    {
+     "field": "english",
+     "where": "sitting in the choice place",
+     "problem": "'place' is added; vara-sat is 'sitting in the choice (one)'. Hindi वर is also ambiguous (boon/groom)",
+     "fix": "sitting in the choice; Hindi श्रेष्ठ में बैठने वाला",
+     "severity": "minor",
+     "patch": {
+      "n": "14",
+      "op": "replace",
+      "field": "english",
+      "old": "sitting in the choice place",
+      "new": "sitting in the choice"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "वर में बैठने वाला",
+     "problem": "see above",
+     "fix": "श्रेष्ठ में बैठने वाला",
+     "severity": "minor",
+     "patch": {
+      "n": "14",
+      "op": "replace",
+      "field": "hindi",
+      "old": "वर में बैठने वाला",
+      "new": "श्रेष्ठ में बैठने वाला"
+     }
+    }
+   ]
+  },
+  {
+   "n": "15",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "16",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "tasyāḥ",
+     "problem": "Notes do not say what tasyāḥ attaches to; English 'over her' is a choice (alternative: 'her heat')",
+     "fix": "append a note on the attachment",
+     "severity": "minor",
+     "patch": {
+      "n": "16",
+      "op": "append_note",
+      "text": "tasyāḥ (\"of her\") is taken with tapan (\"burning her / over her\"); attaching it to harasā (\"her heat\") is also possible."
+     }
+    }
+   ]
+  },
+  {
+   "n": "17",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "18",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "आकाश से पहले अग्नि उत्पन्न हुआ",
+     "problem": "Reads as 'before the sky'; also 'स्थान पर' is added to dvitīyam/tṛtīyam (adverbs 'second', 'third')",
+     "fix": "पहले आकाश से अग्नि उत्पन्न हुआ; दूसरे, हमसे जातवेदस्; तीसरे, जलों में",
+     "severity": "error",
+     "patch": {
+      "n": "18",
+      "op": "replace",
+      "field": "hindi",
+      "old": "आकाश से पहले अग्नि उत्पन्न हुआ; दूसरे स्थान पर हमसे जातवेदस्; तीसरे स्थान पर जलों में",
+      "new": "पहले आकाश से अग्नि उत्पन्न हुआ; दूसरे, हमसे जातवेदस्; तीसरे, जलों में"
+     }
+    },
+    {
+     "field": "english",
+     "where": "third, in the waters, the manly-minded one.",
+     "problem": "nṛmaṇāḥ is left as a loose fragment; it is most naturally the subject of jarate with indhānaḥ and svādhīḥ (nominatives together)",
+     "fix": "e.g. \"third, in the waters; the manly-minded one, kindling him ceaselessly, the one of good insight praises him\" (human decision)",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "19",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "20",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "महान् लोगों ने",
+     "problem": "'लोगों' (people) is added; mahiṣāḥ is 'great ones' and the notes say no agent is identified",
+     "fix": "महानों ने",
+     "severity": "minor",
+     "patch": {
+      "n": "20",
+      "op": "replace",
+      "field": "hindi",
+      "old": "महान् लोगों ने",
+      "new": "महानों ने"
+     }
+    }
+   ]
+  },
+  {
+   "n": "21",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "hīmi̱ddho",
+     "problem": "hi + iddhaḥ does not give hīmiddho: the m is lost. The text has hi + īm + iddhaḥ (particle īm)",
+     "fix": "add a word īm (particle, 'indeed / him', ind.) between hi and iddhaḥ",
+     "severity": "error"
+    },
+    {
+     "field": "gram",
+     "where": "jajñānaḥ",
+     "problem": "jajñāna- is a perfect middle participle, not present",
+     "fix": "m. nom. sg. pf. part. mid. √jan",
+     "severity": "minor",
+     "patch": {
+      "n": "21",
+      "op": "word",
+      "match_w": "jajñānaḥ",
+      "field": "gram",
+      "value": "m. nom. sg. pf. part. mid. √jan"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "वनस्पतियों को सजाता हुआ",
+     "problem": "वनस्पति is the Hindi for vanaspati (units 37) and a different word from vīrudh; clash",
+     "fix": "पौधों को सजाता हुआ",
+     "severity": "minor",
+     "patch": {
+      "n": "21",
+      "op": "replace",
+      "field": "hindi",
+      "old": "वनस्पतियों को सजाता हुआ",
+      "new": "पौधों को सजाता हुआ"
+     }
+    }
+   ]
+  },
+  {
+   "n": "22",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "manīṣā rendered 'insight'",
+     "problem": "Glossary fixes dhī = insight in every unit; manīṣā must take a different word (e.g. 'contemplation') to avoid a clash; add to GLOSSARY",
+     "fix": "choose a distinct English word for manīṣā (human decision)",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "23",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "vīḍum",
+     "problem": "vīḍu is an adjective agreeing with adrim ('firm stone'), as English and Hindi render; gloss 'firm thing' makes it a noun",
+     "fix": "firm",
+     "severity": "minor",
+     "patch": {
+      "n": "23",
+      "op": "word",
+      "match_w": "vīḍum",
+      "field": "gloss",
+      "value": "firm"
+     }
+    }
+   ]
+  },
+  {
+   "n": "24",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "25",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "durmarṣam",
+     "problem": "durmarṣa agrees with neuter āyuḥ, not masculine",
+     "fix": "n. acc. sg.",
+     "severity": "minor",
+     "patch": {
+      "n": "25",
+      "op": "word",
+      "match_w": "durmarṣam",
+      "field": "gram",
+      "value": "n. acc. sg."
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "दुःसह आयु वाला",
+     "problem": "Hindi makes durmarṣam āyuḥ a possessive compound ('having a hard-to-bear life'); English and notes keep it as a plain phrase 'a life hard to bear'",
+     "fix": "दुःसह आयु",
+     "severity": "minor",
+     "patch": {
+      "n": "25",
+      "op": "replace",
+      "field": "hindi",
+      "old": "दुःसह आयु वाला",
+      "new": "दुःसह आयु"
+     }
+    }
+   ]
+  },
+  {
+   "n": "26",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "lead him forward to something better",
+     "problem": "prataram ('further') is dropped",
+     "fix": "lead him forward, further, to something better",
+     "severity": "minor",
+     "patch": {
+      "n": "26",
+      "op": "replace",
+      "field": "english",
+      "old": "lead him forward to something better",
+      "new": "lead him forward, further, to something better"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "उसे आगे ले चलो, श्रेष्ठतर की ओर",
+     "problem": "prataram dropped",
+     "fix": "उसे आगे और आगे ले चलो, श्रेष्ठतर की ओर",
+     "severity": "minor",
+     "patch": {
+      "n": "26",
+      "op": "replace",
+      "field": "hindi",
+      "old": "उसे आगे ले चलो, श्रेष्ठतर की ओर",
+      "new": "उसे आगे और आगे ले चलो, श्रेष्ठतर की ओर"
+     }
+    },
+    {
+     "field": "english",
+     "where": "auspicious flame",
+     "problem": "bhadra is 'good' in unit 3 and 'auspicious' here, which is the rendering of śiva (units 16, 17, 31, 34, 39)",
+     "fix": "use 'good' for bhadra (e.g. \"O god of good flame\") and Hindi भद्र/शुभ, not मंगलकारी (human decision)",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "27",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "bhavāt",
+     "problem": "Source reads bhavātyujjātena = bhavāti + ujjātena. bhavāt + ut would give bhavād ut-, not bhavāty u-. The subjunctive is bhavāti",
+     "fix": "bhavāti",
+     "severity": "error",
+     "patch": {
+      "n": "27",
+      "op": "word",
+      "match_w": "bhavāt",
+      "field": "w",
+      "value": "bhavāti"
+     }
+    },
+    {
+     "field": "english",
+     "where": "may he burst out",
+     "problem": "Gloss says 'he would split' (bhinat); English/Hindi 'burst out' is firmer than the draft and the unit is low confidence",
+     "fix": "may he split ... (keep to the gloss; human decision)",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "28",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "all wealth, all desirable things",
+     "problem": "viśvā (n. pl.) agrees with vāryāṇi, not with vasu (n. sg.); English gives 'all' to wealth",
+     "fix": "wealth, all desirable things (unit is low confidence; check with a human)",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "29",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "a-dveṣe",
+     "problem": "adveṣe is the feminine dual adjective with dyāvāpṛthivī ('free from hatred'), not a m. loc. noun 'for freedom from hatred'",
+     "fix": "gloss: free from hatred; gram: f. acc. du. nañ-bahuvrīhi (agrees with dyāvāpṛthivī)",
+     "severity": "error",
+     "patch": {
+      "n": "29",
+      "op": "word",
+      "match_w": "a-dveṣe",
+      "field": "gram",
+      "value": "f. acc. du. nañ-bahuvrīhi (agrees with dyāvāpṛthivī)"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "a-dveṣe",
+     "problem": "see above",
+     "fix": "free from hatred",
+     "severity": "error",
+     "patch": {
+      "n": "29",
+      "op": "word",
+      "match_w": "a-dveṣe",
+      "field": "gloss",
+      "value": "free from hatred"
+     }
+    },
+    {
+     "field": "english",
+     "where": "For freedom from hatred we would call Heaven and Earth",
+     "problem": "follows the wrong case reading",
+     "fix": "We would call Heaven and Earth, free from hatred",
+     "severity": "error",
+     "patch": {
+      "n": "29",
+      "op": "replace",
+      "field": "english",
+      "old": "For freedom from hatred we would call Heaven and Earth",
+      "new": "We would call Heaven and Earth, free from hatred"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "द्वेषरहित भाव के लिए हम द्यावापृथिवी को पुकारें",
+     "problem": "same",
+     "fix": "हम द्वेषरहित द्यावापृथिवी को पुकारें",
+     "severity": "error",
+     "patch": {
+      "n": "29",
+      "op": "replace",
+      "field": "hindi",
+      "old": "द्वेषरहित भाव के लिए हम द्यावापृथिवी को पुकारें",
+      "new": "हम द्वेषरहित द्यावापृथिवी को पुकारें"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "nominative plural with ṛṣibhiḥ",
+     "problem": "ṛṣibhiḥ is instrumental, so a nominative plural somagopāḥ 'with' it is not a real alternative (invented variant)",
+     "fix": "delete that clause",
+     "severity": "minor",
+     "patch": {
+      "n": "29",
+      "op": "replace",
+      "field": "notes",
+      "old": "; it could also be read as nominative plural with ṛṣibhiḥ",
+      "new": ""
+     }
+    }
+   ]
+  },
+  {
+   "n": "30",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "31",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "32",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "कल्याणकारी लपटों",
+     "problem": "śiva is मंगलकारी everywhere else; कल्याणकारी is used for bhadra",
+     "fix": "मंगलकारी लपटों",
+     "severity": "minor",
+     "patch": {
+      "n": "32",
+      "op": "replace",
+      "field": "hindi",
+      "old": "कल्याणकारी लपटों",
+      "new": "मंगलकारी लपटों"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "प्रजा को",
+     "problem": "prajā is 'offspring' (सन्तान) in unit 7; प्रजा in Hindi means subjects",
+     "fix": "सन्तान को",
+     "severity": "minor",
+     "patch": {
+      "n": "32",
+      "op": "replace",
+      "field": "hindi",
+      "old": "प्रजा को",
+      "new": "सन्तान को"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "arcibhiḥ",
+     "problem": "labelled f. but agrees with śivebhiḥ (m./n. -ebhiḥ)",
+     "fix": "m. inst. pl. (agrees with śivebhiḥ)",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "33",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "hīmi̱ddho",
+     "problem": "hi + iddhaḥ does not give hīmiddho: the m is lost. The text has hi + īm + iddhaḥ (particle īm)",
+     "fix": "add a word īm (particle, 'indeed / him', ind.) between hi and iddhaḥ",
+     "severity": "error"
+    },
+    {
+     "field": "gram",
+     "where": "jajñānaḥ",
+     "problem": "jajñāna- is a perfect middle participle, not present",
+     "fix": "m. nom. sg. pf. part. mid. √jan",
+     "severity": "minor",
+     "patch": {
+      "n": "33",
+      "op": "word",
+      "match_w": "jajñānaḥ",
+      "field": "gram",
+      "value": "m. nom. sg. pf. part. mid. √jan"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "वनस्पतियों को सजाता हुआ",
+     "problem": "वनस्पति is the Hindi for vanaspati (units 37) and a different word from vīrudh; clash",
+     "fix": "पौधों को सजाता हुआ",
+     "severity": "minor",
+     "patch": {
+      "n": "33",
+      "op": "replace",
+      "field": "hindi",
+      "old": "वनस्पतियों को सजाता हुआ",
+      "new": "पौधों को सजाता हुआ"
+     }
+    }
+   ]
+  },
+  {
+   "n": "34",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "जिसने युद्धों में पूरु पर विजय पाई",
+     "problem": "'conquered' is added; English and notes say 'stood over'",
+     "fix": "जो युद्धों में पूरु के ऊपर खड़ा हुआ",
+     "severity": "error",
+     "patch": {
+      "n": "34",
+      "op": "replace",
+      "field": "hindi",
+      "old": "जिसने युद्धों में पूरु पर विजय पाई",
+      "new": "जो युद्धों में पूरु के ऊपर खड़ा हुआ"
+     }
+    },
+    {
+     "field": "text_flags",
+     "where": "pra-prāyam",
+     "problem": "The hyphen in the typed text may mark a deliberate repetition (pra-pra), not a typo; the words keep only one pra, so one printed pra has no word",
+     "fix": "keep the flag but say 'doubled pra with hyphen may be intended'; list both pra as words (pra, pra, ayam) and render \"forth, forth\" (human decision)",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "35",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "syone",
+     "problem": "syona agrees with loke (masculine), not neuter",
+     "fix": "m. loc. sg.",
+     "severity": "minor",
+     "patch": {
+      "n": "35",
+      "op": "word",
+      "match_w": "syone",
+      "field": "gram",
+      "value": "m. loc. sg."
+     }
+    }
+   ]
+  },
+  {
+   "n": "36",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "37",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "38",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "39",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "अति मंगलकारी",
+     "problem": "'अति' is 'very'; śivatamaḥ is 'most auspicious'",
+     "fix": "सबसे मंगलकारी",
+     "severity": "minor",
+     "patch": {
+      "n": "39",
+      "op": "replace",
+      "field": "hindi",
+      "old": "अति मंगलकारी",
+      "new": "सबसे मंगलकारी"
+     }
+    }
+   ]
+  }
+ ],
+ "summary": "14 errors, 45 minor. Main errors: unit 3 (nāka Hindi, uṣasaḥ number), units 6/21/33 (missing īm in hīmiddho), 18 (Hindi order/ambiguity), 27 (bhavāti), 29 (adveṣe reading), 34 (Hindi 'conquered'). Repeats: patches given to 1/25 and 6/21/33. No regrouping needed. Suggested glossary additions: rayi = riches (सम्पत्ति) vs dhana/draviṇa/vasu = wealth (धन); prajā = offspring (सन्तान); śiva = auspicious (मंगलकारी) vs bhadra = good; vīrudh = plants (पौधे) vs vanaspati = trees (वनस्पति); manīṣā needs a word distinct from dhī."
+}

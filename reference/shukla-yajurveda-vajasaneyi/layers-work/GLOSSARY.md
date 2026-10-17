@@ -26,3 +26,4 @@ AI drafts. English uses plain IAST for Sanskrit terms; Hindi stays in Devanagari
 - yoni = womb (Hindi योनि, feminine: तुम्हारी योनि); vāja = strength also in vājasāti; Marka, Śaṇḍa and Tutha stay names
 - dhāman = abode (Hindi धाम, not आश्रय); tvaṣṭar is the vocative of tvaṣṭṛ; Hindi never uses अमृत for amṛta "the immortal"
 - amīva = affliction (Hindi पीड़ा); vāma = desirable (Hindi इष्ट, not वाम); saprathas-tama is the stem split
+- rayi = riches (सम्पत्ति) apart from dhana/draviṇa/vasu = wealth (धन); prajā = offspring (सन्तान); śiva = auspicious (मंगलकारी) and bhadra = good (भला); vīrudh = plant (पौधा) apart from vanaspati (वनस्पति); manīṣā = contemplation (मनीषा), never "insight" (that is dhī); arātīyat = one who acts as a hostile power
