@@ -2,20 +2,20 @@
 
 Updated: 2026-10-17 on branch docs/2026-10-17/version-1. Base source: S1 (DharmicData, Madhyandina). 40 of 40 adhyayas extracted, 1,975 verses, 3,309 lines.
 
-The checker reports 24 errors, all stray Latin `j`/`k` letters kept exactly as in S1 (logged line by line in ISSUES.md). No other errors. No translations found yet.
+The checker reports 24 errors, all stray Latin `j`/`k` letters kept exactly as in S1 (logged line by line in ISSUES.md). No other errors. No published translations found. Chapters 1-10 now carry AI-drafted, independently AI-reviewed layers (sandhi split, Hindi, English); chapters 11-40 have none yet.
 
 | Part | Chapter | Sanskrit lines | Source | Hindi | English | Check | Notes |
 |---|---|---|---|---|---|---|---|
-| 00 | 01 | 57 | S1 | -- | -- | pass |  |
-| 00 | 02 | 52 | S1 | -- | -- | errors (Latin) | 1 line(s) with stray Latin letter (checker error, see ISSUES.md) |
-| 00 | 03 | 81 | S1 | -- | -- | errors (Latin) | 2 line(s) with stray Latin letter (checker error, see ISSUES.md) |
-| 00 | 04 | 55 | S1 | -- | -- | errors (Latin) | 4 line(s) with stray Latin letter (checker error, see ISSUES.md) |
-| 00 | 05 | 73 | S1 | -- | -- | errors (Latin) | 4 line(s) with stray Latin letter (checker error, see ISSUES.md) |
-| 00 | 06 | 57 | S1 | -- | -- | errors (Latin) | 6 line(s) with stray Latin letter (checker error, see ISSUES.md) |
-| 00 | 07 | 97 | S1 | -- | -- | errors (Latin) | 6 line(s) with stray Latin letter (checker error, see ISSUES.md) |
-| 00 | 08 | 130 | S1 | -- | -- | errors (Latin) | 1 line(s) with stray Latin letter (checker error, see ISSUES.md) |
-| 00 | 09 | 71 | S1 | -- | -- | pass |  |
-| 00 | 10 | 61 | S1 | -- | -- | pass |  |
+| 00 | 01 | 57 | S1 | reviewed AI draft | reviewed AI draft | pass |  |
+| 00 | 02 | 52 | S1 | reviewed AI draft | reviewed AI draft | errors (Latin) | 1 line(s) with stray Latin letter (checker error, see ISSUES.md) |
+| 00 | 03 | 81 | S1 | reviewed AI draft | reviewed AI draft | errors (Latin) | 2 line(s) with stray Latin letter (checker error, see ISSUES.md) |
+| 00 | 04 | 55 | S1 | reviewed AI draft | reviewed AI draft | errors (Latin) | 4 line(s) with stray Latin letter (checker error, see ISSUES.md) |
+| 00 | 05 | 73 | S1 | reviewed AI draft | reviewed AI draft | errors (Latin) | 4 line(s) with stray Latin letter (checker error, see ISSUES.md) |
+| 00 | 06 | 57 | S1 | reviewed AI draft | reviewed AI draft | errors (Latin) | 6 line(s) with stray Latin letter (checker error, see ISSUES.md) |
+| 00 | 07 | 97 | S1 | reviewed AI draft | reviewed AI draft | errors (Latin) | 6 line(s) with stray Latin letter (checker error, see ISSUES.md) |
+| 00 | 08 | 130 | S1 | reviewed AI draft | reviewed AI draft | errors (Latin) | 1 line(s) with stray Latin letter (checker error, see ISSUES.md) |
+| 00 | 09 | 71 | S1 | reviewed AI draft | reviewed AI draft | pass |  |
+| 00 | 10 | 61 | S1 | reviewed AI draft | reviewed AI draft | pass |  |
 | 00 | 11 | 132 | S1 | -- | -- | pass |  |
 | 00 | 12 | 179 | S1 | -- | -- | pass |  |
 | 00 | 13 | 105 | S1 | -- | -- | pass |  |
@@ -47,7 +47,12 @@ The checker reports 24 errors, all stray Latin `j`/`k` letters kept exactly as i
 | 00 | 39 | 24 | S1 | -- | -- | pass |  |
 | 00 | 40 | 34 | S1 | -- | -- | pass |  |
 
+## Layers (chapters 1-10)
+- Files `text/ch00.NN-sandhi.md`, `-hindi.md`, `-english.md` for NN = 01 to 10, same IDs and line count as the Sanskrit. Each unit's translation sits on its first line, `~` on the rest.
+- Made by an AI draft pass, then an independent AI review, then fixes (automatic and by hand). Not read by a human. Many forms are obscure and marked low confidence in `layers-work/p00/chNN/chunkK_final.json` notes.
+- Chapters 11-40: not started (45 chunks pending, see `layers-work/STATUS.md`). The quiz feed (`build_feed.py`) is not built because part 00 is not fully covered.
+
 ## Next
 - Get S2 (Sanskrit Library TEI XML) or S3 (GRETIL) downloaded by the owner to cross-check and to resolve the `j` letters and numbering notes.
-- Find Hindi and English translations (none looked for yet).
+- Decide whether to continue layers for chapters 11-40, and find real Hindi and English translations to check the AI drafts against.
 - Parser: tools/parse_s1.py (re-run reproduces text/ exactly).

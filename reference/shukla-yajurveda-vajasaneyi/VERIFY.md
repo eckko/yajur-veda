@@ -13,3 +13,8 @@
 ## 2026-10-17 AI proofreading
 - 3 packs, 149 items, all answered. 29 proposals. Sample error rate 4/92 (4.3%). See ISSUES.md and checks/PROOFREAD.md. `text/` untouched.
 - plan_work.py: 55 chunks, 1,975 units, about 0.7 million draft output tokens plus about the same for the review. Not started; waiting for the owner to choose the scope.
+
+## 2026-10-17 layers, chapters 1-10
+- 10 chapters, 427 units: AI draft (sonnet), independent AI review, `apply_review.py --add-source`, remaining items settled by hand and logged in `layers-work/p00/chNN/changes_K.json`. Reviewers found errors in every chunk (about 30-80 issues each), mostly glossary breaks, added words and wrong grammar labels; all patchable ones are fixed, unclear readings carry notes and low confidence.
+- Written with `write_layers.py`; `layers-work/GLOSSARY.md` holds the fixed renderings. Not human-read.
+- Chapters 11-40: pending. `build_feed.py` not run.
