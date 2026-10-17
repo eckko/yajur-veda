@@ -1,0 +1,563 @@
+{
+ "units": [
+  {
+   "n": "79",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "vasatiṣkṛtā (vasati-kṛtā)",
+     "problem": "Not a compound: sandhi of two words vasatiḥ + kṛtā (visarga became ṣ before k). Hyphenated tat-puruṣa f. nom. sg. is wrong.",
+     "fix": "Split into vasatiḥ (dwelling, f. nom. sg.) and kṛtā (made, f. nom. sg. pp. √kṛ)",
+     "severity": "error"
+    },
+    {
+     "field": "split",
+     "where": "puruṣam",
+     "problem": "Printed text has long ū (pūruṣa), and units 82 and 91 use pūruṣa; keep one spelling.",
+     "fix": "pūruṣam",
+     "severity": "minor",
+     "patch": {
+      "n": "79",
+      "op": "word",
+      "match_w": "puruṣam",
+      "field": "w",
+      "value": "pūruṣam"
+     }
+    }
+   ]
+  },
+  {
+   "n": "80",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "81",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "all the herbs, rich in horses ...",
+     "problem": "aśvāvatīm, somāvatīm, ūrjayantīm, udojasam are all singular accusative; sarvāḥ oṣadhīḥ is plural. The draft applies the singular adjectives to the plural herbs. Also 'obtained' does not match the gloss 'found'.",
+     "fix": "I have found the herb rich in horses, rich in Soma, strengthening, of exalted might, and all the herbs, for him, for freedom from harm.",
+     "severity": "error",
+     "patch": {
+      "n": "81",
+      "op": "set",
+      "field": "english",
+      "value": "I have found the herb rich in horses, rich in Soma, strengthening, of exalted might, and all the herbs, for him, for freedom from harm."
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "सब ओषधियाँ",
+     "problem": "Same mismatch of number as in the English.",
+     "fix": "मैंने अश्वों से युक्त, सोम से युक्त, बल देने वाली, उत्कृष्ट ओज वाली ओषधि को और सब ओषधियों को प्राप्त कर लिया है, उसके लिए, हानि से मुक्त रहने के लिए।",
+     "severity": "error",
+     "patch": {
+      "n": "81",
+      "op": "set",
+      "field": "hindi",
+      "value": "मैंने अश्वों से युक्त, सोम से युक्त, बल देने वाली, उत्कृष्ट ओज वाली ओषधि को और सब ओषधियों को प्राप्त कर लिया है, उसके लिए, हानि से मुक्त रहने के लिए।"
+     }
+    }
+   ]
+  },
+  {
+   "n": "82",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "ud-śuṣmāḥ",
+     "problem": "Gloss 'rising strengths' (a noun) contradicts the label bahuvrīhi adjective and the note 'with rising strength'; the English then invents a noun 'strengths'. Reading is unresolved (low confidence is right).",
+     "fix": "Make gloss, gram, note and English agree (adjective 'of rising vigour', or declare the noun reading in notes).",
+     "severity": "minor"
+    },
+    {
+     "field": "hindi",
+     "where": "धन जीतने वाली उन ओषधियों की",
+     "problem": "Adds 'ओषधियों' (herbs) which the line does not state; the English keeps 'of those that will win wealth'.",
+     "fix": "धन जीतने वालियों की",
+     "severity": "minor",
+     "patch": {
+      "n": "82",
+      "op": "replace",
+      "field": "hindi",
+      "old": "धन जीतने वाली उन ओषधियों की",
+      "new": "धन जीतने वालियों की"
+     }
+    }
+   ]
+  },
+  {
+   "n": "83",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "The line before the second half-verse has no verb ...",
+     "problem": "Wrong: yat has its own verb āmayati. The sentence is misleading.",
+     "fix": "Delete it; say instead that 'it' is supplied in the Hindi for the relative yat.",
+     "severity": "minor",
+     "patch": {
+      "n": "83",
+      "op": "replace",
+      "field": "notes",
+      "old": " The line before the second half-verse has no verb of its own for yat; 'it' in the Hindi is implied.",
+      "new": " yat āmayati is read as 'whatever afflicts', with 'it' supplied in the Hindi."
+     }
+    },
+    {
+     "field": "gram",
+     "where": "āmayati",
+     "problem": "√am in this sense is causative (āmayati 'makes ill, afflicts').",
+     "fix": "3 sg. pres. caus. √am",
+     "severity": "minor",
+     "patch": {
+      "n": "83",
+      "op": "word",
+      "match_w": "āmayati",
+      "field": "gram",
+      "value": "3 sg. pres. caus. √am"
+     }
+    }
+   ]
+  },
+  {
+   "n": "84",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "yat",
+     "problem": "Relative is the object of prācucyavuḥ, so accusative, not nominative.",
+     "fix": "rel. n. acc. sg.",
+     "severity": "minor",
+     "patch": {
+      "n": "84",
+      "op": "word",
+      "match_w": "yat",
+      "field": "gram",
+      "value": "rel. n. acc. sg."
+     }
+    },
+    {
+     "field": "gram",
+     "where": "kim",
+     "problem": "Same: object of prācucyavuḥ.",
+     "fix": "pron. n. acc. sg.",
+     "severity": "minor",
+     "patch": {
+      "n": "84",
+      "op": "word",
+      "match_w": "kim",
+      "field": "gram",
+      "value": "pron. n. acc. sg."
+     }
+    },
+    {
+     "field": "gram",
+     "where": "rapaḥ",
+     "problem": "Object of prācucyavuḥ (oṣadhīḥ is the subject), so accusative.",
+     "fix": "n. acc. sg.",
+     "severity": "minor",
+     "patch": {
+      "n": "84",
+      "op": "word",
+      "match_w": "rapaḥ",
+      "field": "gram",
+      "value": "n. acc. sg."
+     }
+    }
+   ]
+  },
+  {
+   "n": "85",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "jīva-gṛbhaḥ",
+     "problem": "purā governs the ablative; the form is abl. sg., not nom. sg.",
+     "fix": "m. abl. sg.; tat-puruṣa",
+     "severity": "minor",
+     "patch": {
+      "n": "85",
+      "op": "word",
+      "match_w": "jīva-gṛbhaḥ",
+      "field": "gram",
+      "value": "m. abl. sg.; tat-puruṣa"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "vājayan",
+     "problem": "vājayati is a denominative from vāja, not a causative of √vaj.",
+     "fix": "pres. part. denom. vājaya (from vāja)",
+     "severity": "minor",
+     "patch": {
+      "n": "85",
+      "op": "word",
+      "match_w": "vājayan",
+      "field": "gram",
+      "value": "pres. part. denom. vājaya (from vāja)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "86",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "bādhadhva",
+     "problem": "Printed bādhadhva stands before u- of ugro: underlying Vedic form is bādhadhve (e becomes a before a vowel). w should show the sandhi undone; the note treats the printed form as the word.",
+     "fix": "w bādhadhve, gram '2 pl. mid. (Vedic -dhve), imperative sense'; adjust the note",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "87",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "निहाका के साथ ही",
+     "problem": "'ही' (emphasis) is added; the English has none.",
+     "fix": "निहाका के साथ नष्ट हो जा",
+     "severity": "minor",
+     "patch": {
+      "n": "87",
+      "op": "replace",
+      "field": "hindi",
+      "old": "निहाका के साथ ही नष्ट हो जा",
+      "new": "निहाका के साथ नष्ट हो जा"
+     }
+    }
+   ]
+  },
+  {
+   "n": "88",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "89",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "90",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "91",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "92",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "सौ प्रकार की विवेक-दृष्टि",
+     "problem": "'प्रकार की' (kinds) is added; English is 'a hundred discernments'.",
+     "fix": "सौ विवेक-दृष्टियों वाली",
+     "severity": "minor",
+     "patch": {
+      "n": "92",
+      "op": "replace",
+      "field": "hindi",
+      "old": "सौ प्रकार की विवेक-दृष्टि वाली",
+      "new": "सौ विवेक-दृष्टियों वाली"
+     }
+    }
+   ]
+  },
+  {
+   "n": "93",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "94",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "जो यहाँ पास से इसे सुनती हैं",
+     "problem": "'यहाँ' (here) is added; the text has idam (this) and upa- (near).",
+     "fix": "और जो इसे पास से सुनती हैं",
+     "severity": "minor",
+     "patch": {
+      "n": "94",
+      "op": "replace",
+      "field": "hindi",
+      "old": "जो यहाँ पास से इसे सुनती हैं",
+      "new": "जो इसे पास से सुनती हैं"
+     }
+    }
+   ]
+  },
+  {
+   "n": "95",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "96",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "97",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "98",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "99",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "100",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "101",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "102",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "103",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "104",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "105",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "अमीवा",
+     "problem": "English renders amīvā 'affliction' and unit 80 Hindi renders amīva as पीड़ा; the Hindi here transliterates. Inconsistent.",
+     "fix": "सेदि, अनिरा और पीड़ा को",
+     "severity": "minor",
+     "patch": {
+      "n": "105",
+      "op": "replace",
+      "field": "hindi",
+      "old": "अमीवा",
+      "new": "पीड़ा"
+     }
+    }
+   ]
+  },
+  {
+   "n": "106",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "107",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "With purifying brilliance, bright brilliance, undiminished brilliance, you rise ...",
+     "problem": "The three bahuvrīhis are m. nom. sg. (as the draft's own gram says and as the Hindi has them), agreeing with the addressee; the English turns them into instrumental phrases.",
+     "fix": "You, of purifying brilliance, of bright brilliance, of undiminished brilliance, rise with your light. As a son, moving about, you favour the two mothers; you fill both rodasī.",
+     "severity": "error",
+     "patch": {
+      "n": "107",
+      "op": "set",
+      "field": "english",
+      "value": "You, of purifying brilliance, of bright brilliance, of undiminished brilliance, rise with your light. As a son, moving about, you favour the two mothers; you fill both rodasī."
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "दोनों माताओं के बीच विचरते हुए तुम उन पर अनुग्रह करते हो",
+     "problem": "'के बीच' (between) is added; mātarā is the object of upāvasi, vicaran just 'moving about'; English has no 'between'.",
+     "fix": "विचरते हुए तुम दोनों माताओं पर अनुग्रह करते हो",
+     "severity": "minor",
+     "patch": {
+      "n": "107",
+      "op": "replace",
+      "field": "hindi",
+      "old": "दोनों माताओं के बीच विचरते हुए तुम उन पर अनुग्रह करते हो",
+      "new": "विचरते हुए तुम दोनों माताओं पर अनुग्रह करते हो"
+     }
+    }
+   ]
+  },
+  {
+   "n": "108",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "वाम से उत्पन्न जनों ने",
+     "problem": "Adds 'जनों' (people) not in the text, and leaves vāma as Hindi 'वाम' (left) while English and unit 110 render 'desirable' (इच्छित/इष्ट).",
+     "fix": "इष्ट से उत्पन्न उन्होंने",
+     "severity": "minor",
+     "patch": {
+      "n": "108",
+      "op": "replace",
+      "field": "hindi",
+      "old": "वाम से उत्पन्न जनों ने",
+      "new": "इष्ट से उत्पन्न उन्होंने"
+     }
+    }
+   ]
+  },
+  {
+   "n": "109",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "110",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "111",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "sapratha-stamam",
+     "problem": "Wrong stem split: the compound is saprathas-tama (as the draft itself gives in unit 114: saprathas-tamaḥ).",
+     "fix": "saprathas-tamam",
+     "severity": "minor",
+     "patch": {
+      "n": "111",
+      "op": "word",
+      "match_w": "sapratha-stamam",
+      "field": "w",
+      "value": "saprathas-tamam"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "yugā",
+     "problem": "Gloss 'ages' but English and note say 'generations'.",
+     "fix": "generations",
+     "severity": "minor",
+     "patch": {
+      "n": "111",
+      "op": "word",
+      "match_w": "yugā",
+      "field": "gloss",
+      "value": "generations"
+     }
+    }
+   ]
+  },
+  {
+   "n": "112",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "113",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "yantu",
+     "problem": "Wrong root: sam yantu is from √i (saṃ-√i, 'come together'), parallel to sametu in unit 112; √yam would give yacchantu.",
+     "fix": "3 pl. imv. saṃ-√i",
+     "severity": "error",
+     "patch": {
+      "n": "113",
+      "op": "word",
+      "match_w": "yantu",
+      "field": "gram",
+      "value": "3 pl. imv. saṃ-√i"
+     }
+    },
+    {
+     "field": "english",
+     "where": "may the manly vigours, the overcomers of foes",
+     "problem": "abhimātiṣāhaḥ is masculine plural and vṛṣṇyāni neuter; the masculine adjective most naturally goes with vājāḥ. The draft attaches it to the neuter noun (its own note admits the doubt).",
+     "fix": "May your milks come together, may the foe-overcoming strengths come together, and the manly vigours. (keep the ambiguity in notes)",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "114",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "115",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "paramāt",
+     "problem": "Agrees with sadhasthāt (n.), so should be n. abl. sg.",
+     "fix": "n. abl. sg.",
+     "severity": "minor",
+     "patch": {
+      "n": "115",
+      "op": "word",
+      "match_w": "paramāt",
+      "field": "gram",
+      "value": "n. abl. sg."
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "सबसे दूर के सहनिवास से भी",
+     "problem": "English says 'highest'; 'सबसे दूर' (farthest) is a different sense and unmarked as a choice.",
+     "fix": "सर्वोच्च सहनिवास से भी",
+     "severity": "minor",
+     "patch": {
+      "n": "115",
+      "op": "replace",
+      "field": "hindi",
+      "old": "सबसे दूर के सहनिवास से भी",
+      "new": "सर्वोच्च सहनिवास से भी"
+     }
+    }
+   ]
+  },
+  {
+   "n": "116",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "117",
+   "verdict": "ok",
+   "issues": []
+  }
+ ],
+ "summary": "5 errors (4 units; unit 81 counts twice, English and Hindi), 22 minor. Errors: 79 vasatiṣkṛtā is two words; 81 singular adjectives applied to plural herbs; 107 English turns nominative bahuvrīhis into instrumentals; 113 yantu is √i not √yam. Confidence levels (low at 82, 105) are honest. No regrouping suggested."
+}

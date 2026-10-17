@@ -1,0 +1,722 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "ahḙḍa̱~stava̭ / ahēḍan tava",
+     "problem": "The flag is not a typo: the printed ~s is the regular sandhi of final -n before t (ahe̱ḍan + tava gives ahe̱ḍaṃs tava), so 'possible' misleads. The same sandhi explains śarma̭~stri̱varṷ̄tha.",
+     "fix": "Remove this text_flag (or state that it is regular n + t sandhi, no emendation).",
+     "severity": "minor"
+    },
+    {
+     "field": "split",
+     "where": "ahēḍan; trivarūtha",
+     "problem": "w 'ahēḍan' uses a macron ē that is not in the plain-IAST convention (aheḍan). Also the vocative trivarūtha is not secure: trivarūthe (locative, e + u) 'in the threefold-protecting shelter' is a live alternative; the note should say so (confidence is already low).",
+     "fix": "w 'aheḍan'; append to notes: 'trivarūtha could also be locative trivarūthe qualifying śarman.'",
+     "severity": "minor",
+     "patch": {
+      "n": "1",
+      "op": "word",
+      "match_w": "ahēḍan",
+      "field": "w",
+      "value": "aheḍan"
+     }
+    }
+   ]
+  },
+  {
+   "n": "2",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "बल से उत्पन्न हुए हमारे शत्रुओं को",
+     "problem": "Hindi attaches sahasā 'with force' to jātān ('born by force'); the English (and the syntax) attach it to the verb: with force push away.",
+     "fix": "बल से हमारे उत्पन्न शत्रुओं को दूर हटाओ",
+     "severity": "error",
+     "patch": {
+      "n": "2",
+      "op": "replace",
+      "field": "hindi",
+      "old": "बल से उत्पन्न हुए हमारे शत्रुओं को दूर हटाओ",
+      "new": "बल से हमारे उत्पन्न शत्रुओं को दूर हटाओ"
+     }
+    },
+    {
+     "field": "english",
+     "where": "being gracious, may we be",
+     "problem": "The note says sumanasyamānaḥ (singular) describes the one addressed (Agni), but the English attaches it to 'we'. Translation contradicts the draft's own analysis.",
+     "fix": "Speak on our behalf, being gracious; may we be;",
+     "severity": "error",
+     "patch": {
+      "n": "2",
+      "op": "replace",
+      "field": "english",
+      "old": "Speak on our behalf; being gracious, may we be;",
+      "new": "Speak on our behalf, being gracious; may we be;"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "प्रसन्न रहते हुए हम रहें",
+     "problem": "Same error in Hindi: 'प्रसन्न रहते हुए हम रहें' makes the speakers gracious.",
+     "fix": "प्रसन्न होकर हमारे पक्ष में बोलो; हम रहें;",
+     "severity": "error",
+     "patch": {
+      "n": "2",
+      "op": "replace",
+      "field": "hindi",
+      "old": "हमारे पक्ष में बोलो; प्रसन्न रहते हुए हम रहें;",
+      "new": "प्रसन्न होकर हमारे पक्ष में बोलो; हम रहें;"
+     }
+    }
+   ]
+  },
+  {
+   "n": "3",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "sacrifice for us with wealth together with offspring",
+     "problem": "draviṇā is glossed n. acc. pl. (object of yajasva), but the translation makes it instrumental 'with wealth' and adds 'for us ... with'. Gram and translation disagree; 'with' is not in the text. asme is a dative: to us.",
+     "fix": "sacrifice to us wealth together with offspring",
+     "severity": "error",
+     "patch": {
+      "n": "3",
+      "op": "replace",
+      "field": "english",
+      "old": "sacrifice for us with wealth together with offspring",
+      "new": "sacrifice to us wealth together with offspring"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "हमारे लिए सन्तान सहित धन के साथ यज्ञ करो",
+     "problem": "Same mismatch in Hindi ('धन के साथ' = instrumental, 'यज्ञ करो' with no object).",
+     "fix": "हमारे लिए सन्तान सहित धन का यज्ञ करो (or keep yajasva as 'sacrifice' with धन as object, no 'के साथ')",
+     "severity": "error"
+    },
+    {
+     "field": "hindi",
+     "where": "हे स्तोम को पीठ वाली",
+     "problem": "Wrong postposition: stoma-pṛṣṭhā is 'having stoma as back'.",
+     "fix": "हे स्तोम की पीठ वाली",
+     "severity": "minor",
+     "patch": {
+      "n": "3",
+      "op": "replace",
+      "field": "hindi",
+      "old": "हे स्तोम को पीठ वाली",
+      "new": "हे स्तोम की पीठ वाली"
+     }
+    }
+   ]
+  },
+  {
+   "n": "4",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "sari̱raṃ -> w sarīram",
+     "problem": "The printed token is sariraṃ (short i); w and Hindi/English use sarīra with a long ī and there is no text_flag. A changed form must be flagged.",
+     "fix": "Add text_flag {src: 'samu̱draśchanda̭ḥsari̱raṃ', suggest: 'sarīraṃ', why: 'possible: printed short i'} or keep w 'sariram'.",
+     "severity": "minor"
+    },
+    {
+     "field": "text_flags",
+     "where": "aṅku̱̱paṃ",
+     "problem": "The note mentions a doubled low-svara mark in the source but no text_flag is made.",
+     "fix": "Add text_flag {src: 'aṅku̱̱paṃ', suggest: 'aṅku̱paṃ', why: 'possible: doubled svara mark'}.",
+     "severity": "minor"
+    },
+    {
+     "field": "notes",
+     "where": "kṣu̱ro bhraja̱śchanda̭ḥ",
+     "problem": "Kṣura has no chandaḥ while every other member of the list does, and the tail may be one name (kṣuro-bhraj) or kṣuraḥ with an elided chandaḥ. The note presents the split as the reading.",
+     "fix": "Append note: 'kṣuro bhrajaś chandaḥ may also be one name; the split is uncertain.'",
+     "severity": "minor",
+     "patch": {
+      "n": "4",
+      "op": "append_note",
+      "text": "kṣuro bhrajaś chandaḥ may also be read as one name; the split is uncertain."
+     }
+    }
+   ]
+  },
+  {
+   "n": "5",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "anuṣṭup",
+     "problem": "Gloss says 'Anuṣṭubh (name)' but the English/Hindi use Anuṣṭup; the printed token is anuṣṭup.",
+     "fix": "gloss 'Anuṣṭup (name)'",
+     "severity": "minor",
+     "patch": {
+      "n": "5",
+      "op": "word",
+      "match_w": "anuṣṭup",
+      "field": "gloss",
+      "value": "Anuṣṭup (name)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "6",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "token rātryā̱",
+     "problem": "The token 'rātryā̱' carries a duplicated word 'anuyā' (already the last word of the previous token); the printed token is only rātryā.",
+     "fix": "words of 'rātryā̱': [rātryā 'by the night' f. inst. sg.] only",
+     "severity": "error"
+    },
+    {
+     "field": "hindi",
+     "where": "प्रेति, अन्विति, सन्धि, विष्टम्भ, उशिज्, प्रकेत vs English",
+     "problem": "Hindi transliterates preti, anviti, uśij, praketa while English translates them (by going forth, by following, the eager one, perception); the two layers do not match. Choose one rendering for both.",
+     "fix": "Make Hindi and English both either translated or both transliterated.",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "7",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "jinvai̱ḍena...",
+     "problem": "The word is aiḍena, not iḍena: jinva + aiḍena gives jinvaiḍena, and aiḍena + oṣadhībhiḥ gives aiḍenauṣadhībhiḥ (the printed 'ai' and 'au'). iḍena would give jinveḍena. Also a derivative from Iḍā, so gram 'm.' is fine but the gloss must say so.",
+     "fix": "w 'aiḍena', gloss 'by the aiḍa (uncertain term)'",
+     "severity": "error",
+     "patch": {
+      "n": "7",
+      "op": "word",
+      "match_w": "iḍena",
+      "field": "w",
+      "value": "aiḍena"
+     }
+    },
+    {
+     "field": "english",
+     "where": "by iḍa",
+     "problem": "English follows the wrong stem.",
+     "fix": "by the aiḍa",
+     "severity": "error",
+     "patch": {
+      "n": "7",
+      "op": "replace",
+      "field": "english",
+      "old": "by iḍa,",
+      "new": "by the aiḍa,"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "इड से",
+     "problem": "Hindi follows the wrong stem.",
+     "fix": "ऐड से",
+     "severity": "error",
+     "patch": {
+      "n": "7",
+      "op": "replace",
+      "field": "hindi",
+      "old": "इड से",
+      "new": "ऐड से"
+     }
+    }
+   ]
+  },
+  {
+   "n": "8",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "pratipad / anupad / sampad",
+     "problem": "Glosses 'the beginning', 'the following', 'the success' are interpretation not in the line, while Hindi/English keep the terms untranslated; confidence 'high' is also generous for technical terms.",
+     "fix": "gloss: 'pratipad (term)', 'anupad (term)', 'sampad (term)'",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "9",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "''kra̱mo̱'syākra̱māya̭",
+     "problem": "The double avagraha here is tvā + ākramaḥ (tvā''kramo 'si), so the word is ākramaḥ (cf. ākramāya in the same token), not akramaḥ.",
+     "fix": "w 'ākramaḥ', gloss 'stepping on'",
+     "severity": "error",
+     "patch": {
+      "n": "9",
+      "op": "word",
+      "match_w": "akramaḥ",
+      "field": "w",
+      "value": "ākramaḥ"
+     }
+    },
+    {
+     "field": "english",
+     "where": "You are akrama",
+     "problem": "Follows the wrong word.",
+     "fix": "You are ākrama; you for ākrama.",
+     "severity": "error",
+     "patch": {
+      "n": "9",
+      "op": "replace",
+      "field": "english",
+      "old": "You are akrama; you for ākrama.",
+      "new": "You are ākrama; you for ākrama."
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "तुम अक्रम हो",
+     "problem": "Follows the wrong word.",
+     "fix": "तुम आक्रम हो, आक्रम के लिए तुम्हें",
+     "severity": "error",
+     "patch": {
+      "n": "9",
+      "op": "replace",
+      "field": "hindi",
+      "old": "तुम अक्रम हो, आक्रम के लिए तुम्हें",
+      "new": "तुम आक्रम हो, आक्रम के लिए तुम्हें"
+     }
+    },
+    {
+     "field": "text_flags",
+     "where": "''kra̱mo̱'syākra̱māya̭",
+     "problem": "The flag's reason ('doubled avagraha mark at the start of the line') is wrong; the doubled mark is regular (tvā + ā-). No emendation is needed.",
+     "fix": "Remove this text_flag.",
+     "severity": "error"
+    }
+   ]
+  },
+  {
+   "n": "10",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "11",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "Notes say 'including ājya' although ājya does not occur in this unit (copied from unit 10).",
+     "fix": "Delete the ājya sentence; keep the pra ṷgam note.",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "12",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "Notes say 'including ājya' although ājya does not occur in this unit.",
+     "fix": "Delete the ājya sentence.",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "13",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "Notes say 'including ājya' although ājya does not occur in this unit.",
+     "fix": "Delete the ājya sentence.",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "14",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "Notes say 'including ājya' although ājya does not occur in this unit.",
+     "fix": "Delete the ājya sentence.",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "15",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "the biters, the animals",
+     "problem": "daṅkṣṇavaḥ paśavaḥ is one phrase 'biting animals', not two items; the draft's list-like rendering is also repeated in Hindi.",
+     "fix": "the biting animals are the missile",
+     "severity": "minor",
+     "patch": {
+      "n": "15",
+      "op": "replace",
+      "field": "english",
+      "old": "the biters, the animals, are the missile",
+      "new": "the biting animals are the missile"
+     }
+    },
+    {
+     "field": "english",
+     "where": "te yaṃ dviṣmaḥ (units 15 to 19)",
+     "problem": "The third 'te' (they) before yaṃ dviṣmaḥ is dropped in both Hindi and English in units 15 to 19; either translate it ('they: him whom we hate ...') or say in the notes that it is left untranslated.",
+     "fix": "Append note: 'the third te before yaṃ dviṣmaḥ is not translated (resumptive).'",
+     "severity": "minor",
+     "patch": {
+      "n": "15",
+      "op": "append_note",
+      "text": "The third te before yaṃ dviṣmaḥ is left untranslated (resumptive)."
+     }
+    }
+   ]
+  },
+  {
+   "n": "16",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "he̱tī / hetiḥ",
+     "problem": "Not a typo: -iḥ before r- becomes ī (hetiḥ rakṣāṃsi gives hetī rakṣāṃsi), the same sandhi as yātudhānāḥ hetiḥ. The flag, the 'possibly a dual' note and w 'hetī' are wrong.",
+     "fix": "Remove the text_flag and the 'possibly a dual' sentence; w 'hetiḥ', gloss 'missile'.",
+     "severity": "error",
+     "patch": {
+      "n": "16",
+      "op": "word",
+      "match_w": "hetī",
+      "field": "w",
+      "value": "hetiḥ"
+     }
+    },
+    {
+     "field": "split",
+     "where": "token sahaja̱nyā",
+     "problem": "The token 'sahaja̱nyā' has an extra word 'ca' (the next token cā̭psa̱rasaṷ already has it).",
+     "fix": "words of 'sahaja̱nyā': [sahajanyā] only",
+     "severity": "error"
+    },
+    {
+     "field": "split",
+     "where": "rathḙcitraśca",
+     "problem": "w 'ratha-ecitraḥ' is not a word. rathe-citra (locative aluk compound, 'bright in the chariot') is the name.",
+     "fix": "w 'rathecitraḥ'",
+     "severity": "error",
+     "patch": {
+      "n": "16",
+      "op": "word",
+      "match_w": "ratha-ecitraḥ",
+      "field": "w",
+      "value": "rathecitraḥ"
+     }
+    }
+   ]
+  },
+  {
+   "n": "17",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "pra̱mloca̭ntī / cānu̱mloca̭ntī / cāpsa̱rasaṷ",
+     "problem": "The 'ca' words are misplaced: pramlocantī has an extra ca, cānumlocantī lists [anumlocantī, ca] (order wrong), and cāpsarasaṷ lacks its ca.",
+     "fix": "pramlocantī: [pramlocantī]; cānumlocantī: [ca, anumlocantī]; cāpsarasaṷ: [ca, apsarasau]",
+     "severity": "error"
+    }
+   ]
+  },
+  {
+   "n": "18",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "19",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "a̱yamu̱parya̱rvāgva̭su̱s",
+     "problem": "Read as ayam + upari + arvāgvasuḥ (upari 'above', as the other units give a direction word: puraḥ, dakṣiṇā, paścāt, uttarāt). The draft's single name 'uparyarvāgvasuḥ' is not supported.",
+     "fix": "words: ayam; upari 'above' ind.; arvāgvasuḥ (name) m. nom. sg.; tasya",
+     "severity": "error"
+    },
+    {
+     "field": "english",
+     "where": "This one above and near is Uparyarvāgvasu",
+     "problem": "'above and near' is an interpretation that splits the name the gloss keeps whole; 'near' is not in the text.",
+     "fix": "This one above is Arvāgvasu",
+     "severity": "error",
+     "patch": {
+      "n": "19",
+      "op": "replace",
+      "field": "english",
+      "old": "This one above and near is Uparyarvāgvasu",
+      "new": "This one above is Arvāgvasu"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "यह ऊपर और समीप वाला उपर्यर्वाग्वसु है",
+     "problem": "Same addition ('और समीप') and wrong name.",
+     "fix": "यह ऊपर वाला अर्वाग्वसु है",
+     "severity": "error",
+     "patch": {
+      "n": "19",
+      "op": "replace",
+      "field": "hindi",
+      "old": "यह ऊपर और समीप वाला उपर्यर्वाग्वसु है",
+      "new": "यह ऊपर वाला अर्वाग्वसु है"
+     }
+    }
+   ]
+  },
+  {
+   "n": "20",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "21",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "22",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "23",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "You have become the leader",
+     "problem": "Gloss says 'you are' (bhuvaḥ, 2 sg. injunctive) but both translations say 'have become / हुए हो'; the following verbs are presents.",
+     "fix": "You are the leader of the sacrifice and of the realm",
+     "severity": "minor",
+     "patch": {
+      "n": "23",
+      "op": "replace",
+      "field": "english",
+      "old": "You have become the leader",
+      "new": "You are the leader"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "स्वर्ग जीतने वाला सिर",
+     "problem": "English and gloss say 'light-winning' but Hindi says 'स्वर्ग जीतने वाला'; also नेता हुए हो repeats the tense issue.",
+     "fix": "तुम यज्ञ और रजस् के नेता हो ... प्रकाश जीतने वाला सिर",
+     "severity": "minor",
+     "patch": {
+      "n": "23",
+      "op": "replace",
+      "field": "hindi",
+      "old": "तुम यज्ञ और रजस् के नेता हुए हो",
+      "new": "तुम यज्ञ और रजस् के नेता हो"
+     }
+    }
+   ]
+  },
+  {
+   "n": "24",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "25",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "26",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "viśe-viśe",
+     "problem": "viśe is the dative singular of viś (locative would be viśi); gram 'f. loc. sg.' and gloss 'in each clan' are wrong.",
+     "fix": "gram 'f. dat. sg.'; gloss 'for each clan'",
+     "severity": "error",
+     "patch": {
+      "n": "26",
+      "op": "word",
+      "match_w": "viśe-viśe",
+      "field": "gram",
+      "value": "f. dat. sg."
+     }
+    },
+    {
+     "field": "english",
+     "where": "in each clan",
+     "problem": "Follows the wrong case.",
+     "fix": "for each clan",
+     "severity": "error",
+     "patch": {
+      "n": "26",
+      "op": "replace",
+      "field": "english",
+      "old": "pervading, in each clan.",
+      "new": "pervading, for each clan."
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "प्रत्येक कुल में",
+     "problem": "Follows the wrong case.",
+     "fix": "प्रत्येक कुल के लिए",
+     "severity": "error",
+     "patch": {
+      "n": "26",
+      "op": "replace",
+      "field": "hindi",
+      "old": "प्रत्येक कुल में",
+      "new": "प्रत्येक कुल के लिए"
+     }
+    }
+   ]
+  },
+  {
+   "n": "27",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "घी जैसे मुख वाला",
+     "problem": "'जैसे' adds a simile; ghṛtapratīka is 'having ghee as face'.",
+     "fix": "घी के मुख वाला",
+     "severity": "minor",
+     "patch": {
+      "n": "27",
+      "op": "replace",
+      "field": "hindi",
+      "old": "घी जैसे मुख वाला",
+      "new": "घी के मुख वाला"
+     }
+    }
+   ]
+  },
+  {
+   "n": "28",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "29",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "समुचित",
+     "problem": "samyañcam is 'accordant, united' (English 'accordant'); 'समुचित' means 'proper' and does not match.",
+     "fix": "सुसंगत",
+     "severity": "minor",
+     "patch": {
+      "n": "29",
+      "op": "replace",
+      "field": "hindi",
+      "old": "समुचित",
+      "new": "सुसंगत"
+     }
+    }
+   ]
+  },
+  {
+   "n": "30",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "saᳪsa̱midyṷvase",
+     "problem": "Likely wrong analysis: this is the known line 'saṃ-sam id yuvase vṛṣann agne viśvāny aryaḥ ā' (saṃsam 'together' + id particle + yuvase), not sam + samit 'kindling'. 'With the samit' is also not in the text (samit would be a feminine noun with no case ending). aryaḥ is better the genitive 'of the master/stranger' than a vocative. Confidence 'low' is right; the Hindi/English should not state the samit reading.",
+     "fix": "split: saṃsam (ind. 'together'), id (particle), yuvase; English: 'You unite all things together, O bull Agni, of the master (uncertain).' Mark aryaḥ uncertain.",
+     "severity": "error"
+    }
+   ]
+  },
+  {
+   "n": "31",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "havante",
+     "problem": "Root is √hū (hve), 'call'; √hu means 'sacrifice'.",
+     "fix": "3 pl. pres. mid. √hū",
+     "severity": "minor",
+     "patch": {
+      "n": "31",
+      "op": "word",
+      "match_w": "havante",
+      "field": "gram",
+      "value": "3 pl. pres. mid. √hū"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "प्राणी जातियों में",
+     "problem": "viś is 'clan' (glossary, English 'among the clans'); 'जातियों' does not render it and merges jantavaḥ with vikṣu.",
+     "fix": "कुलों में प्राणी तुम्हें पुकारते हैं",
+     "severity": "minor",
+     "patch": {
+      "n": "31",
+      "op": "replace",
+      "field": "hindi",
+      "old": "प्राणी जातियों में तुम्हें पुकारते हैं",
+      "new": "कुलों में प्राणी तुम्हें पुकारते हैं"
+     }
+    }
+   ]
+  },
+  {
+   "n": "32",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "huve",
+     "problem": "Root is √hū 'call', not √hu 'sacrifice'.",
+     "fix": "1 sg. pres. mid. √hū",
+     "severity": "minor",
+     "patch": {
+      "n": "32",
+      "op": "word",
+      "match_w": "huve",
+      "field": "gram",
+      "value": "1 sg. pres. mid. √hū"
+     }
+    }
+   ]
+  },
+  {
+   "n": "33",
+   "verdict": "ok",
+   "issues": []
+  }
+ ],
+ "summary": "24 errors, 22 minor across 33 units; 9 units ok. Main errors: wrong word forms (aiḍena u7, ākramaḥ u9, rathecitra and spurious hetī flag u16, viśe-viśe dative u26, sam-sam id u30), misplaced/duplicated words (u6, u16, u17), arvāgvasu split u19, attachment errors in u2 and draviṇā in u3. No regrouping suggested. All drafts remain unreviewed AI drafts."
+}

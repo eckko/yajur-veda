@@ -1,0 +1,463 @@
+{
+ "units": [
+  {
+   "n": "43",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "kanikradat",
+     "problem": "Participle label lacks case, number and gender (the form is m. nom. sg., agreeing with the addressee).",
+     "fix": "m. nom. sg. pres. part. intens. √krand",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "kanikradat",
+      "field": "gram",
+      "value": "m. nom. sg. pres. part. intens. √krand",
+      "n": "43"
+     }
+    }
+   ]
+  },
+  {
+   "n": "44",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "strong steed",
+     "problem": "arvan is a vocative (the Hindi has हे) but the English drops the O.",
+     "fix": "be swift, O strong steed;",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "be swift, strong steed;",
+      "new": "be swift, O strong steed;",
+      "n": "44"
+     }
+    }
+   ]
+  },
+  {
+   "n": "45",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "46",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "आयु पूरी होने से पहले",
+     "problem": "Adds 'पूरी होने' (completion of life); the Sanskrit has only purā āyuṣaḥ 'before life/span'.",
+     "fix": "वह आयु से पहले न गिरे",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "आयु पूरी होने से पहले न गिरे",
+      "new": "आयु से पहले न गिरे",
+      "n": "46"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "ओजस्वी अग्नि को",
+     "problem": "vṛṣaṇam is 'virile/bull-like' (English says virile); ओजस्वी means 'full of ojas', a different word.",
+     "fix": "वीर्यवान अग्नि को",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "ओजस्वी अग्नि को",
+      "new": "वीर्यवान अग्नि को",
+      "n": "46"
+     }
+    }
+   ]
+  },
+  {
+   "n": "47",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "in the manner of Aṅgiras",
+     "problem": "aṅgirasvat is rendered 'like Aṅgiras' in every other unit of the chunk (58, 60, 61, 65); keep one rendering.",
+     "fix": "We bring Agni of the purīṣa, like Aṅgiras.",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "in the manner of Aṅgiras",
+      "new": "like Aṅgiras",
+      "n": "47"
+     }
+    }
+   ]
+  },
+  {
+   "n": "48",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "49",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "50",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "रस में स्थापित करो",
+     "problem": "ūrje is dative ('for sap', as the draft's own gloss says); Hindi uses a locative 'in'.",
+     "fix": "इसलिए हमें रस के लिए स्थापित करो",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "इसलिए हमें रस में स्थापित करो",
+      "new": "इसलिए हमें रस के लिए स्थापित करो",
+      "n": "50"
+     }
+    },
+    {
+     "field": "english",
+     "where": "place us in sap",
+     "problem": "Same mismatch: ūrje is dative, English has 'in'.",
+     "fix": "so place us for sap,",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "so place us in sap",
+      "new": "so place us for sap",
+      "n": "50"
+     }
+    }
+   ]
+  },
+  {
+   "n": "51",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "52",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "janayathā",
+     "problem": "Gloss/gram give 'you beget' (2 pl. pres.) but both translations use an imperative ('beget us'); the labelling and translation disagree.",
+     "fix": "Make gloss/gram match the reading used: e.g. gram '2 pl. pres. caus. √jan (imperative sense, -thā)' or translate as a statement.",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "53",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "हे सुजात जातवेद, मैं तुम्हें",
+     "problem": "sujātam jātavedasam are accusatives in apposition to tvā (object), not vocatives; 'हे' makes them an address.",
+     "fix": "मैं तुम्हें, सुजात जातवेद को, यक्ष्म से मुक्ति के लिए, सन्तानों के लिए मिलाता हूँ।",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "हे सुजात जातवेद, मैं तुम्हें यक्ष्म रोग से मुक्ति के लिए, सन्तानों के लिए मिलाता हूँ।",
+      "new": "मैं तुम्हें, सुजात जातवेद को, यक्ष्म से मुक्ति के लिए, सन्तानों के लिए मिलाता हूँ।",
+      "n": "53"
+     }
+    },
+    {
+     "field": "english",
+     "where": "well-born Jātavedas, I join you ... (wasting sickness)",
+     "problem": "Same case problem: reads as a vocative; also the bracketed '(wasting sickness)' is an added interpretation (and Hindi adds 'रोग', fixed above).",
+     "fix": "I join you, the well-born Jātavedas, for freedom from yakṣma, for the offspring.",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "well-born Jātavedas, I join you for freedom from yakṣma (wasting sickness), for the offspring.",
+      "new": "I join you, the well-born Jātavedas, for freedom from yakṣma, for the offspring.",
+      "n": "53"
+     }
+    }
+   ]
+  },
+  {
+   "n": "54",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "55",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "56",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "57",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "58",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "59",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "60",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "dhūpayantu / dhūpayatu",
+     "problem": "'caus.' is doubtful: dhūpayati is a class-10 / denominative present of dhūp, not a causative with causative sense.",
+     "fix": "3 pl. impv. √dhūp (cl. 10) (and 3 sg. for dhūpayatu)",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "61",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "avaṭa",
+     "problem": "w 'avaṭa' is labelled loc. sg. but the locative is avaṭe, and the note says 'read as avaṭe'. A printed form that is read differently must carry the corrected word in words plus a text_flags entry (LAYER_NOTES 2); text_flags is empty. Needs a human decision whether avaṭa is a genuine Vedic form.",
+     "fix": "w 'avaṭe' with a text_flags entry (src avaṭa), or keep 'avaṭa' and drop 'loc. sg.'",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "62",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "63",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "scatter you up, the fair-handed ... one, and with strength",
+     "problem": "supāṇiḥ svaṅguriḥ subāhuḥ are nominative singular masculine and qualify Savitṛ (subject), not tvā; the English puts them after 'you' as if describing the addressee (addressee of line 2 is feminine).",
+     "fix": "May the god Savitṛ, fair-handed, fair-fingered and fair-armed, scatter you up, and with strength.",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "May the god Savitṛ scatter you up, the fair-handed, fair-fingered, fair-armed one, and with strength.",
+      "new": "May the god Savitṛ, fair-handed, fair-fingered and fair-armed, scatter you up, and with strength.",
+      "n": "63"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "सुन्दर हाथों वाला ... और शक्ति से",
+     "problem": "Same: epithets are Savitṛ's, but the Hindi (singular -वाला after 'तुम्हें') leaves them hanging after the object.",
+     "fix": "सुन्दर हाथों वाले, सुन्दर अंगुलियों वाले और सुन्दर भुजाओं वाले देव सविता तुम्हें ऊपर बिखेरे, और शक्ति से।",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "देव सविता तुम्हें ऊपर बिखेरे, सुन्दर हाथों वाला, सुन्दर अंगुलियों वाला, सुन्दर भुजाओं वाला, और शक्ति से।",
+      "new": "सुन्दर हाथों वाले, सुन्दर अंगुलियों वाले और सुन्दर भुजाओं वाले देव सविता तुम्हें ऊपर बिखेरे, और शक्ति से।",
+      "n": "63"
+     }
+    }
+   ]
+  },
+  {
+   "n": "64",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "65",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "66",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "67",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "68",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "Agni and you two will do this.",
+     "problem": "'Agni and you two' reads as three subjects; kariṣyathaḥ is 2 du. = you (addressed) and Agni, the two of you.",
+     "fix": "You and Agni, the two of you, will do this.",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "Agni and you two will do this.",
+      "new": "You and Agni, the two of you, will do this.",
+      "n": "68"
+     }
+    }
+   ]
+  },
+  {
+   "n": "69",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "70",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "71",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "From the farther side, from the saṃvat",
+     "problem": "adhi is rendered in Hindi (ऊपर) but dropped in English; Hindi and English also add 'दिशा'/'side' that the Sanskrit lacks.",
+     "fix": "Make both agree, e.g. English 'From the farther one, from above the saṃvat, cross over towards the nearer ones; where I am, protect those.' and Hindi 'दूर वाली से, संवत् से ऊपर, ...'",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "72",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "73",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "74",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "75",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "tiṣṭhate",
+     "problem": "tiṣṭhate is the dative singular of the active participle tiṣṭhat, not a middle participle.",
+     "fix": "m. dat. sg. pres. act. part. √sthā",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "tiṣṭhate",
+      "field": "gram",
+      "value": "m. dat. sg. pres. act. part. √sthā",
+      "n": "75"
+     }
+    }
+   ]
+  },
+  {
+   "n": "76",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "bṛhate may qualify ... agnau-related",
+     "problem": "False ambiguity: bṛhate is dative and cannot agree with locative agnau; it agrees only with rāyaspoṣāya.",
+     "fix": "bṛhate (dat.) agrees with rāyaspoṣāya.",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": "bṛhate may qualify rāyaspoṣāya or agnau-related; read with rāyaspoṣāya.",
+      "new": "bṛhate (dat.) agrees with rāyaspoṣāya.",
+      "n": "76"
+     }
+    }
+   ]
+  },
+  {
+   "n": "77",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "78",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "The verb is not stated for the instrumentals",
+     "problem": "Wrong: khāda ('eat') in line 2 is the governing verb of the instrumentals; the remark invents a gap.",
+     "fix": "The instrumentals (daṃṣṭrābhyām, jambhyaiḥ, hanubhyām) go with khāda 'eat' in line 2.",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": "The verb is not stated for the instrumentals (the sense is that they are devoured or crushed by these). ",
+      "new": "The instrumentals go with khāda 'eat' in line 2. ",
+      "n": "78"
+     }
+    }
+   ]
+  },
+  {
+   "n": "79",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "80",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "81",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "82",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "83",
+   "verdict": "ok",
+   "issues": []
+  }
+ ],
+ "summary": "41 units (43-83) reviewed: 4 errors, 15 minor. Errors are case/attachment problems in translations (53 Jātavedas accusative taken as vocative; 63 Savitṛ's epithets attached to 'you'; 68 'Agni and you two'). Others are minor wording/label points. No regrouping needed: the drafter's grouping notes (46, 57, 58, 60, 61) are sensible and the edition's grouping can stay. Low-confidence units 47, 61, 65, 71, 77 are honestly rated; unit 61 additionally needs a decision on avaṭa/text_flags."
+}

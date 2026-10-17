@@ -1,0 +1,263 @@
+[
+ {
+  "n": "1",
+  "field": "hindi",
+  "old": "तुम दृढ़ निवास वाली हो, दृढ़ योनि वाली हो, तुम दृढ़ हो। दृढ़ योनि में भली-भाँति बैठो, उख्य के प्रथम ध्वज का सेवन करती हुई। दोनों अश्विन अध्वर्यु तुम्हें यहाँ बिठाएँ।",
+  "new": "तुम दृढ़ निवास वाली हो, दृढ़ योनि वाली हो, तुम दृढ़ हो। दृढ़ योनि में भली-भाँति बैठो, उख्य के प्रथम ध्वज का आनन्द लेती हुई। दोनों अश्विन अध्वर्यु तुम्हें यहाँ बिठाएँ।",
+  "why": "reviewer (minor): Hindi 'सेवन करती हुई' (partaking/serving) does not match the English and gloss 'delighting' (juṣāṇā)."
+ },
+ {
+  "n": "3",
+  "field": "word.w",
+  "word": "su-śevāḥ",
+  "old": "su-śevāḥ",
+  "new": "su-śevā",
+  "why": "reviewer (error): w ends in visarga; the printed token is suśevā (f. nom. sg.), so 'su-śevāḥ' is not the printed form."
+ },
+ {
+  "n": "3",
+  "field": "word.gram",
+  "word": "bṛhate",
+  "old": "n. dat. sg.",
+  "new": "m./n. dat. sg.",
+  "why": "reviewer (minor): bṛhate is labelled n. dat. sg. but agrees with raṇāya labelled m. dat. sg.; labels must agree."
+ },
+ {
+  "n": "4",
+  "field": "hindi",
+  "old": "तुम पृथ्वी की मिट्टी हो, अपस नाम वाली; उस तुम्हारी सब देव स्तुति करें। स्तोम को पीठ वाली, घृत से भरी, यहाँ बैठो; हमारे लिए सन्तान सहित धन अर्पित करो। दोनों अश्विन अध्वर्यु तुम्हें यहाँ बिठाएँ।",
+  "new": "तुम पृथ्वी की मिट्टी हो, अपस नाम वाली; उस तुम्हारी सब देव स्तुति करें। स्तोम जिसकी पीठ है, घृत से भरी तुम यहाँ बैठो; हमारे लिए सन्तान सहित धन अर्पित करो। दोनों अश्विन अध्वर्यु तुम्हें यहाँ बिठाएँ।",
+  "why": "reviewer (error): Garbled Hindi: 'स्तोम को पीठ वाली' is not a rendering of stoma-pṛṣṭhā (having stoma as back)."
+ },
+ {
+  "n": "4",
+  "field": "word.gram",
+  "word": "draviṇā",
+  "old": "n. acc. sg.",
+  "new": "n. acc. pl. (Vedic -ā; or inst. sg.)",
+  "why": "reviewer (minor): 'n. acc. sg.' is not a valid form (acc. sg. is draviṇam). draviṇā is neuter nom./acc. pl. (Vedic) or instr. sg."
+ },
+ {
+  "n": "5",
+  "field": "english",
+  "old": "I seat you on the back of Aditi, the supporter of the atmosphere, the prop, the mistress of the directions, of the worlds. You are the wave, the drop of the waters; Viśvakarman is your sage. May the two Aśvins, the two adhvaryus, seat you here.",
+  "new": "I seat you, the supporter of the atmosphere, the prop, the mistress of the directions, of the worlds, on the back of Aditi. You are the wave, the drop of the waters; Viśvakarman is your sage. May the two Aśvins, the two adhvaryus, seat you here.",
+  "why": "reviewer (error): Epithets are accusative feminine (dhartrīm, viṣṭambhanīm, adhipatnīm) and agree with tvā, not with Aditi (genitive). The English makes them appositives of Aditi."
+ },
+ {
+  "n": "5",
+  "field": "hindi",
+  "old": "मैं तुम्हें अदिति की पीठ पर बैठाता हूँ, अन्तरिक्ष को धारण करने वाली, थामने वाली, दिशाओं की स्वामिनी, भुवनों की। तुम जल की लहर और जल की बूँद हो; विश्वकर्मा तुम्हारे ऋषि हैं। दोनों अश्विन अध्वर्यु तुम्हें यहाँ बिठाएँ।",
+  "new": "मैं तुम्हें, अन्तरिक्ष को धारण करने वाली, थामने वाली, दिशाओं की स्वामिनी, भुवनों की, अदिति की पीठ पर बैठाता हूँ। तुम जल की लहर और जल की बूँद हो; विश्वकर्मा तुम्हारे ऋषि हैं। दोनों अश्विन अध्वर्यु तुम्हें यहाँ बिठाएँ।",
+  "why": "reviewer (minor): Same attachment problem in Hindi: the feminine epithets read as describing Aditi."
+ },
+ {
+  "n": "7",
+  "field": "english",
+  "old": "United with the seasons, united with the ordinances, united with the gods, united with the gods, the vayonādhas: you for Agni Vaiśvānara. May the two Aśvins, the two adhvaryus, seat you here. United with the seasons, united with the ordinances, united with the Vasus, united with the gods, the vayonādhas: you for Agni Vaiśvānara. May the two Aśvins, the two adhvaryus, seat you here. United with the seasons, united with the ordinances, united with the Rudras, united with the gods, the vayonādhas: you for Agni Vaiśvānara. May the two Aśvins, the two adhvaryus, seat you here. United with the seasons, united with the ordinances, united with the Ādityas, united with the gods, the vayonādhas: you for Agni Vaiśvānara. May the two Aśvins, the two adhvaryus, seat you here. United with the seasons, united with the ordinances, united with all the gods, united with the gods, the vayonādhas: you for Agni Vaiśvānara. May the two Aśvins, the two adhvaryus, seat you here.",
+  "new": "United with the seasons, united with the ordinances, united with the gods, united with the gods, with the vayonādhas: you for Agni Vaiśvānara. May the two Aśvins, the two adhvaryus, seat you here. United with the seasons, united with the ordinances, united with the Vasus, united with the gods, with the vayonādhas: you for Agni Vaiśvānara. May the two Aśvins, the two adhvaryus, seat you here. United with the seasons, united with the ordinances, united with the Rudras, united with the gods, with the vayonādhas: you for Agni Vaiśvānara. May the two Aśvins, the two adhvaryus, seat you here. United with the seasons, united with the ordinances, united with the Ādityas, united with the gods, with the vayonādhas: you for Agni Vaiśvānara. May the two Aśvins, the two adhvaryus, seat you here. United with the seasons, united with the ordinances, united with all the gods, united with the gods, with the vayonādhas: you for Agni Vaiśvānara. May the two Aśvins, the two adhvaryus, seat you here.",
+  "why": "reviewer (error): vayonādhaiḥ is instrumental plural, so 'united with the gods, the vayonādhas' drops 'with' and reads as a nominative. Five occurrences."
+ },
+ {
+  "n": "8",
+  "field": "word.gloss",
+  "word": "divaḥ",
+  "old": "of heaven",
+  "new": "from heaven",
+  "why": "reviewer (minor): Gloss 'of heaven' but English and Hindi render 'from heaven' (ablative); form is gen./abl."
+ },
+ {
+  "n": "8",
+  "field": "hindi",
+  "old": "मेरे प्राण की रक्षा करो, मेरे अपान की रक्षा करो, मेरे व्यान की रक्षा करो; मेरी आँख के लिए विस्तार से चमको; मेरे कान को यशस्वी करो। जलों को बढ़ाओ, ओषधियों को तृप्त करो; दो पैर वालों की रक्षा करो, चार पैर वालों की रक्षा करो; द्युलोक से वर्षा को प्रेरित करो।",
+  "new": "मेरे प्राण की रक्षा करो, मेरे अपान की रक्षा करो, मेरे व्यान की रक्षा करो; मेरी आँख के लिए विस्तार से चमको; मेरे कान को यशस्वी करो। जलों को बढ़ाओ, ओषधियों को तृप्त करो; दो पैर वालों की रक्षा करो, चार पैर वालों की रक्षा करो; द्यौ से वर्षा को प्रेरित करो।",
+  "why": "reviewer (minor): 'द्युलोक' brings in loka (world), which the glossary keeps separate; the text has only div 'heaven'."
+ },
+ {
+  "n": "8",
+  "field": "hindi",
+  "old": "मेरे प्राण की रक्षा करो, मेरे अपान की रक्षा करो, मेरे व्यान की रक्षा करो; मेरी आँख के लिए विस्तार से चमको; मेरे कान को यशस्वी करो। जलों को बढ़ाओ, ओषधियों को तृप्त करो; दो पैर वालों की रक्षा करो, चार पैर वालों की रक्षा करो; द्यौ से वर्षा को प्रेरित करो।",
+  "new": "मेरे प्राण की रक्षा करो, मेरे अपान की रक्षा करो, मेरे व्यान की रक्षा करो; मेरी आँख के लिए विस्तार से चमको; मेरे कान को यशस्वी करो। जलों को बढ़ाओ, ओषधियों को जीवन्त करो; दो पैर वालों की रक्षा करो, चार पैर वालों की रक्षा करो; द्यौ से वर्षा को प्रेरित करो।",
+  "why": "reviewer (minor): English and gloss say 'quicken' (jinva); Hindi 'तृप्त करो' means satisfy."
+ },
+ {
+  "n": "10",
+  "field": "english",
+  "old": "The ox is the vayas, Paṅkti the metre; the milch cow is the vayas, Jagatī the metre; the tryavi is the vayas, Triṣṭubh the metre; the dityavāh is the vayas, Virāj the metre; the pañcāvi is the vayas, Gāyatrī the metre; the trivatsa is the vayas, Uṣṇih the metre; the turyavāh is the vayas, Anuṣṭubh the metre. Then the fragment: the world, tā, Indra.",
+  "new": "The ox is the vayas, Paṅkti the metre; the milch cow is the vayas, Jagatī the metre; the tryavi is the vayas, Triṣṭubh the metre; the dityavāh is the vayas, Virāj the metre; the pañcāvi is the vayas, Gāyatrī the metre; the trivatsa is the vayas, Uṣṇih the metre; the turyavāh is the vayas, Anuṣṭubh the metre. Closing words, not translated as a sentence: lokam, tā, indram.",
+  "why": "reviewer (error): 'Then the fragment' is added; the closing words are made into a sentence-like list. Nothing in the text says 'then' or 'fragment'."
+ },
+ {
+  "n": "10",
+  "field": "hindi",
+  "old": "बैल वयस् है, पंक्ति छन्द है; दुधारू गाय वयस् है, जगती छन्द है; त्र्यवि वयस् है, त्रिष्टुप् छन्द है; दित्यवाट् वयस् है, विराज् छन्द है; पञ्चावि वयस् है, गायत्री छन्द है; त्रिवत्स वयस् है, उष्णिक् छन्द है; तुर्यवाट् वयस् है, अनुष्टुप् छन्द है। फिर अंश: लोक, ता, इन्द्र को।",
+  "new": "बैल वयस् है, पंक्ति छन्द है; दुधारू गाय वयस् है, जगती छन्द है; त्र्यवि वयस् है, त्रिष्टुप् छन्द है; दित्यवाट् वयस् है, विराज् छन्द है; पञ्चावि वयस् है, गायत्री छन्द है; त्रिवत्स वयस् है, उष्णिक् छन्द है; तुर्यवाट् वयस् है, अनुष्टुप् छन्द है। अन्त के शब्द, वाक्य के रूप में अनूदित नहीं: लोकम्, ता, इन्द्रम्।",
+  "why": "reviewer (error): 'फिर' and the case marker 'को' are added; 'indram' is given a dative sense the text does not have."
+ },
+ {
+  "n": "11",
+  "field": "english",
+  "old": "O Indra and Agni, make the unwavering brick firm, you two. With its back you push apart heaven and earth and the atmosphere.",
+  "new": "O Indra and Agni, make the unwavering brick firm, you two. With the back you push apart heaven and earth and the atmosphere.",
+  "why": "reviewer (error): 'its' is an unsupported addition and clashes with 'you' (bādhase, 2 sg.); text has pṛṣṭhena 'with the back'."
+ },
+ {
+  "n": "11",
+  "field": "word.gram",
+  "word": "dyāvā-pṛthivī",
+  "old": "dvandva, f. nom. du.",
+  "new": "dvandva, f. acc. du.",
+  "why": "reviewer (error): Labelled nominative dual, but it is the object of vi bādhase (accusative dual; the form is shared)."
+ },
+ {
+  "n": "17",
+  "field": "word.gloss",
+  "word": "pinva",
+  "old": "refresh",
+  "new": "swell",
+  "why": "reviewer (minor): Gloss 'refresh' but English and Hindi both say 'swell' (बढ़ाओ), as in unit 2."
+ },
+ {
+  "n": "17",
+  "field": "hindi",
+  "old": "मेरे जीवन की रक्षा करो, मेरे प्राण की रक्षा करो, मेरे अपान की रक्षा करो, मेरे व्यान की रक्षा करो, मेरी आँख की रक्षा करो; मेरे कान की रक्षा करो, मेरी वाणी को बढ़ाओ, मेरे मन को तृप्त करो, मेरी आत्मा की रक्षा करो, मुझे प्रकाश दो।",
+  "new": "मेरे जीवन की रक्षा करो, मेरे प्राण की रक्षा करो, मेरे अपान की रक्षा करो, मेरे व्यान की रक्षा करो, मेरी आँख की रक्षा करो; मेरे कान की रक्षा करो, मेरी वाणी को बढ़ाओ, मेरे मन को जीवन्त करो, मेरी आत्मा की रक्षा करो, मुझे प्रकाश दो।",
+  "why": "reviewer (minor): 'quicken' (jinva) rendered as 'तृप्त करो' (satisfy)."
+ },
+ {
+  "n": "22",
+  "field": "english",
+  "old": "You are the controller, the ruler; you are the controller, the restrainer; you are firm, the holder. You for refreshment, you for sap, you for wealth, you for nourishment. Then the fragment: the world, tā, Indra.",
+  "new": "You are the controller, the ruler; you are the controller, the restrainer; you are firm, the holder. You for refreshment, you for sap, you for wealth, you for nourishment. Closing words, not translated as a sentence: lokam, tā, indram.",
+  "why": "reviewer (error): Added 'Then the fragment'."
+ },
+ {
+  "n": "22",
+  "field": "hindi",
+  "old": "तुम नियन्त्रण करने वाली हो, शासिका; तुम नियन्त्रण करने वाली हो, रोकने वाली; तुम दृढ़ हो, धारण करने वाली। तुम्हें तृप्ति के लिए, तुम्हें रस के लिए, तुम्हें धन के लिए, तुम्हें पोषण के लिए। फिर अंश: लोक, ता, इन्द्र को।",
+  "new": "तुम नियन्त्रण करने वाली हो, शासिका; तुम नियन्त्रण करने वाली हो, रोकने वाली; तुम दृढ़ हो, धारण करने वाली। तुम्हें तृप्ति के लिए, तुम्हें रस के लिए, तुम्हें धन के लिए, तुम्हें पोषण के लिए। अन्त के शब्द, वाक्य के रूप में अनूदित नहीं: लोकम्, ता, इन्द्रम्।",
+  "why": "reviewer (error): Added 'फिर' and 'को'."
+ },
+ {
+  "n": "23",
+  "field": "word.gloss",
+  "word": "saviṃśaḥ",
+  "old": "saviṃśa (uncertain term)",
+  "new": "saviṃśa (probably the twentyfold; uncertain)",
+  "why": "reviewer (minor): Left as unknown, but the order 18, 19, saviṃśa, 22 points to 'twentyfold' (sa-viṃśa); at least hedge it. Also Āśu/Bhānta are glossed (swift, shining) yet kept as names while vyoman and dharuṇa are translated; the list treatment is uneven."
+ },
+ {
+  "n": "24",
+  "field": "hindi",
+  "old": "तुम अग्नि का भाग हो, दीक्षा का आधिपत्य; ब्रह्म सुरक्षित है, त्रिवृत् स्तोम। तुम इन्द्र का भाग हो, विष्णु का आधिपत्य; क्षत्र सुरक्षित है, पञ्चदश स्तोम। तुम मनुष्यों को देखने वालों का भाग हो, धाता का आधिपत्य; जन्म सुरक्षित है, सप्तदश स्तोम। तुम मित्र का भाग हो, वरुण का आधिपत्य; द्युलोक की वर्षा और वात सुरक्षित है, एकविंश स्तोम।",
+  "new": "तुम अग्नि का भाग हो, दीक्षा का आधिपत्य; ब्रह्म सुरक्षित है, त्रिवृत् स्तोम। तुम इन्द्र का भाग हो, विष्णु का आधिपत्य; क्षत्र सुरक्षित है, पञ्चदश स्तोम। तुम मनुष्यों को देखने वालों का भाग हो, धाता का आधिपत्य; जन्म सुरक्षित है, सप्तदश स्तोम। तुम मित्र का भाग हो, वरुण का आधिपत्य; द्यौ की वर्षा और वात सुरक्षित है, एकविंश स्तोम।",
+  "why": "reviewer (minor): 'द्युलोक' brings in loka; text has div 'heaven'."
+ },
+ {
+  "n": "26",
+  "field": "word.gloss",
+  "word": "yavānām",
+  "old": "of the yavas (barley)",
+  "new": "of the yavas (uncertain term)",
+  "why": "reviewer (minor): Gloss asserts '(barley)' while the English leaves yava transliterated and the notes call it obscure; ayavānām is marked uncertain."
+ },
+ {
+  "n": "31",
+  "field": "english",
+  "old": "With twenty-nine they praised; the trees were created; Soma was the overlord. With thirty-one they praised; offspring were created; the yavas and the ayavas were the overlords. With thirty-three they praised; the beings grew calm; Prajāpati Parameṣṭhin was the overlord. Then the fragment: the world, tā, Indra.",
+  "new": "With twenty-nine they praised; the trees were created; Soma was the overlord. With thirty-one they praised; offspring were created; the yavas and the ayavas were the overlords. With thirty-three they praised; the beings grew calm; Prajāpati Parameṣṭhin was the overlord. Closing words, not translated as a sentence: lokam, tā, indram.",
+  "why": "reviewer (error): Added 'Then the fragment'."
+ },
+ {
+  "n": "31",
+  "field": "hindi",
+  "old": "उनतीस से उन्होंने स्तुति की; वनस्पतियाँ रची गईं; सोम अधिपति थे। इकतीस से उन्होंने स्तुति की; प्रजाएँ रची गईं; यव और अयव अधिपति थे। तैंतीस से उन्होंने स्तुति की; प्राणी शान्त हुए; प्रजापति परमेष्ठी अधिपति थे। फिर अंश: लोक, ता, इन्द्र को।",
+  "new": "उनतीस से उन्होंने स्तुति की; वनस्पतियाँ रची गईं; सोम अधिपति थे। इकतीस से उन्होंने स्तुति की; प्रजाएँ रची गईं; यव और अयव अधिपति थे। तैंतीस से उन्होंने स्तुति की; प्राणी शान्त हुए; प्रजापति परमेष्ठी अधिपति थे। अन्त के शब्द, वाक्य के रूप में अनूदित नहीं: लोकम्, ता, इन्द्रम्।",
+  "why": "reviewer (error): Added 'फिर' and 'को'."
+ },
+ {
+  "n": "31",
+  "field": "word.gloss",
+  "word": "yavāḥ",
+  "old": "yavas (barley)",
+  "new": "yavas (uncertain term)",
+  "why": "reviewer (minor): Glosses give 'barley / non-barley' as fact; unit 26 and the notes treat the terms as obscure."
+ },
+ {
+  "n": "2",
+  "field": "text_flags",
+  "old": "why",
+  "new": "fixed",
+  "manual": true
+ },
+ {
+  "n": "10",
+  "field": "notes",
+  "old": "look like a stray incipit (pratīka) of the following formula, not part of this unit; they are translated only as a fragment.",
+  "new": "recur at the end of units 10, 22 and 31; they look like a ritual cue (possibly three cue words, lokam / tā / indram), not the opening of the next unit (unit 11 begins indrāgnī, unit 23 āśus trivṛt). They are kept inside their own unit and translated only as a fragment.",
+  "manual": true
+ },
+ {
+  "n": "22",
+  "field": "notes",
+  "old": "look like a stray incipit (pratīka) of the following formula, not part of this unit; they are translated only as a fragment.",
+  "new": "recur at the end of units 10, 22 and 31; they look like a ritual cue (possibly three cue words, lokam / tā / indram), not the opening of the next unit (unit 11 begins indrāgnī, unit 23 āśus trivṛt). They are kept inside their own unit and translated only as a fragment.",
+  "manual": true
+ },
+ {
+  "n": "31",
+  "field": "notes",
+  "old": "look like a stray incipit (pratīka) of the following formula, not part of this unit; they are translated only as a fragment.",
+  "new": "recur at the end of units 10, 22 and 31; they look like a ritual cue (possibly three cue words, lokam / tā / indram), not the opening of the next unit (unit 11 begins indrāgnī, unit 23 āśus trivṛt). They are kept inside their own unit and translated only as a fragment.",
+  "manual": true
+ },
+ {
+  "n": "10",
+  "field": "notes",
+  "old": "",
+  "new": "avagraha note",
+  "manual": true
+ },
+ {
+  "n": "6",
+  "field": "notes",
+  "old": "",
+  "new": "pṛthak ambiguity",
+  "manual": true
+ },
+ {
+  "n": "15",
+  "field": "notes",
+  "old": "",
+  "new": "pṛthak ambiguity",
+  "manual": true
+ },
+ {
+  "n": "16",
+  "field": "notes",
+  "old": "",
+  "new": "pṛthak ambiguity",
+  "manual": true
+ },
+ {
+  "n": "27",
+  "field": "notes",
+  "old": "",
+  "new": "pṛthak ambiguity",
+  "manual": true
+ },
+ {
+  "n": "20",
+  "field": "notes",
+  "old": "The doubled apostrophe in ''dityā is the edition's mark for the contraction of devatā + ādityāḥ.",
+  "new": "The doubled apostrophe in ''dityā is read here as a contraction of devatā + ādityāḥ (an inference).",
+  "manual": true
+ },
+ {
+  "n": "27",
+  "field": "gloss",
+  "old": "of winter",
+  "new": "of Hemanta (winter)",
+  "manual": true
+ }
+]

@@ -1,0 +1,75 @@
+{"units":[
+{"n":"34","verdict":"ok","issues":[]},
+{"n":"35","verdict":"ok","issues":[]},
+{"n":"36","verdict":"ok","issues":[]},
+{"n":"37","verdict":"fix","issues":[
+{"field":"gram","where":"tmanā","problem":"tman is masculine, not feminine","fix":"m. inst. sg.","severity":"minor","patch":{"n":"37","op":"word","match_w":"tmanā","field":"gram","value":"m. inst. sg."}},
+{"field":"notes","where":"kṣapo ... vastoḥ ... uṣasaḥ","problem":"kṣapaḥ, vastoḥ, uṣasaḥ are most naturally adverbial genitives of time (by night, by day, at dawn) with rājan a separate vocative; 'O king of the nights' is a doubtful reading stated as the translation","fix":"Add a note that 'by night, by day, at dawn' is the alternative reading of kṣapaḥ ... vastoḥ ... uṣasaḥ","severity":"minor","patch":{"n":"37","op":"append_note","text":"Alternative: kṣapaḥ, vastoḥ, uṣasaḥ as genitives of time ('at night, by day, at dawn') with 'O king' separate."}}]},
+{"n":"38","verdict":"fix","issues":[
+{"field":"english","where":"when invoked","problem":"'when' is added; āhutaḥ is a plain participle","fix":"Auspicious for us is Agni, invoked,","severity":"minor","patch":{"n":"38","op":"replace","field":"english","old":"Auspicious for us is Agni when invoked,","new":"Auspicious for us is Agni, invoked,"}}]},
+{"n":"39","verdict":"ok","issues":[]},
+{"n":"40","verdict":"fix","issues":[
+{"field":"gram","where":"bhūri","problem":"bhūri is neuter acc. pl. agreeing with sthirā ('many firm things'), not m. gen. pl.","fix":"n. acc. pl.","severity":"error","patch":{"n":"40","op":"word","match_w":"bhūri","field":"gram","value":"n. acc. pl."}},
+{"field":"english","where":"the firm things of the many who are bold","problem":"mistranslation caused by bhūri taken as genitive; śardhatām (of the bold) depends on sthirā","fix":"slacken the many firm things of the bold","severity":"error","patch":{"n":"40","op":"replace","field":"english","old":"slacken the firm things of the many who are bold","new":"slacken the many firm things of the bold"}},
+{"field":"hindi","where":"उससे बहुतों के, जो साहस करते हैं, दृढ़ वस्तुओं को ढीला करो","problem":"same error in Hindi","fix":"उससे साहसियों की बहुत-सी दृढ़ वस्तुओं को ढीला करो","severity":"error","patch":{"n":"40","op":"replace","field":"hindi","old":"उससे बहुतों के, जो साहस करते हैं, दृढ़ वस्तुओं को ढीला करो","new":"उससे साहसियों की बहुत-सी दृढ़ वस्तुओं को ढीला करो"}}]},
+{"n":"41","verdict":"fix","issues":[
+{"field":"gloss","where":"vājinaḥ","problem":"gloss 'racers' but English and Hindi translate 'strong'/'बलवान'; inconsistent with each other","fix":"Use one rendering in all three (e.g. 'racers' / 'दौड़ने वाले')","severity":"minor"}]},
+{"n":"42","verdict":"ok","issues":[]},
+{"n":"43","verdict":"fix","issues":[
+{"field":"split","where":"ukthesu","problem":"w does not match the printed uktheṣṷ (retroflex ṣ lost)","fix":"uktheṣu","severity":"error","patch":{"n":"43","op":"word","match_w":"ukthesu","field":"w","value":"uktheṣu"}}]},
+{"n":"44","verdict":"ok","issues":[]},
+{"n":"45","verdict":"fix","issues":[
+{"field":"english","where":"of skill, of the accomplishing one","problem":"sādhoḥ agrees with dakṣasya ('effective skill'); 'the accomplishing one' is an invented extra noun","fix":"of effective skill, and of great order","severity":"error","patch":{"n":"45","op":"replace","field":"english","old":"of skill, of the accomplishing one, and of great order","new":"of effective skill, and of great order"}},
+{"field":"hindi","where":"कौशल के, सिद्धि देने वाले के और","problem":"same invented noun in Hindi","fix":"प्रभावी कौशल के और","severity":"error","patch":{"n":"45","op":"replace","field":"hindi","old":"कौशल के, सिद्धि देने वाले के और","new":"प्रभावी कौशल के और"}},
+{"field":"gloss","where":"sādhoḥ","problem":"gloss 'of the accomplishing' should be adjectival","fix":"of the effective","severity":"error","patch":{"n":"45","op":"word","match_w":"sādhoḥ","field":"gloss","value":"of the effective"}}]},
+{"n":"46","verdict":"ok","issues":[]},
+{"n":"47","verdict":"ok","issues":[]},
+{"n":"48","verdict":"fix","issues":[
+{"field":"english","where":"you reach toward us","problem":"'toward us' is added (drafter's own note admits it is not in the line)","fix":"you approach;","severity":"error","patch":{"n":"48","op":"replace","field":"english","old":"you reach toward us;","new":"you approach;"}},
+{"field":"notes","where":"'toward us' is not stated in the line","problem":"note becomes obsolete after the fix","fix":"Remove that clause","severity":"minor"},
+{"field":"english","where":"you are nearest to us; be also a protector","problem":"antamaḥ, trātā, śivaḥ, varūthyaḥ are all predicates of bhava; 'you are' is an addition","fix":"O Agni, be nearest to us and a protector, kind and shielding.","severity":"minor","patch":{"n":"48","op":"replace","field":"english","old":"O Agni, you are nearest to us; be also a protector, kind and shielding.","new":"O Agni, be nearest to us and a protector, kind and shielding."}},
+{"field":"hindi","where":"तुम हमारे सबसे समीप हो, रक्षक हो","problem":"same, all are predicates of 'बनो'","fix":"तुम हमारे सबसे समीप, रक्षक, कल्याणकारी और आश्रय देने वाले बनो।","severity":"minor","patch":{"n":"48","op":"replace","field":"hindi","old":"तुम हमारे सबसे समीप हो, रक्षक हो और कल्याणकारी तथा आश्रय देने वाले बनो।","new":"तुम हमारे सबसे समीप, रक्षक, कल्याणकारी और आश्रय देने वाले बनो।"}},
+{"field":"english","where":"O most radiant","problem":"gloss of śociṣṭha is 'O most brilliant'; inconsistent rendering","fix":"You, O most brilliant,","severity":"minor","patch":{"n":"48","op":"replace","field":"english","old":"You, O most radiant,","new":"You, O most brilliant,"}}]},
+{"n":"49","verdict":"fix","issues":[
+{"field":"split","where":"manave","problem":"printed form is manava (for manavaḥ, visarga dropped before st); manave (dative) does not match and 'for Manu' is unsupported. Subject of āhuḥ is the Manus/men","fix":"w manavaḥ, 'the Manus', m. nom. pl.","severity":"error","patch":{"n":"49","op":"word","match_w":"manave","field":"w","value":"manavaḥ"}},
+{"field":"gloss","where":"manavaḥ","problem":"gloss must follow the corrected word","fix":"the Manus","severity":"error","patch":{"n":"49","op":"word","match_w":"manavaḥ","field":"gloss","value":"the Manus"}},
+{"field":"gram","where":"manavaḥ","problem":"case","fix":"m. nom. pl.","severity":"error","patch":{"n":"49","op":"word","match_w":"manavaḥ","field":"gram","value":"m. nom. pl."}},
+{"field":"english","where":"whom they call, for Manu,","problem":"unsupported dative","fix":"whom the Manus call the one with strewn sacred grass","severity":"error","patch":{"n":"49","op":"replace","field":"english","old":"whom they call, for Manu, the one with strewn sacred grass","new":"whom the Manus call the one with strewn sacred grass"}},
+{"field":"hindi","where":"जिसे मनु के लिए बिछे हुए कुश वाला कहते हैं","problem":"same","fix":"जिसे मनुगण बिछे हुए कुश वाला कहते हैं","severity":"error","patch":{"n":"49","op":"replace","field":"hindi","old":"जिसे मनु के लिए बिछे हुए कुश वाला कहते हैं","new":"जिसे मनुगण बिछे हुए कुश वाला कहते हैं"}},
+{"field":"notes","where":"manave is read as dative","problem":"note describes the wrong reading","fix":"Replace with: manava is read as manavaḥ (visarga dropped before st); 'the Manus' may also mean 'men'.","severity":"minor","patch":{"n":"49","op":"append_note","text":"Correction: printed manava is read as manavaḥ 'the Manus' (alternatively 'men'), not a dative."}}]},
+{"n":"50","verdict":"fix","issues":[
+{"field":"hindi","where":"आकाश के प्रकाशमान क्षेत्र में","problem":"div is rendered द्युलोक elsewhere (units 60, 63); आकाश inconsistent with English 'heaven'","fix":"द्युलोक के प्रकाशमान क्षेत्र में","severity":"minor","patch":{"n":"50","op":"replace","field":"hindi","old":"आकाश के प्रकाशमान क्षेत्र में","new":"द्युलोक के प्रकाशमान क्षेत्र में"}}]},
+{"n":"51","verdict":"fix","issues":[
+{"field":"hindi","where":"जो शत्रु-सेना की इच्छा करने वाले हैं","problem":"English and gloss say 'hostile'; Hindi adds 'army' and 'desire'","fix":"जो विरोधी हैं, उन्हें वह पैरों के नीचे का स्थान करे","severity":"minor","patch":{"n":"51","op":"replace","field":"hindi","old":"जो शत्रु-सेना की इच्छा करने वाले हैं, उन्हें वह पैरों के नीचे का स्थान करे","new":"जो विरोधी हैं, उन्हें वह पैरों के नीचे का स्थान करे"}}]},
+{"n":"52","verdict":"ok","issues":[]},
+{"n":"53","verdict":"fix","issues":[
+{"field":"english","where":"he has stretched","problem":"subject 'he' is invented; kṛṇvānā is labelled nom. du. yet the English is singular; Hindi drops the subject and duality","fix":"Keep subject unstated and mark clearly: 'Making the two parents young again, [one] has stretched ...' only in notes; add a note on the number mismatch","severity":"minor","patch":{"n":"53","op":"append_note","text":"kṛṇvānā is dual in form; the singular 'he' of the English is only a placeholder for an unstated subject."}},
+{"field":"english","where":"Move off together, go forth together","problem":"upa is glossed 'toward' but belongs with samprayāta; Hindi has a separate 'पास जाओ' but English omits it","fix":"Make English and Hindi agree: 'go forth together toward (it)' or drop upa in both","severity":"minor"}]},
+{"n":"54","verdict":"fix","issues":[
+{"field":"gram","where":"iṣṭa-pūrte","problem":"iṣṭāpūrta is a neuter dvandva singular; locative singular, not dual","fix":"dvandva n. loc. sg.","severity":"minor","patch":{"n":"54","op":"word","match_w":"iṣṭa-pūrte","field":"gram","value":"dvandva n. loc. sg."}}]},
+{"n":"55","verdict":"fix","issues":[
+{"field":"split","where":"svar-deveṣu","problem":"printed svardeveṣu is two words svar + deveṣu (gloss itself says two); single word labelled 'm. loc. pl.' is wrong for svar","fix":"Split into svar 'heaven' (ind./n.) and deveṣu 'among the gods' m. loc. pl.","severity":"minor"}]},
+{"n":"56","verdict":"fix","issues":[
+{"field":"text_flags","where":"aro̭cathā","problem":"w arocathāḥ differs from src (visarga missing) without a text_flag; 2 sg. middle -thāḥ is expected","fix":"Add text_flag src aro̭cathā, suggest aro̭cathāḥ, why: possible missing visarga","severity":"minor"},
+{"field":"gram","where":"yoniḥ / ṛtviyaḥ","problem":"yoniḥ labelled f. but the agreeing adjective ṛtviyaḥ is m.; in Vedic yoni is often m.","fix":"Note the gender mismatch (Hindi keeps feminine per glossary)","severity":"minor"}]},
+{"n":"57","verdict":"fix","issues":[
+{"field":"gram","where":"dhruve","problem":"dhruve is f./n. dual; m. dual would be dhruvau; unit 64 labels the same form f.","fix":"f./n. nom. du.","severity":"minor","patch":{"n":"57","op":"word","match_w":"dhruve","field":"gram","value":"f./n. nom. du."}},
+{"field":"gram","where":"second dyāvā-pṛthivī and ime (before 'antarā')","problem":"antarā takes the accusative; 'between these two' needs acc. du., not nom. du.","fix":"dyāvā-pṛthivī dvandva f. acc. du.; ime pron. f. acc. du.","severity":"minor"}]},
+{"n":"58","verdict":"fix","issues":[
+{"field":"english","where":"in-breath (prāṇa) ...","problem":"notes say prāṇa/apāna/vyāna are kept transliterated, but English translates and repeats in brackets; 'For all of the' misreads viśvasmai","fix":"For all prāṇa, apāna and vyāna, give all light.","severity":"minor","patch":{"n":"58","op":"replace","field":"english","old":"For all of the in-breath (prāṇa), the out-breath (apāna) and the through-breath (vyāna), give all light.","new":"For all prāṇa, apāna and vyāna, give all light."}}]},
+{"n":"59","verdict":"ok","issues":[]},
+{"n":"60","verdict":"fix","issues":[
+{"field":"hindi","where":"चित्तकबरी गायें","problem":"'cows' added; notes themselves say pṛśnayaḥ is not stated as cows","fix":"चित्तकबरियाँ","severity":"error","patch":{"n":"60","op":"replace","field":"hindi","old":"चित्तकबरी गायें","new":"चित्तकबरियाँ"}}]},
+{"n":"61","verdict":"ok","issues":[]},
+{"n":"62","verdict":"fix","issues":[
+{"field":"gram","where":"śociḥ","problem":"object of anu vāti ('blows after his flame'), as the translation itself reads it, so accusative","fix":"n. acc. sg.","severity":"minor","patch":{"n":"62","op":"word","match_w":"śociḥ","field":"gram","value":"n. acc. sg."}}]},
+{"n":"63","verdict":"fix","issues":[
+{"field":"split","where":"urum","problem":"printed orva̱ntarikṣam = ā uru antarikṣam; urum (m.) does not agree with neuter antarikṣam, and the second ā is missing","fix":"w uru, n. acc. sg., plus an extra word ā 'upon'","severity":"error","patch":{"n":"63","op":"word","match_w":"urum","field":"gram","value":"n. acc. sg."}},
+{"field":"split","where":"urum","problem":"w form","fix":"uru","severity":"error","patch":{"n":"63","op":"word","match_w":"urum","field":"w","value":"uru"}}]},
+{"n":"64","verdict":"fix","issues":[
+{"field":"english","where":"in-breath (prāṇa), out-breath (apāna) ...","problem":"bracketed duplicates; inconsistent with transliteration policy; 'For all of the' misreads viśvasmai","fix":"For all prāṇa, apāna, vyāna and udāna, for support and for conduct.","severity":"minor","patch":{"n":"64","op":"replace","field":"english","old":"For all of the in-breath (prāṇa), out-breath (apāna), through-breath (vyāna), up-breath (udāna), for support and for conduct.","new":"For all prāṇa, apāna, vyāna and udāna, for support and for conduct."}},
+{"field":"hindi","where":"सूर्य तुम्हारी महान कल्याण","problem":"case/gender garbled word order","fix":"सूर्य महान कल्याण और अत्यन्त सुखकारी आवरण से तुम्हारी रक्षा करे","severity":"minor","patch":{"n":"64","op":"replace","field":"hindi","old":"सूर्य तुम्हारी महान कल्याण और अत्यन्त सुखकारी आवरण से रक्षा करे","new":"सूर्य महान कल्याण और अत्यन्त सुखकारी आवरण से तुम्हारी रक्षा करे"}},
+{"field":"hindi","where":"संचरण","problem":"English says 'conduct'","fix":"प्रतिष्ठा और आचरण के लिए","severity":"minor","patch":{"n":"64","op":"replace","field":"hindi","old":"प्रतिष्ठा और संचरण के लिए","new":"प्रतिष्ठा और आचरण के लिए"}}]},
+{"n":"65","verdict":"ok","issues":[]}
+],
+"summary":"Reviewed units 34-65. Errors: 40 (bhūri/śardhatām), 43 (w ukthesu), 45 (sādhoḥ), 48 ('toward us'), 49 (manave), 60 (cows added), 63 (urum). Others minor. No regrouping suggested. Glossary additions suggested: prāṇa, apāna, vyāna, udāna keep transliterated (no English duplicates); div in Hindi = द्युलोक."}

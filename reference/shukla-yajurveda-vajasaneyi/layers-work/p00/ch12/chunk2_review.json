@@ -1,0 +1,92 @@
+{"units":[
+{"n":"40","verdict":"ok","issues":[]},
+{"n":"41","verdict":"ok","issues":[]},
+{"n":"42","verdict":"ok","issues":[]},
+{"n":"43","verdict":"ok","issues":[]},
+{"n":"44","verdict":"fix","issues":[
+ {"field":"gram","where":"satyāḥ","problem":"Labelled f. nom. pl., but it agrees with kāmāḥ, which is masculine (and the draft itself labels kāmāḥ m.).","fix":"m. nom. pl.","severity":"error",
+  "patch":{"n":"44","op":"word","match_w":"satyāḥ","field":"gram","value":"m. nom. pl."}}]},
+{"n":"45","verdict":"fix","issues":[
+ {"field":"hindi","where":"यम ने पृथ्वी पर इसके लिए विश्राम-स्थान दिया","problem":"asmai occurs only in the second clause (lokam asmai). The Hindi also puts 'for him' into the first clause, which is an addition.","fix":"यम ने पृथ्वी पर विश्राम-स्थान दिया","severity":"error",
+  "patch":{"n":"45","op":"replace","field":"hindi","old":"यम ने पृथ्वी पर इसके लिए विश्राम-स्थान दिया","new":"यम ने पृथ्वी पर विश्राम-स्थान दिया"}}]},
+{"n":"46","verdict":"fix","issues":[
+ {"field":"hindi","where":"तू सम्यक् बोध है","problem":"English and gloss say 'concord' for saṃjñānam, but the Hindi gives a different sense ('right knowledge'). The two languages disagree.","fix":"तू सहमति है","severity":"minor",
+  "patch":{"n":"46","op":"replace","field":"hindi","old":"तू सम्यक् बोध है","new":"तू सहमति है"}}]},
+{"n":"47","verdict":"fix","issues":[
+ {"field":"english","where":"Having won thousandfold strength, you are praised like a racing steed","problem":"The draft's own gram labels vājam, atyam and saptim all as accusative objects of sasavān. The English instead turns saptim into a comparison for Agni ('praised like a steed'), which contradicts that parsing and moves na.","fix":"Having won thousandfold strength, a racer, like a steed, you are praised, O Jātavedas.","severity":"error",
+  "patch":{"n":"47","op":"replace","field":"english","old":"Having won thousandfold strength, you are praised like a racing steed, O Jātavedas.","new":"Having won thousandfold strength, a racer, like a steed, you are praised, O Jātavedas."}},
+ {"field":"hindi","where":"हजार गुना बल जीतकर तू तेज़ दौड़ने वाले घोड़े के समान स्तुत किया जाता है","problem":"Same case problem as the English: the comparison is attached to Agni although saptim is accusative.","fix":"हजार गुना बल, दौड़ने वाले घोड़े के समान, जीतकर तू स्तुत किया जाता है, हे जातवेदस्।","severity":"error",
+  "patch":{"n":"47","op":"replace","field":"hindi","old":"हजार गुना बल जीतकर तू तेज़ दौड़ने वाले घोड़े के समान स्तुत किया जाता है, हे जातवेदस्।","new":"हजार गुना बल, दौड़ने वाले घोड़े के समान, जीतकर तू स्तुत किया जाता है, हे जातवेदस्।"}}]},
+{"n":"48","verdict":"fix","issues":[
+ {"field":"split","where":"sa","problem":"w is 'sa' while every other unit normalises this pronoun to 'saḥ' (e.g. unit 43). Inconsistent dictionary form.","fix":"saḥ","severity":"minor",
+  "patch":{"n":"48","op":"word","match_w":"sa","field":"w","value":"saḥ"}}]},
+{"n":"49","verdict":"ok","issues":[]},
+{"n":"50","verdict":"fix","issues":[
+ {"field":"hindi","where":"ढलानों के साथ","problem":"prāvaṇebhiḥ is called obscure in the gloss and the English leaves it as 'prāvaṇas', but the Hindi commits to 'slopes'. The glossary says obscure terms stay transliterated.","fix":"प्रावणों के साथ","severity":"minor",
+  "patch":{"n":"50","op":"replace","field":"hindi","old":"ढलानों","new":"प्रावणों"}}]},
+{"n":"51","verdict":"fix","issues":[
+ {"field":"hindi","where":"अनेक कर्मों वाले","problem":"The glossary fixes karma = rite, so 'कर्म' will read as rites. daṃsa is rendered 'powers' in unit 74 (daṃsobhiḥ). Rendering purudaṃsa as 'many deeds' or 'कर्म' is inconsistent across units. The word gloss 'of many deeds' and the English 'the one of many deeds' need the same change, to 'of many powers'.","fix":"अनेक शक्तियों वाले","severity":"minor",
+  "patch":{"n":"51","op":"replace","field":"hindi","old":"अनेक कर्मों वाले","new":"अनेक शक्तियों वाले"}}]},
+{"n":"52","verdict":"fix","issues":[
+ {"field":"notes","where":"atho is the usual form","problem":"The note is misleading. The reading is atha with a lengthened final ā (like vardhayā in the same line), not a corrupt 'atho'.","fix":"; the lengthened final ā is Vedic (as in vardhayā)","severity":"minor",
+  "patch":{"n":"52","op":"replace","field":"notes","old":"; atho is the usual form","new":"; the lengthened final ā is Vedic (as in vardhayā)"}}]},
+{"n":"53","verdict":"ok","issues":[]},
+{"n":"54","verdict":"ok","issues":[]},
+{"n":"55","verdict":"fix","issues":[
+ {"field":"split","where":"soma","problem":"The text flag suggests somam and the translation uses it as object, but the word list still has the printed w 'soma'. Per the layer rule, the corrected form belongs in words (src stays as printed). gram should then be m. acc. sg. only.","fix":"somam","severity":"minor",
+  "patch":{"n":"55","op":"word","match_w":"soma","field":"w","value":"somam"}},
+ {"field":"hindi","where":"इसके सूददोहस् को सोम में मिलाती हैं","problem":"Contradicts the gloss and the English. sūdadohasaḥ is nom. pl. f. (adjective of the pṛśnayaḥ), but the Hindi makes it an accusative object and puts Soma in the locative ('in the Soma').","fix":"वे चितकबरी, इसकी सूददोहस्, सोम को मिलाती हैं; देवों के जन्म पर, विश, तीनों में, द्युलोक के प्रकाशमान स्थान में।","severity":"error",
+  "patch":{"n":"55","op":"set","field":"hindi","value":"वे चितकबरी, इसकी सूददोहस्, सोम को मिलाती हैं; देवों के जन्म पर, विश, तीनों में, द्युलोक के प्रकाशमान स्थान में।"}}]},
+{"n":"56","verdict":"fix","issues":[
+ {"field":"notes","where":"satpatim = lord of the good; vājānām ... patim = lord of strengths","problem":"The parse splits one phrase and treats 'the good' as fact. vājānāṃ satpatiṃ patim could equally be 'the true lord of strengths, the lord'. The note should record this.","fix":"Add: satpatim could instead be 'true lord' taken with vājānām; 'lord of the good' is tentative.","severity":"minor",
+  "patch":{"n":"56","op":"append_note","text":"satpatim may instead be 'true lord', construed with vājānām and patim; 'lord of the good' is a tentative reading."}}]},
+{"n":"57","verdict":"ok","issues":[]},
+{"n":"58","verdict":"fix","issues":[
+ {"field":"split","where":"adhipāḥ","problem":"Printed form is adhipā, which is the attested nom. sg. of the ā-stem (like gopā). The draft's w 'adhipāḥ' is an unprinted form and the note justifies it as 'nominative of adhipā'.","fix":"adhipā","severity":"minor",
+  "patch":{"n":"58","op":"word","match_w":"adhipāḥ","field":"w","value":"adhipā"}}]},
+{"n":"59","verdict":"ok","issues":[]},
+{"n":"60","verdict":"ok","issues":[]},
+{"n":"61","verdict":"fix","issues":[
+ {"field":"hindi","where":"वैसे पृथ्वी ने पुरीष से जुड़े अग्नि को","problem":"'ने' implies a perfect transitive verb that is not in the Sanskrit. The English has no verb here and abhārukhā is declared obscure. The Hindi adds grammar.","fix":"वैसे पृथ्वी पुरीष से जुड़े अग्नि को अपनी योनि में अभारुखा।","severity":"minor",
+  "patch":{"n":"61","op":"replace","field":"hindi","old":"पृथ्वी ने","new":"पृथ्वी"}}]},
+{"n":"62","verdict":"ok","issues":[]},
+{"n":"63","verdict":"ok","issues":[]},
+{"n":"64","verdict":"ok","issues":[]},
+{"n":"65","verdict":"ok","issues":[]},
+{"n":"66","verdict":"fix","issues":[
+ {"field":"notes","where":"deva iva savitā","problem":"The English fixes 'Like the god Savitṛ' as a comparison. But savitā is nominative and may be the subject of tasthau ('Savitṛ, as if a god, of true dharma ... stood'). The note says only that the subject is not named; it should mention this alternative.","fix":"Add note on the alternative reading.","severity":"minor",
+  "patch":{"n":"66","op":"append_note","text":"devaḥ iva savitā: 'like the god Savitṛ' is one reading; Savitṛ may instead be the subject of tasthau ('Savitṛ, as if a god, ... stood')."}}]},
+{"n":"67","verdict":"ok","issues":[]},
+{"n":"68","verdict":"fix","issues":[
+ {"field":"gram","where":"yonau","problem":"Labelled f. loc., but it is qualified by kṛte (m./n. loc.), which the draft labels m. loc. sg. The two labels contradict each other, so yoni is masculine here.","fix":"m. loc. sg. (masculine here, agreeing with kṛte)","severity":"minor",
+  "patch":{"n":"68","op":"word","match_w":"yonau","field":"gram","value":"m. loc. sg. (masculine here, agreeing with kṛte)"}},
+ {"field":"gram","where":"nedīyaḥ","problem":"Labelled n. nom. sg., but it is used adverbially ('nearer'), not as the subject. It also does not agree with sṛṇyaḥ.","fix":"adv. (n. acc. sg. of nedīyas)","severity":"minor",
+  "patch":{"n":"68","op":"word","match_w":"nedīyaḥ","field":"gram","value":"adv. (n. acc. sg. of nedīyas)"}}]},
+{"n":"69","verdict":"fix","issues":[
+ {"field":"hindi","where":"हे शुनासीर,","problem":"The words are nominative (śunāsīrā tośamānā), a dual pair, not a singular vocative. The English has no 'O'. The Hindi adds a vocative that the gloss does not support.","fix":"शुनासीर, हवि से प्रसन्न होकर ...","severity":"minor",
+  "patch":{"n":"69","op":"replace","field":"hindi","old":"हे शुनासीर, ","new":"शुनासीर, "}}]},
+{"n":"70","verdict":"ok","issues":[]},
+{"n":"71","verdict":"ok","issues":[]},
+{"n":"72","verdict":"ok","issues":[]},
+{"n":"73","verdict":"fix","issues":[
+ {"field":"gram","where":"devayānāḥ / translation 'going the gods' way, we have gone'","problem":"The draft labels devayānāḥ as m. nom. pl. and attaches it to the unexpressed 'we' of aganma. But it sits directly after aghnyāḥ (f. voc. pl.), which has the same ending, and is at least as likely to be its adjective ('O aghnyās, travelling the gods' way'). Attaching it to 'we' is unsupported and aganma already carries the subject. The note and the low-certainty reading should say so.","fix":"Hindi: हे अघ्न्या, देवों के मार्ग पर चलने वाली, मुक्त हो जाओ; हमने इस अन्धकार के पार पहुँचकर ज्योति पा ली। English: Be released, O aghnyā, going the gods' way; we have gone to the far shore of this darkness; we have reached the light. Confidence should be low.","severity":"error"}]},
+{"n":"74","verdict":"fix","issues":[
+ {"field":"hindi","where":"अरुण किरणों के साथ","problem":"The Sanskrit is only aruṇībhiḥ 'with the ruddy ones' (f.), as the draft's own gloss and English say. 'किरणों' (rays) is an unsupported noun.","fix":"उषा अरुण वर्ण वालियों के साथ","severity":"error",
+  "patch":{"n":"74","op":"replace","field":"hindi","old":"अरुण किरणों के साथ","new":"अरुण वर्ण वालियों के साथ"}},
+ {"field":"gloss","where":"sūraḥ 'the sun' / Hindi सूर","problem":"English and gloss say 'the sun' while the Hindi leaves 'सूर'. The glossary keeps Sūrya as Sūrya, so the distinction with sūra needs a rule. Pick one, e.g. 'Sūra' in both languages, or note it.","fix":"Use the same treatment in both languages (e.g. English 'Sūra', Hindi 'सूर').","severity":"minor"}]},
+{"n":"75","verdict":"fix","issues":[
+ {"field":"english","where":"the hundred and seven abodes","problem":"śataṃ dhāmāni sapta ca is literally 'a hundred abodes and seven'. The sum 107 is a contested reading used as fact, and it differs from the Hindi (सौ और सात धाम).","fix":"a hundred abodes and seven","severity":"minor",
+  "patch":{"n":"75","op":"replace","field":"english","old":"the hundred and seven abodes","new":"a hundred abodes and seven"}}]},
+{"n":"76","verdict":"fix","issues":[
+ {"field":"english","where":"So, O ones of a hundred wills","problem":"The gloss for adhā is 'then'. 'So' adds an inference ('therefore') not in the word.","fix":"Then, O ones of a hundred wills","severity":"minor",
+  "patch":{"n":"76","op":"replace","field":"english","old":"So, O ones","new":"Then, O ones"}},
+ {"field":"hindi","where":"अतः","problem":"'अतः' (therefore) adds a causal link; adhā is only 'then'.","fix":"तब","severity":"minor",
+  "patch":{"n":"76","op":"replace","field":"hindi","old":"अतः","new":"तब"}}]},
+{"n":"77","verdict":"ok","issues":[]},
+{"n":"78","verdict":"fix","issues":[
+ {"field":"english","where":"'Plants', 'mothers' —","problem":"iti follows only oṣadhīḥ. mātaraḥ is a vocative (the draft's own gram: f. voc. pl.), not a second quoted name. The quotation marks around 'mothers' contradict the gram.","fix":"'Plants', O mothers — this I say to you, O goddesses.","severity":"error",
+  "patch":{"n":"78","op":"replace","field":"english","old":"'Plants', 'mothers' —","new":"'Plants', O mothers —"}},
+ {"field":"hindi","where":"'औषधियाँ', 'माताएँ'","problem":"Same error in Hindi: 'माताएँ' is put in quotation marks, but mātaraḥ is vocative.","fix":"'औषधियाँ' — हे माताओ, हे देवियो, यह मैं तुमसे कहता हूँ।","severity":"error",
+  "patch":{"n":"78","op":"replace","field":"hindi","old":"'औषधियाँ', 'माताएँ' — हे देवियो,","new":"'औषधियाँ' — हे माताओ, हे देवियो,"}}]}
+],
+"summary":"Units 40-78: 9 errors, 17 minor issues. Errors: 44 satyāḥ gender; 45 Hindi adds 'for him'; 47 case of saptim/comparison (English and Hindi); 55 Hindi treats sūdadohasaḥ as object; 73 devayānāḥ attached to 'we'; 74 Hindi adds 'rays'; 78 mātaraḥ wrongly quoted (English and Hindi). Minors: Hindi/English mismatches, w-forms, gram labels, notes. 19 units are ok, 20 need fixes. No regrouping: unit 65 keeps the edition's grouping, though its third pada (namo bhūtyai ...) may be a separate formula, as the drafter noted."}

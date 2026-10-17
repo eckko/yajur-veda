@@ -1,0 +1,294 @@
+[
+ {
+  "n": "37",
+  "field": "word.gram",
+  "word": "tmanā",
+  "old": "f. inst. sg.",
+  "new": "m. inst. sg.",
+  "why": "reviewer (minor): tman is masculine, not feminine"
+ },
+ {
+  "n": "37",
+  "field": "notes",
+  "old": "Case of kṣapaḥ is uncertain (read as genitive, 'of the nights'); vastoḥ read as 'of the day'; 'prati daha' rendered 'burn against'. The sentence is elliptical.",
+  "new": "Case of kṣapaḥ is uncertain (read as genitive, 'of the nights'); vastoḥ read as 'of the day'; 'prati daha' rendered 'burn against'. The sentence is elliptical. Alternative: kṣapaḥ, vastoḥ, uṣasaḥ as genitives of time ('at night, by day, at dawn') with 'O king' separate.",
+  "why": "reviewer (minor): kṣapaḥ, vastoḥ, uṣasaḥ are most naturally adverbial genitives of time (by night, by day, at dawn) with rājan a separate vocative; 'O king of the nights' is a doubtful reading stated as the translation"
+ },
+ {
+  "n": "38",
+  "field": "english",
+  "old": "Auspicious for us is Agni when invoked, auspicious is the gift, O fortunate one, auspicious is the rite, and auspicious are the praises.",
+  "new": "Auspicious for us is Agni, invoked, auspicious is the gift, O fortunate one, auspicious is the rite, and auspicious are the praises.",
+  "why": "reviewer (minor): 'when' is added; āhutaḥ is a plain participle"
+ },
+ {
+  "n": "40",
+  "field": "word.gram",
+  "word": "bhūri",
+  "old": "m. gen. pl.",
+  "new": "n. acc. pl.",
+  "why": "reviewer (error): bhūri is neuter acc. pl. agreeing with sthirā ('many firm things'), not m. gen. pl."
+ },
+ {
+  "n": "40",
+  "field": "english",
+  "old": "By which you are the conqueror in battles, slacken the firm things of the many who are bold; may we win through your assaults.",
+  "new": "By which you are the conqueror in battles, slacken the many firm things of the bold; may we win through your assaults.",
+  "why": "reviewer (error): mistranslation caused by bhūri taken as genitive; śardhatām (of the bold) depends on sthirā"
+ },
+ {
+  "n": "40",
+  "field": "hindi",
+  "old": "जिसके द्वारा तुम युद्धों में विजयी हो, उससे बहुतों के, जो साहस करते हैं, दृढ़ वस्तुओं को ढीला करो; तुम्हारे आक्रमणों से हम जीतें।",
+  "new": "जिसके द्वारा तुम युद्धों में विजयी हो, उससे साहसियों की बहुत-सी दृढ़ वस्तुओं को ढीला करो; तुम्हारे आक्रमणों से हम जीतें।",
+  "why": "reviewer (error): same error in Hindi"
+ },
+ {
+  "n": "43",
+  "field": "word.w",
+  "word": "ukthesu",
+  "old": "ukthesu",
+  "new": "uktheṣu",
+  "why": "reviewer (error): w does not match the printed uktheṣṷ (retroflex ṣ lost)"
+ },
+ {
+  "n": "45",
+  "field": "english",
+  "old": "Now indeed, O Agni, you have become the charioteer of the auspicious will, of skill, of the accomplishing one, and of great order.",
+  "new": "Now indeed, O Agni, you have become the charioteer of the auspicious will, of effective skill, and of great order.",
+  "why": "reviewer (error): sādhoḥ agrees with dakṣasya ('effective skill'); 'the accomplishing one' is an invented extra noun"
+ },
+ {
+  "n": "45",
+  "field": "hindi",
+  "old": "अब निश्चय ही, हे अग्नि, तुम कल्याणकारी संकल्प के, कौशल के, सिद्धि देने वाले के और महान ऋत के रथी हुए हो।",
+  "new": "अब निश्चय ही, हे अग्नि, तुम कल्याणकारी संकल्प के, प्रभावी कौशल के और महान ऋत के रथी हुए हो।",
+  "why": "reviewer (error): same invented noun in Hindi"
+ },
+ {
+  "n": "45",
+  "field": "word.gloss",
+  "word": "sādhoḥ",
+  "old": "of the accomplishing",
+  "new": "of the effective",
+  "why": "reviewer (error): gloss 'of the accomplishing' should be adjectival"
+ },
+ {
+  "n": "48",
+  "field": "english",
+  "old": "O Agni, you are nearest to us; be also a protector, kind and shielding. Agni is the good one, of good fame; you reach toward us; give the most brilliant wealth. You, O most radiant, O shining one, we now ask for favour, for friends.",
+  "new": "O Agni, you are nearest to us; be also a protector, kind and shielding. Agni is the good one, of good fame; you approach; give the most brilliant wealth. You, O most radiant, O shining one, we now ask for favour, for friends.",
+  "why": "reviewer (error): 'toward us' is added (drafter's own note admits it is not in the line)"
+ },
+ {
+  "n": "48",
+  "field": "english",
+  "old": "O Agni, you are nearest to us; be also a protector, kind and shielding. Agni is the good one, of good fame; you approach; give the most brilliant wealth. You, O most radiant, O shining one, we now ask for favour, for friends.",
+  "new": "O Agni, be nearest to us and a protector, kind and shielding. Agni is the good one, of good fame; you approach; give the most brilliant wealth. You, O most radiant, O shining one, we now ask for favour, for friends.",
+  "why": "reviewer (minor): antamaḥ, trātā, śivaḥ, varūthyaḥ are all predicates of bhava; 'you are' is an addition"
+ },
+ {
+  "n": "48",
+  "field": "hindi",
+  "old": "हे अग्नि, तुम हमारे सबसे समीप हो, रक्षक हो और कल्याणकारी तथा आश्रय देने वाले बनो। अग्नि वसु है, उत्तम यश वाला है; तुम पास पहुँचते हो; सबसे तेजस्वी धन दो। उन तुमसे, हे अत्यन्त दीप्त, हे चमकने वाले, हम अब अनुग्रह के लिए, मित्रों के लिए याचना करते हैं।",
+  "new": "हे अग्नि, तुम हमारे सबसे समीप, रक्षक, कल्याणकारी और आश्रय देने वाले बनो। अग्नि वसु है, उत्तम यश वाला है; तुम पास पहुँचते हो; सबसे तेजस्वी धन दो। उन तुमसे, हे अत्यन्त दीप्त, हे चमकने वाले, हम अब अनुग्रह के लिए, मित्रों के लिए याचना करते हैं।",
+  "why": "reviewer (minor): same, all are predicates of 'बनो'"
+ },
+ {
+  "n": "48",
+  "field": "english",
+  "old": "O Agni, be nearest to us and a protector, kind and shielding. Agni is the good one, of good fame; you approach; give the most brilliant wealth. You, O most radiant, O shining one, we now ask for favour, for friends.",
+  "new": "O Agni, be nearest to us and a protector, kind and shielding. Agni is the good one, of good fame; you approach; give the most brilliant wealth. You, O most brilliant, O shining one, we now ask for favour, for friends.",
+  "why": "reviewer (minor): gloss of śociṣṭha is 'O most brilliant'; inconsistent rendering"
+ },
+ {
+  "n": "49",
+  "field": "word.w",
+  "word": "manave",
+  "old": "manave",
+  "new": "manavaḥ",
+  "why": "reviewer (error): printed form is manava (for manavaḥ, visarga dropped before st); manave (dative) does not match and 'for Manu' is unsupported. Subject of āhuḥ is the Manus/men"
+ },
+ {
+  "n": "49",
+  "field": "word.gloss",
+  "word": "manavaḥ",
+  "old": "for Manu",
+  "new": "the Manus",
+  "why": "reviewer (error): gloss must follow the corrected word"
+ },
+ {
+  "n": "49",
+  "field": "word.gram",
+  "word": "manavaḥ",
+  "old": "m. dat. sg.",
+  "new": "m. nom. pl.",
+  "why": "reviewer (error): case"
+ },
+ {
+  "n": "49",
+  "field": "english",
+  "old": "By which the sages went to the session with austerity, kindling Agni, bringing heaven; in that I place in heaven Agni, whom they call, for Manu, the one with strewn sacred grass.",
+  "new": "By which the sages went to the session with austerity, kindling Agni, bringing heaven; in that I place in heaven Agni, whom the Manus call the one with strewn sacred grass.",
+  "why": "reviewer (error): unsupported dative"
+ },
+ {
+  "n": "49",
+  "field": "hindi",
+  "old": "जिसके द्वारा ऋषि तप से सत्र में गए, अग्नि को प्रज्वलित करते हुए, स्वर्ग को लाते हुए; उसमें मैं स्वर्ग में अग्नि को स्थापित करता हूँ, जिसे मनु के लिए बिछे हुए कुश वाला कहते हैं।",
+  "new": "जिसके द्वारा ऋषि तप से सत्र में गए, अग्नि को प्रज्वलित करते हुए, स्वर्ग को लाते हुए; उसमें मैं स्वर्ग में अग्नि को स्थापित करता हूँ, जिसे मनुगण बिछे हुए कुश वाला कहते हैं।",
+  "why": "reviewer (error): same"
+ },
+ {
+  "n": "49",
+  "field": "notes",
+  "old": "The antecedent of tasmin is not clear; manave is read as dative 'for Manu' (could be 'O Manu' or 'men'). The relation of the two lines is uncertain.",
+  "new": "The antecedent of tasmin is not clear; manave is read as dative 'for Manu' (could be 'O Manu' or 'men'). The relation of the two lines is uncertain. Correction: printed manava is read as manavaḥ 'the Manus' (alternatively 'men'), not a dative.",
+  "why": "reviewer (minor): note describes the wrong reading"
+ },
+ {
+  "n": "50",
+  "field": "hindi",
+  "old": "उसके पीछे हम, हे देवो, पत्नियों, पुत्रों, भाइयों या सोने के साथ जाएँ; स्वर्ग को ग्रहण करते हुए, सुकृत के लोक में, तीसरी पीठ पर, आकाश के प्रकाशमान क्षेत्र में।",
+  "new": "उसके पीछे हम, हे देवो, पत्नियों, पुत्रों, भाइयों या सोने के साथ जाएँ; स्वर्ग को ग्रहण करते हुए, सुकृत के लोक में, तीसरी पीठ पर, द्युलोक के प्रकाशमान क्षेत्र में।",
+  "why": "reviewer (minor): div is rendered द्युलोक elsewhere (units 60, 63); आकाश inconsistent with English 'heaven'"
+ },
+ {
+  "n": "51",
+  "field": "hindi",
+  "old": "यह अग्नि, वेगवान, सज्जनों का स्वामी, जानने वाला, वाणी के मध्य पर चढ़ा। पृथ्वी की पीठ पर स्थापित, चमकता हुआ; जो शत्रु-सेना की इच्छा करने वाले हैं, उन्हें वह पैरों के नीचे का स्थान करे।",
+  "new": "यह अग्नि, वेगवान, सज्जनों का स्वामी, जानने वाला, वाणी के मध्य पर चढ़ा। पृथ्वी की पीठ पर स्थापित, चमकता हुआ; जो विरोधी हैं, उन्हें वह पैरों के नीचे का स्थान करे।",
+  "why": "reviewer (minor): English and gloss say 'hostile'; Hindi adds 'army' and 'desire'"
+ },
+ {
+  "n": "53",
+  "field": "notes",
+  "old": "Subject of anvātānsīt is not stated; ambiguous. The address changes between plural verbs and the vocative Agni. The word order in the final token 'yuvānā'nvātāṃsīt' is read as yuvānā + anu + ātānsīt; uncertain.",
+  "new": "Subject of anvātānsīt is not stated; ambiguous. The address changes between plural verbs and the vocative Agni. The word order in the final token 'yuvānā'nvātāṃsīt' is read as yuvānā + anu + ātānsīt; uncertain. kṛṇvānā is dual in form; the singular 'he' of the English is only a placeholder for an unstated subject.",
+  "why": "reviewer (minor): subject 'he' is invented; kṛṇvānā is labelled nom. du. yet the English is singular; Hindi drops the subject and duality"
+ },
+ {
+  "n": "54",
+  "field": "word.gram",
+  "word": "iṣṭa-pūrte",
+  "old": "n. loc. du.",
+  "new": "dvandva n. loc. sg.",
+  "why": "reviewer (minor): iṣṭāpūrta is a neuter dvandva singular; locative singular, not dual"
+ },
+ {
+  "n": "57",
+  "field": "word.gram",
+  "word": "dhruve",
+  "old": "m. nom. du.",
+  "new": "f./n. nom. du.",
+  "why": "reviewer (minor): dhruve is f./n. dual; m. dual would be dhruvau; unit 64 labels the same form f."
+ },
+ {
+  "n": "58",
+  "field": "english",
+  "old": "May Parameṣṭhin set you, the one full of light, on the back of heaven. For all of the in-breath (prāṇa), the out-breath (apāna) and the through-breath (vyāna), give all light. Sūrya is your overlord; with that deity, like Aṅgiras, sit down firmly.",
+  "new": "May Parameṣṭhin set you, the one full of light, on the back of heaven. For all prāṇa, apāna and vyāna, give all light. Sūrya is your overlord; with that deity, like Aṅgiras, sit down firmly.",
+  "why": "reviewer (minor): notes say prāṇa/apāna/vyāna are kept transliterated, but English translates and repeats in brackets; 'For all of the' misreads viśvasmai"
+ },
+ {
+  "n": "60",
+  "field": "hindi",
+  "old": "वे उसकी रसीले दोहन वाली चित्तकबरी गायें सोम को मिलाती हैं। देवों के जन्म पर, द्युलोक के तीन प्रकाशमान स्थानों में, कुल।",
+  "new": "वे उसकी रसीले दोहन वाली चित्तकबरियाँ सोम को मिलाती हैं। देवों के जन्म पर, द्युलोक के तीन प्रकाशमान स्थानों में, कुल।",
+  "why": "reviewer (error): 'cows' added; notes themselves say pṛśnayaḥ is not stated as cows"
+ },
+ {
+  "n": "62",
+  "field": "word.gram",
+  "word": "śociḥ",
+  "old": "n. nom. sg.",
+  "new": "n. acc. sg.",
+  "why": "reviewer (minor): object of anu vāti ('blows after his flame'), as the translation itself reads it, so accusative"
+ },
+ {
+  "n": "63",
+  "field": "word.gram",
+  "word": "urum",
+  "old": "m. acc. sg.",
+  "new": "n. acc. sg.",
+  "why": "reviewer (error): printed orva̱ntarikṣam = ā uru antarikṣam; urum (m.) does not agree with neuter antarikṣam, and the second ā is missing"
+ },
+ {
+  "n": "63",
+  "field": "word.w",
+  "word": "urum",
+  "old": "urum",
+  "new": "uru",
+  "why": "reviewer (error): w form"
+ },
+ {
+  "n": "64",
+  "field": "english",
+  "old": "May Parameṣṭhin set you, the wide and broad one, on the back of heaven. Hold up heaven, make heaven firm, do not harm heaven. For all of the in-breath (prāṇa), out-breath (apāna), through-breath (vyāna), up-breath (udāna), for support and for conduct. May Sūrya protect you with great well-being and the most beneficial covering; with that deity, like Aṅgiras, sit down firmly, you two.",
+  "new": "May Parameṣṭhin set you, the wide and broad one, on the back of heaven. Hold up heaven, make heaven firm, do not harm heaven. For all prāṇa, apāna, vyāna and udāna, for support and for conduct. May Sūrya protect you with great well-being and the most beneficial covering; with that deity, like Aṅgiras, sit down firmly, you two.",
+  "why": "reviewer (minor): bracketed duplicates; inconsistent with transliteration policy; 'For all of the' misreads viśvasmai"
+ },
+ {
+  "n": "64",
+  "field": "hindi",
+  "old": "परमेष्ठी तुम्हें स्वर्ग की पीठ पर बैठाए, तुम विशाल और विस्तृत को। स्वर्ग को थामो, स्वर्ग को दृढ़ करो, स्वर्ग को हानि मत पहुँचाओ। समस्त प्राण, अपान, व्यान, उदान, प्रतिष्ठा और संचरण के लिए। सूर्य तुम्हारी महान कल्याण और अत्यन्त सुखकारी आवरण से रक्षा करे; उस देवता के साथ अंगिरा के समान तुम दोनों दृढ़ होकर बैठो।",
+  "new": "परमेष्ठी तुम्हें स्वर्ग की पीठ पर बैठाए, तुम विशाल और विस्तृत को। स्वर्ग को थामो, स्वर्ग को दृढ़ करो, स्वर्ग को हानि मत पहुँचाओ। समस्त प्राण, अपान, व्यान, उदान, प्रतिष्ठा और संचरण के लिए। सूर्य महान कल्याण और अत्यन्त सुखकारी आवरण से तुम्हारी रक्षा करे; उस देवता के साथ अंगिरा के समान तुम दोनों दृढ़ होकर बैठो।",
+  "why": "reviewer (minor): case/gender garbled word order"
+ },
+ {
+  "n": "64",
+  "field": "hindi",
+  "old": "परमेष्ठी तुम्हें स्वर्ग की पीठ पर बैठाए, तुम विशाल और विस्तृत को। स्वर्ग को थामो, स्वर्ग को दृढ़ करो, स्वर्ग को हानि मत पहुँचाओ। समस्त प्राण, अपान, व्यान, उदान, प्रतिष्ठा और संचरण के लिए। सूर्य महान कल्याण और अत्यन्त सुखकारी आवरण से तुम्हारी रक्षा करे; उस देवता के साथ अंगिरा के समान तुम दोनों दृढ़ होकर बैठो।",
+  "new": "परमेष्ठी तुम्हें स्वर्ग की पीठ पर बैठाए, तुम विशाल और विस्तृत को। स्वर्ग को थामो, स्वर्ग को दृढ़ करो, स्वर्ग को हानि मत पहुँचाओ। समस्त प्राण, अपान, व्यान, उदान, प्रतिष्ठा और आचरण के लिए। सूर्य महान कल्याण और अत्यन्त सुखकारी आवरण से तुम्हारी रक्षा करे; उस देवता के साथ अंगिरा के समान तुम दोनों दृढ़ होकर बैठो।",
+  "why": "reviewer (minor): English says 'conduct'"
+ },
+ {
+  "n": "41",
+  "field": "gloss",
+  "old": "racers",
+  "new": "strong ones",
+  "manual": true
+ },
+ {
+  "n": "48",
+  "field": "notes",
+  "old": "'toward us' is not stated in the line (accha only).",
+  "new": "accha 'to' is taken without an added object.",
+  "manual": true
+ },
+ {
+  "n": "53",
+  "field": "english",
+  "old": "Move off together, go forth together;",
+  "new": "Move off together, go near, go forth together;",
+  "manual": true
+ },
+ {
+  "n": "55",
+  "field": "split",
+  "old": "svar-deveṣu",
+  "new": "svar deveṣu",
+  "manual": true
+ },
+ {
+  "n": "56",
+  "field": "text_flags",
+  "old": "",
+  "new": "added",
+  "manual": true
+ },
+ {
+  "n": "56",
+  "field": "gram",
+  "old": "f.",
+  "new": "m./f.",
+  "manual": true
+ },
+ {
+  "n": "57",
+  "field": "gram",
+  "old": "nom. du.",
+  "new": "acc. du. (x3)",
+  "manual": true
+ }
+]

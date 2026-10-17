@@ -1,0 +1,613 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "सेवन करती हुई",
+     "problem": "Hindi 'सेवन करती हुई' (partaking/serving) does not match the English and gloss 'delighting' (juṣāṇā).",
+     "fix": "आनन्द लेती हुई",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "सेवन करती हुई",
+      "new": "आनन्द लेती हुई",
+      "n": "1"
+     }
+    }
+   ]
+  },
+  {
+   "n": "2",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "purṷndhiḥ",
+     "problem": "The flag's reason is wrong: ṷ only marks an accented u, it is not a variant vowel. The real difference from the usual purandhi is u instead of a after pur- (printed purundhiḥ).",
+     "fix": "why: possible: usual form is purandhi 'bountiful'; the printed word has u (purundhi) where a is expected",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "3",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "su-śevāḥ",
+     "problem": "w ends in visarga; the printed token is suśevā (f. nom. sg.), so 'su-śevāḥ' is not the printed form.",
+     "fix": "su-śevā",
+     "severity": "error",
+     "patch": {
+      "op": "word",
+      "match_w": "su-śevāḥ",
+      "field": "w",
+      "value": "su-śevā",
+      "n": "3"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "bṛhate / raṇāya",
+     "problem": "bṛhate is labelled n. dat. sg. but agrees with raṇāya labelled m. dat. sg.; labels must agree.",
+     "fix": "bṛhate: m./n. dat. sg.",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "bṛhate",
+      "field": "gram",
+      "value": "m./n. dat. sg.",
+      "n": "3"
+     }
+    }
+   ]
+  },
+  {
+   "n": "4",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "स्तोम को पीठ वाली, घृत से भरी, यहाँ बैठो",
+     "problem": "Garbled Hindi: 'स्तोम को पीठ वाली' is not a rendering of stoma-pṛṣṭhā (having stoma as back).",
+     "fix": "स्तोम जिसकी पीठ है, घृत से भरी तुम यहाँ बैठो",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "स्तोम को पीठ वाली, घृत से भरी, यहाँ बैठो",
+      "new": "स्तोम जिसकी पीठ है, घृत से भरी तुम यहाँ बैठो",
+      "n": "4"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "draviṇā",
+     "problem": "'n. acc. sg.' is not a valid form (acc. sg. is draviṇam). draviṇā is neuter nom./acc. pl. (Vedic) or instr. sg.",
+     "fix": "n. acc. pl. (Vedic -ā; or inst. sg.)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "draviṇā",
+      "field": "gram",
+      "value": "n. acc. pl. (Vedic -ā; or inst. sg.)",
+      "n": "4"
+     }
+    }
+   ]
+  },
+  {
+   "n": "5",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "on the back of Aditi, the supporter of the atmosphere, the prop, the mistress of the directions, of the worlds",
+     "problem": "Epithets are accusative feminine (dhartrīm, viṣṭambhanīm, adhipatnīm) and agree with tvā, not with Aditi (genitive). The English makes them appositives of Aditi.",
+     "fix": "I seat you, the supporter of the atmosphere, the prop, the mistress of the directions, of the worlds, on the back of Aditi.",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "I seat you on the back of Aditi, the supporter of the atmosphere, the prop, the mistress of the directions, of the worlds.",
+      "new": "I seat you, the supporter of the atmosphere, the prop, the mistress of the directions, of the worlds, on the back of Aditi.",
+      "n": "5"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "मैं तुम्हें अदिति की पीठ पर बैठाता हूँ, अन्तरिक्ष को धारण करने वाली...",
+     "problem": "Same attachment problem in Hindi: the feminine epithets read as describing Aditi.",
+     "fix": "मैं तुम्हें, अन्तरिक्ष को धारण करने वाली, थामने वाली, दिशाओं की स्वामिनी, भुवनों की, अदिति की पीठ पर बैठाता हूँ।",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "मैं तुम्हें अदिति की पीठ पर बैठाता हूँ, अन्तरिक्ष को धारण करने वाली, थामने वाली, दिशाओं की स्वामिनी, भुवनों की।",
+      "new": "मैं तुम्हें, अन्तरिक्ष को धारण करने वाली, थामने वाली, दिशाओं की स्वामिनी, भुवनों की, अदिति की पीठ पर बैठाता हूँ।",
+      "n": "5"
+     }
+    }
+   ]
+  },
+  {
+   "n": "6",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "pṛthaṅ nama jyaiṣṭhyāya",
+     "problem": "Hindi and English attach pṛthak differently: English puts 'each separately' with the fires, Hindi puts 'अलग-अलग' with 'ज्येष्ठता के लिए'. Make both follow one reading (pṛthak namaḥ jyaiṣṭhyāya) or note the ambiguity.",
+     "fix": "English: '...may the fires be ordered; separately, homage for seniority, of the same observance.'",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "7",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "united with the gods, the vayonādhas",
+     "problem": "vayonādhaiḥ is instrumental plural, so 'united with the gods, the vayonādhas' drops 'with' and reads as a nominative. Five occurrences.",
+     "fix": "every occurrence: '..., united with the gods, with the vayonādhas: you for Agni Vaiśvānara.'",
+     "severity": "error",
+     "patch": {
+      "op": "set",
+      "field": "english",
+      "value": "United with the seasons, united with the ordinances, united with the gods, united with the gods, with the vayonādhas: you for Agni Vaiśvānara. May the two Aśvins, the two adhvaryus, seat you here. United with the seasons, united with the ordinances, united with the Vasus, united with the gods, with the vayonādhas: you for Agni Vaiśvānara. May the two Aśvins, the two adhvaryus, seat you here. United with the seasons, united with the ordinances, united with the Rudras, united with the gods, with the vayonādhas: you for Agni Vaiśvānara. May the two Aśvins, the two adhvaryus, seat you here. United with the seasons, united with the ordinances, united with the Ādityas, united with the gods, with the vayonādhas: you for Agni Vaiśvānara. May the two Aśvins, the two adhvaryus, seat you here. United with the seasons, united with the ordinances, united with all the gods, united with the gods, with the vayonādhas: you for Agni Vaiśvānara. May the two Aśvins, the two adhvaryus, seat you here.",
+      "n": "7"
+     }
+    }
+   ]
+  },
+  {
+   "n": "8",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "divaḥ",
+     "problem": "Gloss 'of heaven' but English and Hindi render 'from heaven' (ablative); form is gen./abl.",
+     "fix": "from heaven",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "divaḥ",
+      "field": "gloss",
+      "value": "from heaven",
+      "n": "8"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "द्युलोक से",
+     "problem": "'द्युलोक' brings in loka (world), which the glossary keeps separate; the text has only div 'heaven'.",
+     "fix": "द्यौ से",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "द्युलोक से वर्षा",
+      "new": "द्यौ से वर्षा",
+      "n": "8"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "ओषधियों को तृप्त करो",
+     "problem": "English and gloss say 'quicken' (jinva); Hindi 'तृप्त करो' means satisfy.",
+     "fix": "ओषधियों को जीवन्त करो",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "ओषधियों को तृप्त करो",
+      "new": "ओषधियों को जीवन्त करो",
+      "n": "8"
+     }
+    }
+   ]
+  },
+  {
+   "n": "9",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "10",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "Then the fragment: the world, tā, Indra.",
+     "problem": "'Then the fragment' is added; the closing words are made into a sentence-like list. Nothing in the text says 'then' or 'fragment'.",
+     "fix": "Closing words, not translated as a sentence: lokam, tā, indram.",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "Then the fragment: the world, tā, Indra.",
+      "new": "Closing words, not translated as a sentence: lokam, tā, indram.",
+      "n": "10"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "फिर अंश: लोक, ता, इन्द्र को।",
+     "problem": "'फिर' and the case marker 'को' are added; 'indram' is given a dative sense the text does not have.",
+     "fix": "अन्त के शब्द, वाक्य के रूप में अनूदित नहीं: लोकम्, ता, इन्द्रम्।",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "फिर अंश: लोक, ता, इन्द्र को।",
+      "new": "अन्त के शब्द, वाक्य के रूप में अनूदित नहीं: लोकम्, ता, इन्द्रम्।",
+      "n": "10"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "GROUPING: ...stray incipit of the following formula",
+     "problem": "The theory fails: the same string ends units 10, 22 and 31, but unit 11 begins indrāgnī (not lokam) and unit 23 begins āśus trivṛt. It is a recurring cue (probably three separate pratīkas lokam / tā / indram citing other mantras), not an opening of the next unit. Keep it with its own unit as a trailing cue; do not merge it into the next unit.",
+     "fix": "GROUPING: 'lokaṃ tā indram' recurs at the end of units 10, 22 and 31 and is not followed by a matching formula; it is probably a set of ritual cue words (pratīkas), left untranslated as a sentence.",
+     "severity": "minor"
+    },
+    {
+     "field": "text_flags",
+     "where": "chanda̭' stṷrya̱vāḍ",
+     "problem": "Unflagged stray avagraha after chanda̭ before stṷrya̱vāḍ: chandaḥ + t- gives chanda s-, no elided a. Similar spots (striva̱tso) have no apostrophe.",
+     "fix": "add flag: src \"chanda̭'\" suggest \"chanda̭\"; why: possible stray avagraha (also in Devanagari छन्द॑ऽ)",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "11",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "With its back you push apart",
+     "problem": "'its' is an unsupported addition and clashes with 'you' (bādhase, 2 sg.); text has pṛṣṭhena 'with the back'.",
+     "fix": "With the back you push apart heaven and earth and the atmosphere.",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "With its back you push apart",
+      "new": "With the back you push apart",
+      "n": "11"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "dyāvā-pṛthivī (line b)",
+     "problem": "Labelled nominative dual, but it is the object of vi bādhase (accusative dual; the form is shared).",
+     "fix": "dvandva, f. acc. du.",
+     "severity": "error",
+     "patch": {
+      "op": "word",
+      "match_w": "dyāvā-pṛthivī",
+      "field": "gram",
+      "value": "dvandva, f. acc. du.",
+      "n": "11"
+     }
+    }
+   ]
+  },
+  {
+   "n": "12",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "13",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "14",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "15",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "pṛthaṅ nama jyaiṣṭhyāya",
+     "problem": "Hindi and English attach pṛthak differently: English puts 'each separately' with the fires, Hindi puts 'अलग-अलग' with 'ज्येष्ठता के लिए'. Make both follow one reading (pṛthak namaḥ jyaiṣṭhyāya) or note the ambiguity.",
+     "fix": "as unit 6",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "16",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "pṛthaṅ nama jyaiṣṭhyāya",
+     "problem": "Hindi and English attach pṛthak differently: English puts 'each separately' with the fires, Hindi puts 'अलग-अलग' with 'ज्येष्ठता के लिए'. Make both follow one reading (pṛthak namaḥ jyaiṣṭhyāya) or note the ambiguity.",
+     "fix": "as unit 6",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "17",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "pinva",
+     "problem": "Gloss 'refresh' but English and Hindi both say 'swell' (बढ़ाओ), as in unit 2.",
+     "fix": "swell",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "pinva",
+      "field": "gloss",
+      "value": "swell",
+      "n": "17"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "मेरे मन को तृप्त करो",
+     "problem": "'quicken' (jinva) rendered as 'तृप्त करो' (satisfy).",
+     "fix": "मेरे मन को जीवन्त करो",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "मेरे मन को तृप्त करो",
+      "new": "मेरे मन को जीवन्त करो",
+      "n": "17"
+     }
+    }
+   ]
+  },
+  {
+   "n": "18",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "19",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "20",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "The doubled apostrophe in ''dityā is the edition's mark for the contraction",
+     "problem": "Stated as fact; it is an inference (a long ā lost in sandhi, as also in unit 4 draviṇā''yajasva).",
+     "fix": "Soften to 'appears to mark the loss of the long ā of ādityāḥ after devatā'.",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "21",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "22",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "Then the fragment: the world, tā, Indra.",
+     "problem": "Added 'Then the fragment'.",
+     "fix": "Closing words, not translated as a sentence: lokam, tā, indram.",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "Then the fragment: the world, tā, Indra.",
+      "new": "Closing words, not translated as a sentence: lokam, tā, indram.",
+      "n": "22"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "फिर अंश: लोक, ता, इन्द्र को।",
+     "problem": "Added 'फिर' and 'को'.",
+     "fix": "अन्त के शब्द, वाक्य के रूप में अनूदित नहीं: लोकम्, ता, इन्द्रम्।",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "फिर अंश: लोक, ता, इन्द्र को।",
+      "new": "अन्त के शब्द, वाक्य के रूप में अनूदित नहीं: लोकम्, ता, इन्द्रम्।",
+      "n": "22"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "GROUPING: ...stray incipit of the following formula",
+     "problem": "Contradicted here: unit 23 begins āśus trivṛt. See unit 10; treat as a recurring cue, not the next unit's start.",
+     "fix": "as unit 10",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "23",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "saviṃśaḥ",
+     "problem": "Left as unknown, but the order 18, 19, saviṃśa, 22 points to 'twentyfold' (sa-viṃśa); at least hedge it. Also Āśu/Bhānta are glossed (swift, shining) yet kept as names while vyoman and dharuṇa are translated; the list treatment is uneven.",
+     "fix": "saviṃśa (probably the twentyfold; uncertain)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "saviṃśaḥ",
+      "field": "gloss",
+      "value": "saviṃśa (probably the twentyfold; uncertain)",
+      "n": "23"
+     }
+    }
+   ]
+  },
+  {
+   "n": "24",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "द्युलोक की वर्षा",
+     "problem": "'द्युलोक' brings in loka; text has div 'heaven'.",
+     "fix": "द्यौ की वर्षा",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "द्युलोक की वर्षा",
+      "new": "द्यौ की वर्षा",
+      "n": "24"
+     }
+    }
+   ]
+  },
+  {
+   "n": "25",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "26",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "yavānām",
+     "problem": "Gloss asserts '(barley)' while the English leaves yava transliterated and the notes call it obscure; ayavānām is marked uncertain.",
+     "fix": "of the yavas (uncertain term)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "yavānām",
+      "field": "gloss",
+      "value": "of the yavas (uncertain term)",
+      "n": "26"
+     }
+    }
+   ]
+  },
+  {
+   "n": "27",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "pṛthaṅ nama jyaiṣṭhyāya",
+     "problem": "Hindi and English attach pṛthak differently: English puts 'each separately' with the fires, Hindi puts 'अलग-अलग' with 'ज्येष्ठता के लिए'. Make both follow one reading (pṛthak namaḥ jyaiṣṭhyāya) or note the ambiguity.",
+     "fix": "as unit 6",
+     "severity": "minor"
+    },
+    {
+     "field": "gloss",
+     "where": "haimantikau",
+     "problem": "Gloss 'of winter' but English and Hindi say 'Hemanta'.",
+     "fix": "of Hemanta (both occurrences)",
+     "severity": "minor"
+    },
+    {
+     "field": "notes",
+     "where": "pṛthaṅ nama jyaiṣṭhyāya",
+     "problem": "Hindi and English attach pṛthak differently: English puts 'each separately' with the fires, Hindi puts 'अलग-अलग' with 'ज्येष्ठता के लिए'. Make both follow one reading (pṛthak namaḥ jyaiṣṭhyāya) or note the ambiguity.",
+     "fix": "as unit 6",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "28",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "29",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "30",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "31",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "Then the fragment: the world, tā, Indra.",
+     "problem": "Added 'Then the fragment'.",
+     "fix": "Closing words, not translated as a sentence: lokam, tā, indram.",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "Then the fragment: the world, tā, Indra.",
+      "new": "Closing words, not translated as a sentence: lokam, tā, indram.",
+      "n": "31"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "फिर अंश: लोक, ता, इन्द्र को।",
+     "problem": "Added 'फिर' and 'को'.",
+     "fix": "अन्त के शब्द, वाक्य के रूप में अनूदित नहीं: लोकम्, ता, इन्द्रम्।",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "फिर अंश: लोक, ता, इन्द्र को।",
+      "new": "अन्त के शब्द, वाक्य के रूप में अनूदित नहीं: लोकम्, ता, इन्द्रम्।",
+      "n": "31"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "yavāḥ / ayavāḥ",
+     "problem": "Glosses give 'barley / non-barley' as fact; unit 26 and the notes treat the terms as obscure.",
+     "fix": "yavas (uncertain term) / ayavas (uncertain term)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "yavāḥ",
+      "field": "gloss",
+      "value": "yavas (uncertain term)",
+      "n": "31"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "GROUPING: ...stray incipit of the following formula",
+     "problem": "Unsupported; see unit 10 (recurring cue at the end of units 10, 22, 31).",
+     "fix": "as unit 10",
+     "severity": "minor"
+    }
+   ]
+  }
+ ],
+ "summary": "12 errors, 25 minor. Main: units 10/22/31 closing 'lokaṃ tā indram' translated with added 'Then the fragment'/'फिर'/'को' and its next-formula theory fails (unit 11 starts indrāgnī, unit 23 starts āśus trivṛt): treat as a recurring cue, keep inside its unit as untranslated cue words, do not merge into a neighbour. Others: unit 3 su-śevāḥ wrong w; unit 4 garbled Hindi; unit 5 epithets attached to Aditi instead of tvā; unit 7 'with' missing before vayonādhas; unit 11 'its back' and nom. for acc. dyāvāpṛthivī. Units without issues: 9,12,13,14,18,19,21,25,28,29,30."
+}

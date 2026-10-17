@@ -1,0 +1,223 @@
+[
+ {
+  "n": "79",
+  "field": "word.w",
+  "word": "puruṣam",
+  "old": "puruṣam",
+  "new": "pūruṣam",
+  "why": "reviewer (minor): Printed text has long ū (pūruṣa), and units 82 and 91 use pūruṣa; keep one spelling."
+ },
+ {
+  "n": "81",
+  "field": "english",
+  "old": "I have obtained all the herbs, rich in horses, rich in Soma, strengthening, of exalted might, for him, for freedom from harm.",
+  "new": "I have found the herb rich in horses, rich in Soma, strengthening, of exalted might, and all the herbs, for him, for freedom from harm.",
+  "why": "reviewer (error): aśvāvatīm, somāvatīm, ūrjayantīm, udojasam are all singular accusative; sarvāḥ oṣadhīḥ is plural. The draft applies the singular adjectives to the plural herbs. Also 'obtained' does not match the gloss 'found'."
+ },
+ {
+  "n": "81",
+  "field": "hindi",
+  "old": "मैंने अश्वों से युक्त, सोम से युक्त, बल देने वाली, उत्कृष्ट ओज वाली सब ओषधियाँ प्राप्त कर ली हैं, उसके लिए, हानि से मुक्त रहने के लिए।",
+  "new": "मैंने अश्वों से युक्त, सोम से युक्त, बल देने वाली, उत्कृष्ट ओज वाली ओषधि को और सब ओषधियों को प्राप्त कर लिया है, उसके लिए, हानि से मुक्त रहने के लिए।",
+  "why": "reviewer (error): Same mismatch of number as in the English."
+ },
+ {
+  "n": "82",
+  "field": "hindi",
+  "old": "ओषधियों की उठती हुई शक्तियाँ गायों की तरह गोशाला से निकलती हैं; धन जीतने वाली उन ओषधियों की, तुम्हारे आत्मा को, हे पुरुष।",
+  "new": "ओषधियों की उठती हुई शक्तियाँ गायों की तरह गोशाला से निकलती हैं; धन जीतने वालियों की, तुम्हारे आत्मा को, हे पुरुष।",
+  "why": "reviewer (minor): Adds 'ओषधियों' (herbs) which the line does not state; the English keeps 'of those that will win wealth'."
+ },
+ {
+  "n": "83",
+  "field": "notes",
+  "old": "iṣkṛti and niṣkṛti are kept as transliterated terms (related to the sense 'remedy, restoration'); sīrāḥ is obscure and left untranslated; sthana is a Vedic form of stha. The line before the second half-verse has no verb of its own for yat; 'it' in the Hindi is implied.",
+  "new": "iṣkṛti and niṣkṛti are kept as transliterated terms (related to the sense 'remedy, restoration'); sīrāḥ is obscure and left untranslated; sthana is a Vedic form of stha. yat āmayati is read as 'whatever afflicts', with 'it' supplied in the Hindi.",
+  "why": "reviewer (minor): Wrong: yat has its own verb āmayati. The sentence is misleading."
+ },
+ {
+  "n": "83",
+  "field": "word.gram",
+  "word": "āmayati",
+  "old": "3 sg. pres. √am",
+  "new": "3 sg. pres. caus. √am",
+  "why": "reviewer (minor): √am in this sense is causative (āmayati 'makes ill, afflicts')."
+ },
+ {
+  "n": "84",
+  "field": "word.gram",
+  "word": "yat",
+  "old": "rel. n. nom. sg.",
+  "new": "rel. n. acc. sg.",
+  "why": "reviewer (minor): Relative is the object of prācucyavuḥ, so accusative, not nominative."
+ },
+ {
+  "n": "84",
+  "field": "word.gram",
+  "word": "kim",
+  "old": "pron. n. nom. sg.",
+  "new": "pron. n. acc. sg.",
+  "why": "reviewer (minor): Same: object of prācucyavuḥ."
+ },
+ {
+  "n": "84",
+  "field": "word.gram",
+  "word": "rapaḥ",
+  "old": "n. nom. sg.",
+  "new": "n. acc. sg.",
+  "why": "reviewer (minor): Object of prācucyavuḥ (oṣadhīḥ is the subject), so accusative."
+ },
+ {
+  "n": "85",
+  "field": "word.gram",
+  "word": "jīva-gṛbhaḥ",
+  "old": "m. nom. sg.; tat-puruṣa",
+  "new": "m. abl. sg.; tat-puruṣa",
+  "why": "reviewer (minor): purā governs the ablative; the form is abl. sg., not nom. sg."
+ },
+ {
+  "n": "85",
+  "field": "word.gram",
+  "word": "vājayan",
+  "old": "pres. part. caus. √vaj",
+  "new": "pres. part. denom. vājaya (from vāja)",
+  "why": "reviewer (minor): vājayati is a denominative from vāja, not a causative of √vaj."
+ },
+ {
+  "n": "87",
+  "field": "hindi",
+  "old": "हे यक्ष्म, चाष के साथ और किकिदीविन् के साथ उड़ जा; वात के झोंके के साथ और निहाका के साथ ही नष्ट हो जा।",
+  "new": "हे यक्ष्म, चाष के साथ और किकिदीविन् के साथ उड़ जा; वात के झोंके के साथ और निहाका के साथ नष्ट हो जा।",
+  "why": "reviewer (minor): 'ही' (emphasis) is added; the English has none."
+ },
+ {
+  "n": "92",
+  "field": "hindi",
+  "old": "जो बहुत सी ओषधियाँ सोम को राजा मानने वाली और सौ प्रकार की विवेक-दृष्टि वाली हैं, उनमें तुम सर्वश्रेष्ठ हो; कामना के लिए उपयुक्त, हृदय के लिए कल्याण।",
+  "new": "जो बहुत सी ओषधियाँ सोम को राजा मानने वाली और सौ विवेक-दृष्टियों वाली हैं, उनमें तुम सर्वश्रेष्ठ हो; कामना के लिए उपयुक्त, हृदय के लिए कल्याण।",
+  "why": "reviewer (minor): 'प्रकार की' (kinds) is added; English is 'a hundred discernments'."
+ },
+ {
+  "n": "94",
+  "field": "hindi",
+  "old": "और जो यहाँ पास से इसे सुनती हैं, और जो दूर चली गई हैं, वे सब पौधे मिलकर इसे पराक्रम प्रदान करो।",
+  "new": "और जो इसे पास से सुनती हैं, और जो दूर चली गई हैं, वे सब पौधे मिलकर इसे पराक्रम प्रदान करो।",
+  "why": "reviewer (minor): 'यहाँ' (here) is added; the text has idam (this) and upa- (near)."
+ },
+ {
+  "n": "105",
+  "field": "hindi",
+  "old": "मैं यहाँ से पोषण और रस लेता हूँ, ऋत की योनि को, शक्तिशाली की धारा को। वह मुझमें प्रवेश करे, गायों में, शरीरों में; मैं सेदि, अनिरा और अमीवा को छोड़ता हूँ।",
+  "new": "मैं यहाँ से पोषण और रस लेता हूँ, ऋत की योनि को, शक्तिशाली की धारा को। वह मुझमें प्रवेश करे, गायों में, शरीरों में; मैं सेदि, अनिरा और पीड़ा को छोड़ता हूँ।",
+  "why": "reviewer (minor): English renders amīvā 'affliction' and unit 80 Hindi renders amīva as पीड़ा; the Hindi here transliterates. Inconsistent."
+ },
+ {
+  "n": "107",
+  "field": "english",
+  "old": "With purifying brilliance, bright brilliance, undiminished brilliance, you rise with your light. As a son, moving about, you favour the two mothers; you fill both rodasī.",
+  "new": "You, of purifying brilliance, of bright brilliance, of undiminished brilliance, rise with your light. As a son, moving about, you favour the two mothers; you fill both rodasī.",
+  "why": "reviewer (error): The three bahuvrīhis are m. nom. sg. (as the draft's own gram says and as the Hindi has them), agreeing with the addressee; the English turns them into instrumental phrases."
+ },
+ {
+  "n": "107",
+  "field": "hindi",
+  "old": "तुम पावन तेज वाले, उज्ज्वल तेज वाले और अक्षीण तेज वाले हो; अपनी दीप्ति से ऊपर उठते हो। पुत्र के रूप में दोनों माताओं के बीच विचरते हुए तुम उन पर अनुग्रह करते हो; तुम दोनों रोदसी को भर देते हो।",
+  "new": "तुम पावन तेज वाले, उज्ज्वल तेज वाले और अक्षीण तेज वाले हो; अपनी दीप्ति से ऊपर उठते हो। पुत्र के रूप में विचरते हुए तुम दोनों माताओं पर अनुग्रह करते हो; तुम दोनों रोदसी को भर देते हो।",
+  "why": "reviewer (minor): 'के बीच' (between) is added; mātarā is the object of upāvasi, vicaran just 'moving about'; English has no 'between'."
+ },
+ {
+  "n": "108",
+  "field": "hindi",
+  "old": "हे बल की सन्तान जातवेदस्, उत्तम स्तुतियों से प्रसन्न हो, भक्ति से स्थापित हुए। तुममें अनेक रूपों वाले, अद्भुत सहायता वाले, वाम से उत्पन्न जनों ने पोषण स्थापित किया है।",
+  "new": "हे बल की सन्तान जातवेदस्, उत्तम स्तुतियों से प्रसन्न हो, भक्ति से स्थापित हुए। तुममें अनेक रूपों वाले, अद्भुत सहायता वाले, इष्ट से उत्पन्न उन्होंने पोषण स्थापित किया है।",
+  "why": "reviewer (minor): Adds 'जनों' (people) not in the text, and leaves vāma as Hindi 'वाम' (left) while English and unit 110 render 'desirable' (इच्छित/इष्ट)."
+ },
+ {
+  "n": "111",
+  "field": "word.w",
+  "word": "sapratha-stamam",
+  "old": "sapratha-stamam",
+  "new": "saprathas-tamam",
+  "why": "reviewer (minor): Wrong stem split: the compound is saprathas-tama (as the draft itself gives in unit 114: saprathas-tamaḥ)."
+ },
+ {
+  "n": "111",
+  "field": "word.gloss",
+  "word": "yugā",
+  "old": "ages",
+  "new": "generations",
+  "why": "reviewer (minor): Gloss 'ages' but English and note say 'generations'."
+ },
+ {
+  "n": "113",
+  "field": "word.gram",
+  "word": "yantu",
+  "old": "3 pl. imv. √yam",
+  "new": "3 pl. imv. saṃ-√i",
+  "why": "reviewer (error): Wrong root: sam yantu is from √i (saṃ-√i, 'come together'), parallel to sametu in unit 112; √yam would give yacchantu."
+ },
+ {
+  "n": "115",
+  "field": "word.gram",
+  "word": "paramāt",
+  "old": "m. abl. sg.",
+  "new": "n. abl. sg.",
+  "why": "reviewer (minor): Agrees with sadhasthāt (n.), so should be n. abl. sg."
+ },
+ {
+  "n": "115",
+  "field": "hindi",
+  "old": "बछड़ा तुम्हारे मन को सबसे दूर के सहनिवास से भी खींच लाए; हे अग्नि, तुम्हें चाहने वाली वाणी से।",
+  "new": "बछड़ा तुम्हारे मन को सर्वोच्च सहनिवास से भी खींच लाए; हे अग्नि, तुम्हें चाहने वाली वाणी से।",
+  "why": "reviewer (minor): English says 'highest'; 'सबसे दूर' (farthest) is a different sense and unmarked as a choice."
+ },
+ {
+  "n": "79",
+  "field": "split",
+  "old": "vasati-kṛtā",
+  "new": "vasatiḥ kṛtā",
+  "manual": true
+ },
+ {
+  "n": "82",
+  "field": "gloss",
+  "old": "rising strengths",
+  "new": "with rising strength",
+  "manual": true
+ },
+ {
+  "n": "82",
+  "field": "english",
+  "old": "The rising strengths of the herbs go forth",
+  "new": "The herbs, with rising strength, go forth",
+  "manual": true
+ },
+ {
+  "n": "82",
+  "field": "hindi",
+  "old": "ओषधियों की उठती हुई शक्तियाँ गायों",
+  "new": "उठती हुई शक्ति वाली ओषधियाँ गायों",
+  "manual": true
+ },
+ {
+  "n": "86",
+  "field": "split",
+  "old": "bādhadhva",
+  "new": "bādhadhve",
+  "manual": true
+ },
+ {
+  "n": "113",
+  "field": "english",
+  "old": "may strengths come together, may the manly vigours, the overcomers of foes, come together",
+  "new": "may the strengths, the overcomers of foes, come together, may the manly vigours come together",
+  "manual": true
+ },
+ {
+  "n": "113",
+  "field": "hindi",
+  "old": "बल एकत्र हों, और शत्रु को परास्त करने वाले पौरुष एकत्र हों",
+  "new": "शत्रु को परास्त करने वाले बल एकत्र हों, और पौरुष एकत्र हों",
+  "manual": true
+ }
+]

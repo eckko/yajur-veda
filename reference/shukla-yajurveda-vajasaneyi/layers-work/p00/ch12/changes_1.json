@@ -1,0 +1,460 @@
+[
+ {
+  "n": "1",
+  "field": "word.gram",
+  "word": "durmarṣam",
+  "old": "m. acc. sg.",
+  "new": "n. acc. sg.",
+  "why": "reviewer (minor): durmarṣa agrees with neuter āyuḥ, not masculine"
+ },
+ {
+  "n": "1",
+  "field": "hindi",
+  "old": "दिखाई देता हुआ, चमकीला रुक्म विस्तार से दमका; शोभा के लिए दीप्त होता हुआ, दुःसह आयु वाला। अग्नि जीवन-शक्तियों के साथ अमर हो गया, जब उत्तम बीज वाले द्यौ ने उसे उत्पन्न किया।",
+  "new": "दिखाई देता हुआ, चमकीला रुक्म विस्तार से दमका; शोभा के लिए दीप्त होता हुआ, दुःसह आयु। अग्नि जीवन-शक्तियों के साथ अमर हो गया, जब उत्तम बीज वाले द्यौ ने उसे उत्पन्न किया।",
+  "why": "reviewer (minor): Hindi makes durmarṣam āyuḥ a possessive compound ('having a hard-to-bear life'); English and notes keep it as a plain phrase 'a life hard to bear'"
+ },
+ {
+  "n": "2",
+  "field": "word.gram",
+  "word": "dyāvākṣāmā",
+  "old": "f. nom. du. dvandva",
+  "new": "f. acc. du. dvandva (with antar)",
+  "why": "reviewer (minor): English and notes take it as the object of antar ('between Heaven and Earth'), so the label should not be nominative"
+ },
+ {
+  "n": "2",
+  "field": "word.gram",
+  "word": "dhārayan",
+  "old": "3 pl. impf. caus. √dhṛ",
+  "new": "3 pl. inj. (augmentless, past sense) caus. √dhṛ",
+  "why": "reviewer (minor): labelled impf. but the note says augmentless; an augmentless form is injunctive"
+ },
+ {
+  "n": "3",
+  "field": "hindi",
+  "old": "कवि सब रूपों को धारण करता है; उसने दो पैर वाले और चार पैर वाले के लिए कल्याणकारी को प्रेरित किया। श्रेष्ठ सविता ने आकाश को प्रकाशित किया और उषाओं के प्रयाण के पीछे चमकता है।",
+  "new": "कवि सब रूपों को धारण करता है; उसने दो पैर वाले और चार पैर वाले के लिए कल्याणकारी को प्रेरित किया। श्रेष्ठ सविता ने स्वर्ग को प्रकाशित किया और उषाओं के प्रयाण के पीछे चमकता है।",
+  "why": "reviewer (error): Glossary fixes nāka = स्वर्ग in Hindi; आकाश breaks it"
+ },
+ {
+  "n": "3",
+  "field": "notes",
+  "old": "nāka rendered \"firmament\"; the glossary renders nāka as heaven (स्वर्ग) in Hindi only where required, here the Hindi uses आकाश for the literal \"vault\"; vi akhyat read as \"lit up\". Alternative: \"looked upon\".",
+  "new": "nāka English \"firmament\", Hindi स्वर्ग per glossary; vi akhyat read as \"lit up\"; alternative \"looked upon\".",
+  "why": "reviewer (minor): Notes misstate the glossary (it says nāka = स्वर्ग, not 'only where required')"
+ },
+ {
+  "n": "3",
+  "field": "word.gloss",
+  "word": "uṣasaḥ",
+  "old": "of the dawns",
+  "new": "of the dawn",
+  "why": "reviewer (error): uṣasaḥ cannot be genitive plural (that is uṣasām); gram says gen. sg. but gloss, English and Hindi say plural 'dawns'"
+ },
+ {
+  "n": "3",
+  "field": "english",
+  "old": "The seer puts on all forms; he has impelled what is good for the two-footed and the four-footed. Savitṛ, the excellent, has lit up the firmament and shines forth after the course of the dawns.",
+  "new": "The seer puts on all forms; he has impelled what is good for the two-footed and the four-footed. Savitṛ, the excellent, has lit up the firmament and shines forth after the course of the dawn.",
+  "why": "reviewer (error): same plural error as above"
+ },
+ {
+  "n": "3",
+  "field": "hindi",
+  "old": "कवि सब रूपों को धारण करता है; उसने दो पैर वाले और चार पैर वाले के लिए कल्याणकारी को प्रेरित किया। श्रेष्ठ सविता ने स्वर्ग को प्रकाशित किया और उषाओं के प्रयाण के पीछे चमकता है।",
+  "new": "कवि सब रूपों को धारण करता है; उसने दो पैर वाले और चार पैर वाले के लिए कल्याणकारी को प्रेरित किया। श्रेष्ठ सविता ने स्वर्ग को प्रकाशित किया और उषा के प्रयाण के पीछे चमकता है।",
+  "why": "reviewer (error): same plural error as above"
+ },
+ {
+  "n": "4",
+  "field": "word.w",
+  "word": "pucchaṃ",
+  "old": "pucchaṃ",
+  "new": "puccham",
+  "why": "reviewer (minor): w must be the dictionary-style inflected form"
+ },
+ {
+  "n": "4",
+  "field": "english",
+  "old": "You are fair-winged, winged; the trivṛt is your head, the gāyatra your eye, the bṛhat and rathantara your two wings. The stoma is the self, the metres are the limbs, the yajus formulas are the name; the sāman is your body, the vāmadevya and yajñāyajñiya are the tail, the dhiṣṇyas are the hooves. You are fair-winged, winged; go to the sky, fly to the light.",
+  "new": "You are fair-winged, winged; the trivṛt is your head, the gāyatra your eye, the bṛhat and rathantara your two wings. The stoma is the self, the metres are the limbs, the yajus formulas are the name; the sāman is your body, the vāmadevya and yajñāyajñiya are the tail, the dhiṣṇyas are the hooves. You are fair-winged, winged; go to the sky, fly to svar.",
+  "why": "reviewer (minor): English says 'light' while Hindi keeps svar and gloss says 'light, heaven'; the two languages disagree"
+ },
+ {
+  "n": "5",
+  "field": "hindi",
+  "old": "तुम विष्णु के पद-क्रम हो, शत्रुओं को मारने वाले; गायत्र छन्द पर चढ़ो, पृथ्वी के साथ-साथ पग बढ़ाओ। तुम विष्णु के पद-क्रम हो, विरोधियों को मारने वाले; त्रैष्टुभ छन्द पर चढ़ो, अन्तरिक्ष के साथ-साथ पग बढ़ाओ। तुम विष्णु के पद-क्रम हो, शत्रु जैसा आचरण करने वाले के हन्ता; जागत छन्द पर चढ़ो, द्यौ के साथ-साथ पग बढ़ाओ। तुम विष्णु के पद-क्रम हो, शत्रु बनने वाले के हन्ता; आनुष्टुभ छन्द पर चढ़ो, दिशाओं के साथ-साथ पग बढ़ाओ।",
+  "new": "तुम विष्णु के पद-क्रम हो, प्रतिद्वन्द्वियों को मारने वाले; गायत्र छन्द पर चढ़ो, पृथ्वी के साथ-साथ पग बढ़ाओ। तुम विष्णु के पद-क्रम हो, विरोधियों को मारने वाले; त्रैष्टुभ छन्द पर चढ़ो, अन्तरिक्ष के साथ-साथ पग बढ़ाओ। तुम विष्णु के पद-क्रम हो, शत्रु जैसा आचरण करने वाले के हन्ता; जागत छन्द पर चढ़ो, द्यौ के साथ-साथ पग बढ़ाओ। तुम विष्णु के पद-क्रम हो, शत्रु बनने वाले के हन्ता; आनुष्टुभ छन्द पर चढ़ो, दिशाओं के साथ-साथ पग बढ़ाओ।",
+  "why": "reviewer (minor): Hindi swaps the renderings: sapatnahā is 'slayer of rivals', abhimātihā 'slayer of enemies' in English"
+ },
+ {
+  "n": "5",
+  "field": "hindi",
+  "old": "तुम विष्णु के पद-क्रम हो, प्रतिद्वन्द्वियों को मारने वाले; गायत्र छन्द पर चढ़ो, पृथ्वी के साथ-साथ पग बढ़ाओ। तुम विष्णु के पद-क्रम हो, विरोधियों को मारने वाले; त्रैष्टुभ छन्द पर चढ़ो, अन्तरिक्ष के साथ-साथ पग बढ़ाओ। तुम विष्णु के पद-क्रम हो, शत्रु जैसा आचरण करने वाले के हन्ता; जागत छन्द पर चढ़ो, द्यौ के साथ-साथ पग बढ़ाओ। तुम विष्णु के पद-क्रम हो, शत्रु बनने वाले के हन्ता; आनुष्टुभ छन्द पर चढ़ो, दिशाओं के साथ-साथ पग बढ़ाओ।",
+  "new": "तुम विष्णु के पद-क्रम हो, प्रतिद्वन्द्वियों को मारने वाले; गायत्र छन्द पर चढ़ो, पृथ्वी के साथ-साथ पग बढ़ाओ। तुम विष्णु के पद-क्रम हो, शत्रुओं को मारने वाले; त्रैष्टुभ छन्द पर चढ़ो, अन्तरिक्ष के साथ-साथ पग बढ़ाओ। तुम विष्णु के पद-क्रम हो, शत्रु जैसा आचरण करने वाले के हन्ता; जागत छन्द पर चढ़ो, द्यौ के साथ-साथ पग बढ़ाओ। तुम विष्णु के पद-क्रम हो, शत्रु बनने वाले के हन्ता; आनुष्टुभ छन्द पर चढ़ो, दिशाओं के साथ-साथ पग बढ़ाओ।",
+  "why": "reviewer (minor): see above"
+ },
+ {
+  "n": "6",
+  "field": "word.gram",
+  "word": "jajñānaḥ",
+  "old": "m. nom. sg. pres. part. mid. √jan",
+  "new": "m. nom. sg. pf. part. mid. √jan",
+  "why": "reviewer (minor): jajñāna- is a perfect middle participle, not present"
+ },
+ {
+  "n": "6",
+  "field": "hindi",
+  "old": "अग्नि गरजा, जैसे गरजता हुआ द्यौ; पृथ्वी को चाटता हुआ, वनस्पतियों को सजाता हुआ। तुरन्त उत्पन्न होता हुआ, प्रज्वलित होकर उसने दोनों लोकों को प्रकाशित किया; वह अपनी दीप्ति से भीतर चमकता है।",
+  "new": "अग्नि गरजा, जैसे गरजता हुआ द्यौ; पृथ्वी को चाटता हुआ, पौधों को सजाता हुआ। तुरन्त उत्पन्न होता हुआ, प्रज्वलित होकर उसने दोनों लोकों को प्रकाशित किया; वह अपनी दीप्ति से भीतर चमकता है।",
+  "why": "reviewer (minor): वनस्पति is the Hindi for vanaspati (units 37) and a different word from vīrudh; clash"
+ },
+ {
+  "n": "8",
+  "field": "english",
+  "old": "O Agni, O Aṅgiras, may you have a hundred turnings and a thousand returnings. Then, with the nourishment of nourishment, bring back to us what is lost; bring us wealth again.",
+  "new": "O Agni, O Aṅgiras, may you have a hundred turnings and a thousand returnings. Then, with the nourishment of nourishment, bring back to us what is lost; bring us riches again.",
+  "why": "reviewer (minor): rayi and dhana both come out as 'wealth' (unit 7 separates them: rayyā = riches). Keep rayi = riches (सम्पत्ति) in every unit"
+ },
+ {
+  "n": "8",
+  "field": "word.gloss",
+  "word": "rayim",
+  "old": "wealth",
+  "new": "riches",
+  "why": "reviewer (minor): same"
+ },
+ {
+  "n": "9",
+  "field": "english",
+  "old": "Turn back again with sap and strength; again, O Agni, with refreshment and life. Protect us again from distress.",
+  "new": "Turn back again with sap/strength; again, O Agni, with refreshment and life. Protect us again from distress.",
+  "why": "reviewer (minor): Glossary gives ūrj as sap/strength; 'and' turns one word into two items"
+ },
+ {
+  "n": "9",
+  "field": "hindi",
+  "old": "फिर रस और बल के साथ लौट आओ; हे अग्नि, फिर ताजगी और आयु के साथ। फिर हमें कष्ट से बचाओ।",
+  "new": "फिर रस/बल के साथ लौट आओ; हे अग्नि, फिर ताजगी और आयु के साथ। फिर हमें कष्ट से बचाओ।",
+  "why": "reviewer (minor): same"
+ },
+ {
+  "n": "10",
+  "field": "english",
+  "old": "Turn back together with wealth, O Agni; swell with a stream, viśvapsnyā, from all sides.",
+  "new": "Turn back together with riches, O Agni; swell with a stream, viśvapsnyā, from all sides.",
+  "why": "reviewer (minor): rayyā should be 'riches' (cf. unit 7, where dhana is 'wealth')"
+ },
+ {
+  "n": "10",
+  "field": "hindi",
+  "old": "धन के साथ लौट आओ, हे अग्नि; धारा के साथ उमड़ो, विश्वप्स्न्या, सब ओर से।",
+  "new": "सम्पत्ति के साथ लौट आओ, हे अग्नि; धारा के साथ उमड़ो, विश्वप्स्न्या, सब ओर से।",
+  "why": "reviewer (minor): rayi = सम्पत्ति (as in units 7, 8)"
+ },
+ {
+  "n": "10",
+  "field": "word.gloss",
+  "word": "rayyā",
+  "old": "with wealth",
+  "new": "with riches",
+  "why": "reviewer (minor): see above"
+ },
+ {
+  "n": "14",
+  "field": "word.w",
+  "word": "śuci-sad",
+  "old": "śuci-sad",
+  "new": "śuci-sat",
+  "why": "reviewer (minor): nominative before 'vasuḥ' shows the sandhi voicing; undone it is śuci-sat, as the other members (antarikṣa-sat etc.)"
+ },
+ {
+  "n": "14",
+  "field": "english",
+  "old": "The swan, sitting in the bright, Vasu, sitting in the airy space, the hotṛ, sitting at the altar, the guest, sitting in the house; sitting among men, sitting in the choice place, sitting in order, sitting in the firmament, born in the waters, born of cattle, born of order, born of stone: the great order.",
+  "new": "The swan, sitting in the bright, Vasu, sitting in the airy space, the hotṛ, sitting at the altar, the guest, sitting in the house; sitting among men, sitting in the choice, sitting in order, sitting in the firmament, born in the waters, born of cattle, born of order, born of stone: the great order.",
+  "why": "reviewer (minor): 'place' is added; vara-sat is 'sitting in the choice (one)'. Hindi वर is also ambiguous (boon/groom)"
+ },
+ {
+  "n": "14",
+  "field": "hindi",
+  "old": "हंस, उज्ज्वल में बैठने वाला, वसु, अन्तरिक्ष में बैठने वाला, होता, वेदी पर बैठने वाला, अतिथि, घर में बैठने वाला; मनुष्यों में बैठने वाला, वर में बैठने वाला, ऋत में बैठने वाला, आकाश में बैठने वाला, जल में उत्पन्न, गायों से उत्पन्न, ऋत से उत्पन्न, पत्थर से उत्पन्न, महान ऋत।",
+  "new": "हंस, उज्ज्वल में बैठने वाला, वसु, अन्तरिक्ष में बैठने वाला, होता, वेदी पर बैठने वाला, अतिथि, घर में बैठने वाला; मनुष्यों में बैठने वाला, श्रेष्ठ में बैठने वाला, ऋत में बैठने वाला, आकाश में बैठने वाला, जल में उत्पन्न, गायों से उत्पन्न, ऋत से उत्पन्न, पत्थर से उत्पन्न, महान ऋत।",
+  "why": "reviewer (minor): see above"
+ },
+ {
+  "n": "16",
+  "field": "notes",
+  "old": "ukhā kept transliterated; the verb \"are\" in the first clause is supplied, as the line has none; tasyāḥ \"of her\" is taken to refer back to the ukhā. Jātavedas kept as a name.",
+  "new": "ukhā kept transliterated; the verb \"are\" in the first clause is supplied, as the line has none; tasyāḥ \"of her\" is taken to refer back to the ukhā. Jātavedas kept as a name. tasyāḥ (\"of her\") is taken with tapan (\"burning her / over her\"); attaching it to harasā (\"her heat\") is also possible.",
+  "why": "reviewer (minor): Notes do not say what tasyāḥ attaches to; English 'over her' is a choice (alternative: 'her heat')"
+ },
+ {
+  "n": "18",
+  "field": "hindi",
+  "old": "आकाश से पहले अग्नि उत्पन्न हुआ; दूसरे स्थान पर हमसे जातवेदस्; तीसरे स्थान पर जलों में, पुरुषों के मन वाला; निरन्तर प्रज्वलित करता हुआ, उत्तम धी वाला इसकी स्तुति करता है।",
+  "new": "पहले आकाश से अग्नि उत्पन्न हुआ; दूसरे, हमसे जातवेदस्; तीसरे, जलों में, पुरुषों के मन वाला; निरन्तर प्रज्वलित करता हुआ, उत्तम धी वाला इसकी स्तुति करता है।",
+  "why": "reviewer (error): Reads as 'before the sky'; also 'स्थान पर' is added to dvitīyam/tṛtīyam (adverbs 'second', 'third')"
+ },
+ {
+  "n": "20",
+  "field": "hindi",
+  "old": "समुद्र में, जलों के भीतर, पुरुषों के मन वाले और पुरुषों को देखने वाले ने तुम्हें प्रज्वलित किया, हे अग्नि, आकाश के ऊधस् में। तीसरे क्षेत्र में, जलों की गोद में खड़े तुम को महान् लोगों ने बढ़ाया।",
+  "new": "समुद्र में, जलों के भीतर, पुरुषों के मन वाले और पुरुषों को देखने वाले ने तुम्हें प्रज्वलित किया, हे अग्नि, आकाश के ऊधस् में। तीसरे क्षेत्र में, जलों की गोद में खड़े तुम को महानों ने बढ़ाया।",
+  "why": "reviewer (minor): 'लोगों' (people) is added; mahiṣāḥ is 'great ones' and the notes say no agent is identified"
+ },
+ {
+  "n": "21",
+  "field": "word.gram",
+  "word": "jajñānaḥ",
+  "old": "m. nom. sg. pres. part. mid. √jan",
+  "new": "m. nom. sg. pf. part. mid. √jan",
+  "why": "reviewer (minor): jajñāna- is a perfect middle participle, not present"
+ },
+ {
+  "n": "21",
+  "field": "hindi",
+  "old": "अग्नि गरजा, जैसे गरजता हुआ द्यौ; पृथ्वी को चाटता हुआ, वनस्पतियों को सजाता हुआ। तुरन्त उत्पन्न होता हुआ, प्रज्वलित होकर उसने दोनों लोकों को प्रकाशित किया; वह अपनी दीप्ति से भीतर चमकता है।",
+  "new": "अग्नि गरजा, जैसे गरजता हुआ द्यौ; पृथ्वी को चाटता हुआ, पौधों को सजाता हुआ। तुरन्त उत्पन्न होता हुआ, प्रज्वलित होकर उसने दोनों लोकों को प्रकाशित किया; वह अपनी दीप्ति से भीतर चमकता है।",
+  "why": "reviewer (minor): वनस्पति is the Hindi for vanaspati (units 37) and a different word from vīrudh; clash"
+ },
+ {
+  "n": "23",
+  "field": "word.gloss",
+  "word": "vīḍum",
+  "old": "firm thing",
+  "new": "firm",
+  "why": "reviewer (minor): vīḍu is an adjective agreeing with adrim ('firm stone'), as English and Hindi render; gloss 'firm thing' makes it a noun"
+ },
+ {
+  "n": "25",
+  "field": "word.gram",
+  "word": "durmarṣam",
+  "old": "m. acc. sg.",
+  "new": "n. acc. sg.",
+  "why": "reviewer (minor): durmarṣa agrees with neuter āyuḥ, not masculine"
+ },
+ {
+  "n": "25",
+  "field": "hindi",
+  "old": "दिखाई देता हुआ, चमकीला रुक्म विस्तार से दमका; शोभा के लिए दीप्त होता हुआ, दुःसह आयु वाला। अग्नि जीवन-शक्तियों के साथ अमर हो गया, जब उत्तम बीज वाले द्यौ ने उसे उत्पन्न किया।",
+  "new": "दिखाई देता हुआ, चमकीला रुक्म विस्तार से दमका; शोभा के लिए दीप्त होता हुआ, दुःसह आयु। अग्नि जीवन-शक्तियों के साथ अमर हो गया, जब उत्तम बीज वाले द्यौ ने उसे उत्पन्न किया।",
+  "why": "reviewer (minor): Hindi makes durmarṣam āyuḥ a possessive compound ('having a hard-to-bear life'); English and notes keep it as a plain phrase 'a life hard to bear'"
+ },
+ {
+  "n": "26",
+  "field": "english",
+  "old": "Whoever today makes for you a ghee-filled cake, O god of auspicious flame, O Agni, lead him forward to something better, towards the favour allotted by the gods, O youngest.",
+  "new": "Whoever today makes for you a ghee-filled cake, O god of auspicious flame, O Agni, lead him forward, further, to something better, towards the favour allotted by the gods, O youngest.",
+  "why": "reviewer (minor): prataram ('further') is dropped"
+ },
+ {
+  "n": "26",
+  "field": "hindi",
+  "old": "जो आज तुम्हारे लिए घी से भरा पूआ बनाए, हे कल्याणकारी ज्वाला वाले देव, हे अग्नि, उसे आगे ले चलो, श्रेष्ठतर की ओर, देवों द्वारा बाँटे गए अनुग्रह की ओर, हे यविष्ठ।",
+  "new": "जो आज तुम्हारे लिए घी से भरा पूआ बनाए, हे कल्याणकारी ज्वाला वाले देव, हे अग्नि, उसे आगे और आगे ले चलो, श्रेष्ठतर की ओर, देवों द्वारा बाँटे गए अनुग्रह की ओर, हे यविष्ठ।",
+  "why": "reviewer (minor): prataram dropped"
+ },
+ {
+  "n": "27",
+  "field": "word.w",
+  "word": "bhavāt",
+  "old": "bhavāt",
+  "new": "bhavāti",
+  "why": "reviewer (error): Source reads bhavātyujjātena = bhavāti + ujjātena. bhavāt + ut would give bhavād ut-, not bhavāty u-. The subjunctive is bhavāti"
+ },
+ {
+  "n": "29",
+  "field": "word.gram",
+  "word": "a-dveṣe",
+  "old": "m. loc. sg. tat-puruṣa",
+  "new": "f. acc. du. nañ-bahuvrīhi (agrees with dyāvāpṛthivī)",
+  "why": "reviewer (error): adveṣe is the feminine dual adjective with dyāvāpṛthivī ('free from hatred'), not a m. loc. noun 'for freedom from hatred'"
+ },
+ {
+  "n": "29",
+  "field": "word.gloss",
+  "word": "a-dveṣe",
+  "old": "for freedom from hatred",
+  "new": "free from hatred",
+  "why": "reviewer (error): see above"
+ },
+ {
+  "n": "29",
+  "field": "english",
+  "old": "Agni has been praised, very kind to men, Vaiśvānara, by the sages, guardian of Soma. For freedom from hatred we would call Heaven and Earth; O gods, bestow on us wealth rich in good heroes.",
+  "new": "Agni has been praised, very kind to men, Vaiśvānara, by the sages, guardian of Soma. We would call Heaven and Earth, free from hatred; O gods, bestow on us wealth rich in good heroes.",
+  "why": "reviewer (error): follows the wrong case reading"
+ },
+ {
+  "n": "29",
+  "field": "hindi",
+  "old": "अग्नि की स्तुति की गई, जो मनुष्यों के लिए अति सुखकर है, वैश्वानर, ऋषियों द्वारा, सोम का रक्षक। द्वेषरहित भाव के लिए हम द्यावापृथिवी को पुकारें; हे देवो, हमें उत्तम वीरों वाला धन दो।",
+  "new": "अग्नि की स्तुति की गई, जो मनुष्यों के लिए अति सुखकर है, वैश्वानर, ऋषियों द्वारा, सोम का रक्षक। हम द्वेषरहित द्यावापृथिवी को पुकारें; हे देवो, हमें उत्तम वीरों वाला धन दो।",
+  "why": "reviewer (error): same"
+ },
+ {
+  "n": "29",
+  "field": "notes",
+  "old": "somagopāḥ is read as a nominative singular epithet of Agni (as in unit 22); it could also be read as nominative plural with ṛṣibhiḥ. suśeva \"very kind\" is approximate. narām taken as genitive plural \"of men\".",
+  "new": "somagopāḥ is read as a nominative singular epithet of Agni (as in unit 22). suśeva \"very kind\" is approximate. narām taken as genitive plural \"of men\".",
+  "why": "reviewer (minor): ṛṣibhiḥ is instrumental, so a nominative plural somagopāḥ 'with' it is not a real alternative (invented variant)"
+ },
+ {
+  "n": "32",
+  "field": "hindi",
+  "old": "हे अग्नि, तुम ज्योतिर्मान होकर कल्याणकारी लपटों के साथ आगे जाओ। बड़ी किरणों से चमकते हुए अपने शरीर से प्रजा को हानि न पहुँचाओ।",
+  "new": "हे अग्नि, तुम ज्योतिर्मान होकर मंगलकारी लपटों के साथ आगे जाओ। बड़ी किरणों से चमकते हुए अपने शरीर से प्रजा को हानि न पहुँचाओ।",
+  "why": "reviewer (minor): śiva is मंगलकारी everywhere else; कल्याणकारी is used for bhadra"
+ },
+ {
+  "n": "32",
+  "field": "hindi",
+  "old": "हे अग्नि, तुम ज्योतिर्मान होकर मंगलकारी लपटों के साथ आगे जाओ। बड़ी किरणों से चमकते हुए अपने शरीर से प्रजा को हानि न पहुँचाओ।",
+  "new": "हे अग्नि, तुम ज्योतिर्मान होकर मंगलकारी लपटों के साथ आगे जाओ। बड़ी किरणों से चमकते हुए अपने शरीर से सन्तान को हानि न पहुँचाओ।",
+  "why": "reviewer (minor): prajā is 'offspring' (सन्तान) in unit 7; प्रजा in Hindi means subjects"
+ },
+ {
+  "n": "33",
+  "field": "word.gram",
+  "word": "jajñānaḥ",
+  "old": "m. nom. sg. pres. part. mid. √jan",
+  "new": "m. nom. sg. pf. part. mid. √jan",
+  "why": "reviewer (minor): jajñāna- is a perfect middle participle, not present"
+ },
+ {
+  "n": "33",
+  "field": "hindi",
+  "old": "अग्नि गरजा, जैसे गरजता हुआ द्यौ; पृथ्वी को चाटता हुआ, वनस्पतियों को सजाता हुआ। तुरन्त उत्पन्न होता हुआ, प्रज्वलित होकर उसने दोनों लोकों को प्रकाशित किया; वह अपनी दीप्ति से भीतर चमकता है।",
+  "new": "अग्नि गरजा, जैसे गरजता हुआ द्यौ; पृथ्वी को चाटता हुआ, पौधों को सजाता हुआ। तुरन्त उत्पन्न होता हुआ, प्रज्वलित होकर उसने दोनों लोकों को प्रकाशित किया; वह अपनी दीप्ति से भीतर चमकता है।",
+  "why": "reviewer (minor): वनस्पति is the Hindi for vanaspati (units 37) and a different word from vīrudh; clash"
+ },
+ {
+  "n": "34",
+  "field": "hindi",
+  "old": "यह अग्नि, भरत का, आगे सुना जाता है, जब सूर्य की तरह वह चमकता है, महान दीप्ति वाला। जिसने युद्धों में पूरु पर विजय पाई, जो चमका, दिव्य अतिथि, हमारे लिए मंगलकारी।",
+  "new": "यह अग्नि, भरत का, आगे सुना जाता है, जब सूर्य की तरह वह चमकता है, महान दीप्ति वाला। जो युद्धों में पूरु के ऊपर खड़ा हुआ, जो चमका, दिव्य अतिथि, हमारे लिए मंगलकारी।",
+  "why": "reviewer (error): 'conquered' is added; English and notes say 'stood over'"
+ },
+ {
+  "n": "35",
+  "field": "word.gram",
+  "word": "syone",
+  "old": "n. loc. sg.",
+  "new": "m. loc. sg.",
+  "why": "reviewer (minor): syona agrees with loke (masculine), not neuter"
+ },
+ {
+  "n": "39",
+  "field": "hindi",
+  "old": "फिर आसन, जलों और पृथ्वी के पास पहुँचकर, हे अग्नि, तुम इसके भीतर माता की गोद की तरह लेटते हो, अति मंगलकारी।",
+  "new": "फिर आसन, जलों और पृथ्वी के पास पहुँचकर, हे अग्नि, तुम इसके भीतर माता की गोद की तरह लेटते हो, सबसे मंगलकारी।",
+  "why": "reviewer (minor): 'अति' is 'very'; śivatamaḥ is 'most auspicious'"
+ },
+ {
+  "n": "6",
+  "field": "split",
+  "old": "hi + iddhaḥ",
+  "new": "hi + īm + iddhaḥ",
+  "manual": true
+ },
+ {
+  "n": "21",
+  "field": "split",
+  "old": "hi + iddhaḥ",
+  "new": "hi + īm + iddhaḥ",
+  "manual": true
+ },
+ {
+  "n": "33",
+  "field": "split",
+  "old": "hi + iddhaḥ",
+  "new": "hi + īm + iddhaḥ",
+  "manual": true
+ },
+ {
+  "n": "5",
+  "field": "english",
+  "old": "slayer of one who acts as a foe",
+  "new": "slayer of one who acts as a hostile power",
+  "manual": true
+ },
+ {
+  "n": "5",
+  "field": "hindi",
+  "old": "शत्रु जैसा आचरण करने वाले के हन्ता",
+  "new": "शत्रुतापूर्ण शक्ति जैसा आचरण करने वाले के हन्ता",
+  "manual": true
+ },
+ {
+  "n": "18",
+  "field": "english",
+  "old": "the manly-minded one. Kindling him",
+  "new": "the manly-minded one, kindling him",
+  "manual": true
+ },
+ {
+  "n": "18",
+  "field": "hindi",
+  "old": "पुरुषों के मन वाला; निरन्तर",
+  "new": "पुरुषों के मन वाला, निरन्तर",
+  "manual": true
+ },
+ {
+  "n": "22",
+  "field": "english",
+  "old": "prārpaṇa of insights",
+  "new": "prārpaṇa of contemplations",
+  "manual": true
+ },
+ {
+  "n": "26",
+  "field": "english",
+  "old": "O god of auspicious flame",
+  "new": "O god of good flame",
+  "manual": true
+ },
+ {
+  "n": "26",
+  "field": "hindi",
+  "old": "हे कल्याणकारी ज्वाला वाले देव",
+  "new": "हे भली ज्वाला वाले देव",
+  "manual": true
+ },
+ {
+  "n": "27",
+  "field": "notes",
+  "old": "",
+  "new": "tentative",
+  "manual": true
+ },
+ {
+  "n": "28",
+  "field": "english",
+  "old": "all wealth, all desirable things",
+  "new": "wealth, all desirable things",
+  "manual": true
+ },
+ {
+  "n": "28",
+  "field": "hindi",
+  "old": "सारा धन, सब वांछित वस्तुएँ",
+  "new": "धन, सब वांछित वस्तुएँ",
+  "manual": true
+ },
+ {
+  "n": "32",
+  "field": "gram",
+  "old": "arcibhiḥ",
+  "new": "agreement uncertain",
+  "manual": true
+ },
+ {
+  "n": "34",
+  "field": "text_flags",
+  "old": "why",
+  "new": "updated",
+  "manual": true
+ }
+]

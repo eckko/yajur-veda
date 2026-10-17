@@ -18,3 +18,6 @@
 - 10 chapters, 427 units: AI draft (sonnet), independent AI review, `apply_review.py --add-source`, remaining items settled by hand and logged in `layers-work/p00/chNN/changes_K.json`. Reviewers found errors in every chunk (about 30-80 issues each), mostly glossary breaks, added words and wrong grammar labels; all patchable ones are fixed, unclear readings carry notes and low confidence.
 - Written with `write_layers.py`; `layers-work/GLOSSARY.md` holds the fixed renderings. Not human-read.
 - Chapters 11-40: pending. `build_feed.py` not run.
+
+## 2026-10-17 layers, chapters 11-15
+- Same pipeline as chapters 1-10 (AI draft, independent AI review, fixes applied automatically and by hand, logged in `changes_K.json`). 15 chapters now have layers (about 835 units). Not human-read. Chapters 16-40: pending; `build_feed.py` not run.
