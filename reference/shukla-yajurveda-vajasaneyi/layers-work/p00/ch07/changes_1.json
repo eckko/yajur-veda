@@ -372,5 +372,89 @@
   "old": "in the winning of prizes",
   "new": "in the winning of strength",
   "why": "reviewer (minor): gloss 'in the winning of prizes'"
+ },
+ {
+  "n": "3",
+  "field": "split",
+  "old": "deva-aṃśaḥ",
+  "new": "deva-aṃśubhyaḥ (suggested)",
+  "manual": true
+ },
+ {
+  "n": "3",
+  "field": "english",
+  "old": "; the share of the gods;",
+  "new": "; for the divine rays;",
+  "manual": true
+ },
+ {
+  "n": "3",
+  "field": "hindi",
+  "old": "देवों का अंश;",
+  "new": "दिव्य किरणों के लिए;",
+  "manual": true
+ },
+ {
+  "n": "3",
+  "field": "text_flags",
+  "old": "why",
+  "new": "updated",
+  "manual": true
+ },
+ {
+  "n": "26",
+  "field": "gram",
+  "old": "te gen.",
+  "new": "dat.",
+  "manual": true
+ },
+ {
+  "n": "35",
+  "field": "split",
+  "old": "tvā + eṣaḥ",
+  "new": "eṣaḥ",
+  "manual": true
+ },
+ {
+  "n": "36",
+  "field": "split",
+  "old": "tvā + eṣaḥ",
+  "new": "eṣaḥ",
+  "manual": true
+ },
+ {
+  "n": "37",
+  "field": "split",
+  "old": "tvā + eṣaḥ",
+  "new": "eṣaḥ",
+  "manual": true
+ },
+ {
+  "n": "30",
+  "field": "notes",
+  "old": "",
+  "new": "condensed note",
+  "manual": true
+ },
+ {
+  "n": "38",
+  "field": "english",
+  "old": "drink the Soma as you wish, for joy",
+  "new": "drink the Soma in your own way (anuṣvadham, uncertain), for joy",
+  "manual": true
+ },
+ {
+  "n": "38",
+  "field": "hindi",
+  "old": "रण के लिए, मद के लिए अपनी इच्छा के अनुसार",
+  "new": "आनन्द के लिए, मद के लिए अपने ढंग से",
+  "manual": true
+ },
+ {
+  "n": "42",
+  "field": "notes",
+  "old": "The subject of 'āprāḥ' is taken as the risen one (Sūrya) without further identification beyond what the line says.",
+  "new": "The subject of 'āprāḥ' is Sūrya, as the line states it.",
+  "manual": true
  }
 ]

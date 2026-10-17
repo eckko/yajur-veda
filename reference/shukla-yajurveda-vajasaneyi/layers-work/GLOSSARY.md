@@ -23,3 +23,4 @@ AI drafts. English uses plain IAST for Sanskrit terms; Hindi stays in Devanagari
 - bhuvana = world (भुवन), distinct from loka (लोक); rajas = airy realm (अन्तरिक्ष के क्षेत्र) only where the line supports it; somakrayaṇī and abhigara stay transliterated
 - Deity names such as Vāyu stay names; viś = clan; hotṛ stays hotṛ; varcas = brilliance (Hindi तेज); ūrj = sap/strength (Hindi रस/बल)
 - yoni = womb (Hindi योनि, feminine: तुम्हारी योनि); vāja = strength also in vājasāti; Marka, Śaṇḍa and Tutha stay names
+- yoni = womb (Hindi योनि, feminine: तुम्हारी योनि); vāja = strength also in vājasāti; Marka, Śaṇḍa and Tutha stay names

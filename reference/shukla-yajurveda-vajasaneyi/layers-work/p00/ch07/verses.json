@@ -485,9 +485,9 @@
       "src": "devā̭ᳪśo̱",
       "words": [
        {
-        "w": "deva-aṃśaḥ",
-        "gloss": "share of the gods (obscure)",
-        "gram": "tat-puruṣa, m. nom. sg."
+        "w": "deva-aṃśubhyaḥ",
+        "gloss": "for the divine rays (suggested reading)",
+        "gram": "tat-puruṣa, m. dat. pl. (printed devāṃśo; reading uncertain)"
        }
       ]
      },
@@ -618,13 +618,13 @@
     ]
    }
   ],
-  "hindi": "तुम स्वाङ्कृत हो, समस्त इन्द्रियों के लिए, दिव्य और पार्थिव के लिए; मन तुम्हें प्राप्त करे; स्वाहा। हे सुभव, तुम सूर्य के लिए; तुम देवों के लिए, किरणें पीने वालों के लिए; देवों का अंश; जिसके लिए मैं तुम्हारी स्तुति करता हूँ, वह सत्य है, उपरिप्रुता; भङ्ग से वह मारा गया, फट्। तुम प्राण के लिए, तुम व्यान के लिए।",
-  "english": "You are the svāṅkṛta, for all the powers, the heavenly and the earthly; may the mind reach you. Svāhā. You, O one of good being, for Sūrya; you for the gods, for the ray-drinkers; the share of the gods; that for which I praise you is true, upariprutā; by breaking he is slain, that one: phaṭ. You for the breath, you for the vyāna.",
+  "hindi": "तुम स्वाङ्कृत हो, समस्त इन्द्रियों के लिए, दिव्य और पार्थिव के लिए; मन तुम्हें प्राप्त करे; स्वाहा। हे सुभव, तुम सूर्य के लिए; तुम देवों के लिए, किरणें पीने वालों के लिए; दिव्य किरणों के लिए; जिसके लिए मैं तुम्हारी स्तुति करता हूँ, वह सत्य है, उपरिप्रुता; भङ्ग से वह मारा गया, फट्। तुम प्राण के लिए, तुम व्यान के लिए।",
+  "english": "You are the svāṅkṛta, for all the powers, the heavenly and the earthly; may the mind reach you. Svāhā. You, O one of good being, for Sūrya; you for the gods, for the ray-drinkers; for the divine rays; that for which I praise you is true, upariprutā; by breaking he is slain, that one: phaṭ. You for the breath, you for the vyāna.",
   "text_flags": [
    {
     "src": "devā̭ᳪśo̱",
     "suggest": "devā̭ᳪśubhyo̱",
-    "why": "possible: a plural dative would fit the neighbouring 'marīcipebhyaḥ'; as given the form is unclear"
+    "why": "the plural dative devāṃśubhyaḥ is expected from the agreement with the neighbouring 'marīcipebhyaḥ'; the printed form devāṃśo is unclear and is kept in src"
    }
   ],
   "notes": "Several forms are obscure: svāṅkṛta, subhava, devāṃśaḥ, upariprutā, tveḍe, manas tvāṣṭu (read as manaḥ tvā aṣṭu; the alternative is a form of tvaṣṭṛ). 'asau' stands for the named person in an imprecation; the line does not name him. Printed faṭ is read as phaṭ (the Devanagari has a nukta).",
@@ -5787,8 +5787,8 @@
       "words": [
        {
         "w": "te",
-        "gloss": "your",
-        "gram": "gen. sg."
+        "gloss": "to you",
+        "gram": "enclitic dat. sg."
        }
       ]
      },
@@ -7159,7 +7159,7 @@
   "hindi": "तुम उपयाम से ग्रहण किए गए हो; मधु के लिए। तुम उपयाम से ग्रहण किए गए हो; माधव के लिए। तुम उपयाम से ग्रहण किए गए हो; शुक्र के लिए। तुम उपयाम से ग्रहण किए गए हो; शुचि के लिए। तुम उपयाम से ग्रहण किए गए हो; नभस् के लिए। तुम उपयाम से ग्रहण किए गए हो; नभस्य के लिए। तुम उपयाम से ग्रहण किए गए हो; इष के लिए। तुम उपयाम से ग्रहण किए गए हो; ऊर्ज के लिए। तुम उपयाम से ग्रहण किए गए हो; सहस् के लिए। तुम उपयाम से ग्रहण किए गए हो; सहस्य के लिए। तुम उपयाम से ग्रहण किए गए हो; तपस् के लिए। तुम उपयाम से ग्रहण किए गए हो; तपस्य के लिए। तुम उपयाम से ग्रहण किए गए हो; संकट के स्वामी के लिए तुम।",
   "english": "You are taken up with the upayāma; you for Madhu. You are taken up with the upayāma; you for Mādhava. You for Śukra; you for Śuci; you for Nabhas; you for Nabhasya; you for Iṣa; you for Ūrja; you for Sahas; you for Sahasya; you for Tapas; you for Tapasya; each time you are taken up with the upayāma; and finally you, taken up with the upayāma, for the lord of distress (aṃhas).",
   "text_flags": [],
-  "notes": "A litany of names (Madhu, Mādhava, Śukra, Śuci, Nabhas, Nabhasya, Iṣa, Ūrja, Sahas, Sahasya, Tapas, Tapasya); the line does not say what they are, so none is identified. iṣe/ūrje are dative forms ('for refreshment, for strength') and are left as names for consistency with the list. 'aṃhasaspataye' is read aṃhasaḥ-pataye (printed form); aṃhas = distress, narrowness. The word 'tvā' of each repeated clause comes first in the token (tvopayāmagṛhīto'si = tvā upayāmagṛhītaḥ asi). Reviewer: iṣe and ūrje may also be plain datives 'for refreshment, for strength'; the names reading is only for list consistency (uncertain).",
+  "notes": "A litany of names (Madhu, Mādhava, Śukra, Śuci, Nabhas, Nabhasya, Iṣa, Ūrja, Sahas, Sahasya, Tapas, Tapasya); the line does not say what they are, so none is identified. iṣe/ūrje are dative forms ('for refreshment, for strength') and are left as names for consistency with the list. 'aṃhasaspataye' is read aṃhasaḥ-pataye (printed form); aṃhas = distress, narrowness. The word 'tvā' of each repeated clause comes first in the token (tvopayāmagṛhīto'si = tvā upayāmagṛhītaḥ asi). Reviewer: iṣe and ūrje may also be plain datives 'for refreshment, for strength'; the names reading is only for list consistency (uncertain). The English condenses the twelve repeated 'taken up with the upayāma' clauses; the Hindi gives them all.",
   "confidence": "medium",
   "type": "verse",
   "line_ids": [
@@ -8293,11 +8293,6 @@
       "src": "e̱ṣa",
       "words": [
        {
-        "w": "tvā",
-        "gloss": "you",
-        "gram": "acc. sg."
-       },
-       {
         "w": "eṣaḥ",
         "gloss": "this",
         "gram": "m. nom. sg."
@@ -8546,11 +8541,6 @@
      {
       "src": "e̱ṣa",
       "words": [
-       {
-        "w": "tvā",
-        "gloss": "you",
-        "gram": "acc. sg."
-       },
        {
         "w": "eṣaḥ",
         "gloss": "this",
@@ -8907,11 +8897,6 @@
      {
       "src": "e̱ṣa",
       "words": [
-       {
-        "w": "tvā",
-        "gloss": "you",
-        "gram": "acc. sg."
-       },
        {
         "w": "eṣaḥ",
         "gloss": "this",
@@ -9270,8 +9255,8 @@
     ]
    }
   ],
-  "hindi": "हे इन्द्र, मरुतों वाले वृषभ, रण के लिए, मद के लिए अपनी इच्छा के अनुसार सोम पिओ। पेट में मधु की लहर डालो; तुम राजा हो, निचोड़े हुओं में प्रथम ग्रहण करने वाले। तुम उपयाम से ग्रहण किए गए हो; तुम मरुतों वाले इन्द्र के लिए। यह तुम्हारी योनि है; तुम मरुतों वाले इन्द्र के लिए।",
-  "english": "Indra, bull accompanied by the Maruts, drink the Soma as you wish, for joy, for exhilaration. Pour into your belly the wave of mead; you are king, the first to receive of the pressed. You are taken up with the upayāma; you for Indra accompanied by the Maruts. This is your womb; you for Indra accompanied by the Maruts.",
+  "hindi": "हे इन्द्र, मरुतों वाले वृषभ, आनन्द के लिए, मद के लिए अपने ढंग से सोम पिओ। पेट में मधु की लहर डालो; तुम राजा हो, निचोड़े हुओं में प्रथम ग्रहण करने वाले। तुम उपयाम से ग्रहण किए गए हो; तुम मरुतों वाले इन्द्र के लिए। यह तुम्हारी योनि है; तुम मरुतों वाले इन्द्र के लिए।",
+  "english": "Indra, bull accompanied by the Maruts, drink the Soma in your own way (anuṣvadham, uncertain), for joy, for exhilaration. Pour into your belly the wave of mead; you are king, the first to receive of the pressed. You are taken up with the upayāma; you for Indra accompanied by the Maruts. This is your womb; you for Indra accompanied by the Maruts.",
   "text_flags": [],
   "notes": "The printed '~2' in 'marutvā~2' stands for the final nasal of marutvān. 'raṇāya' may mean 'for joy' or 'for battle'. 'anuṣvadham' and 'pratipad' are uncertain.",
   "confidence": "medium",
@@ -10084,7 +10069,7 @@
     "why": "j looks like a lost ṃ glyph; accusative antarikṣam expected"
    }
   ],
-  "notes": "'anīka' glossed 'face, host'. The subject of 'āprāḥ' is taken as the risen one (Sūrya) without further identification beyond what the line says.",
+  "notes": "'anīka' glossed 'face, host'. The subject of 'āprāḥ' is Sūrya, as the line states it.",
   "confidence": "medium",
   "type": "verse",
   "line_ids": [
