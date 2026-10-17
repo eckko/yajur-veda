@@ -34,3 +34,12 @@
 | 00.12.56 | numbering | S1 prints 46 (again) where 56 is expected; numbered 56 here | S1 | compare with print edition |
 | 00.14.10, 00.15.10, 00.20.10 | numbering | S1 prints the marker as "१ ०" with a space; read as 10 | S1 | none |
 | 00.18.41, 00.21.33, 00.24.14, 00.24.16, 00.33.58 | numbering | verses after 40/32/13/15/57 are numbered 42/34/15/17/59 in S1: the marker may be misprinted or a verse merged with the next | S1 | compare with S2/S3 |
+
+## AI proofreading pass (2026-10-17; proposals only, text/ unchanged)
+- Packed 149 items: 24 stray rows, 33 typo candidates, 92 ordinary verse lines (1 in 40) as a sample. Read by three agents on the strongest model; each answer is a screen, not proof.
+- 29 proposals (error or unsure) are in `checks/proposals.tsv`; full report `checks/PROOFREAD.md`.
+- Sample error rate: 4 of 92 ordinary lines (4.3%) had a likely typing error. Most are of the kinds below, so expect roughly one typing slip in every 20 or so lines.
+- 21 of the 24 Latin `j`/`k` rows read as a mis-encoded Vedic sign `ᳪ`; the 3 en dashes are the edition's own marker and judged ok.
+- Other likely errors: 00.08.35b missing avagraha (गृहीतो सीन्द्राय), 00.14.16a पृथङ्नम (पृथङ्मम?), 00.14.10, 00.21.3a, 00.21.40 सुत्रामाण (सुत्रामाणं?), 00.26.23a अर्वाड् (अर्वाङ्?). Unsure: 00.17.99a, 00.19.25.
+- Not checked: the 859 `ᳪ` signs (legitimate) and 2,102 metre rows (most mantras are prose); full tables kept as `checks/stray_all.tsv` and `checks/metre_all.tsv`.
+- No second edition was available, so nothing is cross-checked. Corrections need a printed edition and the owner's approval.

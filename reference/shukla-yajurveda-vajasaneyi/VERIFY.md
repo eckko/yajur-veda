@@ -9,3 +9,7 @@
 - word_check.py: 28,710 tokens, 15,079 distinct. 883 "stray" rows: 859 are U+1CEA (the Vedic sign ᳪ, legitimate here, a checker false alarm), 23 Latin `j`, 1 Latin `k`, 6 en dashes (U+2013), 1 U+00AC. 33 typo candidates. 2,102 metre rows.
 - Second edition: not available, skipped.
 - Before packing for the AI pass I set aside the full tables (`checks/stray_all.tsv`, `checks/metre_all.tsv`) and packed only the 24 stray rows left after removing ᳪ, the typo candidates and a 1-in-40 sample of ordinary verses. Reason: the metre check counts aksharas for verse lines, but most Yajurveda mantras are prose (yajus), so 2,102 flagged lines are expected, not errors; ᳪ rows are noise.
+
+## 2026-10-17 AI proofreading
+- 3 packs, 149 items, all answered. 29 proposals. Sample error rate 4/92 (4.3%). See ISSUES.md and checks/PROOFREAD.md. `text/` untouched.
+- plan_work.py: 55 chunks, 1,975 units, about 0.7 million draft output tokens plus about the same for the review. Not started; waiting for the owner to choose the scope.
