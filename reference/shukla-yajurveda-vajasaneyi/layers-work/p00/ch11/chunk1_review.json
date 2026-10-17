@@ -1,0 +1,588 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "2",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "śaktyā̭'",
+     "problem": "The flag quotes a printed avagraha that is not in the input (lines_iast and lines_deva both end plain 'śaktyā̭' / 'शक्त्या॑'). The flag is invented.",
+     "fix": "Remove the flag (text_flags = []).",
+     "severity": "error",
+     "patch": {
+      "n": "2",
+      "op": "set",
+      "field": "text_flags",
+      "value": []
+     }
+    },
+    {
+     "field": "notes",
+     "where": "first two sentences",
+     "problem": "Notes repeat the non-existent stray avagraha and the speculative reading śaktyai.",
+     "fix": "Delete 'The line ends in a printed avagraha ... not applied. '",
+     "severity": "minor",
+     "patch": {
+      "n": "2",
+      "op": "replace",
+      "field": "notes",
+      "old": "The line ends in a printed avagraha after śaktyā that has no sandhi source; it looks like a stray mark. A reading śaktyai (dative, 'for power') is possible; not applied. ",
+      "new": ""
+     }
+    }
+   ]
+  },
+  {
+   "n": "3",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "4",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "hotrāḥ",
+     "problem": "w 'hotrāḥ' is feminine nom/acc pl. but gram and notes say neuter pl.; the neuter plural is hotrā, which is also the printed form.",
+     "fix": "w = hotrā",
+     "severity": "minor",
+     "patch": {
+      "n": "4",
+      "op": "word",
+      "match_w": "hotrāḥ",
+      "field": "w",
+      "value": "hotrā"
+     }
+    }
+   ]
+  },
+  {
+   "n": "5",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "vām",
+     "problem": "Enclitic vām is acc./dat./gen. dual; gram says 'du. acc.' and gloss 'to you two' (dative sense) which disagree, and 'yoke to you two' is one reading among several (often 'your ancient brahma').",
+     "fix": "gram: enclitic du., acc./dat./gen.; give a case-neutral gloss such as 'you two (enclitic)' and mention in notes that 'your' (gen.) is also possible.",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "6",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "जिसने पार्थिव लोकों को नापा ...",
+     "problem": "Hindi adds 'लोकों' (pārthivāni is only 'earthly ones'), 'अपनी', 'भी', and changes vimame (perfect, 'measured') to a present participle 'नापने वाला है'; English says 'measured'.",
+     "fix": "जिसने पार्थिवों को नापा, उस एतश, देव सविता ने महिमा से रजसों को नापा।",
+     "severity": "error",
+     "patch": {
+      "n": "6",
+      "op": "replace",
+      "field": "hindi",
+      "old": "जिसने पार्थिव लोकों को नापा, वह एतश, देव सविता, अपनी महिमा से रजसों को भी नापने वाला है।",
+      "new": "जिसने पार्थिवों को नापा, उस एतश, देव सविता ने महिमा से रजसों को नापा।"
+     }
+    }
+   ]
+  },
+  {
+   "n": "7",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "भग के लिए",
+     "problem": "Hindi makes bhagāya a name (Bhaga) while gloss and English say 'for fortune'; the notes say the name is only possible.",
+     "fix": "यज्ञपति को भाग्य के लिए प्रेरित करो",
+     "severity": "error",
+     "patch": {
+      "n": "7",
+      "op": "replace",
+      "field": "hindi",
+      "old": "यज्ञपति को भग के लिए",
+      "new": "यज्ञपति को भाग्य के लिए"
+     }
+    }
+   ]
+  },
+  {
+   "n": "8",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "9",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "10",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "jāgatena",
+     "problem": "Gloss 'with the jagatī' does not match the English 'jāgata metre' or the parallel glosses of gāyatreṇa/traiṣṭubhena.",
+     "fix": "gloss: with the jāgata (metre)",
+     "severity": "minor",
+     "patch": {
+      "n": "10",
+      "op": "word",
+      "match_w": "jāgatena",
+      "field": "gloss",
+      "value": "with the jāgata (metre)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "11",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "12",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "13",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "14",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "15",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "your companion",
+     "problem": "'your' is not in the Sanskrit (sayujā is only 'companion' of Pūṣan).",
+     "fix": "together with Pūṣan, the companion",
+     "severity": "minor",
+     "patch": {
+      "n": "15",
+      "op": "replace",
+      "field": "english",
+      "old": "together with Pūṣan, your companion",
+      "new": "together with Pūṣan, the companion"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "निन्दाओं को पार करते हुए",
+     "problem": "Hindi 'crossing' and English 'stepping down on' render avakrāman differently.",
+     "fix": "Align the two (e.g. Hindi 'निन्दाओं पर पैर रखते हुए' or English 'stepping over'); human choice.",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "16",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "17",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "Along the many rays of Sūrya",
+     "problem": "purutrā ('in many places') is attached to the rays as 'many'; gloss says 'in many places'.",
+     "fix": "Along the rays of Sūrya in many places and along heaven and earth you have stretched out.",
+     "severity": "error",
+     "patch": {
+      "n": "17",
+      "op": "replace",
+      "field": "english",
+      "old": "Along the many rays of Sūrya and along heaven and earth",
+      "new": "Along the rays of Sūrya in many places and along heaven and earth"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "अनेक स्थानों में फैली किरणों",
+     "problem": "Hindi adds 'फैली' (spread), which is not in the text, and ties purutrā to the rays.",
+     "fix": "सूर्य की किरणों के साथ-साथ अनेक स्थानों में",
+     "severity": "error",
+     "patch": {
+      "n": "17",
+      "op": "replace",
+      "field": "hindi",
+      "old": "सूर्य की अनेक स्थानों में फैली किरणों के साथ-साथ",
+      "new": "सूर्य की किरणों के साथ-साथ अनेक स्थानों में"
+     }
+    }
+   ]
+  },
+  {
+   "n": "18",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "19",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "20",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "pṛtanyataḥ",
+     "problem": "'√pṛtanya' is not a root; pṛtanyati is a denominative of pṛtanā.",
+     "fix": "pres. part. m. acc. pl. denom. of pṛtanā",
+     "severity": "minor",
+     "patch": {
+      "n": "20",
+      "op": "word",
+      "match_w": "pṛtanyataḥ",
+      "field": "gram",
+      "value": "pres. part. m. acc. pl. denom. of pṛtanā"
+     }
+    }
+   ]
+  },
+  {
+   "n": "21",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "22",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "akaḥ",
+     "problem": "The pre-sandhi dictionary form of the aorist is akar (akar + s- gives akaḥ); w 'akaḥ' keeps the sandhi form.",
+     "fix": "w = akar",
+     "severity": "minor",
+     "patch": {
+      "n": "22",
+      "op": "word",
+      "match_w": "akaḥ",
+      "field": "w",
+      "value": "akar"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "सबसे ऊँचे नाक तक",
+     "problem": "Glossary: nāka = स्वर्ग in Hindi; 'नाक' reads as 'nose'.",
+     "fix": "सबसे ऊँचे स्वर्ग तक",
+     "severity": "error",
+     "patch": {
+      "n": "22",
+      "op": "replace",
+      "field": "hindi",
+      "old": "सबसे ऊँचे नाक तक",
+      "new": "सबसे ऊँचे स्वर्ग तक"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "वेगवान् ने",
+     "problem": "arvā is 'courser' (English) but Hindi gives an adjective 'swift one' and loses the noun.",
+     "fix": "अश्व ने पृथ्वी पर ... (human check)",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "23",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "आड़े फैले हुए को, ओज से महान् को",
+     "problem": "'फैले हुए' is added (tiraścā is only 'across'); vayasā 'vigour' is rendered ओज here but जीवन-शक्ति in unit 35 (ओज is used for ojas in unit 6).",
+     "fix": "आड़ी दिशा में, जीवन-शक्ति से महान् को",
+     "severity": "minor",
+     "patch": {
+      "n": "23",
+      "op": "replace",
+      "field": "hindi",
+      "old": "आड़े फैले हुए को, ओज से महान् को",
+      "new": "आड़ी दिशा में, जीवन-शक्ति से महान् को"
+     }
+    }
+   ]
+  },
+  {
+   "n": "24",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "the one turned towards me",
+     "problem": "'me' is added; pratyañcam is only 'turned towards / facing'.",
+     "fix": "the one facing",
+     "severity": "error",
+     "patch": {
+      "n": "24",
+      "op": "replace",
+      "field": "english",
+      "old": "the one turned towards me",
+      "new": "the one facing"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "jarbhurāṇaḥ",
+     "problem": "'√jarbhur' is not a root; the participle belongs to the intensive of √bhur.",
+     "fix": "pres. part. mid. m. nom. sg. intens. √bhur",
+     "severity": "minor",
+     "patch": {
+      "n": "24",
+      "op": "word",
+      "match_w": "jarbhurāṇaḥ",
+      "field": "gram",
+      "value": "pres. part. mid. m. nom. sg. intens. √bhur"
+     }
+    }
+   ]
+  },
+  {
+   "n": "25",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "शक्ति का स्वामी",
+     "problem": "vāja = strength is rendered बल elsewhere (units 14 etc.); शक्ति is used for śakti.",
+     "fix": "बल का स्वामी",
+     "severity": "minor",
+     "patch": {
+      "n": "25",
+      "op": "replace",
+      "field": "hindi",
+      "old": "शक्ति का स्वामी",
+      "new": "बल का स्वामी"
+     }
+    }
+   ]
+  },
+  {
+   "n": "26",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "भङ्गुरावान् के हन्ता को",
+     "problem": "Number mismatch: gen. pl. bhaṅgurāvatām, English 'bhaṅgurāvat ones', Hindi singular.",
+     "fix": "भङ्गुरावतों के हन्ता को",
+     "severity": "minor",
+     "patch": {
+      "n": "26",
+      "op": "replace",
+      "field": "hindi",
+      "old": "भङ्गुरावान् के हन्ता को",
+      "new": "भङ्गुरावतों के हन्ता को"
+     }
+    }
+   ]
+  },
+  {
+   "n": "27",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "28",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "dīdyatam",
+     "problem": "'√dīdī' is not a root.",
+     "fix": "pres. part. m. acc. sg. √dī",
+     "severity": "minor",
+     "patch": {
+      "n": "28",
+      "op": "word",
+      "match_w": "dīdyatam",
+      "field": "gram",
+      "value": "pres. part. m. acc. sg. √dī"
+     }
+    }
+   ]
+  },
+  {
+   "n": "29",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "pinvamānam",
+     "problem": "Notes say pinvamānam agrees with an unstated word, but it can agree with samudram ('the ocean swelling all around'); the draft takes samudram as its object without saying so.",
+     "fix": "Add the alternative to the notes.",
+     "severity": "minor",
+     "patch": {
+      "n": "29",
+      "op": "append_note",
+      "text": "Alternatively pinvamānam agrees with samudram: 'the ocean swelling all around'."
+     }
+    }
+   ]
+  },
+  {
+   "n": "30",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "31",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "ज्योतिमान् को निरन्तर।",
+     "problem": "The particle it ('indeed', in the English) is dropped in Hindi.",
+     "fix": "ज्योतिमान् को निरन्तर ही।",
+     "severity": "minor",
+     "patch": {
+      "n": "31",
+      "op": "replace",
+      "field": "hindi",
+      "old": "ज्योतिमान् को निरन्तर।",
+      "new": "ज्योतिमान् को निरन्तर ही।"
+     }
+    }
+   ]
+  },
+  {
+   "n": "32",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "33",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "34",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "35",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "36",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "37",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "38",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "to the creatures for freedom from sickness",
+     "problem": "prajābhyaḥ is dative ('for'), as in the gloss; 'to the creatures' reads as a recipient of the sending.",
+     "fix": "for the creatures, for freedom from sickness",
+     "severity": "minor",
+     "patch": {
+      "n": "38",
+      "op": "replace",
+      "field": "english",
+      "old": "to the creatures for freedom from sickness",
+      "new": "for the creatures, for freedom from sickness"
+     }
+    }
+   ]
+  },
+  {
+   "n": "39",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "40",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "आश्रय, वरूथ और स्वः में",
+     "problem": "Hindi leaves varūtham untranslated (English 'protection') and adds 'और' that the Sanskrit (three bare accusatives) does not have.",
+     "fix": "आश्रय, रक्षा, स्वः में",
+     "severity": "minor",
+     "patch": {
+      "n": "40",
+      "op": "replace",
+      "field": "hindi",
+      "old": "आश्रय, वरूथ और स्वः में",
+      "new": "आश्रय, रक्षा, स्वः में"
+     }
+    }
+   ]
+  },
+  {
+   "n": "41",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "svadhvarāvā",
+     "problem": "svadhvara + ava would give svadhvarāva; the printed final ā (svadhva̱rāvā̭) is unexplained and not flagged or noted.",
+     "fix": "Note it as an unexplained long ā (Vedic lengthening of ava, unconfirmed).",
+     "severity": "minor",
+     "patch": {
+      "n": "41",
+      "op": "append_note",
+      "text": "The printed final ā of svadhvarāvā is not explained by sandhi (svadhvara + ava would give svadhvarāva); taken as a lengthened ava, unconfirmed."
+     }
+    }
+   ]
+  },
+  {
+   "n": "42",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "बल के देने वाले",
+     "problem": "English says 'winner of strength' (sanitā) but Hindi says 'giver'.",
+     "fix": "बल को जीतने वाले",
+     "severity": "error",
+     "patch": {
+      "n": "42",
+      "op": "replace",
+      "field": "hindi",
+      "old": "बल के देने वाले",
+      "new": "बल को जीतने वाले"
+     }
+    }
+   ]
+  }
+ ],
+ "summary": "8 errors, 19 minor; no regrouping needed. Main problems: invented avagraha flag in unit 2; Hindi additions or mismatches with English in units 6, 7, 17, 22, 24, 42; minor root/form labels. Grammar and splits otherwise sound; low-confidence units are honestly marked."
+}
