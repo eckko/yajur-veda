@@ -1,0 +1,371 @@
+[
+ {
+  "n": "1",
+  "field": "english",
+  "old": "I first take Agni into myself, for the increase of wealth, for good offspring and for good heroic strength; and may the gods attend me.",
+  "new": "I first take Agni into myself, for the increase of wealth, for good offspring and for good heroic strength; and may the deities attend me.",
+  "why": "reviewer (minor): devatāḥ is 'deity' elsewhere (unit 19 'that deity'); glossary keeps deva = god, so devatā should not be 'gods'."
+ },
+ {
+  "n": "1",
+  "field": "word.gloss",
+  "word": "devatāḥ",
+  "old": "the gods",
+  "new": "the deities",
+  "why": "reviewer (minor): same point"
+ },
+ {
+  "n": "2",
+  "field": "english",
+  "old": "You are the back of the waters, the womb of Agni, swelling all around the sea; growing, great, spread out in the puṣkara with the measure of the sky and with breadth.",
+  "new": "You are the back of the waters, the womb of Agni, around the swelling sea; growing, great, spread out in the puṣkara with the measure of the sky and with breadth.",
+  "why": "reviewer (error): pinvamānam (acc. n./m. sg.) agrees with samudram, and abhitaḥ takes the accusative: 'around the swelling sea'. Draft makes the addressee swell; Hindi even makes it feminine, which nothing in the line supports (mahān is masculine, so the note 'gender not fixed' is also wrong)."
+ },
+ {
+  "n": "2",
+  "field": "hindi",
+  "old": "तू जलों का पृष्ठ है, अग्नि की योनि है, समुद्र के चारों ओर फूलती हुई है; बढ़ता हुआ, महान्, पुष्कर में आकाश के माप और विस्तार के साथ फैल।",
+  "new": "तू जलों का पृष्ठ है, अग्नि की योनि है, फूलते हुए समुद्र के चारों ओर; बढ़ता हुआ, महान्, पुष्कर में आकाश के माप और विस्तार के साथ फैल।",
+  "why": "reviewer (error): same error, and a feminine predicate is invented"
+ },
+ {
+  "n": "2",
+  "field": "word.gram",
+  "word": "pinvamānam",
+  "old": "pres. part. √pinv",
+  "new": "pres. part. mid., acc. sg. (with samudram)",
+  "why": "reviewer (minor): case/gender missing"
+ },
+ {
+  "n": "4",
+  "field": "hindi",
+  "old": "हिरण्यगर्भ आरम्भ में प्रकट हुआ; उत्पन्न होकर वह प्राणियों का एकमात्र स्वामी था। उसने पृथ्वी और आकाश तथा इस लोक को धारण किया। किस देव को हम हवि से पूजें?",
+  "new": "हिरण्यगर्भ आरम्भ में प्रकट हुआ; उत्पन्न होकर वह प्राणियों का एकमात्र स्वामी था। उसने पृथ्वी को, आकाश को और इसे धारण किया। किस देव को हम हवि से पूजें?",
+  "why": "reviewer (error): 'loka' is added; the text has only imām 'this (one)', and English says 'this one'. Glossary reserves लोक for loka."
+ },
+ {
+  "n": "4",
+  "field": "hindi",
+  "old": "हिरण्यगर्भ आरम्भ में प्रकट हुआ; उत्पन्न होकर वह प्राणियों का एकमात्र स्वामी था। उसने पृथ्वी को, आकाश को और इसे धारण किया। किस देव को हम हवि से पूजें?",
+  "new": "हिरण्यगर्भ आरम्भ में प्रकट हुआ; उत्पन्न होकर वह जो कुछ है उसका एकमात्र स्वामी था। उसने पृथ्वी को, आकाश को और इसे धारण किया। किस देव को हम हवि से पूजें?",
+  "why": "reviewer (minor): bhūtasya is glossed and translated in English as 'of what exists'; 'प्राणियों' (living beings) narrows it."
+ },
+ {
+  "n": "4",
+  "field": "english",
+  "old": "The golden womb came into being at first; born, he was the one lord of what exists. He held up the earth and the sky and this one. To which god may we offer with the oblation?",
+  "new": "The golden womb came into being at first; born, he was the one lord of what exists. He held up the earth and the sky and this one. To which god may we serve with the oblation?",
+  "why": "reviewer (minor): gloss says vidhema = 'may we serve', English says 'offer', Hindi 'पूजें'; make the three agree (unit 21 uses 'serve'/सेवा)."
+ },
+ {
+  "n": "6",
+  "field": "hindi",
+  "old": "सर्पों को नमस्कार हो, जो कोई पृथ्वी पर हैं; जो अन्तरिक्ष में हैं, जो द्युलोक में हैं, उन सर्पों को नमस्कार।",
+  "new": "सर्पों को नमस्कार हो, जो कोई पृथ्वी पर हैं; जो अन्तरिक्ष में हैं, जो आकाश में हैं, उन सर्पों को नमस्कार।",
+  "why": "reviewer (minor): द्युलोक adds 'loka'; divi is 'in the sky' (English 'in the sky', Hindi elsewhere आकाश)."
+ },
+ {
+  "n": "7",
+  "field": "word.gram",
+  "word": "iṣavaḥ",
+  "old": "m. nom. pl.",
+  "new": "f. nom. pl.",
+  "why": "reviewer (minor): iṣu is feminine in the Veda and agrees with yāḥ (f.); draft labels it m. while taking yāḥ as f."
+ },
+ {
+  "n": "10",
+  "field": "hindi",
+  "old": "तेरे घूमते हुए पिण्ड तेज़ी से उड़ते हैं; साहसपूर्वक देदीप्यमान होकर साथ-साथ स्पर्श कर। हे अग्नि, अबद्ध होकर जीभ से तपते हुए उड़ने वालों को और उल्काओं को चारों ओर छोड़।",
+  "new": "तेरे भ्रमण तेज़ी से उड़ते हैं; साहसपूर्वक देदीप्यमान होकर साथ-साथ स्पर्श कर। हे अग्नि, अबद्ध होकर जीभ से तपते हुए उड़ने वालों को और उल्काओं को चारों ओर छोड़।",
+  "why": "reviewer (error): 'पिण्ड' (lumps/bodies) is an invented sense; bhramāsaḥ is 'wanderings' in the English and notes."
+ },
+ {
+  "n": "10",
+  "field": "hindi",
+  "old": "तेरे भ्रमण तेज़ी से उड़ते हैं; साहसपूर्वक देदीप्यमान होकर साथ-साथ स्पर्श कर। हे अग्नि, अबद्ध होकर जीभ से तपते हुए उड़ने वालों को और उल्काओं को चारों ओर छोड़।",
+  "new": "तेरे भ्रमण तेज़ी से उड़ते हैं; साहसपूर्वक देदीप्यमान होकर साथ-साथ स्पर्श कर। हे अग्नि, अबद्ध होकर जीभ से तपते हुओं को, उड़ने वालों को और उल्काओं को चारों ओर छोड़।",
+  "why": "reviewer (minor): English has three objects (the hot ones, the flyers, the firebrands); Hindi merges tapūṃṣi and pataṅgān."
+ },
+ {
+  "n": "11",
+  "field": "hindi",
+  "old": "उत्तर में गुप्तचरों को भेज; सबसे वेगवान् हो, इस जन-समूह का अहिंसित रक्षक बन। जो पापी निन्दक हमसे दूर है और जो समीप है, हे अग्नि, कोई भी डगमगाने वाला तुझ पर आक्रमण का साहस न करे।",
+  "new": "बदले में गुप्तचरों को भेज; सबसे वेगवान् हो, इस जन-समूह का अहिंसित रक्षक बन। जो पापी निन्दक हमसे दूर है और जो समीप है, हे अग्नि, कोई भी डगमगाने वाला तुझ पर आक्रमण का साहस न करे।",
+  "why": "reviewer (minor): 'उत्तर' reads as 'north'; prati is rendered 'in return' in English."
+ },
+ {
+  "n": "13",
+  "field": "hindi",
+  "old": "ऊँचा खड़ा हो, हमसे दूर बेध; हे अग्नि, दिव्य शक्तियों को प्रकट कर। यातु से प्रेरित लोगों के दृढ़ों को ढीला कर; सजातीय और विजातीय शत्रुओं को कुचल दे। अग्नि के तेज से मैं तुझे स्थापित करता हूँ।",
+  "new": "ऊँचा खड़ा हो, हमसे दूर बेध; हे अग्नि, दिव्यों को प्रकट कर। यातु से प्रेरित लोगों के दृढ़ों को ढीला कर; सजातीय और विजातीय शत्रुओं को कुचल दे। अग्नि के तेज से मैं तुझे स्थापित करता हूँ।",
+  "why": "reviewer (minor): 'शक्तियों' (powers) is added; daivyāni is only 'divine ones'."
+ },
+ {
+  "n": "14",
+  "field": "word.gram",
+  "word": "kakut",
+  "old": "n. nom. sg.",
+  "new": "f. nom. sg. (kakud)",
+  "why": "reviewer (minor): kakud is not neuter (feminine, sometimes masculine)."
+ },
+ {
+  "n": "15",
+  "field": "english",
+  "old": "You are the leader of the world, of the sacrifice and of the region, where you attend with auspicious yoked teams. In the sky you set your head, light-winning; O Agni, you have made your tongue the carrier of the offerings.",
+  "new": "You are the leader of bhuvaḥ, of the sacrifice and of the region, where you attend with auspicious yoked teams. In the sky you set your head, light-winning; O Agni, you have made your tongue the carrier of the offerings.",
+  "why": "reviewer (minor): bhuvaḥ is not bhuvana; glossary keeps bhuvana = world and loka separate, and the form is uncertain, so keep it transliterated (Hindi लोक is wrong here)."
+ },
+ {
+  "n": "15",
+  "field": "hindi",
+  "old": "तू लोक, यज्ञ और क्षेत्र का नेता है, जहाँ तू शुभ नियुतों के साथ रहता है। तू द्युलोक में अपने सिर को स्थापित करता है, जो स्वर् को जीतने वाला है; हे अग्नि, तूने जीभ को हव्य ढोने वाली बनाया है।",
+  "new": "तू भुवः, यज्ञ और क्षेत्र का नेता है, जहाँ तू शुभ नियुतों के साथ रहता है। तू द्युलोक में अपने सिर को स्थापित करता है, जो स्वर् को जीतने वाला है; हे अग्नि, तूने जीभ को हव्य ढोने वाली बनाया है।",
+  "why": "reviewer (minor): same; also द्युलोक adds loka for divi"
+ },
+ {
+  "n": "15",
+  "field": "hindi",
+  "old": "तू भुवः, यज्ञ और क्षेत्र का नेता है, जहाँ तू शुभ नियुतों के साथ रहता है। तू द्युलोक में अपने सिर को स्थापित करता है, जो स्वर् को जीतने वाला है; हे अग्नि, तूने जीभ को हव्य ढोने वाली बनाया है।",
+  "new": "तू भुवः, यज्ञ और क्षेत्र का नेता है, जहाँ तू शुभ नियुतों के साथ रहता है। तू आकाश में अपने सिर को स्थापित करता है, जो स्वर् को जीतने वाला है; हे अग्नि, तूने जीभ को हव्य ढोने वाली बनाया है।",
+  "why": "reviewer (minor): 'loka' added for divi"
+ },
+ {
+  "n": "15",
+  "field": "word.gloss",
+  "word": "bhuvaḥ",
+  "old": "of the world",
+  "new": "of bhuvaḥ (uncertain)",
+  "why": "reviewer (minor): same"
+ },
+ {
+  "n": "17",
+  "field": "word.w",
+  "word": "eman",
+  "old": "eman",
+  "new": "īman",
+  "why": "reviewer (error): samudrasyeman = samudrasya + īman (a + ī = e); with eman the sandhi would give -syaiman. The word is īman (loc.). Same word in unit 53 (tvemantsādayāmi = tvā + īman)."
+ },
+ {
+  "n": "17",
+  "field": "english",
+  "old": "May Prajāpati seat you on the back of the waters, in the eman of the sea; wide, spacious, spread out; you are the earth.",
+  "new": "May Prajāpati seat you on the back of the waters, in the īman of the sea; wide, spacious, spread out; you are the earth.",
+  "why": "reviewer (error): wrong form quoted"
+ },
+ {
+  "n": "17",
+  "field": "hindi",
+  "old": "प्रजापति तुझे जलों के पृष्ठ पर, समुद्र के ईमन् में स्थापित करे; तू विस्तृत और विशाल है, फैल; तू पृथ्वी है।",
+  "new": "प्रजापति तुझे जलों के पृष्ठ पर, समुद्र के ईमन् में स्थापित करे; विस्तृत, विशाल, फैल; तू पृथ्वी है।",
+  "why": "reviewer (minor): adds a statement 'तू ... है'; vyacasvatīm prathasvatīm are accusatives with prathasva, as in the English."
+ },
+ {
+  "n": "17",
+  "field": "notes",
+  "old": "eman (loc. of ema, 'course, approach'?) is obscure and left transliterated. vyacasvatīm and prathasvatīm are taken as epithets of the addressee.",
+  "new": "eman (loc. of ema, 'course, approach'?) is obscure and left transliterated. vyacasvatīm and prathasvatīm are taken as epithets of the addressee. Correction (review): samudrasyeman = samudrasya + īman (a + ī = e); īman is left transliterated.",
+  "why": "reviewer (minor): note quotes the wrong form"
+ },
+ {
+  "n": "20",
+  "field": "english",
+  "old": "Growing forth from joint to joint, from knot onward; so, O dūrvā-grass, spread forth for us with a thousand and with a hundred.",
+  "new": "Growing forth from joint to joint, from knot to knot; so, O dūrvā-grass, spread forth for us with a thousand and with a hundred.",
+  "why": "reviewer (minor): 'paruṣaḥ paruṣas pari' is 'from knot to knot' (the notes say so); 'onward' is unsupported."
+ },
+ {
+  "n": "20",
+  "field": "hindi",
+  "old": "प्रत्येक काण्ड से, प्रत्येक गाँठ से आगे उगती हुई; इसी प्रकार हे दूर्वा, हमारे लिए सहस्र और शत के साथ फैल।",
+  "new": "प्रत्येक काण्ड से, गाँठ-गाँठ से उगती हुई; इसी प्रकार हे दूर्वा, हमारे लिए सहस्र और शत के साथ फैल।",
+  "why": "reviewer (minor): same"
+ },
+ {
+  "n": "22",
+  "field": "word.w",
+  "word": "ruciḥ",
+  "old": "ruciḥ",
+  "new": "rucaḥ",
+  "why": "reviewer (error): printed 'ruco' is rucaḥ (f. nom. pl. of ruc), as unit 23 has it; ruciḥ would print 'ruciḥ'."
+ },
+ {
+  "n": "24",
+  "field": "word.gram",
+  "word": "virāṭ",
+  "old": "f. nom. sg.",
+  "new": "nom. sg. (gender not stated)",
+  "why": "reviewer (minor): labelled f. nom. sg. while the note says gender is not stated (unit 35 labels samrāj/svarāj m.)."
+ },
+ {
+  "n": "24",
+  "field": "word.gram",
+  "word": "svarāṭ",
+  "old": "f. nom. sg.",
+  "new": "nom. sg. (gender not stated)",
+  "why": "reviewer (minor): same"
+ },
+ {
+  "n": "25",
+  "field": "english",
+  "old": "Madhu and Mādhava, the two seasons of spring; you are the junction within Agni. Let heaven and earth be ordered; let the waters and plants be ordered; let the fires of the same observance be ordered, each for my pre-eminence. The fires that are of one mind between these heaven and earth, and the two spring seasons being ordered, may they enter together as the gods enter Indra; with that deity, like Aṅgiras, both of you sit firm.",
+  "new": "Madhu and Mādhava, the two seasons of spring; you are the junction within Agni. Let heaven and earth be ordered; let the waters and plants be ordered; let the fires of the same observance be ordered, each for my pre-eminence. The fires that are of one mind between these heaven and earth, being ordered, may they enter the two spring seasons together as the gods enter Indra; with that deity, like Aṅgiras, both of you sit firm.",
+  "why": "reviewer (error): Agreement: abhikalpamānāḥ is m. pl. and goes with agnayaḥ; vāsantikāv ṛtū (dual) is the object of abhisaṃviśantu (the fires enter the two seasons as the gods enter Indra). Draft makes the seasons the ordered subject. Also the second-line gram 'm. nom. du.' for vāsantikau/ṛtū should be acc. du."
+ },
+ {
+  "n": "25",
+  "field": "hindi",
+  "old": "मधु और माधव, वसन्त के दो ऋतु; तू अग्नि के भीतर का संयोग है। द्यावापृथिवी व्यवस्थित हों, जल और ओषधियाँ व्यवस्थित हों, एक व्रत वाली अग्नियाँ मेरी ज्येष्ठता के लिए अलग-अलग व्यवस्थित हों। जो अग्नियाँ एक मन वाली इन द्यावापृथिवी के बीच हैं, वसन्त के दो ऋतु व्यवस्थित होते हुए, जैसे देवता इन्द्र में प्रवेश करते हैं, वैसे ही साथ प्रवेश करें; उस देवता के साथ, अङ्गिरा के समान, तुम दोनों दृढ़ होकर बैठो।",
+  "new": "मधु और माधव, वसन्त के दो ऋतु; तू अग्नि के भीतर का संयोग है। द्यावापृथिवी व्यवस्थित हों, जल और ओषधियाँ व्यवस्थित हों, एक व्रत वाली अग्नियाँ मेरी ज्येष्ठता के लिए अलग-अलग व्यवस्थित हों। जो अग्नियाँ एक मन वाली इन द्यावापृथिवी के बीच हैं, व्यवस्थित होती हुई, वसन्त के दो ऋतुओं में वैसे ही साथ प्रवेश करें, जैसे देव इन्द्र में प्रवेश करते हैं; उस देवता के साथ, अङ्गिरा के समान, तुम दोनों दृढ़ होकर बैठो।",
+  "why": "reviewer (error): same error; also देवता for devāḥ (glossary: देव)"
+ },
+ {
+  "n": "36",
+  "field": "english",
+  "old": "Harness, O Agni, for those horses of yours, O god, which are good, carry sufficiently, for ardour.",
+  "new": "Harness (them), O Agni, since those horses of yours, O god, which are good, carry sufficiently, for ardour.",
+  "why": "reviewer (error): hi is taken as 'for' in the gloss and Hindi (क्योंकि) but the English uses 'for' as a preposition, making 'harness for those horses' and leaving 'carry' without a subject-link; Hindi and English disagree."
+ },
+ {
+  "n": "42",
+  "field": "hindi",
+  "old": "वायु का वेग, वरुण की नाभि, सरिर के मध्य में उत्पन्न अश्व, नदियों का शिशु, हरित, पर्वत के आधार वाला; हे अग्नि, उसे परम आकाश में हानि न पहुँचा।",
+  "new": "वायु का वेग, वरुण की नाभि, सरिर के मध्य में उत्पन्न अश्व, नदियों का शिशु, भूरा, पर्वत के आधार वाला; हे अग्नि, उसे परम आकाश में हानि न पहुँचा।",
+  "why": "reviewer (minor): harim 'tawny' (English); हरित means green."
+ },
+ {
+  "n": "44",
+  "field": "word.gram",
+  "word": "avim",
+  "old": "m. acc. sg.",
+  "new": "f. acc. sg.",
+  "why": "reviewer (minor): jajñānām is f. acc. and avi is feminine here; draft labels avim m. but its participle f."
+ },
+ {
+  "n": "45",
+  "field": "english",
+  "old": "The Agni who was born from Agni, from the blaze, from the earth or from beyond the sky; by whom Viśvakarman begot offspring: O Agni, may your anger pass him by.",
+  "new": "The Agni who was born from Agni, from the blaze, from the earth or from the sky; by whom Viśvakarman begot offspring: O Agni, may your anger pass him by.",
+  "why": "reviewer (minor): 'divaspari' = divaḥ pari, pari with the ablative 'from'; 'beyond' is added (cf. unit 20 'paruṣaspari')."
+ },
+ {
+  "n": "45",
+  "field": "hindi",
+  "old": "जो अग्नि अग्नि से उत्पन्न हुआ, ज्वाला से, पृथ्वी से अथवा आकाश से परे; जिसके द्वारा विश्वकर्मा ने प्रजाओं को उत्पन्न किया, हे अग्नि, तेरा क्रोध उसे छोड़ दे।",
+  "new": "जो अग्नि अग्नि से उत्पन्न हुआ, ज्वाला से, पृथ्वी से अथवा आकाश से; जिसके द्वारा विश्वकर्मा ने प्रजाओं को उत्पन्न किया, हे अग्नि, तेरा क्रोध उसे छोड़ दे।",
+  "why": "reviewer (minor): same"
+ },
+ {
+  "n": "46",
+  "field": "hindi",
+  "old": "देवों का विचित्र अनीक उदित हुआ है, मित्र, वरुण और अग्नि की आँख। सूर्य ने, जो जंगम और स्थावर का आत्मा है, द्यावापृथिवी और अन्तरिक्ष को भर दिया है।",
+  "new": "देवों का तेजस्वी अनीक उदित हुआ है, मित्र, वरुण और अग्नि की आँख। सूर्य ने, जो जंगम और स्थावर का आत्मा है, द्यावापृथिवी और अन्तरिक्ष को भर दिया है।",
+  "why": "reviewer (minor): citram is 'bright' (English); विचित्र means varied/strange."
+ },
+ {
+  "n": "51",
+  "field": "hindi",
+  "old": "बकरा अग्नि की ज्वाला से उत्पन्न हुआ; उसने आरम्भ में अपने जनक को देखा। उसके द्वारा देवता अग्र देवता को प्राप्त हुए; उसके द्वारा मेध्य जन आरोह के समीप पहुँचे। मैं तेरे लिए शरभ वनचर को निर्दिष्ट करता हूँ; उसके साथ चयित होता हुआ शरीर के पास बैठ। तेरा शोक शरभ को प्राप्त हो; जिससे हम द्वेष करते हैं, उसे तेरा शोक प्राप्त हो।",
+  "new": "बकरा अग्नि की ज्वाला से उत्पन्न हुआ; उसने आरम्भ में अपने जनक को देखा। उसके द्वारा देव अग्र देवता को प्राप्त हुए; उसके द्वारा मेध्य जन आरोह के समीप पहुँचे। मैं तेरे लिए शरभ वनचर को निर्दिष्ट करता हूँ; उसके साथ चयित होता हुआ शरीर के पास बैठ। तेरा शोक शरभ को प्राप्त हो; जिससे हम द्वेष करते हैं, उसे तेरा शोक प्राप्त हो।",
+  "why": "reviewer (minor): devāḥ is rendered देवता; glossary deva = देव."
+ },
+ {
+  "n": "51",
+  "field": "english",
+  "old": "The goat was born from the blaze of Agni; he saw his begetter at first. By him the gods reached the foremost deity; by him those fit for the offering came near the ascent. I assign to you the śarabha, the wild one; with that, being piled, settle on the body. May your grief reach the śarabha; the one whom we hate, may your grief reach him.",
+  "new": "The goat was born from the blaze of Agni; he saw the begetter at first. By him the gods reached the foremost deity; by him those fit for the offering came near the ascent. I assign to you the śarabha, the wild one; with that, being piled, settle on the body. May your grief reach the śarabha; the one whom we hate, may your grief reach him.",
+  "why": "reviewer (minor): 'his' (and Hindi अपने) is added; janitāram has no possessive."
+ },
+ {
+  "n": "51",
+  "field": "hindi",
+  "old": "बकरा अग्नि की ज्वाला से उत्पन्न हुआ; उसने आरम्भ में अपने जनक को देखा। उसके द्वारा देव अग्र देवता को प्राप्त हुए; उसके द्वारा मेध्य जन आरोह के समीप पहुँचे। मैं तेरे लिए शरभ वनचर को निर्दिष्ट करता हूँ; उसके साथ चयित होता हुआ शरीर के पास बैठ। तेरा शोक शरभ को प्राप्त हो; जिससे हम द्वेष करते हैं, उसे तेरा शोक प्राप्त हो।",
+  "new": "बकरा अग्नि की ज्वाला से उत्पन्न हुआ; उसने आरम्भ में जनक को देखा। उसके द्वारा देव अग्र देवता को प्राप्त हुए; उसके द्वारा मेध्य जन आरोह के समीप पहुँचे। मैं तेरे लिए शरभ वनचर को निर्दिष्ट करता हूँ; उसके साथ चयित होता हुआ शरीर के पास बैठ। तेरा शोक शरभ को प्राप्त हो; जिससे हम द्वेष करते हैं, उसे तेरा शोक प्राप्त हो।",
+  "why": "reviewer (minor): same"
+ },
+ {
+  "n": "53",
+  "field": "word.w",
+  "word": "eman",
+  "old": "eman",
+  "new": "īman",
+  "why": "reviewer (error): tvā + īman (tvemantsādayāmi: ā + ī = e, n + s = nts), same as unit 17; not eman."
+ },
+ {
+  "n": "53",
+  "field": "english",
+  "old": "I seat you in the eman of the waters; I seat you in the udman of the waters; I seat you in the bhasman of the waters; I seat you in the light of the waters; I seat you in the course of the waters; in the flood I seat you in the seat; in the sea I seat you in the seat; in the sarira I seat you in the seat; I seat you in the dwelling of the waters; I seat you in the sadhis of the waters; I seat you in the seat of the waters; I seat you in the common station of the waters; I seat you in the womb of the waters; I seat you in the purīṣa of the waters; I seat you in the pāthas of the waters. With the gāyatra metre I seat you; with the traiṣṭubha metre I seat you; with the jāgata metre I seat you; with the ānuṣṭubha metre I seat you; with the pāṅkta metre I seat you.",
+  "new": "I seat you in the īman of the waters; I seat you in the udman of the waters; I seat you in the bhasman of the waters; I seat you in the light of the waters; I seat you in the course of the waters; in the flood I seat you in the seat; in the sea I seat you in the seat; in the sarira I seat you in the seat; I seat you in the dwelling of the waters; I seat you in the sadhis of the waters; I seat you in the seat of the waters; I seat you in the common station of the waters; I seat you in the womb of the waters; I seat you in the purīṣa of the waters; I seat you in the pāthas of the waters. With the gāyatra metre I seat you; with the traiṣṭubha metre I seat you; with the jāgata metre I seat you; with the ānuṣṭubha metre I seat you; with the pāṅkta metre I seat you.",
+  "why": "reviewer (error): wrong form quoted (Hindi ईमन् is right)"
+ },
+ {
+  "n": "58",
+  "field": "word.gram",
+  "word": "mātyā",
+  "old": "f. inst. sg.",
+  "new": "f. nom. sg. (form uncertain)",
+  "why": "reviewer (minor): gram says f. inst. sg., but English/Hindi take it as a predicate nominative ('speech is the mātyā') parallel to vāsantī/haimantī."
+ },
+ {
+  "n": "5",
+  "field": "split",
+  "old": "drapsaḥ ca skanda",
+  "new": "drapsaḥ caskanda",
+  "manual": true
+ },
+ {
+  "n": "5",
+  "field": "notes",
+  "old": "skanda (aorist, 'has leapt')",
+  "new": "caskanda (reduplicated perfect, 'has leapt')",
+  "manual": true
+ },
+ {
+  "n": "37",
+  "field": "english",
+  "old": "Harness, O Agni, like a charioteer,",
+  "new": "Harness, O Agni, indeed, like a charioteer,",
+  "manual": true
+ },
+ {
+  "n": "37",
+  "field": "hindi",
+  "old": "हे अग्नि, रथी के समान",
+  "new": "हे अग्नि, निश्चय ही रथी के समान",
+  "manual": true
+ },
+ {
+  "n": "47",
+  "field": "gram",
+  "old": "tanvaḥ",
+  "new": "case uncertain",
+  "manual": true
+ },
+ {
+  "n": "48",
+  "field": "notes",
+  "old": "",
+  "new": "anu",
+  "manual": true
+ },
+ {
+  "n": "53",
+  "field": "gloss",
+  "old": "eman",
+  "new": "īman obscure",
+  "manual": true
+ },
+ {
+  "n": "58",
+  "field": "english",
+  "old": "hemanta",
+  "new": "winter",
+  "manual": true
+ },
+ {
+  "n": "25",
+  "field": "gram",
+  "old": "2nd vāsantikau/ṛtū",
+  "new": "acc. du.",
+  "manual": true
+ }
+]

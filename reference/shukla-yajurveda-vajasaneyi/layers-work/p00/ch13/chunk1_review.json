@@ -1,0 +1,956 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "may the gods attend me",
+     "problem": "devatāḥ is 'deity' elsewhere (unit 19 'that deity'); glossary keeps deva = god, so devatā should not be 'gods'.",
+     "fix": "may the deities attend me",
+     "severity": "minor",
+     "patch": {
+      "n": "1",
+      "op": "replace",
+      "field": "english",
+      "old": "may the gods attend me",
+      "new": "may the deities attend me"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "devatāḥ 'the gods'",
+     "problem": "same point",
+     "fix": "the deities",
+     "severity": "minor",
+     "patch": {
+      "n": "1",
+      "op": "word",
+      "match_w": "devatāḥ",
+      "field": "gloss",
+      "value": "the deities"
+     }
+    }
+   ]
+  },
+  {
+   "n": "2",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "swelling all around the sea",
+     "problem": "pinvamānam (acc. n./m. sg.) agrees with samudram, and abhitaḥ takes the accusative: 'around the swelling sea'. Draft makes the addressee swell; Hindi even makes it feminine, which nothing in the line supports (mahān is masculine, so the note 'gender not fixed' is also wrong).",
+     "fix": "around the swelling sea",
+     "severity": "error",
+     "patch": {
+      "n": "2",
+      "op": "replace",
+      "field": "english",
+      "old": "swelling all around the sea",
+      "new": "around the swelling sea"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "समुद्र के चारों ओर फूलती हुई है",
+     "problem": "same error, and a feminine predicate is invented",
+     "fix": "फूलते हुए समुद्र के चारों ओर",
+     "severity": "error",
+     "patch": {
+      "n": "2",
+      "op": "replace",
+      "field": "hindi",
+      "old": "समुद्र के चारों ओर फूलती हुई है",
+      "new": "फूलते हुए समुद्र के चारों ओर"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "pinvamānam",
+     "problem": "case/gender missing",
+     "fix": "pres. part. mid., m./n. acc. sg. (with samudram)",
+     "severity": "minor",
+     "patch": {
+      "n": "2",
+      "op": "word",
+      "match_w": "pinvamānam",
+      "field": "gram",
+      "value": "pres. part. mid., acc. sg. (with samudram)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "3",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "4",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "तथा इस लोक को",
+     "problem": "'loka' is added; the text has only imām 'this (one)', and English says 'this one'. Glossary reserves लोक for loka.",
+     "fix": "उसने पृथ्वी को, आकाश को और इसे धारण किया।",
+     "severity": "error",
+     "patch": {
+      "n": "4",
+      "op": "replace",
+      "field": "hindi",
+      "old": "उसने पृथ्वी और आकाश तथा इस लोक को धारण किया।",
+      "new": "उसने पृथ्वी को, आकाश को और इसे धारण किया।"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "प्राणियों का एकमात्र स्वामी",
+     "problem": "bhūtasya is glossed and translated in English as 'of what exists'; 'प्राणियों' (living beings) narrows it.",
+     "fix": "जो कुछ है उसका एकमात्र स्वामी",
+     "severity": "minor",
+     "patch": {
+      "n": "4",
+      "op": "replace",
+      "field": "hindi",
+      "old": "प्राणियों का एकमात्र स्वामी",
+      "new": "जो कुछ है उसका एकमात्र स्वामी"
+     }
+    },
+    {
+     "field": "english",
+     "where": "may we offer with the oblation",
+     "problem": "gloss says vidhema = 'may we serve', English says 'offer', Hindi 'पूजें'; make the three agree (unit 21 uses 'serve'/सेवा).",
+     "fix": "may we serve with the oblation",
+     "severity": "minor",
+     "patch": {
+      "n": "4",
+      "op": "replace",
+      "field": "english",
+      "old": "may we offer with the oblation",
+      "new": "may we serve with the oblation"
+     }
+    }
+   ]
+  },
+  {
+   "n": "5",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "dra̱psaśca̭skanda -> drapsaḥ + ca + skanda",
+     "problem": "Printed word is drapsaḥ + caskanda (reduplicated perfect of √skand, 3 sg. 'has leapt'); there is no separate ca and no aorist 'skanda'. Draft invents a ca and an aorist.",
+     "fix": "words: drapsaḥ = drop, m. nom. sg.; caskanda = has leapt, 3 sg. pf. √skand (delete the word ca)",
+     "severity": "error"
+    }
+   ]
+  },
+  {
+   "n": "6",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "जो द्युलोक में हैं",
+     "problem": "द्युलोक adds 'loka'; divi is 'in the sky' (English 'in the sky', Hindi elsewhere आकाश).",
+     "fix": "जो आकाश में हैं",
+     "severity": "minor",
+     "patch": {
+      "n": "6",
+      "op": "replace",
+      "field": "hindi",
+      "old": "जो द्युलोक में हैं",
+      "new": "जो आकाश में हैं"
+     }
+    }
+   ]
+  },
+  {
+   "n": "7",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "iṣavaḥ",
+     "problem": "iṣu is feminine in the Veda and agrees with yāḥ (f.); draft labels it m. while taking yāḥ as f.",
+     "fix": "f. nom. pl.",
+     "severity": "minor",
+     "patch": {
+      "n": "7",
+      "op": "word",
+      "match_w": "iṣavaḥ",
+      "field": "gram",
+      "value": "f. nom. pl."
+     }
+    }
+   ]
+  },
+  {
+   "n": "8",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "9",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "10",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "तेरे घूमते हुए पिण्ड",
+     "problem": "'पिण्ड' (lumps/bodies) is an invented sense; bhramāsaḥ is 'wanderings' in the English and notes.",
+     "fix": "तेरे भ्रमण",
+     "severity": "error",
+     "patch": {
+      "n": "10",
+      "op": "replace",
+      "field": "hindi",
+      "old": "तेरे घूमते हुए पिण्ड",
+      "new": "तेरे भ्रमण"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "तपते हुए उड़ने वालों को और उल्काओं को",
+     "problem": "English has three objects (the hot ones, the flyers, the firebrands); Hindi merges tapūṃṣi and pataṅgān.",
+     "fix": "तपते हुओं को, उड़ने वालों को और उल्काओं को",
+     "severity": "minor",
+     "patch": {
+      "n": "10",
+      "op": "replace",
+      "field": "hindi",
+      "old": "तपते हुए उड़ने वालों को और उल्काओं को",
+      "new": "तपते हुओं को, उड़ने वालों को और उल्काओं को"
+     }
+    }
+   ]
+  },
+  {
+   "n": "11",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "उत्तर में गुप्तचरों को भेज",
+     "problem": "'उत्तर' reads as 'north'; prati is rendered 'in return' in English.",
+     "fix": "बदले में गुप्तचरों को भेज",
+     "severity": "minor",
+     "patch": {
+      "n": "11",
+      "op": "replace",
+      "field": "hindi",
+      "old": "उत्तर में गुप्तचरों को भेज",
+      "new": "बदले में गुप्तचरों को भेज"
+     }
+    }
+   ]
+  },
+  {
+   "n": "12",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "13",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "दिव्य शक्तियों को प्रकट कर",
+     "problem": "'शक्तियों' (powers) is added; daivyāni is only 'divine ones'.",
+     "fix": "दिव्यों को प्रकट कर",
+     "severity": "minor",
+     "patch": {
+      "n": "13",
+      "op": "replace",
+      "field": "hindi",
+      "old": "दिव्य शक्तियों को प्रकट कर",
+      "new": "दिव्यों को प्रकट कर"
+     }
+    }
+   ]
+  },
+  {
+   "n": "14",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "kakut",
+     "problem": "kakud is not neuter (feminine, sometimes masculine).",
+     "fix": "f. nom. sg. (kakud)",
+     "severity": "minor",
+     "patch": {
+      "n": "14",
+      "op": "word",
+      "match_w": "kakut",
+      "field": "gram",
+      "value": "f. nom. sg. (kakud)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "15",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "leader of the world",
+     "problem": "bhuvaḥ is not bhuvana; glossary keeps bhuvana = world and loka separate, and the form is uncertain, so keep it transliterated (Hindi लोक is wrong here).",
+     "fix": "You are the leader of bhuvaḥ, of the sacrifice ...",
+     "severity": "minor",
+     "patch": {
+      "n": "15",
+      "op": "replace",
+      "field": "english",
+      "old": "leader of the world, of the sacrifice",
+      "new": "leader of bhuvaḥ, of the sacrifice"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "तू लोक, यज्ञ और क्षेत्र का नेता है",
+     "problem": "same; also द्युलोक adds loka for divi",
+     "fix": "तू भुवः, यज्ञ और क्षेत्र का नेता है ... आकाश में",
+     "severity": "minor",
+     "patch": {
+      "n": "15",
+      "op": "replace",
+      "field": "hindi",
+      "old": "तू लोक, यज्ञ और क्षेत्र का नेता है",
+      "new": "तू भुवः, यज्ञ और क्षेत्र का नेता है"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "तू द्युलोक में अपने सिर को",
+     "problem": "'loka' added for divi",
+     "fix": "तू आकाश में अपने सिर को",
+     "severity": "minor",
+     "patch": {
+      "n": "15",
+      "op": "replace",
+      "field": "hindi",
+      "old": "तू द्युलोक में अपने सिर को",
+      "new": "तू आकाश में अपने सिर को"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "bhuvaḥ 'of the world'",
+     "problem": "same",
+     "fix": "of bhuvaḥ (uncertain)",
+     "severity": "minor",
+     "patch": {
+      "n": "15",
+      "op": "word",
+      "match_w": "bhuvaḥ",
+      "field": "gloss",
+      "value": "of bhuvaḥ (uncertain)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "16",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "17",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "eman",
+     "problem": "samudrasyeman = samudrasya + īman (a + ī = e); with eman the sandhi would give -syaiman. The word is īman (loc.). Same word in unit 53 (tvemantsādayāmi = tvā + īman).",
+     "fix": "w: īman",
+     "severity": "error",
+     "patch": {
+      "n": "17",
+      "op": "word",
+      "match_w": "eman",
+      "field": "w",
+      "value": "īman"
+     }
+    },
+    {
+     "field": "english",
+     "where": "in the eman of the sea",
+     "problem": "wrong form quoted",
+     "fix": "in the īman of the sea",
+     "severity": "error",
+     "patch": {
+      "n": "17",
+      "op": "replace",
+      "field": "english",
+      "old": "in the eman of the sea",
+      "new": "in the īman of the sea"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "तू विस्तृत और विशाल है, फैल",
+     "problem": "adds a statement 'तू ... है'; vyacasvatīm prathasvatīm are accusatives with prathasva, as in the English.",
+     "fix": "विस्तृत, विशाल, फैल",
+     "severity": "minor",
+     "patch": {
+      "n": "17",
+      "op": "replace",
+      "field": "hindi",
+      "old": "तू विस्तृत और विशाल है, फैल",
+      "new": "विस्तृत, विशाल, फैल"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "eman",
+     "problem": "note quotes the wrong form",
+     "fix": "append: Read as samudrasya + īman (a + ī = e), not eman.",
+     "severity": "minor",
+     "patch": {
+      "n": "17",
+      "op": "append_note",
+      "text": "Correction (review): samudrasyeman = samudrasya + īman (a + ī = e); īman is left transliterated."
+     }
+    }
+   ]
+  },
+  {
+   "n": "18",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "19",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "20",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "from knot onward",
+     "problem": "'paruṣaḥ paruṣas pari' is 'from knot to knot' (the notes say so); 'onward' is unsupported.",
+     "fix": "from joint to joint, from knot to knot",
+     "severity": "minor",
+     "patch": {
+      "n": "20",
+      "op": "replace",
+      "field": "english",
+      "old": "from knot onward",
+      "new": "from knot to knot"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "प्रत्येक गाँठ से आगे",
+     "problem": "same",
+     "fix": "गाँठ-गाँठ से",
+     "severity": "minor",
+     "patch": {
+      "n": "20",
+      "op": "replace",
+      "field": "hindi",
+      "old": "प्रत्येक गाँठ से आगे",
+      "new": "गाँठ-गाँठ से"
+     }
+    }
+   ]
+  },
+  {
+   "n": "21",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "22",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "ruciḥ",
+     "problem": "printed 'ruco' is rucaḥ (f. nom. pl. of ruc), as unit 23 has it; ruciḥ would print 'ruciḥ'.",
+     "fix": "w: rucaḥ",
+     "severity": "error",
+     "patch": {
+      "n": "22",
+      "op": "word",
+      "match_w": "ruciḥ",
+      "field": "w",
+      "value": "rucaḥ"
+     }
+    }
+   ]
+  },
+  {
+   "n": "23",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "24",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "virāṭ / svarāṭ",
+     "problem": "labelled f. nom. sg. while the note says gender is not stated (unit 35 labels samrāj/svarāj m.).",
+     "fix": "nom. sg. (gender not stated)",
+     "severity": "minor",
+     "patch": {
+      "n": "24",
+      "op": "word",
+      "match_w": "virāṭ",
+      "field": "gram",
+      "value": "nom. sg. (gender not stated)"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "svarāṭ",
+     "problem": "same",
+     "fix": "nom. sg. (gender not stated)",
+     "severity": "minor",
+     "patch": {
+      "n": "24",
+      "op": "word",
+      "match_w": "svarāṭ",
+      "field": "gram",
+      "value": "nom. sg. (gender not stated)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "25",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "and the two spring seasons being ordered, may they enter together as the gods enter Indra",
+     "problem": "Agreement: abhikalpamānāḥ is m. pl. and goes with agnayaḥ; vāsantikāv ṛtū (dual) is the object of abhisaṃviśantu (the fires enter the two seasons as the gods enter Indra). Draft makes the seasons the ordered subject. Also the second-line gram 'm. nom. du.' for vāsantikau/ṛtū should be acc. du.",
+     "fix": "The fires that are of one mind between these heaven and earth, being ordered, may they enter the two spring seasons together as the gods enter Indra;",
+     "severity": "error",
+     "patch": {
+      "n": "25",
+      "op": "replace",
+      "field": "english",
+      "old": "The fires that are of one mind between these heaven and earth, and the two spring seasons being ordered, may they enter together as the gods enter Indra;",
+      "new": "The fires that are of one mind between these heaven and earth, being ordered, may they enter the two spring seasons together as the gods enter Indra;"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "वसन्त के दो ऋतु व्यवस्थित होते हुए, जैसे देवता इन्द्र में प्रवेश करते हैं",
+     "problem": "same error; also देवता for devāḥ (glossary: देव)",
+     "fix": "जो अग्नियाँ ... बीच हैं, व्यवस्थित होती हुई, वसन्त के दो ऋतुओं में वैसे ही साथ प्रवेश करें, जैसे देव इन्द्र में प्रवेश करते हैं;",
+     "severity": "error",
+     "patch": {
+      "n": "25",
+      "op": "replace",
+      "field": "hindi",
+      "old": "जो अग्नियाँ एक मन वाली इन द्यावापृथिवी के बीच हैं, वसन्त के दो ऋतु व्यवस्थित होते हुए, जैसे देवता इन्द्र में प्रवेश करते हैं, वैसे ही साथ प्रवेश करें;",
+      "new": "जो अग्नियाँ एक मन वाली इन द्यावापृथिवी के बीच हैं, व्यवस्थित होती हुई, वसन्त के दो ऋतुओं में वैसे ही साथ प्रवेश करें, जैसे देव इन्द्र में प्रवेश करते हैं;"
+     }
+    }
+   ]
+  },
+  {
+   "n": "26",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "27",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "28",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "29",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "30",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "31",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "32",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "33",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "34",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "35",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "36",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "Harness, O Agni, for those horses of yours ... carry sufficiently",
+     "problem": "hi is taken as 'for' in the gloss and Hindi (क्योंकि) but the English uses 'for' as a preposition, making 'harness for those horses' and leaving 'carry' without a subject-link; Hindi and English disagree.",
+     "fix": "Harness (them), O Agni, since those horses of yours, O god, which are good, carry sufficiently, for ardour.",
+     "severity": "error",
+     "patch": {
+      "n": "36",
+      "op": "set",
+      "field": "english",
+      "value": "Harness (them), O Agni, since those horses of yours, O god, which are good, carry sufficiently, for ardour."
+     }
+    }
+   ]
+  },
+  {
+   "n": "37",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "hi omitted",
+     "problem": "hi is glossed 'for' but untranslated in both languages (unit 36 renders it).",
+     "fix": "e.g. English 'Harness, O Agni, for ...' / Hindi 'हे अग्नि, ... क्योंकि जोत' or note that hi is left as a particle",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "38",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "39",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "40",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "41",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "42",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "हरित",
+     "problem": "harim 'tawny' (English); हरित means green.",
+     "fix": "भूरा",
+     "severity": "minor",
+     "patch": {
+      "n": "42",
+      "op": "replace",
+      "field": "hindi",
+      "old": "नदियों का शिशु, हरित, पर्वत",
+      "new": "नदियों का शिशु, भूरा, पर्वत"
+     }
+    }
+   ]
+  },
+  {
+   "n": "43",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "44",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "avim",
+     "problem": "jajñānām is f. acc. and avi is feminine here; draft labels avim m. but its participle f.",
+     "fix": "f. acc. sg.",
+     "severity": "minor",
+     "patch": {
+      "n": "44",
+      "op": "word",
+      "match_w": "avim",
+      "field": "gram",
+      "value": "f. acc. sg."
+     }
+    }
+   ]
+  },
+  {
+   "n": "45",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "from beyond the sky",
+     "problem": "'divaspari' = divaḥ pari, pari with the ablative 'from'; 'beyond' is added (cf. unit 20 'paruṣaspari').",
+     "fix": "from the earth or from the sky",
+     "severity": "minor",
+     "patch": {
+      "n": "45",
+      "op": "replace",
+      "field": "english",
+      "old": "from the earth or from beyond the sky",
+      "new": "from the earth or from the sky"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "आकाश से परे",
+     "problem": "same",
+     "fix": "अथवा आकाश से",
+     "severity": "minor",
+     "patch": {
+      "n": "45",
+      "op": "replace",
+      "field": "hindi",
+      "old": "पृथ्वी से अथवा आकाश से परे",
+      "new": "पृथ्वी से अथवा आकाश से"
+     }
+    }
+   ]
+  },
+  {
+   "n": "46",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "देवों का विचित्र अनीक",
+     "problem": "citram is 'bright' (English); विचित्र means varied/strange.",
+     "fix": "देवों का तेजस्वी अनीक",
+     "severity": "minor",
+     "patch": {
+      "n": "46",
+      "op": "replace",
+      "field": "hindi",
+      "old": "देवों का विचित्र अनीक",
+      "new": "देवों का तेजस्वी अनीक"
+     }
+    }
+   ]
+  },
+  {
+   "n": "47",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "tanvaḥ",
+     "problem": "gram says 'of the body' (gen.) but English 'settle on the body' and Hindi 'शरीर के पास बैठ' render a locative sense, and the two translations differ; case is uncertain (also units 48-51).",
+     "fix": "note the uncertainty and use one rendering in both languages",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "48",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "anu",
+     "problem": "anu glossed 'according to' while the notes read 'anu diśāmi' as one verb 'I assign' (units 48-51); the translation drops anu.",
+     "fix": "anu = preverb with diśāmi (units 48-51)",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "49",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "50",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "51",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "उसके द्वारा देवता अग्र देवता को",
+     "problem": "devāḥ is rendered देवता; glossary deva = देव.",
+     "fix": "उसके द्वारा देव अग्र देवता को प्राप्त हुए",
+     "severity": "minor",
+     "patch": {
+      "n": "51",
+      "op": "replace",
+      "field": "hindi",
+      "old": "उसके द्वारा देवता अग्र देवता को प्राप्त हुए",
+      "new": "उसके द्वारा देव अग्र देवता को प्राप्त हुए"
+     }
+    },
+    {
+     "field": "english",
+     "where": "saw his begetter",
+     "problem": "'his' (and Hindi अपने) is added; janitāram has no possessive.",
+     "fix": "he saw the begetter at first",
+     "severity": "minor",
+     "patch": {
+      "n": "51",
+      "op": "replace",
+      "field": "english",
+      "old": "he saw his begetter at first",
+      "new": "he saw the begetter at first"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "अपने जनक को",
+     "problem": "same",
+     "fix": "जनक को",
+     "severity": "minor",
+     "patch": {
+      "n": "51",
+      "op": "replace",
+      "field": "hindi",
+      "old": "अपने जनक को",
+      "new": "जनक को"
+     }
+    }
+   ]
+  },
+  {
+   "n": "52",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "53",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "eman",
+     "problem": "tvā + īman (tvemantsādayāmi: ā + ī = e, n + s = nts), same as unit 17; not eman.",
+     "fix": "w: īman",
+     "severity": "error",
+     "patch": {
+      "n": "53",
+      "op": "word",
+      "match_w": "eman",
+      "field": "w",
+      "value": "īman"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "eman",
+     "problem": "gloss quotes the wrong form",
+     "fix": "in the īman (course?)",
+     "severity": "minor",
+     "patch": {
+      "n": "53",
+      "op": "word",
+      "match_w": "eman",
+      "field": "gloss",
+      "value": "in the īman (course?)"
+     }
+    },
+    {
+     "field": "english",
+     "where": "in the eman of the waters",
+     "problem": "wrong form quoted (Hindi ईमन् is right)",
+     "fix": "in the īman of the waters",
+     "severity": "error",
+     "patch": {
+      "n": "53",
+      "op": "replace",
+      "field": "english",
+      "old": "in the eman of the waters",
+      "new": "in the īman of the waters"
+     }
+    }
+   ]
+  },
+  {
+   "n": "54",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "55",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "56",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "57",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "58",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "mātyā",
+     "problem": "gram says f. inst. sg., but English/Hindi take it as a predicate nominative ('speech is the mātyā') parallel to vāsantī/haimantī.",
+     "fix": "f. nom. sg. (form uncertain)",
+     "severity": "minor",
+     "patch": {
+      "n": "58",
+      "op": "word",
+      "match_w": "mātyā",
+      "field": "gram",
+      "value": "f. nom. sg. (form uncertain)"
+     }
+    },
+    {
+     "field": "english",
+     "where": "hemanta",
+     "problem": "Other seasons are translated (spring, summer, rains, autumn) but hemanta is left; glossary gives hima = winter.",
+     "fix": "winter (hemanta)",
+     "severity": "minor"
+    }
+   ]
+  }
+ ],
+ "summary": "13 errors, 35 minor in 27 of 58 units. Main errors: pinvamānam agreement (u2), Hindi additions (u4, u10), caskanda mis-split (u5), īman misread as eman (u17, u53), ruco = rucaḥ (u22), abhikalpamānāḥ/ṛtū agreement (u25), hi handling in u36. No regrouping needed; u24 and u58 keep edition grouping."
+}
