@@ -1,0 +1,276 @@
+[
+ {
+  "n": "33",
+  "field": "english",
+  "old": "For those sons of Aditi bestow unceasing light on the mortal, that he may live.",
+  "new": "For they, the sons of Aditi, bestow unceasing light on the mortal, that he may live.",
+  "why": "reviewer (error): Ungrammatical: \"For those sons ... bestow\" drops the subject; hi is rendered as a preposition. \"Light\" is the object of yacchanti with the sons as subject."
+ },
+ {
+  "n": "34",
+  "field": "hindi",
+  "old": "हे इन्द्र, तुम कभी बाँझ (निष्फल) नहीं हो; तुम दाता उपासक की सेवा करते हो। हे मघवन्, और समीप, और भी अधिक समीप आओ; इस देव का तुम्हारा दान निश्चय ही प्रदान किया जाता है।",
+  "new": "हे इन्द्र, तुम कभी बाँझ नहीं हो; तुम दाता उपासक की सेवा करते हो। हे मघवन्, और समीप, और भी अधिक समीप आओ; इस देव का तुम्हारा दान निश्चय ही प्रदान किया जाता है।",
+  "why": "reviewer (error): Bracketed gloss in Hindi is not allowed."
+ },
+ {
+  "n": "34",
+  "field": "hindi",
+  "old": "हे इन्द्र, तुम कभी बाँझ नहीं हो; तुम दाता उपासक की सेवा करते हो। हे मघवन्, और समीप, और भी अधिक समीप आओ; इस देव का तुम्हारा दान निश्चय ही प्रदान किया जाता है।",
+  "new": "हे इन्द्र, तुम कभी बाँझ नहीं हो; तुम दाता उपासक की सेवा करते हो। हे मघवन्, और समीप, और भी समीप, और भी अधिक; इस देव का तुम्हारा दान निश्चय ही प्रदान किया जाता है।",
+  "why": "reviewer (minor): Hindi adds the imperative \"come\"; the line has no verb (upa upa it nu = \"nearer, nearer indeed now\")."
+ },
+ {
+  "n": "34",
+  "field": "hindi",
+  "old": "हे इन्द्र, तुम कभी बाँझ नहीं हो; तुम दाता उपासक की सेवा करते हो। हे मघवन्, और समीप, और भी समीप, और भी अधिक; इस देव का तुम्हारा दान निश्चय ही प्रदान किया जाता है।",
+  "new": "हे इन्द्र, तुम कभी बाँझ नहीं हो; तुम दाता उपासक की सेवा करते हो। हे मघवन्, और समीप, और भी समीप, और भी अधिक; देव का तुम्हारा दान निश्चय ही प्रदान किया जाता है।",
+  "why": "reviewer (minor): \"इस\" (this) is added; devasya has no demonstrative."
+ },
+ {
+  "n": "35",
+  "field": "english",
+  "old": "We meditate on that most excellent radiance of the god Savitṛ, who may impel our thoughts.",
+  "new": "We meditate on that excellent radiance of the god Savitṛ, who may impel our thoughts.",
+  "why": "reviewer (minor): vareṇya is \"to be chosen, excellent\"; the superlative \"most\" is added (Hindi has plain श्रेष्ठ)."
+ },
+ {
+  "n": "35",
+  "field": "word.gram",
+  "word": "dhīmahi",
+  "old": "1 pl. opt. mid. √dhī",
+  "new": "1 pl. opt. mid. (root √dhā or √dhī, debated)",
+  "why": "reviewer (minor): Root is debated (√dhā \"set, hold\" vs √dhyai/dhī \"think\"); gram states √dhī as fact."
+ },
+ {
+  "n": "35",
+  "field": "word.gram",
+  "word": "pracodayāt",
+  "old": "3 sg. opt. pra-√cud (caus.)",
+  "new": "3 sg. subj./inj. (Vedic, often glossed opt.) pra-√cud (caus.)",
+  "why": "reviewer (minor): The ending -āt on a causative stem is normally read as Vedic subjunctive/injunctive, not optative (the opt. would be -et)."
+ },
+ {
+  "n": "36",
+  "field": "hindi",
+  "old": "तुम्हारा अजेय (अहिंसनीय) रथ सब ओर से हमें घेर ले, जिससे तुम दाता उपासकों की रक्षा करते हो।",
+  "new": "तुम्हारा अहिंस्य रथ सब ओर से हमें घेर ले, जिससे तुम दाता उपासकों की रक्षा करते हो।",
+  "why": "reviewer (error): Bracketed gloss in Hindi; also \"अजेय\" (unconquerable) does not match English \"hard to deceive\" or the gloss."
+ },
+ {
+  "n": "36",
+  "field": "english",
+  "old": "May your chariot, hard to deceive, encompass us on all sides, by which you protect the worshippers who give.",
+  "new": "May your chariot, hard to harm, encompass us on all sides, by which you protect the worshippers who give.",
+  "why": "reviewer (minor): dūḍabha (dur-dabha) is \"hard to harm, unassailable\"; inconsistent with the gloss \"unharmed\"."
+ },
+ {
+  "n": "36",
+  "field": "word.gloss",
+  "word": "dūḍabhaḥ",
+  "old": "hard to deceive, unharmed",
+  "new": "hard to harm, unassailable",
+  "why": "reviewer (minor): Gloss \"hard to deceive\" does not match the other layers."
+ },
+ {
+  "n": "37",
+  "field": "word.w",
+  "word": "nārya",
+  "old": "nārya",
+  "new": "narya",
+  "why": "reviewer (error): Printed token is \"narya\" (short a); the draft silently writes \"nārya\" with no text_flags entry. narya = \"manly, fit for men\" is a real word and the Hindi already reads नर्य. Keep the printed form."
+ },
+ {
+  "n": "42",
+  "field": "hindi",
+  "old": "जिन (घरों) को परदेस में रहनेवाला स्मरण करता है, जिनमें सद्भाव बहुत है, उन घरों को हम बुलाते हैं; वे जानते हुए हमें जानें।",
+  "new": "जिन घरों को परदेस में रहनेवाला स्मरण करता है, जिनमें सद्भाव बहुत है, उन घरों को हम बुलाते हैं; वे जानते हुए हमें जानें।",
+  "why": "reviewer (error): Bracketed noun in Hindi is not allowed."
+ },
+ {
+  "n": "44",
+  "field": "hindi",
+  "old": "हम प्रघासियों को और शत्रुओं को खा जानेवाले मरुतों को, करम्भ (दलिया) के साथ मिलकर बुलाते हैं।",
+  "new": "हम प्रघासियों को और शत्रुओं को खा जानेवाले मरुतों को, करम्भ के साथ मिलकर बुलाते हैं।",
+  "why": "reviewer (error): Bracketed gloss in Hindi is not allowed."
+ },
+ {
+  "n": "46",
+  "field": "hindi",
+  "old": "हे इन्द्र, इन युद्धों में हमें मत (छोड़ो); क्योंकि हे बलवान्, देवों के साथ तुम्हारा भाग (अवया) निश्चय ही है। जिस महान् और उदार (के) यव्या में हविष्मान् की वाणी मरुतों की स्तुति करती है।",
+  "new": "हे इन्द्र, यहाँ युद्धों में हमें मत छोड़ो; क्योंकि हे बलवान्, देवों के साथ तुम्हारा भाग (अवया) निश्चय ही है। जिस महान् और उदार (के) यव्या में हविष्मान् की वाणी मरुतों की स्तुति करती है।",
+  "why": "reviewer (error): Bracketed word in Hindi is not allowed (the supplied verb is also an addition; it is flagged in notes)."
+ },
+ {
+  "n": "46",
+  "field": "hindi",
+  "old": "हे इन्द्र, यहाँ युद्धों में हमें मत छोड़ो; क्योंकि हे बलवान्, देवों के साथ तुम्हारा भाग (अवया) निश्चय ही है। जिस महान् और उदार (के) यव्या में हविष्मान् की वाणी मरुतों की स्तुति करती है।",
+  "new": "हे इन्द्र, यहाँ युद्धों में हमें मत छोड़ो; क्योंकि हे बलवान्, देवों के साथ तुम्हारा अवया निश्चय ही है। जिस महान् और उदार (के) यव्या में हविष्मान् की वाणी मरुतों की स्तुति करती है।",
+  "why": "reviewer (error): Bracketed gloss in Hindi; \"भाग\" for avayā is an interpretation."
+ },
+ {
+  "n": "46",
+  "field": "english",
+  "old": "O Indra, not (so) with us here in the battles; for with the gods there is indeed your share (avayā), O mighty one. Of whom, the great and bountiful one, the song of the one with oblation praises the Maruts.",
+  "new": "O Indra, do not (leave) us here in the battles; for with the gods there is indeed your share (avayā), O mighty one. Of whom, the great and bountiful one, the song of the one with oblation praises the Maruts.",
+  "why": "reviewer (error): Garbled: \"not (so) with us here in the battles\" is not a translation of mo ṣū ṇaḥ ... pṛtsu (a prohibition addressed to Indra)."
+ },
+ {
+  "n": "51",
+  "field": "hindi",
+  "old": "उन्होंने खा लिया है और आनन्दित हो गए हैं; प्रिय (जनों) ने (अपने को) झाड़ लिया है। स्वयं प्रकाशमान ऋषियों ने नवीनतम स्तुति से स्तवन किया है। हे इन्द्र, अब अपने दोनों घोड़ों को जोतो।",
+  "new": "उन्होंने खा लिया है और आनन्दित हो गए हैं; प्रियों ने अपने को झाड़ लिया है। स्वयं प्रकाशमान ऋषियों ने नवीनतम स्तुति से स्तवन किया है। हे इन्द्र, अब अपने दोनों घोड़ों को जोतो।",
+  "why": "reviewer (error): Bracketed words \"(जनों)\" and \"(अपने को)\" in Hindi are not allowed."
+ },
+ {
+  "n": "51",
+  "field": "english",
+  "old": "They have eaten, they have rejoiced; the dear ones have shaken themselves off. The self-radiant sages have praised with the newest hymn. Now, O Indra, yoke your two bay horses.",
+  "new": "They have eaten, they have rejoiced; the dear ones have shaken themselves off. The self-radiant inspired ones have praised with the newest hymn. Now, O Indra, yoke your two bay horses.",
+  "why": "reviewer (minor): vipra is not ṛṣi; the brief fixes ṛṣi = sage. Hindi ऋषियों likewise renders vipra."
+ },
+ {
+  "n": "51",
+  "field": "hindi",
+  "old": "उन्होंने खा लिया है और आनन्दित हो गए हैं; प्रियों ने अपने को झाड़ लिया है। स्वयं प्रकाशमान ऋषियों ने नवीनतम स्तुति से स्तवन किया है। हे इन्द्र, अब अपने दोनों घोड़ों को जोतो।",
+  "new": "उन्होंने खा लिया है और आनन्दित हो गए हैं; प्रियों ने अपने को झाड़ लिया है। स्वयं प्रकाशमान विप्रों ने नवीनतम स्तुति से स्तवन किया है। हे इन्द्र, अब अपने दोनों घोड़ों को जोतो।",
+  "why": "reviewer (minor): Same: viprāḥ rendered ऋषि."
+ },
+ {
+  "n": "52",
+  "field": "hindi",
+  "old": "हे मघवन्, सुन्दर रूपवाले तुम्हारी हम स्तुति करें। हे भरे हुए रथ-आसनवाले, स्तुति पाकर तुम अब निश्चय ही (हमारी) इच्छाओं के अनुसार जाते हो; हे इन्द्र, अब अपने दोनों घोड़ों को जोतो।",
+  "new": "हे मघवन्, सुन्दर रूपवाले तुम्हारी हम स्तुति करें। हे भरे हुए रथ-आसनवाले, स्तुति पाकर तुम अब निश्चय ही हमारी इच्छाओं के अनुसार जाते हो; हे इन्द्र, अब अपने दोनों घोड़ों को जोतो।",
+  "why": "reviewer (error): Bracketed word in Hindi is not allowed."
+ },
+ {
+  "n": "54",
+  "field": "hindi",
+  "old": "हमारा मन फिर लौट आए, कर्मशक्ति के लिए, दक्षता के लिए, जीने के लिए, और देर तक सूर्य को देखने के लिए।",
+  "new": "हमारा मन फिर लौट आए, संकल्प के लिए, दक्षता के लिए, जीने के लिए, और देर तक सूर्य को देखने के लिए।",
+  "why": "reviewer (minor): kratve is rendered \"resolve, skill\" in gloss/English; \"कर्मशक्ति\" is a different sense."
+ },
+ {
+  "n": "56",
+  "field": "hindi",
+  "old": "हे सोम, तुम्हारे व्रत में अपने शरीरों में मन को धारण करते हुए हम सन्तानवान् होकर (तुम्हारा) साथ पाएँ।",
+  "new": "हे सोम, तुम्हारे व्रत में अपने शरीरों में मन को धारण करते हुए हम सन्तानवान् होकर साथ पाएँ।",
+  "why": "reviewer (error): Bracketed word in Hindi is not allowed; no object is stated."
+ },
+ {
+  "n": "57",
+  "field": "hindi",
+  "old": "हे रुद्र, यह तुम्हारा भाग है, अपनी बहन अम्बिका के साथ; उसे स्वीकार करो। स्वाहा। हे रुद्र, यह तुम्हारा भाग है; चूहा तुम्हारा पशु है।",
+  "new": "हे रुद्र, यह तुम्हारा भाग है, बहन अम्बिका के साथ; उसे स्वीकार करो। स्वाहा। हे रुद्र, यह तुम्हारा भाग है; चूहा तुम्हारा पशु है।",
+  "why": "reviewer (minor): \"your sister\" / \"अपनी बहन\": the line says svasrā ambikayā, \"with the sister Ambikā\"; \"your\" is added (also the note repeats it as if stated)."
+ },
+ {
+  "n": "57",
+  "field": "english",
+  "old": "This is your share, O Rudra, together with your sister Ambikā; enjoy it. Svāhā. This is your share, O Rudra; the mouse is your animal.",
+  "new": "This is your share, O Rudra, together with the sister Ambikā; enjoy it. Svāhā. This is your share, O Rudra; the mouse is your animal.",
+  "why": "reviewer (minor): Same addition in English."
+ },
+ {
+  "n": "58",
+  "field": "word.gram",
+  "word": "vyavasāyayāt",
+  "old": "3 sg. opt. caus. vi-ava-√so",
+  "new": "3 sg. subj./inj. (Vedic) caus. vi-ava-√so",
+  "why": "reviewer (minor): Same as pracodayāt: -āt on a causative stem is Vedic subjunctive/injunctive rather than optative."
+ },
+ {
+  "n": "60",
+  "field": "hindi",
+  "old": "हम सुगन्धित, पुष्टि बढ़ानेवाले त्र्यम्बक का यजन करते हैं। जैसे ककड़ी अपने बन्धन (डंठल) से, वैसे मैं मृत्यु से मुक्त हो जाऊँ, अमृत से नहीं। हम सुगन्धित, पति प्राप्त करानेवाले त्र्यम्बक का यजन करते हैं। जैसे ककड़ी अपने बन्धन से, वैसे मैं यहाँ से मुक्त हो जाऊँ, वहाँ से नहीं।",
+  "new": "हम सुगन्धित, पुष्टि बढ़ानेवाले त्र्यम्बक का यजन करते हैं। जैसे ककड़ी अपने बन्धन से, वैसे मैं मृत्यु से मुक्त हो जाऊँ, अमृत से नहीं। हम सुगन्धित, पति प्राप्त करानेवाले त्र्यम्बक का यजन करते हैं। जैसे ककड़ी अपने बन्धन से, वैसे मैं यहाँ से मुक्त हो जाऊँ, वहाँ से नहीं।",
+  "why": "reviewer (error): Bracketed gloss in Hindi is not allowed."
+ },
+ {
+  "n": "61",
+  "field": "hindi",
+  "old": "हे रुद्र, यह तुम्हारा पाथेय (अवस) है; उसके साथ मूजवान् पर्वत के पार दूर चले जाओ। धनुष की डोरी उतारे हुए, पिनाक को आश्रय बनाए हुए, चर्म धारण किए हुए, हमें हानि न पहुँचाते हुए, मंगलकारी होकर परे चले जाओ।",
+  "new": "हे रुद्र, यह तुम्हारा पाथेय है; उसके साथ मूजवान् पर्वत के पार दूर चले जाओ। धनुष की डोरी उतारे हुए, पिनाक को आश्रय बनाए हुए, चर्म धारण किए हुए, हमें हानि न पहुँचाते हुए, मंगलकारी होकर परे चले जाओ।",
+  "why": "reviewer (error): Bracketed word in Hindi is not allowed."
+ },
+ {
+  "n": "61",
+  "field": "hindi",
+  "old": "हे रुद्र, यह तुम्हारा पाथेय है; उसके साथ मूजवान् पर्वत के पार दूर चले जाओ। धनुष की डोरी उतारे हुए, पिनाक को आश्रय बनाए हुए, चर्म धारण किए हुए, हमें हानि न पहुँचाते हुए, मंगलकारी होकर परे चले जाओ।",
+  "new": "हे रुद्र, यह तुम्हारा पाथेय है; उसके साथ मूजवान् के पार दूर चले जाओ। धनुष की डोरी उतारे हुए, पिनाक को आश्रय बनाए हुए, चर्म धारण किए हुए, हमें हानि न पहुँचाते हुए, मंगलकारी होकर परे चले जाओ।",
+  "why": "reviewer (error): \"पर्वत\" (mountain) is imported from tradition; the line does not say what Mūjavat is (English correctly has just Mūjavat)."
+ },
+ {
+  "n": "61",
+  "field": "word.gloss",
+  "word": "mūjavataḥ",
+  "old": "Mūjavat (name of a mountain)",
+  "new": "Mūjavat (a name)",
+  "why": "reviewer (minor): Gloss states \"name of a mountain\" as fact; the brief allows a role only if the line states it."
+ },
+ {
+  "n": "63",
+  "field": "hindi",
+  "old": "तुम नाम से शिव हो; कुल्हाड़ी तुम्हारी पिता है; तुम्हें नमस्कार हो; मुझे हानि मत पहुँचाओ। मैं (तुम्हें) आयु के लिए, अन्न-भोग के लिए, सन्तान उत्पत्ति के लिए, धन की वृद्धि के लिए, उत्तम सन्तान के लिए और उत्तम वीर्य के लिए लौटाता हूँ।",
+  "new": "तुम नाम से शिव हो; कुल्हाड़ी तुम्हारा पिता है; तुम्हें नमस्कार हो; मुझे हानि मत पहुँचाओ। मैं (तुम्हें) आयु के लिए, अन्न-भोग के लिए, सन्तान उत्पत्ति के लिए, धन की वृद्धि के लिए, उत्तम सन्तान के लिए और उत्तम वीर्य के लिए लौटाता हूँ।",
+  "why": "reviewer (error): Gender error: पिता is masculine."
+ },
+ {
+  "n": "63",
+  "field": "hindi",
+  "old": "तुम नाम से शिव हो; कुल्हाड़ी तुम्हारा पिता है; तुम्हें नमस्कार हो; मुझे हानि मत पहुँचाओ। मैं (तुम्हें) आयु के लिए, अन्न-भोग के लिए, सन्तान उत्पत्ति के लिए, धन की वृद्धि के लिए, उत्तम सन्तान के लिए और उत्तम वीर्य के लिए लौटाता हूँ।",
+  "new": "तुम नाम से शिव हो; कुल्हाड़ी तुम्हारा पिता है; तुम्हें नमस्कार हो; मुझे हानि मत पहुँचाओ। मैं आयु के लिए, अन्न-भोग के लिए, सन्तान उत्पत्ति के लिए, धन की वृद्धि के लिए, उत्तम सन्तान के लिए और उत्तम वीर्य के लिए लौटाता हूँ।",
+  "why": "reviewer (error): Bracketed word in Hindi is not allowed; object of ni vartayāmi is not stated."
+ },
+ {
+  "n": "63",
+  "field": "word.gram",
+  "word": "su-prajāstvāya",
+  "old": "n. dat. sg. (bahuvrīhi)",
+  "new": "n. dat. sg. (abstract noun, su-prajā-tva)",
+  "why": "reviewer (minor): suprajāstva is the abstract noun (suprajāḥ + -tva), not a bahuvrīhi; translations \"good offspring\" drop the abstract (\"the state of having good offspring\")."
+ },
+ {
+  "n": "63",
+  "field": "word.gram",
+  "word": "su-vīryāya",
+  "old": "n. dat. sg. (bahuvrīhi)",
+  "new": "n. dat. sg. (su + vīrya, compound noun)",
+  "why": "reviewer (minor): su + vīrya is a prefix/karmadhāraya-type compound noun, not a bahuvrīhi."
+ },
+ {
+  "n": "38",
+  "field": "notes",
+  "old": "",
+  "new": "appended: The first ā goes with ganma (ā-√gam), the last ā with yacchasva; viśva-vedas = all-possessing/all-knowing, not \"owner of everything\".",
+  "why": "MANUAL, noted by the lead agent for human check"
+ },
+ {
+  "n": "44",
+  "field": "notes",
+  "old": "",
+  "new": "appended: sajoṣasaḥ is nom. or acc. pl. (same form): \"in accord\" refers either to us or to the Maruts; human decision.",
+  "why": "MANUAL, noted by the lead agent for human check"
+ },
+ {
+  "n": "45",
+  "field": "notes",
+  "old": "",
+  "new": "appended: idam is rendered \"here\" in the translations but is the pronoun \"this\" (acc.); layers disagree: human check.",
+  "why": "MANUAL, noted by the lead agent for human check"
+ },
+ {
+  "n": "46",
+  "field": "notes",
+  "old": "",
+  "new": "appended: Line 2 is unresolved: yavyā is a nominative in the gram label but is not translated in English and the Hindi has a bracket artefact; treat the translation of this unit as tentative.",
+  "why": "MANUAL, noted by the lead agent for human check"
+ },
+ {
+  "n": "48",
+  "field": "notes",
+  "old": "",
+  "new": "appended: pururāvṇaḥ may be a second ablative/genitive (\"from Pururāvṇa\") rather than a name qualifying deva; uncertain.",
+  "why": "MANUAL, noted by the lead agent for human check"
+ }
+]

@@ -13,3 +13,4 @@ AI drafts. English uses plain IAST for Sanskrit terms; Hindi stays in Devanagari
 - yajñapati = lord of the sacrifice; pavitra = strainer; rakṣas = demon; arāti = hostile power; prasava = impulse; vāja = strength; gharma = heat, hot offering (no vessel gloss)
 - Hindi: śarma = आश्रय (never शर्म); nāka = स्वर्ग; rāsnā = मेखला; śukra = उज्ज्वल. Keep dhiṣaṇā, veṣa, kāmadhukṣaḥ transliterated as uncertain terms
 - kavi = seer (kave "O seer"), apart from ṛṣi = sage; Hindi brahman = ब्रह्मन् (never ब्रह्मा); ājya = clarified butter, ghṛta = ghee; śoṣa = dryness; hima = winter (Hindi शीत ऋतु); āśis = wish, blessing; Āgnīdhra stays untranslated (priest)
+- karma = rite (ritual act) in this Samhita (overrides the generic "action"); vipra = inspired one (not ṛṣi/sage); no brackets in Hindi even for supplied words; do not add identities the line does not state

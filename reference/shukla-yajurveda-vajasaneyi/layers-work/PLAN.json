@@ -10,7 +10,7 @@
    "first": "1",
    "last": "31",
    "lines": 57,
-   "state": "pending",
+   "state": "written",
    "dir": "p00/ch01"
   },
   {
@@ -22,7 +22,7 @@
    "first": "1",
    "last": "34",
    "lines": 52,
-   "state": "pending",
+   "state": "written",
    "dir": "p00/ch02"
   },
   {
@@ -34,7 +34,7 @@
    "first": "1",
    "last": "32",
    "lines": 42,
-   "state": "pending",
+   "state": "written",
    "dir": "p00/ch03"
   },
   {
@@ -46,7 +46,7 @@
    "first": "33",
    "last": "63",
    "lines": 39,
-   "state": "pending",
+   "state": "written",
    "dir": "p00/ch03"
   },
   {
@@ -58,7 +58,7 @@
    "first": "1",
    "last": "37",
    "lines": 55,
-   "state": "pending",
+   "state": "checked",
    "dir": "p00/ch04"
   },
   {
