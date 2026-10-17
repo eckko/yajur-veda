@@ -1,6 +1,6 @@
 # Shukla Yajurveda (Vajasaneyi Madhyandina Samhita): raw extracted source bank
 
-Stage 1 (extraction) of a pipeline: verify, review, fix, proofread come next. This folder holds the raw text, not a finished edition. Nothing here has been proofread.
+Raw extracted source bank. `text/ch00.NN.md` is the extracted Sanskrit, not a finished edition and not human-proofread. For chapters 1-10 there are also AI-drafted, AI-reviewed layers (`-sandhi`, `-hindi`, `-english`); chapters 11-40 have none yet. Work files are in `layers-work/`.
 
 Read, in order: FORMAT.md (file and line format), toc.md (structure), STATUS.md (what is done), sources.md (where text came from), ISSUES.md (known doubts).
 

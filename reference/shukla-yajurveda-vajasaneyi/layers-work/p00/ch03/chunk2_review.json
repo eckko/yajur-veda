@@ -1,0 +1,691 @@
+{
+ "units": [
+  {
+   "n": "33",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "For those sons of Aditi bestow...",
+     "problem": "Ungrammatical: \"For those sons ... bestow\" drops the subject; hi is rendered as a preposition. \"Light\" is the object of yacchanti with the sons as subject.",
+     "fix": "For they, the sons of Aditi, bestow unceasing light on the mortal, that he may live.",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "For those sons of Aditi bestow unceasing light",
+      "new": "For they, the sons of Aditi, bestow unceasing light",
+      "n": "33"
+     }
+    }
+   ]
+  },
+  {
+   "n": "34",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "(निष्फल)",
+     "problem": "Bracketed gloss in Hindi is not allowed.",
+     "fix": "बाँझ नहीं हो",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "बाँझ (निष्फल) नहीं हो",
+      "new": "बाँझ नहीं हो",
+      "n": "34"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "समीप आओ",
+     "problem": "Hindi adds the imperative \"come\"; the line has no verb (upa upa it nu = \"nearer, nearer indeed now\").",
+     "fix": "और समीप, और भी समीप, और भी अधिक",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "और समीप, और भी अधिक समीप आओ",
+      "new": "और समीप, और भी समीप, और भी अधिक",
+      "n": "34"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "इस देव का",
+     "problem": "\"इस\" (this) is added; devasya has no demonstrative.",
+     "fix": "देव का तुम्हारा दान",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "इस देव का तुम्हारा दान",
+      "new": "देव का तुम्हारा दान",
+      "n": "34"
+     }
+    }
+   ]
+  },
+  {
+   "n": "35",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "most excellent",
+     "problem": "vareṇya is \"to be chosen, excellent\"; the superlative \"most\" is added (Hindi has plain श्रेष्ठ).",
+     "fix": "excellent radiance",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "most excellent radiance",
+      "new": "excellent radiance",
+      "n": "35"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "dhīmahi",
+     "problem": "Root is debated (√dhā \"set, hold\" vs √dhyai/dhī \"think\"); gram states √dhī as fact.",
+     "fix": "1 pl. opt. mid. (root √dhā or √dhī, debated)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "dhīmahi",
+      "field": "gram",
+      "value": "1 pl. opt. mid. (root √dhā or √dhī, debated)",
+      "n": "35"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "pracodayāt",
+     "problem": "The ending -āt on a causative stem is normally read as Vedic subjunctive/injunctive, not optative (the opt. would be -et).",
+     "fix": "3 sg. subj./inj. (Vedic, often glossed opt.) pra-√cud (caus.)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "pracodayāt",
+      "field": "gram",
+      "value": "3 sg. subj./inj. (Vedic, often glossed opt.) pra-√cud (caus.)",
+      "n": "35"
+     }
+    }
+   ]
+  },
+  {
+   "n": "36",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "अजेय (अहिंसनीय)",
+     "problem": "Bracketed gloss in Hindi; also \"अजेय\" (unconquerable) does not match English \"hard to deceive\" or the gloss.",
+     "fix": "अहिंस्य रथ",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "अजेय (अहिंसनीय) रथ",
+      "new": "अहिंस्य रथ",
+      "n": "36"
+     }
+    },
+    {
+     "field": "english",
+     "where": "hard to deceive",
+     "problem": "dūḍabha (dur-dabha) is \"hard to harm, unassailable\"; inconsistent with the gloss \"unharmed\".",
+     "fix": "hard to harm",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "hard to deceive",
+      "new": "hard to harm",
+      "n": "36"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "dūḍabhaḥ",
+     "problem": "Gloss \"hard to deceive\" does not match the other layers.",
+     "fix": "hard to harm, unassailable",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "dūḍabhaḥ",
+      "field": "gloss",
+      "value": "hard to harm, unassailable",
+      "n": "36"
+     }
+    }
+   ]
+  },
+  {
+   "n": "37",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "nārya",
+     "problem": "Printed token is \"narya\" (short a); the draft silently writes \"nārya\" with no text_flags entry. narya = \"manly, fit for men\" is a real word and the Hindi already reads नर्य. Keep the printed form.",
+     "fix": "narya",
+     "severity": "error",
+     "patch": {
+      "op": "word",
+      "match_w": "nārya",
+      "field": "w",
+      "value": "narya",
+      "n": "37"
+     }
+    }
+   ]
+  },
+  {
+   "n": "38",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "first ā",
+     "problem": "The first ā goes with ganma (ā-√gam, \"we have come\"), not with yacchasva; the gloss \"(with yacchasva)\" is wrong (the last ā is the one with yacchasva). Two words have w = \"ā\", so no machine patch.",
+     "fix": "ā | towards (with ganma)",
+     "severity": "minor"
+    },
+    {
+     "field": "hindi",
+     "where": "सर्वस्व-स्वामी",
+     "problem": "\"Owner of everything\" adds a sense; viśva-vedas is \"all-possessing / all-knowing\" (as in English and the note).",
+     "fix": "e.g. सर्वधनवाले",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "39",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "40",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "41",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "42",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "(घरों)",
+     "problem": "Bracketed noun in Hindi is not allowed.",
+     "fix": "जिन घरों को",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "जिन (घरों) को",
+      "new": "जिन घरों को",
+      "n": "42"
+     }
+    }
+   ]
+  },
+  {
+   "n": "43",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "44",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "(दलिया)",
+     "problem": "Bracketed gloss in Hindi is not allowed.",
+     "fix": "करम्भ के साथ",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "करम्भ (दलिया) के साथ",
+      "new": "करम्भ के साथ",
+      "n": "44"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "sajoṣasaḥ",
+     "problem": "Nom./acc. pl. are the same form; gram says acc. (agreeing with the invoked), but Hindi \"मिलकर\" and English make it ambiguous or nominative (\"we ... in accord\"). Needs a human decision and the Hindi/English must agree with the gram.",
+     "fix": "decide nom. (we, in accord) or acc. (the Maruts, in accord) and align gram, Hindi and English",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "45",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "यहाँ",
+     "problem": "idam is rendered \"here/यहाँ\" (also English \"here\") while gram says \"this\" (pron. acc.). Layers disagree.",
+     "fix": "Render idam as \"this\" consistently or change gram; e.g. \"...that, this (sin), we sacrifice away\"",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "46",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "(छोड़ो)",
+     "problem": "Bracketed word in Hindi is not allowed (the supplied verb is also an addition; it is flagged in notes).",
+     "fix": "यहाँ युद्धों में हमें मत छोड़ो",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "इन युद्धों में हमें मत (छोड़ो)",
+      "new": "यहाँ युद्धों में हमें मत छोड़ो",
+      "n": "46"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "(अवया)",
+     "problem": "Bracketed gloss in Hindi; \"भाग\" for avayā is an interpretation.",
+     "fix": "तुम्हारा अवया निश्चय ही है",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "तुम्हारा भाग (अवया) निश्चय ही है",
+      "new": "तुम्हारा अवया निश्चय ही है",
+      "n": "46"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "उदार (के) यव्या में",
+     "problem": "Bracketed \"(के)\" in Hindi, and yavyā is shown as locative \"in the yavyā\" while gram says nom. sg. English drops yavyā altogether. Line 2 construction is unresolved, so no machine patch.",
+     "fix": "Rewrite line 2 so Hindi and English both translate yavyā as a nominative and have no brackets",
+     "severity": "error"
+    },
+    {
+     "field": "english",
+     "where": "not (so) with us",
+     "problem": "Garbled: \"not (so) with us here in the battles\" is not a translation of mo ṣū ṇaḥ ... pṛtsu (a prohibition addressed to Indra).",
+     "fix": "do not (leave) us here in the battles",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "not (so) with us here in the battles",
+      "new": "do not (leave) us here in the battles",
+      "n": "46"
+     }
+    },
+    {
+     "field": "english",
+     "where": "Of whom, the great and bountiful one...",
+     "problem": "Second sentence is ungrammatical and omits yavyā; confidence \"low\" is right but the text reads as a firm translation.",
+     "fix": "Give a hedged literal rendering including yavyā or mark the clause as tentative in notes",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "47",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "48",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "O god, of Pururāvan, protect (me) from harm",
+     "problem": "\"pururāvṇaḥ\" is treated as a name qualifying deva (\"god of Pururāvan\"); nothing in the unit says so. A genitive/ablative beside pāhi ... riṣaḥ (ablative) is more natural as a second ablative (\"from ...\") and its sense is open. Hindi \"हे पुरुरावण के देव\" asserts the same. gram \"gen. sg.\" has no gender.",
+     "fix": "Present as uncertain: \"O god, protect from harm, from Pururāvṇa(ḥ)\" with the doubt in notes; gram \"abl./gen. sg., uncertain\"",
+     "severity": "error"
+    }
+   ]
+  },
+  {
+   "n": "49",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "50",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "51",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "(जनों)",
+     "problem": "Bracketed words \"(जनों)\" and \"(अपने को)\" in Hindi are not allowed.",
+     "fix": "प्रियों ने अपने को झाड़ लिया है",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "प्रिय (जनों) ने (अपने को) झाड़ लिया है",
+      "new": "प्रियों ने अपने को झाड़ लिया है",
+      "n": "51"
+     }
+    },
+    {
+     "field": "english",
+     "where": "sages",
+     "problem": "vipra is not ṛṣi; the brief fixes ṛṣi = sage. Hindi ऋषियों likewise renders vipra.",
+     "fix": "The self-radiant inspired ones",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "The self-radiant sages",
+      "new": "The self-radiant inspired ones",
+      "n": "51"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "ऋषियों",
+     "problem": "Same: viprāḥ rendered ऋषि.",
+     "fix": "स्वयं प्रकाशमान विप्रों ने",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "स्वयं प्रकाशमान ऋषियों ने",
+      "new": "स्वयं प्रकाशमान विप्रों ने",
+      "n": "51"
+     }
+    }
+   ]
+  },
+  {
+   "n": "52",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "(हमारी)",
+     "problem": "Bracketed word in Hindi is not allowed.",
+     "fix": "निश्चय ही हमारी इच्छाओं के अनुसार",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "(हमारी) इच्छाओं",
+      "new": "हमारी इच्छाओं",
+      "n": "52"
+     }
+    }
+   ]
+  },
+  {
+   "n": "53",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "54",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "कर्मशक्ति",
+     "problem": "kratve is rendered \"resolve, skill\" in gloss/English; \"कर्मशक्ति\" is a different sense.",
+     "fix": "संकल्प के लिए",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "कर्मशक्ति के लिए",
+      "new": "संकल्प के लिए",
+      "n": "54"
+     }
+    }
+   ]
+  },
+  {
+   "n": "55",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "56",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "(तुम्हारा)",
+     "problem": "Bracketed word in Hindi is not allowed; no object is stated.",
+     "fix": "सन्तानवान् होकर साथ पाएँ",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "होकर (तुम्हारा) साथ",
+      "new": "होकर साथ",
+      "n": "56"
+     }
+    }
+   ]
+  },
+  {
+   "n": "57",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "अपनी बहन",
+     "problem": "\"your sister\" / \"अपनी बहन\": the line says svasrā ambikayā, \"with the sister Ambikā\"; \"your\" is added (also the note repeats it as if stated).",
+     "fix": "बहन अम्बिका के साथ",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "अपनी बहन अम्बिका के साथ",
+      "new": "बहन अम्बिका के साथ",
+      "n": "57"
+     }
+    },
+    {
+     "field": "english",
+     "where": "your sister",
+     "problem": "Same addition in English.",
+     "fix": "together with the sister Ambikā",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "together with your sister Ambikā",
+      "new": "together with the sister Ambikā",
+      "n": "57"
+     }
+    }
+   ]
+  },
+  {
+   "n": "58",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "vyavasāyayāt",
+     "problem": "Same as pracodayāt: -āt on a causative stem is Vedic subjunctive/injunctive rather than optative.",
+     "fix": "3 sg. subj./inj. (Vedic) caus. vi-ava-√so",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "vyavasāyayāt",
+      "field": "gram",
+      "value": "3 sg. subj./inj. (Vedic) caus. vi-ava-√so",
+      "n": "58"
+     }
+    }
+   ]
+  },
+  {
+   "n": "59",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "60",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "(डंठल)",
+     "problem": "Bracketed gloss in Hindi is not allowed.",
+     "fix": "अपने बन्धन से",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "बन्धन (डंठल) से",
+      "new": "बन्धन से",
+      "n": "60"
+     }
+    }
+   ]
+  },
+  {
+   "n": "61",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "(अवस)",
+     "problem": "Bracketed word in Hindi is not allowed.",
+     "fix": "पाथेय है",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "पाथेय (अवस) है",
+      "new": "पाथेय है",
+      "n": "61"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "मूजवान् पर्वत",
+     "problem": "\"पर्वत\" (mountain) is imported from tradition; the line does not say what Mūjavat is (English correctly has just Mūjavat).",
+     "fix": "मूजवान् के पार",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "मूजवान् पर्वत के पार",
+      "new": "मूजवान् के पार",
+      "n": "61"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "mūjavataḥ",
+     "problem": "Gloss states \"name of a mountain\" as fact; the brief allows a role only if the line states it.",
+     "fix": "Mūjavat (a name)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "mūjavataḥ",
+      "field": "gloss",
+      "value": "Mūjavat (a name)",
+      "n": "61"
+     }
+    }
+   ]
+  },
+  {
+   "n": "62",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "63",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "कुल्हाड़ी तुम्हारी पिता है",
+     "problem": "Gender error: पिता is masculine.",
+     "fix": "कुल्हाड़ी तुम्हारा पिता है",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "कुल्हाड़ी तुम्हारी पिता है",
+      "new": "कुल्हाड़ी तुम्हारा पिता है",
+      "n": "63"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "(तुम्हें)",
+     "problem": "Bracketed word in Hindi is not allowed; object of ni vartayāmi is not stated.",
+     "fix": "मैं आयु के लिए",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "मैं (तुम्हें) आयु के लिए",
+      "new": "मैं आयु के लिए",
+      "n": "63"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "su-prajāstvāya",
+     "problem": "suprajāstva is the abstract noun (suprajāḥ + -tva), not a bahuvrīhi; translations \"good offspring\" drop the abstract (\"the state of having good offspring\").",
+     "fix": "n. dat. sg. (abstract noun, su-prajā-tva)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "su-prajāstvāya",
+      "field": "gram",
+      "value": "n. dat. sg. (abstract noun, su-prajā-tva)",
+      "n": "63"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "su-vīryāya",
+     "problem": "su + vīrya is a prefix/karmadhāraya-type compound noun, not a bahuvrīhi.",
+     "fix": "n. dat. sg. (su + vīrya, compound noun)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "su-vīryāya",
+      "field": "gram",
+      "value": "n. dat. sg. (su + vīrya, compound noun)",
+      "n": "63"
+     }
+    }
+   ]
+  }
+ ],
+ "summary": "31 units (33-63) reviewed; 19 errors, 21 minor; 7 issues without a machine patch (MANUAL); no regrouping suggested. Main problems: bracketed glosses in Hindi, unit 46 (garbled, yavyā), unit 48 (pururāvṇaḥ read as a name), unit 37 (narya vs nārya), additions (your sister, mountain, come). Proposed glossary: karma = rite (ritual act) in this Samhita; vipra = inspired one (not ṛṣi/sage); no brackets in Hindi even for supplied words."
+}

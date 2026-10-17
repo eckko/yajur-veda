@@ -1,0 +1,729 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "2",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "3",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "śocā",
+     "problem": "Metrical lengthening of śoca is not noted (it is noted for vardhayā, sacasvā elsewhere).",
+     "fix": "bṛhacchocā = bṛhat + śocā; śocā is the impv. śoca with lengthened -ā.",
+     "severity": "minor",
+     "patch": {
+      "op": "append_note",
+      "text": "śocā shows metrical lengthening of the impv. śoca; bṛhacchocā = bṛhat + śocā (t + ś > cch).",
+      "n": "3"
+     }
+    }
+   ]
+  },
+  {
+   "n": "4",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "(sticks)",
+     "problem": "The draft supplies a noun (sticks) that the line does not state; haviṣmatīḥ ghṛtācīḥ are fem. pl. adjectives with no noun in the verse.",
+     "fix": "Let the oblation-bearing, ghee-dripping ones go to you, O Agni, O delightful one; accept my kindling-sticks.",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "ghee-dripping (sticks)",
+      "new": "ghee-dripping ones",
+      "n": "4"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "(समिधाएँ)",
+     "problem": "Bracketed gloss in the Hindi (not allowed) and an unsupported added noun.",
+     "fix": "हे अग्नि, हे प्रिय, हव्य से युक्त और घृत से भीगी वे तेरे पास जाएँ; मेरी समिधाओं को स्वीकार करो।",
+     "severity": "error",
+     "patch": {
+      "op": "set",
+      "field": "hindi",
+      "value": "हे अग्नि, हे प्रिय, हव्य से युक्त और घृत से भीगी वे तेरे पास जाएँ; मेरी समिधाओं को स्वीकार करो।",
+      "n": "4"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "haviṣmatīḥ ... samidhaḥ understood",
+     "problem": "The note states as fact that the understood noun is samidhaḥ; the line does not say so.",
+     "fix": "State that the noun is not given in the line.",
+     "severity": "error",
+     "patch": {
+      "op": "set",
+      "field": "notes",
+      "value": "haviṣmatīḥ and ghṛtācīḥ are feminine plural adjectives; the line does not name the noun they qualify, so none is supplied in the translation.",
+      "n": "4"
+     }
+    }
+   ]
+  },
+  {
+   "n": "5",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "6",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "has stepped forth",
+     "problem": "ā akramīt is 'has come up/approached' (ā + kram); 'forth' would be pra.",
+     "fix": "This dappled bull has come; he has sat down before the mother, and going forth to the father, to heaven.",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "has stepped forth",
+      "new": "has come",
+      "n": "6"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "आगे बढ़ा है",
+     "problem": "Same: ā + kram, not 'forward'.",
+     "fix": "यह चितकबरा वृषभ आ गया है;",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "आगे बढ़ा है",
+      "new": "आ गया है",
+      "n": "6"
+     }
+    }
+   ]
+  },
+  {
+   "n": "7",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "वह दीप्तिमती इसके भीतर चलती है",
+     "problem": "asya belongs with prāṇāt ('his breath', as the English has it), not with 'within'; Hindi and English disagree.",
+     "fix": "वह दीप्तिमती भीतर चलती है, इसके प्राण से बाहर श्वास छोड़ती हुई",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "इसके भीतर चलती है, प्राण से",
+      "new": "भीतर चलती है, इसके प्राण से",
+      "n": "7"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "akhyan",
+     "problem": "The note calls akhyan a 'Vedic 3 sg. form (classical akhyat)': it is akhyat (3 sg. aor. of khyā) with t > n before the nasal m- of mahiṣaḥ. The alternative sentence in the note is garbled.",
+     "fix": "Rewrite the note.",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "notes",
+      "value": "rocanā is the feminine nominative 'the shining one', subject of carati, agreeing with apānatī; the line does not name her. asya is taken with prāṇāt ('his breath'). akhyan is akhyat (3 sg. aor. of khyā) with t > n before the m- of mahiṣaḥ. mahiṣa literally 'buffalo', here 'the mighty one'. The input line has a double space before mahiṣo, kept in src.",
+      "n": "7"
+     }
+    }
+   ]
+  },
+  {
+   "n": "8",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "पक्षी (सूर्य)",
+     "problem": "Bracketed interpretive addition in the Hindi; the draft's own note says the line says only 'bird'.",
+     "fix": "वह तीस धामों पर शासन करती है; वाणी पक्षी के लिए रखी जाती है, प्रत्येक प्रभात में, निश्चय ही, दिनों के साथ।",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "पक्षी (सूर्य) के",
+      "new": "पक्षी के",
+      "n": "8"
+     }
+    },
+    {
+     "field": "english",
+     "where": "She rules over thirty domains",
+     "problem": "MANUAL: the subject of vi rājati is not stated in the line (vāk is the likely subject); 'She' is imported from unit 7, and the note says so. Consider 'It shines over thirty domains' or keep with a note.",
+     "fix": "(human decision)",
+     "severity": "minor"
+    },
+    {
+     "field": "notes",
+     "where": "The subject of vi rājati is the shining one of unit 7",
+     "problem": "Importing the subject from the previous verse.",
+     "fix": "Say the subject is not stated.",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": "The subject of vi rājati is the shining one of unit 7.",
+      "new": "The subject of vi rājati is not stated in the line.",
+      "n": "8"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "dhāma",
+     "problem": "MANUAL: after the numeral triṃśat a collective n. sg. ('thirty stations') is at least as likely as a Vedic n. pl.; the label 'n. acc. pl.' is not certain.",
+     "fix": "n. acc. sg. (with triṃśat), or Vedic n. pl.",
+     "severity": "minor"
+    },
+    {
+     "field": "text_flags",
+     "where": "tri̱jśaddhāma̱",
+     "problem": "MANUAL minor: the suggested Devanagari uses ꣳ, but this edition writes the Vedic anusvara as ᳪ (saᳪhitāsi, śaᳪso, dyumantaᳪ); suggest tri̱ᳪśaddhāma̱ (त्रि॒ᳪशद्धाम॒) or at least mention both signs.",
+     "fix": "tri̱ᳪśaddhāma̱",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "9",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "10",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "(हवि का)",
+     "problem": "Bracketed gloss in the Hindi, twice; vetu has no object in the line.",
+     "fix": "remove both bracketed insertions",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "अग्नि (हवि का) सेवन",
+      "new": "अग्नि सेवन",
+      "n": "10"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "(हवि का) second",
+     "problem": "Same, second occurrence.",
+     "fix": "remove",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "सूर्य (हवि का) सेवन",
+      "new": "सूर्य सेवन",
+      "n": "10"
+     }
+    },
+    {
+     "field": "english",
+     "where": "(the offering) first",
+     "problem": "Supplied object not in the line.",
+     "fix": "may Agni, accepting, enjoy, svāhā.",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "may Agni, accepting, enjoy (the offering)",
+      "new": "may Agni, accepting, enjoy",
+      "n": "10"
+     }
+    },
+    {
+     "field": "english",
+     "where": "(the offering) second",
+     "problem": "Same.",
+     "fix": "may Sūrya, accepting, enjoy, svāhā.",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "may Sūrya, accepting, enjoy (the offering)",
+      "new": "may Sūrya, accepting, enjoy",
+      "n": "10"
+     }
+    }
+   ]
+  },
+  {
+   "n": "11",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "Approaching the sacrifice",
+     "problem": "adhvara is rendered 'sacrifice' here and 'rite(s)' in units 15, 23; the glossary reserves 'sacrifice' for yajña. Use 'rite' for adhvara.",
+     "fix": "Approaching the rite",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "Approaching the sacrifice",
+      "new": "Approaching the rite",
+      "n": "11"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "adhvaram",
+     "problem": "Same consistency point.",
+     "fix": "the rite",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "adhvaram",
+      "field": "gloss",
+      "value": "the rite",
+      "n": "11"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "जो दूर से और हमारे बीच भी सुनता है",
+     "problem": "āre is 'afar', not 'from afar'; keep parallel with asme.",
+     "fix": "जो दूर भी और हमारे बीच भी सुनता है।",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "जो दूर से और हमारे बीच भी सुनता है",
+      "new": "जो दूर भी और हमारे बीच भी सुनता है",
+      "n": "11"
+     }
+    }
+   ]
+  },
+  {
+   "n": "12",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "13",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "(बुलाता हूँ) / हे इन्द्र और अग्नि",
+     "problem": "Bracketed gloss in the Hindi; indrāgnī is accusative dual in apposition to vām, not a vocative (the English and gram say so).",
+     "fix": "तुम दोनों इन्द्र और अग्नि को आह्वान के लिए, दोनों को दान के साथ आनन्दित होने के लिए; अन्न और धन के दोनों दाताओं को, तुम दोनों को बल की प्राप्ति के लिए मैं बुलाता हूँ।",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "hindi",
+      "value": "तुम दोनों इन्द्र और अग्नि को आह्वान के लिए, दोनों को दान के साथ आनन्दित होने के लिए; अन्न और धन के दोनों दाताओं को, तुम दोनों को बल की प्राप्ति के लिए मैं बुलाता हूँ।",
+      "n": "13"
+     }
+    },
+    {
+     "field": "english",
+     "where": "(I call)",
+     "problem": "Bracketed duplicate of huve, which stands at the end of the unit.",
+     "fix": "Both of you, Indra and Agni, to invoke, ...",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "Both of you, Indra and Agni, (I call) to invoke",
+      "new": "Both of you, Indra and Agni, to invoke",
+      "n": "13"
+     }
+    }
+   ]
+  },
+  {
+   "n": "14",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "ārohāthā",
+     "problem": "The final -ā of athā is also a metrical lengthening of atha; the note mentions only vardhayā.",
+     "fix": "add to note",
+     "severity": "minor",
+     "patch": {
+      "op": "append_note",
+      "text": "The final -ā of athā is likewise metrically lengthened (atha).",
+      "n": "14"
+     }
+    }
+   ]
+  },
+  {
+   "n": "15",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "16",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "(दुहकर)",
+     "problem": "Bracketed gloss in the Hindi, and an added verb; the double-accusative reading is uncertain.",
+     "fix": "उसकी प्राचीन दीप्ति के अनुसार निर्भय लोगों ने उज्ज्वल दूध दुहा है, सहस्रों को जीतने वाले ऋषि को।",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": " (दुहकर)",
+      "new": "",
+      "n": "16"
+     }
+    },
+    {
+     "field": "english",
+     "where": "(milking)",
+     "problem": "Added participle; the line does not have it.",
+     "fix": "..., the thousand-winning sage.",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": ", (milking) the thousand-winning sage",
+      "new": ", the thousand-winning sage",
+      "n": "16"
+     }
+    }
+   ]
+  },
+  {
+   "n": "17",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "18",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "may we kindle the brilliant one; we full of vigour the vigour-maker ...",
+     "problem": "Wrong syntax: dyumantam, vayaskṛtam, sahaskṛtam, sapatnadambhanam, adābhyam are epithets of tvā (Agni), not separate objects; the English presents several different objects.",
+     "fix": "Kindling you for a hundred winters, may we, full of vigour, full of might and unharmed, kindle you, O Agni: the brilliant one, the vigour-maker, the might-maker, the crusher of rivals, the one who cannot be harmed. O you of bright wealth, with your well-being may I reach the far shore.",
+     "severity": "error",
+     "patch": {
+      "op": "set",
+      "field": "english",
+      "value": "Kindling you for a hundred winters, may we, full of vigour, full of might and unharmed, kindle you, O Agni: the brilliant one, the vigour-maker, the might-maker, the crusher of rivals, the one who cannot be harmed. O you of bright wealth, with your well-being may I reach the far shore.",
+      "n": "18"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "हम दीप्तिमान को प्रज्वलित करें; वीर्यवान होकर वीर्य करने वाले को ...",
+     "problem": "Same wrong syntax in the Hindi.",
+     "fix": "तुझे सौ वर्ष तक प्रज्वलित करते हुए, वीर्यवान, बलवान और अहिंसित हम, हे अग्नि, तुझ दीप्तिमान, वीर्य करने वाले, बल करने वाले, शत्रुओं के नाशक और अहिंस्य को प्रज्वलित करें। हे विचित्र धन वाले, तेरे कल्याण से मैं पार पहुँचूँ।",
+     "severity": "error",
+     "patch": {
+      "op": "set",
+      "field": "hindi",
+      "value": "तुझे सौ वर्ष तक प्रज्वलित करते हुए, वीर्यवान, बलवान और अहिंसित हम, हे अग्नि, तुझ दीप्तिमान, वीर्य करने वाले, बल करने वाले, शत्रुओं के नाशक और अहिंस्य को प्रज्वलित करें। हे विचित्र धन वाले, तेरे कल्याण से मैं पार पहुँचूँ।",
+      "n": "18"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "All the accusatives ... depend on samidhīmahi",
+     "problem": "The note asserts separate objects; they are epithets of tvā.",
+     "fix": "dyumantam, vayaskṛtam, sahaskṛtam, sapatnadambhanam and adābhyam are accusative epithets of tvā (Agni), the object of samidhīmahi 'may we kindle'; the nominative plurals (vayasvantaḥ, sahasvantaḥ, adabdhāsaḥ) qualify 'we'. svasti is taken adverbially ('with well-being'); te 'your'.",
+     "severity": "error",
+     "patch": {
+      "op": "set",
+      "field": "notes",
+      "value": "dyumantam, vayaskṛtam, sahaskṛtam, sapatnadambhanam and adābhyam are accusative epithets of tvā (Agni), the object of samidhīmahi 'may we kindle'; the nominative plurals (vayasvantaḥ, sahasvantaḥ, adabdhāsaḥ) qualify 'we'. svasti is taken adverbially ('with well-being'); te 'your'.",
+      "n": "18"
+     }
+    },
+    {
+     "field": "text_flags",
+     "where": "vaya̱skṛta̱",
+     "problem": "MANUAL: the flag is plausible, but the printed form may be the genuine edition reading; and the suggested Devanagari uses ꣳ whereas this edition writes ᳪ before s (dyumantaᳪ). Keep as 'possible'.",
+     "fix": "(human check against a printed edition)",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "19",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "sūryasya",
+     "problem": "Rendered 'of the Sun' while units 9 and 10 keep Sūrya.",
+     "fix": "of Sūrya",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "sūryasya",
+      "field": "gloss",
+      "value": "of Sūrya",
+      "n": "19"
+     }
+    },
+    {
+     "field": "english",
+     "where": "splendour of the Sun",
+     "problem": "Same consistency point.",
+     "fix": "splendour of Sūrya",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "splendour of the Sun",
+      "new": "splendour of Sūrya",
+      "n": "19"
+     }
+    }
+   ]
+  },
+  {
+   "n": "20",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "21",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "हे धनवती (गौओ)",
+     "problem": "Bracketed addition naming cows; the draft's own note says the line does not name the addressees.",
+     "fix": "हे धनवतियो, इस स्थान में, ...",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "हे धनवती (गौओ)",
+      "new": "हे धनवतियो",
+      "n": "21"
+     }
+    },
+    {
+     "field": "english",
+     "where": "in this place",
+     "problem": "Hindi renders loke as 'लोक' (world); English says 'place'. Align.",
+     "fix": "in this world",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "in this place, in this dwelling",
+      "new": "in this world, in this dwelling",
+      "n": "21"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "loke",
+     "problem": "Same.",
+     "fix": "world",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "loke",
+      "field": "gloss",
+      "value": "world",
+      "n": "21"
+     }
+    }
+   ]
+  },
+  {
+   "n": "22",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "dive-dive",
+     "problem": "dive is the dative of div/dyu (dative, not locative); idiom 'day by day'.",
+     "fix": "dat. sg. (repeated, 'day by day')",
+     "severity": "error",
+     "patch": {
+      "op": "word",
+      "match_w": "dive-dive",
+      "field": "gram",
+      "value": "dat. sg. (repeated, 'day by day')",
+      "n": "22"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "doṣāvastar",
+     "problem": "The reading 'illuminer of darkness' is one of several (others: 'by night and by day', doṣā 'at night' + vastar 'by day'); the note states it without saying so.",
+     "fix": "add to note",
+     "severity": "minor",
+     "patch": {
+      "op": "append_note",
+      "text": "The sense of doṣāvastar is disputed; 'illuminer of darkness' follows one reading, another takes it as 'by night and by day'.",
+      "n": "22"
+     }
+    },
+    {
+     "field": "split",
+     "where": "doṣā-vastaḥ",
+     "problem": "MANUAL: w is given as doṣā-vastaḥ with 'voc. of -tṛ' in the note; a vocative would be vastar (doṣāvastar in the text). Fix w or the note; confidence for this unit is better 'medium'.",
+     "fix": "doṣā-vastar",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "23",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "(We come to him)",
+     "problem": "A verb from the previous unit is inserted in brackets; nothing in this line supplies it. The GROUPING note already records the continuation.",
+     "fix": "Ruling over the rites, the shining guardian of truth, growing in his own house.",
+     "severity": "error",
+     "patch": {
+      "op": "set",
+      "field": "english",
+      "value": "Ruling over the rites, the shining guardian of truth, growing in his own house.",
+      "n": "23"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "(हम उसके पास आते हैं जो)",
+     "problem": "Same, in brackets in the Hindi.",
+     "fix": "यज्ञों पर शासन करने वाले, ऋत के दीप्तिमान रक्षक, अपने घर में बढ़ते हुए को।",
+     "severity": "error",
+     "patch": {
+      "op": "set",
+      "field": "hindi",
+      "value": "यज्ञों पर शासन करने वाले, ऋत के दीप्तिमान रक्षक, अपने घर में बढ़ते हुए को।",
+      "n": "23"
+     }
+    }
+   ]
+  },
+  {
+   "n": "24",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "25",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "26",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "27",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "हे कमनीय (देवियो)",
+     "problem": "Bracketed gloss, and 'देवियो' is not in the line (kāmyāḥ = desirable ones).",
+     "fix": "हे कमनीयो, आओ।",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "हे कमनीय (देवियो)",
+      "new": "हे कमनीयो",
+      "n": "27"
+     }
+    }
+   ]
+  },
+  {
+   "n": "28",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "(as you made)",
+     "problem": "MANUAL: the comparison is the draft's interpretation (the Hindi has 'जैसे' without brackets); the line only has two accusatives. Either drop 'as you made' or mark it in the note; the note already says this.",
+     "fix": "O Brahmaṇaspati, make the Soma-presser resounding, Kakṣīvat who is the son of Uśij (read as in apposition or as a comparison; see note).",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "29",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "30",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "कंजूस का शाप",
+     "problem": "Hindi 'miser' disagrees with the gloss and English 'hostile one'.",
+     "fix": "हमें न तो शत्रुतापूर्ण का शाप और न मर्त्य की दुष्टता पहुँचे; ...",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "कंजूस का शाप",
+      "new": "शत्रुतापूर्ण का शाप",
+      "n": "30"
+     }
+    }
+   ]
+  },
+  {
+   "n": "31",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "32",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "teṣām ... (unit 31)",
+     "problem": "Context from another unit used as fact.",
+     "fix": "teṣām: genitive with īśe; the antecedent is not stated in this line.",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": ", i.e. over those whom the three gods help (unit 31)",
+      "new": "; the antecedent is not stated in this line",
+      "n": "32"
+     }
+    }
+   ]
+  }
+ ],
+ "summary": "32 units reviewed; 19 need fixes. 10 errors, 33 minor, of which 6 have no patch (MANUAL). Main errors: unit 4 added noun 'sticks'; unit 8 bracketed '(सूर्य)'; unit 18 epithets of tvā wrongly read as separate objects; unit 22 dive-dive is dative; unit 23 verb imported from unit 22. Many Hindi lines carried bracketed glosses (units 4, 8, 10, 13, 16, 21, 23, 27), removed by patches. Unit 7 parse (rocanā f. nom. sg. subject, apānatī agreeing) is kept as the standard reading; only the Hindi attachment of asya and the akhyan note are corrected. No regrouping suggested; the GROUPING note of unit 23 is sensible. Token splits match the printed text. Confidence honest except unit 22 (better medium)."
+}

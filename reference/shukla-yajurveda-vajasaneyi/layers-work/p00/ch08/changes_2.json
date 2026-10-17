@@ -1,0 +1,282 @@
+[
+ {
+  "n": "33",
+  "field": "hindi",
+  "old": "हे वृत्र का वध करने वाले, रथ पर चढ़ो; तुम्हारे दोनों हरित घोड़े पवित्र वचन से जोते गए हैं। सोम कूटने का पत्थर अपनी ध्वनि से तुम्हारे मन को भली प्रकार हमारी ओर करे। तू उपयाम से ग्रहण किया गया है; तुझे इन्द्र के लिए, षोडशी के लिए। यह तेरा स्थान है; तुझे इन्द्र के लिए, षोडशी के लिए।",
+  "new": "हे वृत्र का वध करने वाले, रथ पर चढ़ो; तुम्हारे दोनों हरित घोड़े पवित्र वचन से जोते गए हैं। कूटने का पत्थर अपनी ध्वनि से तुम्हारे मन को भली प्रकार हमारी ओर करे। तू उपयाम से ग्रहण किया गया है; तुझे इन्द्र के लिए, षोडशी के लिए। यह तेरा स्थान है; तुझे इन्द्र के लिए, षोडशी के लिए।",
+  "why": "reviewer (minor): 'Soma' is added; grāvan is only the pressing stone (unit has no Soma)."
+ },
+ {
+  "n": "34",
+  "field": "hindi",
+  "old": "अपने लम्बे केशों वाले, कक्ष्या भरने वाले बलवान दोनों हरित घोड़ों को जोतो। फिर, हे सोम पीने वाले इन्द्र, हमारे गीतों के श्रवण को प्राप्त हो। तू उपयाम से ग्रहण किया गया है; तुझे इन्द्र के लिए, षोडशी के लिए। यह तेरा स्थान है; तुझे इन्द्र के लिए, षोडशी के लिए।",
+  "new": "लम्बे केशों वाले, कक्ष्या भरने वाले बलवान दोनों हरित घोड़ों को जोतो। फिर, हे सोम पीने वाले इन्द्र, हमारे गीतों के श्रवण को प्राप्त हो। तू उपयाम से ग्रहण किया गया है; तुझे इन्द्र के लिए, षोडशी के लिए। यह तेरा स्थान है; तुझे इन्द्र के लिए, षोडशी के लिए।",
+  "why": "reviewer (minor): 'अपने' (own) is not in the Sanskrit."
+ },
+ {
+  "n": "34",
+  "field": "word.gloss",
+  "word": "naḥ",
+  "old": "to us",
+  "new": "our",
+  "why": "reviewer (minor): Gloss 'to us' contradicts translation and note ('our songs')."
+ },
+ {
+  "n": "35",
+  "field": "english",
+  "old": "The two bay horses carry Indra, of unassailed strength, to the praises of the sages and to the sacrifice of men. You are taken with the upayāma; you for Indra, the Ṣoḍaśin. This is your seat; you for Indra, the Ṣoḍaśin.",
+  "new": "The two bay horses carry Indra indeed, of unassailed strength, to the praises of the sages and to the sacrifice of men. You are taken with the upayāma; you for Indra, the Ṣoḍaśin. This is your seat; you for Indra, the Ṣoḍaśin.",
+  "why": "reviewer (minor): 'it' (indeed) is dropped in English though Hindi has ही."
+ },
+ {
+  "n": "36",
+  "field": "hindi",
+  "old": "जिससे बढ़कर कोई दूसरा उत्पन्न नहीं हुआ है, जो सब लोकों में प्रविष्ट हुआ है, वह प्रजापति प्रजा के साथ आनन्दित होता हुआ तीन ज्योतियों का सेवन करता है; वही षोडशी है।",
+  "new": "जिससे बढ़कर कोई दूसरा उत्पन्न नहीं हुआ है, जो सब भुवनों में प्रविष्ट हुआ है, वह प्रजापति प्रजा के साथ आनन्दित होता हुआ तीन ज्योतियों का सेवन करता है; वही षोडशी है।",
+  "why": "reviewer (minor): bhuvana rendered with लोक, which the glossary fixes for loka."
+ },
+ {
+  "n": "37",
+  "field": "english",
+  "old": "Indra, and Varuṇa the supreme ruler and king: those two made this portion for you at first. After those two I partake of the portion; may the goddess Speech, enjoying it, be satisfied with the Soma, together with the breath. Svāhā.",
+  "new": "Indra, and Varuṇa the supreme ruler and king: those two made this portion for you at first. After those two I partake of the portion; may the goddess Speech, enjoying, be satisfied with the Soma, together with the breath. Svāhā.",
+  "why": "reviewer (minor): Object 'it' is not in the text (juṣāṇā has no stated object)."
+ },
+ {
+  "n": "37",
+  "field": "word.gram",
+  "word": "bhakṣayāmi",
+  "old": "1 sg. pres. caus. √bhakṣ",
+  "new": "1 sg. pres. √bhakṣ (10th class)",
+  "why": "reviewer (minor): 'caus.' is wrong: bhakṣ forms a regular 10th-class present, not a causative of a different meaning."
+ },
+ {
+  "n": "39",
+  "field": "english",
+  "old": "Rising up with strength, having drunk the Soma pressed in the two cups, O Indra, you made your two jaws shake. You are taken with the upayāma; you for Indra, for strength. This is your seat; you for Indra, for strength. O Indra, mightiest one, you are mightiest among the gods; may I be mightiest among men.",
+  "new": "Rising up with strength, having drunk the Soma pressed in the two cups, O Indra, you made the two jaws shake. You are taken with the upayāma; you for Indra, for strength. This is your seat; you for Indra, for strength. O Indra, mightiest one, you are mightiest among the gods; may I be mightiest among men.",
+  "why": "reviewer (minor): 'your' is not in the Sanskrit (śipre only)."
+ },
+ {
+  "n": "39",
+  "field": "word.gram",
+  "word": "camū",
+  "old": "f. loc. du.",
+  "new": "f. nom./acc. du. form (read as locative, uncertain)",
+  "why": "reviewer (minor): camū is the Vedic nom./acc. dual of camū; a locative dual would be camvoḥ. 'loc. du.' is not a valid label; the locative sense is an interpretation."
+ },
+ {
+  "n": "41",
+  "field": "word.gloss",
+  "word": "viśvāya",
+  "old": "by all",
+  "new": "for all",
+  "why": "reviewer (minor): Dative labelled but glossed 'by all'."
+ },
+ {
+  "n": "44",
+  "field": "hindi",
+  "old": "हे इन्द्र, हमारे शत्रुओं को दूर कर दे; आक्रमण करने वालों को नीचा कर। जो हमारे प्रति शत्रुता करता है, उसे नीचे के अन्धकार में पहुँचा। तू उपयाम से ग्रहण किया गया है; तुझे इन्द्र के लिए, विमृध के लिए। यह तेरा स्थान है; तुझे इन्द्र के लिए, विमृध के लिए।",
+  "new": "हे इन्द्र, हमारे शत्रुओं को अलग-अलग मार दे; आक्रमण करने वालों को नीचा कर। जो हमारे प्रति शत्रुता करता है, उसे नीचे के अन्धकार में पहुँचा। तू उपयाम से ग्रहण किया गया है; तुझे इन्द्र के लिए, विमृध के लिए। यह तेरा स्थान है; तुझे इन्द्र के लिए, विमृध के लिए।",
+  "why": "reviewer (minor): 'vi jahi' = strike apart; Hindi has no 'strike' (jahi) and does not match English."
+ },
+ {
+  "n": "44",
+  "field": "word.gram",
+  "word": "abhi-dāsati",
+  "old": "3 sg. pres.",
+  "new": "3 sg. pres. denom. (from dāsa)",
+  "why": "reviewer (minor): Root missing; denominative from dāsa."
+ },
+ {
+  "n": "45",
+  "field": "word.gram",
+  "word": "huvema",
+  "old": "1 pl. opt. mid. √hu",
+  "new": "1 pl. opt. mid. √hū (hve)",
+  "why": "reviewer (error): Wrong root: huvema is from √hū (hve) 'call', not √hu 'sacrifice'."
+ },
+ {
+  "n": "45",
+  "field": "english",
+  "old": "Vācaspati, Viśvakarman, swift as thought, we call today for help, for strength. May he, all-beneficent and of good work, accept all our invocations for help. You are taken with the upayāma; you for Indra, for Viśvakarman. This is your seat; you for Indra, for Viśvakarman.",
+  "new": "Vācaspati, Viśvakarman, swift as thought, we call today for help, for strength. May he, all-beneficent and of good rites, accept all our invocations for help. You are taken with the upayāma; you for Indra, for Viśvakarman. This is your seat; you for Indra, for Viśvakarman.",
+  "why": "reviewer (minor): Glossary fixes karma = rite in this Samhita (sādhu-karman)."
+ },
+ {
+  "n": "45",
+  "field": "word.gloss",
+  "word": "sādhu-karmā",
+  "old": "of good work",
+  "new": "of good rites",
+  "why": "reviewer (minor): Same: karma = rite."
+ },
+ {
+  "n": "46",
+  "field": "hindi",
+  "old": "हे विश्वकर्मा, बढ़ाने वाली हवि से तूने इन्द्र को रक्षक और अवध्य बनाया। उसके सामने बहुत सी प्रजाएँ झुक गईं, जिससे यह उग्र और आह्वान के योग्य हो। तू उपयाम से ग्रहण किया गया है; तुझे इन्द्र के लिए, विश्वकर्मा के लिए। यह तेरा स्थान है; तुझे इन्द्र के लिए, विश्वकर्मा के लिए।",
+  "new": "हे विश्वकर्मा, बढ़ाने वाली हवि से तूने इन्द्र को रक्षक और अवध्य बनाया। उसके सामने बहुत से जनसमूह झुक गए, जिससे यह उग्र और आह्वान के योग्य हो। तू उपयाम से ग्रहण किया गया है; तुझे इन्द्र के लिए, विश्वकर्मा के लिए। यह तेरा स्थान है; तुझे इन्द्र के लिए, विश्वकर्मा के लिए।",
+  "why": "reviewer (minor): viś rendered as प्रजा, which is used for prajā (offspring) elsewhere (unit 36)."
+ },
+ {
+  "n": "47",
+  "field": "hindi",
+  "old": "तू उपयाम से ग्रहण किया गया है; तुझे अग्नि के लिए गायत्र छन्द वाले को मैं ग्रहण करता हूँ; तुझे इन्द्र के लिए त्रिष्टुप् छन्द वाले को मैं ग्रहण करता हूँ; तुझे सब देवों के लिए जगती छन्द वाले को मैं ग्रहण करता हूँ; अनुष्टुप् तेरा अभिगर है।",
+  "new": "तू उपयाम से ग्रहण किया गया है; अग्नि के लिए तुझ गायत्र छन्द वाले को मैं ग्रहण करता हूँ; इन्द्र के लिए तुझ त्रिष्टुप् छन्द वाले को मैं ग्रहण करता हूँ; सब देवों के लिए तुझ जगती छन्द वाले को मैं ग्रहण करता हूँ; अनुष्टुप् तेरा अभिगर है।",
+  "why": "reviewer (minor): Two accusatives (तुझे ... को) make the Hindi ungrammatical and unclear."
+ },
+ {
+  "n": "47",
+  "field": "word.gloss",
+  "word": "abhigaraḥ",
+  "old": "acclamation (abhigara)",
+  "new": "abhigara (obscure; sense not fixed)",
+  "why": "reviewer (minor): 'acclamation' is a guess for an obscure term (notes admit uncertainty); glossary: keep uncertain terms transliterated."
+ },
+ {
+  "n": "48",
+  "field": "hindi",
+  "old": "व्रेशियों की उड़ान में तुझे हिलाता हूँ; कुकूननाओं की उड़ान में तुझे हिलाता हूँ; आनन्द मनाने वालियों की उड़ान में तुझे हिलाता हूँ; अत्यन्त मद देने वालियों की उड़ान में तुझे हिलाता हूँ; अत्यन्त मधुर वालियों की उड़ान में तुझे हिलाता हूँ। उज्ज्वल तुझे उज्ज्वल में हिलाता हूँ, दिन के रूप में, सूर्य की किरणों में।",
+  "new": "व्रेशियों की उड़ान में तुझे हिलाता हूँ; कुकूननाओं की उड़ान में तुझे हिलाता हूँ; आनन्द मनाने वालियों की उड़ान में तुझे हिलाता हूँ; अत्यन्त मद देने वालियों की उड़ान में तुझे हिलाता हूँ; अत्यन्त मधुरों की उड़ान में तुझे हिलाता हूँ। उज्ज्वल तुझे उज्ज्वल में हिलाता हूँ, दिन के रूप में, सूर्य की किरणों में।",
+  "why": "reviewer (minor): Garbled Hindi; English is 'of the sweetest ones'."
+ },
+ {
+  "n": "49",
+  "field": "word.gram",
+  "word": "kakubham",
+  "old": "n. acc. sg. (uncertain)",
+  "new": "n. nom. sg. (uncertain)",
+  "why": "reviewer (error): Case: kakubham agrees with rūpam, which is nominative; 'acc.' is inconsistent (neuter nom.=acc., but the clause needs nom.)."
+ },
+ {
+  "n": "49",
+  "field": "hindi",
+  "old": "बैल का ऊँचा रूप चमकता है; बृहत् शुक्र शुक्र का अग्रगामी है, सोम सोम का अग्रगामी है। हे सोम, तेरा जो न ठगा जाने वाला, जागता हुआ नाम है, उसके लिए तुझे ग्रहण करता हूँ; उसके लिए, हे सोम, तेरे लिए, सोम के लिए, स्वाहा।",
+  "new": "बैल का ऊँचा रूप चमकता है; बृहत् उज्ज्वल उज्ज्वल का अग्रगामी है, सोम सोम का अग्रगामी है। हे सोम, तेरा जो न ठगा जाने वाला, जागता हुआ नाम है, उसके लिए तुझे ग्रहण करता हूँ; उसके लिए, हे सोम, तेरे लिए, सोम के लिए, स्वाहा।",
+  "why": "reviewer (minor): Glossary: Hindi śukra = उज्ज्वल."
+ },
+ {
+  "n": "53",
+  "field": "english",
+  "old": "You two, O Indra and Parvata, fighters in front: whoever would fight against us, strike him away; with the thunderbolt strike him, him indeed. Far away, for the concealed one, may it conceal the thicket which he reaches. O hero, may the shatterer shatter our enemies all around, on all sides. Bhūḥ, bhuvaḥ, svaḥ. May we be rich in offspring through offspring, rich in heroes through heroes, rich in nourishment through nourishments.",
+  "new": "You two, O Indra and Parvata, fighters in front: whoever would fight against us, strike away him, him indeed; with the thunderbolt strike him, him indeed. Far away, for the concealed one, may it conceal the thicket which he reaches. O hero, may the shatterer shatter our enemies all around, on all sides. Bhūḥ, bhuvaḥ, svaḥ. May we be rich in offspring through offspring, rich in heroes through heroes, rich in nourishment through nourishments.",
+  "why": "reviewer (minor): First 'tam tam id hatam' loses its 'him, him indeed' (only the second is rendered)."
+ },
+ {
+  "n": "53",
+  "field": "hindi",
+  "old": "हे इन्द्र और पर्वत, आगे लड़ने वाले तुम दोनों, जो हमसे लड़े, उसे दूर मारो; वज्र से उसे ही मारो, उसे ही मारो। दूर, छिपाए हुए के लिए, वह घना स्थान ढक दे जिसमें वह पहुँचे। हे शूर, हमारे शत्रुओं को चारों ओर से तोड़ने वाला तोड़ डाले, सब ओर से। भूः भुवः स्वः। हम प्रजाओं से उत्तम प्रजा वाले, वीरों से उत्तम वीरों वाले, पोषणों से उत्तम पोषण वाले हों।",
+  "new": "हे इन्द्र और पर्वत, आगे लड़ने वाले तुम दोनों, जो हमसे लड़े, उसे, उसे ही दूर मारो; वज्र से उसे, उसे ही मारो। दूर, छिपाए हुए के लिए, वह घना स्थान ढक दे जिसमें वह पहुँचे। हे शूर, हमारे शत्रुओं को चारों ओर से तोड़ने वाला तोड़ डाले, सब ओर से। भूः भुवः स्वः। हम प्रजाओं से उत्तम प्रजा वाले, वीरों से उत्तम वीरों वाले, पोषणों से उत्तम पोषण वाले हों।",
+  "why": "reviewer (minor): Same omission in Hindi."
+ },
+ {
+  "n": "54",
+  "field": "english",
+  "old": "Parameṣṭhin, enclosed (abhidhīta); Prajāpati, in speech when uttered; the andhas, gone toward. Savitṛ in the sanyā; Viśvakarman in the consecration; Pūṣan in the Soma-purchase.",
+  "new": "Parameṣṭhin, enclosed (abhidhīta); Prajāpati, in speech when uttered; the andhas, gone toward. Savitṛ in the sanyā; Viśvakarman in the consecration; Pūṣan in the somakrayaṇī.",
+  "why": "reviewer (minor): English translates an obscure term (krayaṇī) as 'purchase' while Hindi keeps सोमक्रयणी; glossary: keep uncertain terms transliterated."
+ },
+ {
+  "n": "57",
+  "field": "english",
+  "old": "All the gods, deposited in the aṃśus; Viṣṇu, āprītapā, being swollen; Yama, being pressed; Viṣṇu, being gathered; Vāyu, being purified; Śukra, purified; Śukra, mixed with milk; the manthin; mixed with barley meal.",
+  "new": "All the gods, deposited in the aṃśus; Viṣṇu, āprītapā, being swollen; Yama, being pressed; Viṣṇu, being gathered; Vāyu, being purified; the bright one, purified; the bright one, mixed with milk; the manthin; mixed with barley meal.",
+  "why": "reviewer (minor): Glossary fixes śukra = bright (Hindi उज्ज्वल); English elsewhere (48, 49) says 'the bright one'."
+ },
+ {
+  "n": "57",
+  "field": "hindi",
+  "old": "सब देव अंशुओं में रखे हुए; विष्णु आप्रीतपा बढ़ाया जाता हुआ; यम निचोड़ा जाता हुआ; विष्णु इकट्ठा किया जाता हुआ; वायु शुद्ध किया जाता हुआ; शुक्र शुद्ध किया हुआ; शुक्र दूध से मिला हुआ; मन्थी; सत्तू से मिला हुआ।",
+  "new": "सब देव अंशुओं में रखे हुए; विष्णु आप्रीतपा बढ़ाया जाता हुआ; यम निचोड़ा जाता हुआ; विष्णु इकट्ठा किया जाता हुआ; वायु शुद्ध किया जाता हुआ; उज्ज्वल शुद्ध किया हुआ; उज्ज्वल दूध से मिला हुआ; मन्थी; सत्तू से मिला हुआ।",
+  "why": "reviewer (minor): Glossary: Hindi śukra = उज्ज्वल."
+ },
+ {
+  "n": "58",
+  "field": "hindi",
+  "old": "सब देव चमसों में ऊपर उठाए हुए; असु होम के लिए उठाया हुआ; रुद्र आहुति दिया जाता हुआ; वात लौटा हुआ; नृचक्षा प्रख्यात। भक्ष भक्षण किया जाता हुआ; पितर नाराशंस।",
+  "new": "सब देव चमसों में ऊपर उठाए हुए; असु होम के लिए उठाया हुआ; रुद्र आहुति दिया जाता हुआ; वात अभिमुख हुआ; नृचक्षा प्रख्यात। भक्ष भक्षण किया जाता हुआ; पितर नाराशंस।",
+  "why": "reviewer (minor): abhyāvṛtta = turned toward (English), not 'returned'."
+ },
+ {
+  "n": "59",
+  "field": "word.gram",
+  "word": "patyete",
+  "old": "3 du. pres. mid. √pat",
+  "new": "3 du. pres. mid. denom. (from pati)",
+  "why": "reviewer (error): Wrong root: patyate is a denominative of pati ('be master'), not √pat."
+ },
+ {
+  "n": "59",
+  "field": "word.gram",
+  "word": "agan",
+  "old": "3 pl. aor. √gam",
+  "new": "3 sg. aor. √gam (with dual subject)",
+  "why": "reviewer (error): '3 pl.' is wrong: agan is the 3 sg. root aorist (3 pl. is agman); unit 60 correctly labels it 3 sg. Here it agrees in form with a dual subject."
+ },
+ {
+  "n": "59",
+  "field": "notes",
+  "old": "GROUPING: 'sannaḥ' (first word) probably belongs with the end of unit 58 ('pitaro nārāśaṃsāḥ sannaḥ'), since the list pairs names with participles; the edition's division is kept. Lines 2 and 3 are a verse; 'viṣṇū' and 'varuṇā' are dual-looking forms read as 'Viṣṇu and Varuṇa' (the two named as a pair is uncertain). 'agan' (3 pl.) is used of the two. 'rajāṃsi' rendered 'airy realms' (or 'worlds').",
+  "new": "GROUPING: 'sannaḥ' (first word) probably belongs with the end of unit 58 ('pitaro nārāśaṃsāḥ sannaḥ'), since the list pairs names with participles; the edition's division is kept. Lines 2 and 3 are a verse; 'viṣṇū' and 'varuṇā' are dual-looking forms read as 'Viṣṇu and Varuṇa' (the two named as a pair is uncertain). 'agan' (3 sg. root aorist) stands with the two as subject. 'rajāṃsi' rendered 'airy realms' (or 'worlds').",
+  "why": "reviewer (minor): Note repeats the wrong number."
+ },
+ {
+  "n": "59",
+  "field": "hindi",
+  "old": "बैठा हुआ; सिन्धु अवभृथ के लिए उठाया हुआ; समुद्र नीचे ले जाया जाता हुआ; सलिल बहता हुआ। जिन दोनों के बल से लोक थामे गए, जो अपने वीर कर्मों से अत्यन्त वीर और सबसे बलवान हैं; जो दोनों अपने बलों से अप्रतिहत होकर स्वामित्व करते हैं, वे विष्णु और वरुण पहली पुकार पर आए।",
+  "new": "बैठा हुआ; सिन्धु अवभृथ के लिए उठाया हुआ; समुद्र नीचे ले जाया जाता हुआ; सलिल बहता हुआ। जिन दोनों के बल से अन्तरिक्ष के क्षेत्र थामे गए, जो अपने वीर कर्मों से अत्यन्त वीर और सबसे बलवान हैं; जो दोनों अपने बलों से अप्रतिहत होकर स्वामित्व करते हैं, वे विष्णु और वरुण पहली पुकार पर आए।",
+  "why": "reviewer (minor): rajāṃsi ('airy realms' in English) rendered with लोक, the glossary word for loka."
+ },
+ {
+  "n": "62",
+  "field": "hindi",
+  "old": "यज्ञ का दोह अनेक स्थानों में फैला हुआ है; उसने आठ प्रकार से स्वर्ग के साथ-साथ विस्तार किया। हे यज्ञ, वह तू मेरे लिए प्रजा में, बहुत धन की पुष्टि दुह; मैं पूर्ण आयु प्राप्त करूँ। स्वाहा।",
+  "new": "यज्ञ का दोह अनेक स्थानों में फैला हुआ है; उसने आठ प्रकार से स्वर्ग के साथ-साथ विस्तार किया। हे यज्ञ, वह तू मेरे लिए बहुत दुह: प्रजा में धन की पुष्टि; मैं पूर्ण आयु प्राप्त करूँ। स्वाहा।",
+  "why": "reviewer (minor): 'mahi' (greatly) is attached to the wealth in Hindi but to 'yield' in English."
+ },
+ {
+  "n": "63",
+  "field": "word.gram",
+  "word": "hiraṇya-vat",
+  "old": "ind.",
+  "new": "n. acc. sg. (adj. in -vat, used adverbially)",
+  "why": "reviewer (minor): -vat forms are neuter acc. sg. adjectives used adverbially, not indeclinables."
+ },
+ {
+  "n": "63",
+  "field": "word.gram",
+  "word": "aśva-vat",
+  "old": "ind.",
+  "new": "n. acc. sg. (adj. in -vat, used adverbially)",
+  "why": "reviewer (minor): -vat forms are neuter acc. sg. adjectives used adverbially, not indeclinables."
+ },
+ {
+  "n": "63",
+  "field": "word.gram",
+  "word": "vīra-vat",
+  "old": "ind.",
+  "new": "n. acc. sg. (adj. in -vat, used adverbially)",
+  "why": "reviewer (minor): -vat forms are neuter acc. sg. adjectives used adverbially, not indeclinables."
+ },
+ {
+  "n": "42",
+  "field": "split",
+  "old": "mahyā=[mahi]; tvā=[ā,tvā]",
+  "new": "mahyā=[mahi,ā]; tvā=[tvā]",
+  "manual": true
+ },
+ {
+  "n": "36",
+  "field": "gloss",
+  "old": "delighting",
+  "new": "x",
+  "manual": true
+ },
+ {
+  "n": "60",
+  "field": "notes",
+  "old": "",
+  "new": "extra ṃ note",
+  "manual": true
+ }
+]

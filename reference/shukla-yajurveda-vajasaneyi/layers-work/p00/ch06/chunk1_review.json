@@ -1,0 +1,853 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "2",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "सावधान रहो",
+     "problem": "vittāt is 'know'; 'सावधान रहो' (be careful) adds an interpretation.",
+     "fix": "जानो",
+     "severity": "minor",
+     "patch": {
+      "n": "2",
+      "op": "replace",
+      "field": "hindi",
+      "old": "सावधान रहो",
+      "new": "जानो"
+     }
+    }
+   ]
+  },
+  {
+   "n": "3",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "paramam",
+     "problem": "Subject of passive bhāri together with padam and tat; neuter nom., not acc.",
+     "fix": "n. nom. sg.",
+     "severity": "error",
+     "patch": {
+      "n": "3",
+      "op": "word",
+      "match_w": "paramam",
+      "field": "gram",
+      "value": "n. nom. sg."
+     }
+    },
+    {
+     "field": "gram",
+     "where": "padam",
+     "problem": "Same: nominative subject of bhāri, not accusative.",
+     "fix": "n. nom. sg.",
+     "severity": "error",
+     "patch": {
+      "n": "3",
+      "op": "word",
+      "match_w": "padam",
+      "field": "gram",
+      "value": "n. nom. sg."
+     }
+    }
+   ]
+  },
+  {
+   "n": "4",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "ordinances",
+     "problem": "Glossary fixes vrata = observance.",
+     "fix": "observances",
+     "severity": "minor",
+     "patch": {
+      "n": "4",
+      "op": "replace",
+      "field": "english",
+      "old": "ordinances",
+      "new": "observances"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "vratāni",
+     "problem": "Same glossary rule.",
+     "fix": "observances",
+     "severity": "minor",
+     "patch": {
+      "n": "4",
+      "op": "word",
+      "match_w": "vratāni",
+      "field": "gloss",
+      "value": "observances"
+     }
+    }
+   ]
+  },
+  {
+   "n": "5",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "6",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "yajamānaj",
+     "problem": "The 'why' asserts a conversion artifact for a Vedic sign; this is a guess. Say only 'stray j, read ṃ' and suggest the form with ṃ as used elsewhere in the text.",
+     "fix": "suggest yajamānaṃ; why: stray Latin j after the word, read as ṃ",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "7",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "tvaṣṭaḥ",
+     "problem": "Printed tvaṣṭar (vocative of tvaṣṭṛ); the visarga form is not the vocative and does not match the printed token.",
+     "fix": "tvaṣṭar",
+     "severity": "error",
+     "patch": {
+      "n": "7",
+      "op": "word",
+      "match_w": "tvaṣṭaḥ",
+      "field": "w",
+      "value": "tvaṣṭar"
+     }
+    },
+    {
+     "field": "split",
+     "where": "prāgṷru̱śijo̱ (prāguḥ)",
+     "problem": "Invented noun 'prāgu'. Standard grammar reads prāguḥ as the verb pra-aguḥ (3 pl. aorist of √gam, 'went forth'), with daivīr viśaḥ as nominative. Then devān is the goal; the Hindi and English 'prāgu eager ones' is not a real word. Needs a human rewrite of the split, Hindi and English, and the accusative labels of daivīḥ/viśaḥ.",
+     "fix": "prāguḥ = pra-aguḥ 3 pl. aor. √gam 'went forth'; daivīḥ viśaḥ nom. pl.; e.g. English 'to the gods the divine clans have gone forth, the eager, best bearers'",
+     "severity": "error"
+    },
+    {
+     "field": "gram",
+     "where": "vahni-tamān",
+     "problem": "-tama is a superlative suffix, not a tat-puruṣa compound member.",
+     "fix": "superl. of vahni, m. acc. pl.",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "8",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "हे धनवती स्त्रियो",
+     "problem": "'स्त्रियो' (women) is added; revatīḥ is only 'wealthy ones'.",
+     "fix": "हे धनवतियो",
+     "severity": "error",
+     "patch": {
+      "n": "8",
+      "op": "replace",
+      "field": "hindi",
+      "old": "हे धनवती स्त्रियो",
+      "new": "हे धनवतियो"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "वसुओं को धारण करो",
+     "problem": "English and gloss say 'goods' (vasūni); Hindi 'वसुओं' reads as the class of gods.",
+     "fix": "धनों को धारण करो",
+     "severity": "minor",
+     "patch": {
+      "n": "8",
+      "op": "replace",
+      "field": "hindi",
+      "old": "वसुओं को धारण करो",
+      "new": "धनों को धारण करो"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "deva-haviḥ",
+     "problem": "'offering of the gods' here but 'offering for the gods' in unit 10; use one rendering.",
+     "fix": "offering for the gods",
+     "severity": "minor",
+     "patch": {
+      "n": "8",
+      "op": "word",
+      "match_w": "deva-haviḥ",
+      "field": "gloss",
+      "value": "offering for the gods"
+     }
+    }
+   ]
+  },
+  {
+   "n": "9",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "I yoke you, pleasing to Agni and Soma",
+     "problem": "No tvā is printed in 'agnīṣomābhyāṃ juṣṭaṃ ni yunajmi'; 'you' (and Hindi 'तुम्हें') is supplied. Mention in notes.",
+     "fix": "append note: object of 'yunajmi' not printed; 'you' supplied from the context",
+     "severity": "minor",
+     "patch": {
+      "n": "9",
+      "op": "append_note",
+      "text": "The object of 'ni yunajmi' (and 'prokṣāmi' has tvā) is not printed in the first clause; 'you' is supplied."
+     }
+    }
+   ]
+  },
+  {
+   "n": "10",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "which is present",
+     "problem": "'sat' is a participle ('being'); 'which is present' is invented, 'cit' is dropped, and the Hindi drops sat/cit as well, so Hindi and English disagree with each other and with the word split.",
+     "fix": "English e.g. 'May the divine waters make sweet the well-eaten offering for the gods, even as it is.' and Hindi to match",
+     "severity": "error"
+    }
+   ]
+  },
+  {
+   "n": "11",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "हे वर्ष",
+     "problem": "In Hindi वर्ष means 'year'; the gloss is 'rain (uncertain)'. Misleading.",
+     "fix": "keep untranslated, e.g. 'हे वर्षः' (as English keeps varṣa)",
+     "severity": "minor"
+    },
+    {
+     "field": "gram",
+     "where": "asya (second)",
+     "problem": "Labelled m. gen. sg. but the English says 'its body'; pick one (this one's / its).",
+     "fix": "English 'be one with this one's body' or label n.",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "12",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "pṛdākuḥ",
+     "problem": "'kind of snake' is an identification; the notes say it is not identified.",
+     "fix": "pṛdāku (obscure)",
+     "severity": "minor",
+     "patch": {
+      "n": "12",
+      "op": "word",
+      "match_w": "pṛdākuḥ",
+      "field": "gloss",
+      "value": "pṛdāku (obscure)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "13",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "whole text",
+     "problem": "Two supariviṣṭā are printed; the first (after voḍhvam) is omitted in the Hindi.",
+     "fix": "full text below",
+     "severity": "error",
+     "patch": {
+      "n": "13",
+      "op": "set",
+      "field": "hindi",
+      "value": "हे दैवी जलो, शुद्ध होकर वहन करो; भली-भाँति परोसे हुए; देवों में भली-भाँति परोसे हुए हम परोसने वाले हों।"
+     }
+    },
+    {
+     "field": "english",
+     "where": "whole text",
+     "problem": "Same omission of the first supariviṣṭā; 'carry on' also adds an idiom.",
+     "fix": "full text below",
+     "severity": "error",
+     "patch": {
+      "n": "13",
+      "op": "set",
+      "field": "english",
+      "value": "O divine waters, pure, carry; well served; among the gods well served, may we be the servers."
+     }
+    }
+   ]
+  },
+  {
+   "n": "14",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "चरित्रों",
+     "problem": "Hindi चरित्र means character/conduct; the gloss is 'means of going'.",
+     "fix": "तुम्हारे चलने के साधनों को शुद्ध करता हूँ",
+     "severity": "error",
+     "patch": {
+      "n": "14",
+      "op": "replace",
+      "field": "hindi",
+      "old": "तुम्हारे चरित्रों को शुद्ध करता हूँ",
+      "new": "तुम्हारे चलने के साधनों को शुद्ध करता हूँ"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "commentators take it as feet",
+     "problem": "Imports commentary, which the brief excludes.",
+     "fix": "delete that clause",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "15",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "for happy days",
+     "problem": "'happy' is added; the notes themselves read śam + ahobhyaḥ.",
+     "fix": "for well-being, for the days",
+     "severity": "minor",
+     "patch": {
+      "n": "15",
+      "op": "replace",
+      "field": "english",
+      "old": "for happy days",
+      "new": "for well-being, for the days"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "शुभ दिनों के लिए",
+     "problem": "Same.",
+     "fix": "कल्याण के लिए, दिनों के लिए",
+     "severity": "minor",
+     "patch": {
+      "n": "15",
+      "op": "replace",
+      "field": "hindi",
+      "old": "शुभ दिनों के लिए",
+      "new": "कल्याण के लिए, दिनों के लिए"
+     }
+    }
+   ]
+  },
+  {
+   "n": "16",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "दोनो",
+     "problem": "Typo.",
+     "fix": "दोनों",
+     "severity": "minor",
+     "patch": {
+      "n": "16",
+      "op": "replace",
+      "field": "hindi",
+      "old": "बनी दोनो",
+      "new": "बनी दोनों"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "adhamam",
+     "problem": "Agrees with tamaḥ (n.), not masculine.",
+     "fix": "n. acc. sg.",
+     "severity": "minor",
+     "patch": {
+      "n": "16",
+      "op": "word",
+      "match_w": "adhamam",
+      "field": "gram",
+      "value": "n. acc. sg."
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "ऊँचे आकाश को, मरुतों के आकाश को",
+     "problem": "Repeats 'आकाश' for mārutam, which is only an adjective 'of the Maruts'; the English 'the Maruts'' is likewise a supplied noun. Uncertain reading should be shown as such.",
+     "fix": "drop the second आकाश, e.g. 'ऊँचे आकाश वाले मारुत को'",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "17",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "जल और पवमान",
+     "problem": "English 'purifying one' (no identity added) but Hindi leaves पवमान, which is a divine name in Hindi usage.",
+     "fix": "जल और पवित्र करने वाला",
+     "severity": "minor",
+     "patch": {
+      "n": "17",
+      "op": "replace",
+      "field": "hindi",
+      "old": "जल और पवमान",
+      "new": "जल और पवित्र करने वाला"
+     }
+    }
+   ]
+  },
+  {
+   "n": "18",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "जल तुम्हें",
+     "problem": "'samariṇan' is dropped in the Hindi, and in the English 'They joined.' is detached; āpas tvā samariṇan is one clause across the line break.",
+     "fix": "अग्नि तुम्हें मिलाए; जलों ने तुम्हें मिला दिया।",
+     "severity": "error",
+     "patch": {
+      "n": "18",
+      "op": "replace",
+      "field": "hindi",
+      "old": "अग्नि तुम्हें मिलाए, जल तुम्हें।",
+      "new": "अग्नि तुम्हें मिलाए; जलों ने तुम्हें मिला दिया।"
+     }
+    },
+    {
+     "field": "english",
+     "where": "ūṣmaṇaḥ",
+     "problem": "Gloss 'of the heat' (gen.) but translated as subject 'the heat has wavered'; Hindi 'ताप का डोलना हुआ' differs again. Make all three agree and mark as uncertain.",
+     "fix": "English 'of the heat: it has wavered'; Hindi to match",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "19",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "pra-/ā-/vi-/ud-diśaḥ",
+     "problem": "'near directions', 'intermediate directions' are interpretations of the prefixes; English translates them while Hindi transliterates.",
+     "fix": "use the same treatment in both, e.g. keep the five words transliterated",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "20",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "tvaṣṭaḥ",
+     "problem": "Printed tvaṣṭar (vocative).",
+     "fix": "tvaṣṭar",
+     "severity": "error",
+     "patch": {
+      "n": "20",
+      "op": "word",
+      "match_w": "tvaṣṭaḥ",
+      "field": "w",
+      "value": "tvaṣṭar"
+     }
+    }
+   ]
+  },
+  {
+   "n": "21",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "your light to svar",
+     "problem": "'your' and a repeated verb are supplied; svarjyotiḥ is uncertain, and Hindi 'ज्योति स्वर् को' is a different order. Confidence 'medium' is too firm given hārdi and svarjyotiḥ.",
+     "fix": "English 'Let your smoke go to heaven; svar, light, ...' or mark as uncertain; confidence low",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "22",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "हर आश्रय से",
+     "problem": "The glossary reserves आश्रय for śarma; dhāman is 'abode'.",
+     "fix": "हर धाम से",
+     "severity": "minor",
+     "patch": {
+      "n": "22",
+      "op": "replace",
+      "field": "hindi",
+      "old": "हर आश्रय से",
+      "new": "हर धाम से"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "अघ्न्या",
+     "problem": "English translates 'unslayable ones' while Hindi leaves it; align (aghnyā is left as in the English).",
+     "fix": "जो वे कहते हैं, 'अवध्याओ'",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "23",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "दिव्य अध्वर",
+     "problem": "Glossary: Hindi adhvara = अनुष्ठान (not यज्ञ, not transliterated).",
+     "fix": "हव्य से युक्त हो दिव्य अनुष्ठान",
+     "severity": "error",
+     "patch": {
+      "n": "23",
+      "op": "replace",
+      "field": "hindi",
+      "old": "हव्य से युक्त हो दिव्य अध्वर",
+      "new": "हव्य से युक्त हो दिव्य अनुष्ठान"
+     }
+    },
+    {
+     "field": "english",
+     "where": "These waters have offerings",
+     "problem": "Word split labels haviṣmatīḥ imāḥ āpaḥ as acc. pl. (object of vivāsati) and the Hindi follows, but the English makes them a subject with an added verb 'have'.",
+     "fix": "The one who has the offering serves these waters, which are rich in offerings. May the divine rite be provided with offerings; may Sūrya be provided with offerings.",
+     "severity": "error",
+     "patch": {
+      "n": "23",
+      "op": "set",
+      "field": "english",
+      "value": "The one who has the offering serves these waters, which are rich in offerings. May the divine rite be provided with offerings; may Sūrya be provided with offerings."
+     }
+    }
+   ]
+  },
+  {
+   "n": "24",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "अध्वर",
+     "problem": "Glossary: Hindi adhvara = अनुष्ठान.",
+     "fix": "हमारे अनुष्ठान को",
+     "severity": "error",
+     "patch": {
+      "n": "24",
+      "op": "replace",
+      "field": "hindi",
+      "old": "हमारे अध्वर को",
+      "new": "हमारे अनुष्ठान को"
+     }
+    }
+   ]
+  },
+  {
+   "n": "25",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "अध्वर",
+     "problem": "Glossary: Hindi adhvara = अनुष्ठान.",
+     "fix": "इस अनुष्ठान को",
+     "severity": "error",
+     "patch": {
+      "n": "25",
+      "op": "replace",
+      "field": "hindi",
+      "old": "इस अध्वर को",
+      "new": "इस अनुष्ठान को"
+     }
+    },
+    {
+     "field": "english",
+     "where": "with the hotrā",
+     "problem": "'with' (instrumental) is invented; the notes say form and case of hotrā are uncertain. Neither Hindi nor English should show a case.",
+     "fix": "keep hotrā untranslated without 'with', e.g. '... among the gods, hotrā.' (Hindi likewise)",
+     "severity": "error"
+    },
+    {
+     "field": "hindi",
+     "where": "द्यु के लिए",
+     "problem": "dive is 'for heaven' and rendered द्युलोक in unit 1.",
+     "fix": "द्युलोक के लिए तुम्हें",
+     "severity": "minor",
+     "patch": {
+      "n": "25",
+      "op": "replace",
+      "field": "hindi",
+      "old": "द्यु के लिए तुम्हें",
+      "new": "द्युलोक के लिए तुम्हें"
+     }
+    }
+   ]
+  },
+  {
+   "n": "26",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "O Soma, king",
+     "problem": "Two vocatives; the glossary form for rājan is 'O king'.",
+     "fix": "O Soma, O king, descend",
+     "severity": "minor",
+     "patch": {
+      "n": "26",
+      "op": "replace",
+      "field": "english",
+      "old": "O Soma, king, descend",
+      "new": "O Soma, O king, descend"
+     }
+    }
+   ]
+  },
+  {
+   "n": "27",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "O divine waters, offspring of the waters",
+     "problem": "napāt is a separate singular vocative; the apposition makes the plural waters 'offspring of the waters'.",
+     "fix": "O divine waters, O offspring of the waters",
+     "severity": "error",
+     "patch": {
+      "n": "27",
+      "op": "replace",
+      "field": "english",
+      "old": "O divine waters, offspring of the waters",
+      "new": "O divine waters, O offspring of the waters"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "जलों की सन्तान",
+     "problem": "Same apposition.",
+     "fix": "हे दैवी जलो, हे जलों की सन्तान,",
+     "severity": "minor",
+     "patch": {
+      "n": "27",
+      "op": "replace",
+      "field": "hindi",
+      "old": "हे दैवी जलो, जलों की सन्तान,",
+      "new": "हे दैवी जलो, हे जलों की सन्तान,"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "शुक्र पीने वालों",
+     "problem": "Glossary: śukra Hindi = उज्ज्वल.",
+     "fix": "उन उज्ज्वल को पीने वालों के लिए",
+     "severity": "minor",
+     "patch": {
+      "n": "27",
+      "op": "replace",
+      "field": "hindi",
+      "old": "उन शुक्र पीने वालों के लिए",
+      "new": "उन उज्ज्वल को पीने वालों के लिए"
+     }
+    }
+   ]
+  },
+  {
+   "n": "28",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "kṣityā",
+     "problem": "Not a typo: in this recension -ai before a vowel appears as -ā (kṣityai + unnayāmi = kṣityā unnayāmi), as in bādha idam in unit 16. The flag and the notes' 'could be from' invent a variant.",
+     "fix": "remove the text_flag; notes: 'kṣityā = kṣityai by sandhi before unnayāmi'",
+     "severity": "error"
+    }
+   ]
+  },
+  {
+   "n": "29",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "संघर्षों में",
+     "problem": "Glossary: vāja = strength; 'contests' drops it.",
+     "fix": "जिसे तुमने बल के संघर्षों में प्रेरित किया",
+     "severity": "minor",
+     "patch": {
+      "n": "29",
+      "op": "replace",
+      "field": "hindi",
+      "old": "जिसे तुमने संघर्षों में प्रेरित किया",
+      "new": "जिसे तुमने बल के संघर्षों में प्रेरित किया"
+     }
+    },
+    {
+     "field": "english",
+     "where": "he will hold lasting refreshments",
+     "problem": "English is a future statement, Hindi an optative ('हो'), and Hindi 'अन्नों' is not 'refreshments'. Align and mark yantā uncertain.",
+     "fix": "make mood and noun identical in both",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "30",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "अध्वर",
+     "problem": "Glossary: Hindi adhvara = अनुष्ठान.",
+     "fix": "इस अनुष्ठान को",
+     "severity": "error",
+     "patch": {
+      "n": "30",
+      "op": "replace",
+      "field": "hindi",
+      "old": "इस अध्वर को",
+      "new": "इस अनुष्ठान को"
+     }
+    },
+    {
+     "field": "english",
+     "where": "you are the nigrābhyā",
+     "problem": "nigrābhyāḥ stha is plural; singular 'you' (and Hindi 'तुम ... हो') mislabels it.",
+     "fix": "you are the nigrābhyās,",
+     "severity": "minor",
+     "patch": {
+      "n": "30",
+      "op": "replace",
+      "field": "english",
+      "old": "you are the nigrābhyā,",
+      "new": "you are the nigrābhyās,"
+     }
+    },
+    {
+     "field": "split",
+     "where": "su-sūta-mam",
+     "problem": "Not a valid word; the superlative suffix -tama is cut in two.",
+     "fix": "su-sūta-tama (with haplology noted)",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "31",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "32",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "33",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "34",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "अमृत की पत्नियाँ",
+     "problem": "English says 'the immortal' (amṛtasya, masc.); Hindi अमृत means nectar.",
+     "fix": "अमर की पत्नियाँ",
+     "severity": "error",
+     "patch": {
+      "n": "34",
+      "op": "replace",
+      "field": "hindi",
+      "old": "अमृत की पत्नियाँ",
+      "new": "अमर की पत्नियाँ"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "हे दिव्य स्त्रियो",
+     "problem": "'स्त्रियो' (women) added; devīḥ is 'divine ones' / goddesses.",
+     "fix": "हे देवियो",
+     "severity": "error",
+     "patch": {
+      "n": "34",
+      "op": "replace",
+      "field": "hindi",
+      "old": "हे दिव्य स्त्रियो",
+      "new": "हे देवियो"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "राध से",
+     "problem": "'राध' is not a Hindi word for bounty (English says bounty).",
+     "fix": "use a Hindi word for bounty, e.g. 'दान से'",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "35",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "36",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "आगे, पीछे, ऊपर, नीचे",
+     "problem": "English has 'forward, away, upward, lower'; 'पीछे' vs 'away' differ, and the notes import commentary (east, west, north, south).",
+     "fix": "align both languages and delete the commentary clause in the notes",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "37",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "confidence",
+     "where": "high",
+     "problem": "praśaṃsiṣaḥ (injunctive, 'you praise') and marḍitā are interpretive, and devaḥ is nominative not vocative; 'high' is too firm.",
+     "fix": "medium",
+     "severity": "minor"
+    }
+   ]
+  }
+ ],
+ "summary": "Review of ch06 chunk1 (37 units): 21 errors, 34 minor; units 1,5,31,32,33,35 ok. No regrouping suggested. Recurring: Hindi adhvara must be अनुष्ठान (units 23-25, 30); vocative tvaṣṭar (7, 20); unit 7 prāguḥ is the verb pra-aguḥ; unit 28 kṣityā is sandhi, not a typo."
+}

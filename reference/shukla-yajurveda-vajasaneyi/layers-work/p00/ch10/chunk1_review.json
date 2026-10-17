@@ -1,0 +1,825 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "agṛhṇan",
+     "problem": "Printed token is agṛbhṇan (Vedic √gṛbh); the draft w 'agṛhṇan' is not the printed word.",
+     "fix": "w = agṛbhṇan, gram '3 pl. impf. √gṛbh (= grah)'",
+     "severity": "error",
+     "patch": {
+      "n": "1",
+      "op": "word",
+      "match_w": "agṛhṇan",
+      "field": "w",
+      "value": "agṛbhṇan"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "rājasvaḥ",
+     "problem": "A form in -aḥ cannot be 'f. acc. pl.' (that would be rājasvāḥ); the form is obscure, so the label overstates.",
+     "fix": "gram: uncertain (obscure form)",
+     "severity": "minor",
+     "patch": {
+      "n": "1",
+      "op": "word",
+      "match_w": "rājasvaḥ",
+      "field": "gram",
+      "value": "uncertain (obscure form)"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "citānāḥ",
+     "problem": "gram 'part. √cit' gives no case, number or gender.",
+     "fix": "mid. part. f. acc. pl. √cit (tentative)",
+     "severity": "minor",
+     "patch": {
+      "n": "1",
+      "op": "word",
+      "match_w": "citānāḥ",
+      "field": "gram",
+      "value": "mid. part. f. acc. pl. √cit (tentative)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "2",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "3",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "You are the arthetāḥ ...; You waters flowing around",
+     "problem": "'arthetāḥ' is invented Sanskrit (a lengthened ā and a visarga added to the printed 'artheta'); w and gloss correctly keep 'artheta'. Also 'You waters flowing around' lacks the copula 'are' (stha).",
+     "fix": "Use 'artheta' unchanged; 'You are waters flowing around' (both occurrences).",
+     "severity": "error",
+     "patch": {
+      "n": "3",
+      "op": "set",
+      "field": "english",
+      "value": "You are artheta, givers of kingdom; give me kingdom, svāhā. You are artheta, givers of kingdom; give kingdom to so-and-so. You are the vigorous ones, givers of kingdom; give me kingdom, svāhā. You are the vigorous ones, givers of kingdom; give kingdom to so-and-so. You are waters flowing around, givers of kingdom; give me kingdom, svāhā. You are waters flowing around, givers of kingdom; give kingdom to so-and-so. You are the lord of the waters, giver of kingdom; give me kingdom, svāhā. You are the lord of the waters, giver of kingdom; give kingdom to so-and-so. You are the embryo of the waters, giver of kingdom; give me kingdom, svāhā. You are the embryo of the waters, giver of kingdom; give kingdom to so-and-so."
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "अर्थेता",
+     "problem": "Same invented form in Hindi (अर्थेता); the printed word is artheta.",
+     "fix": "Replace अर्थेता by अर्थेत (both occurrences).",
+     "severity": "error",
+     "patch": {
+      "n": "3",
+      "op": "set",
+      "field": "hindi",
+      "value": "तुम अर्थेत हो, राज्य देने वालियो; मुझे राज्य दो, स्वाहा। तुम अर्थेत हो, राज्य देने वालियो; अमुक को राज्य दो। तुम ओजस्वी हो, राज्य देने वालियो; मुझे राज्य दो, स्वाहा। तुम ओजस्वी हो, राज्य देने वालियो; अमुक को राज्य दो। तुम चारों ओर बहने वाले जल हो, राज्य देने वालियो; मुझे राज्य दो, स्वाहा। तुम चारों ओर बहने वाले जल हो, राज्य देने वालियो; अमुक को राज्य दो। तुम जलों के स्वामी हो, राज्य देने वाले; मुझे राज्य दो, स्वाहा। तुम जलों के स्वामी हो, राज्य देने वाले; अमुक को राज्य दो। तुम जलों के गर्भ हो, राज्य देने वाले; मुझे राज्य दो, स्वाहा। तुम जलों के गर्भ हो, राज्य देने वाले; अमुक को राज्य दो।"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "rāṣṭra-dāḥ (stha formulas)",
+     "problem": "Labelled 'nom. sg.' where the subject is plural (stha, datta); the translation correctly says 'givers'.",
+     "fix": "gram 'tat-puruṣa, f. nom. pl.' for the stha formulas (same in unit 4)",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "4",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "O waters, you are self-ruling",
+     "problem": "'O waters' makes āpaḥ a vocative, but unit 3 reads the same pattern ('āpaḥ ... stha') as 'you are waters'; Hindi 'वाले' is masculine where all other formulas use the feminine 'वाली' and the word is f. nom. pl.",
+     "fix": "'You are waters, self-ruling, givers of kingdom; give kingdom to so-and-so.'",
+     "severity": "minor",
+     "patch": {
+      "n": "4",
+      "op": "replace",
+      "field": "english",
+      "old": "O waters, you are self-ruling",
+      "new": "You are waters, self-ruling"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "हे जलो, तुम स्वयं शासन करने वाले हो",
+     "problem": "Same: 'हे जलो' adds a vocative; masculine 'वाले' disagrees with feminine svarājaḥ.",
+     "fix": "तुम स्वयं शासन करने वाले जल हो",
+     "severity": "minor",
+     "patch": {
+      "n": "4",
+      "op": "replace",
+      "field": "hindi",
+      "old": "हे जलो, तुम स्वयं शासन करने वाले हो",
+      "new": "तुम स्वयं शासन करने वाले जल हो"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "rāṣṭra-dāḥ (stha formulas)",
+     "problem": "Plural subject labelled 'nom. sg.' (see unit 3).",
+     "fix": "nom. pl.",
+     "severity": "minor"
+    },
+    {
+     "field": "text_flags",
+     "where": "last formula",
+     "problem": "Possible omission in the edition: every other litany item has both a 'me datta svāhā' and an 'amuṣmai datta' half; the last (āpaḥ svarājaḥ stha) has only the second. This is in notes only, not in text_flags.",
+     "fix": "Add a text_flags entry: 'possible omission of the me datta svāhā half before the final formula' (suggest only, no invented text).",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "5",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "6",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "7",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "वरुण ने आवासों में जलों का साझा स्थान बनाया; जलों का शिशु",
+     "problem": "Hindi renders apām twice ('जलों का साझा स्थान' and 'जलों का शिशु'); English and the Sanskrit have it once (sadhastham apām śiśuḥ), so Hindi disagrees with English.",
+     "fix": "Drop the first 'जलों का': 'वरुण ने आवासों में साझा स्थान बनाया; जलों का शिशु ...'",
+     "severity": "error",
+     "patch": {
+      "n": "7",
+      "op": "replace",
+      "field": "hindi",
+      "old": "जलों का साझा स्थान बनाया",
+      "new": "साझा स्थान बनाया"
+     }
+    }
+   ]
+  },
+  {
+   "n": "8",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "Protect him as he goes forward ...",
+     "problem": "'as he goes' is added; prāñcam, pratyañcam, tiryañcam are accusative adjectives of enam ('turned forward / backward / crosswise'), with no verb of going.",
+     "fix": "Protect him, turned forward; protect him, turned backward; protect him, turned crosswise; protect from the directions. (Hindi likewise drop 'जाते हुए'.)",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "9",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "ā̱virma̭yā̱",
+     "problem": "The reading 'āvir mayā' is uncertain: I know this formula as 'āvir maryā āvitto agnir gṛhapatiḥ' in parallel texts (maryā 'O mortals'); a flag for a possible lost r is worth recording, to be checked against a witness (not asserted).",
+     "fix": "Add text_flags: src 'ā̱virma̭yā̱', suggest 'āvirmaryā' (possible; check). Keep confidence medium or lower.",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "10",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "दन्दशूकाः",
+     "problem": "English translates dandaśūkāḥ as 'the biting creatures' but Hindi leaves it as transliteration.",
+     "fix": "अवेष्टाः, डसने वाले जीव।",
+     "severity": "minor",
+     "patch": {
+      "n": "10",
+      "op": "replace",
+      "field": "hindi",
+      "old": "दन्दशूकाः",
+      "new": "डसने वाले जीव"
+     }
+    }
+   ]
+  },
+  {
+   "n": "11",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "grīṣma ... before s",
+     "problem": "Note is inaccurate: grīṣma stands before ṛtuḥ (a vowel), not before s; only pañcadaśa is before s.",
+     "fix": "Correct the note.",
+     "severity": "minor",
+     "patch": {
+      "n": "11",
+      "op": "replace",
+      "field": "notes",
+      "old": "pañcadaśa and grīṣma are printed without final visarga before s; read as nominatives.",
+      "new": "pañcadaśa (before s) and grīṣma (before ṛ) are printed without final visarga; read as nominatives."
+     }
+    }
+   ]
+  },
+  {
+   "n": "12",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "the people (viś)",
+     "problem": "Unit 18 renders viś as 'clan' and this note says 'the clan or people'; make the English consistent.",
+     "fix": "the clan (viś) the wealth",
+     "severity": "minor",
+     "patch": {
+      "n": "12",
+      "op": "replace",
+      "field": "english",
+      "old": "the people (viś) the wealth",
+      "new": "the clan (viś) the wealth"
+     }
+    }
+   ]
+  },
+  {
+   "n": "13",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "14",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "15",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "16",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "17",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "सोम के तेज से ... सूर्य के वर्चस् से",
+     "problem": "Hindi maps dyumna to 'तेज' and leaves varcas as 'वर्चस्', whereas unit 14 renders varcaḥ as 'तेज' (English 'brilliance'); English says glory (dyumna) / brilliance (varcas).",
+     "fix": "सोम के यश से, अग्नि की दीप्ति से, सूर्य के तेज से, इन्द्र के इन्द्रिय-बल से ...",
+     "severity": "minor",
+     "patch": {
+      "n": "17",
+      "op": "set",
+      "field": "hindi",
+      "value": "सोम के यश से, अग्नि की दीप्ति से, सूर्य के तेज से, इन्द्र के इन्द्रिय-बल से मैं तुम्हारा अभिषेक करता हूँ। क्षत्रों के स्वामी बनो; अस्त्रों के पार रक्षा करो।"
+     }
+    }
+   ]
+  },
+  {
+   "n": "18",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "confidence",
+     "where": "vo 'mī rājā",
+     "problem": "amī is labelled 'm. nom. pl.' yet rendered as a vocative 'O you yonder' (Hindi 'हे वहाँ वालो'); the vocative is an unsupported reading, and the whole second half is firm in translation.",
+     "fix": "Lower confidence to low for the second half-line and render 'this is your king, those yonder' or leave amī transliterated.",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "19",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "from the back of the mountain, the bull",
+     "problem": "parvatasya and vṛṣabhasya are both genitive; 'the bull' reads as a nominative apposition.",
+     "fix": "Forth from the back of the mountain, of the bull, boats move",
+     "severity": "minor",
+     "patch": {
+      "n": "19",
+      "op": "replace",
+      "field": "english",
+      "old": "Forth from the back of the mountain, the bull, boats move",
+      "new": "Forth from the back of the mountain, of the bull, boats move"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "पर्वत, वृषभ की पीठ से",
+     "problem": "The genitive of parvatasya is dropped.",
+     "fix": "पर्वत की, वृषभ की पीठ से",
+     "severity": "minor",
+     "patch": {
+      "n": "19",
+      "op": "replace",
+      "field": "hindi",
+      "old": "पर्वत, वृषभ की पीठ से",
+      "new": "पर्वत की, वृषभ की पीठ से"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "विक्रमण / विक्रान्त / क्रान्त",
+     "problem": "Hindi repeats the Sanskrit words where English translates them (stride / striding forth / step).",
+     "fix": "Translate, e.g. 'तुम विष्णु का डग हो ...' for the three formulas.",
+     "severity": "minor"
+    },
+    {
+     "field": "notes",
+     "where": "GROUPING",
+     "problem": "Line c (viṣṇor vikramaṇam asi ...) is a separate formula joined to the verse a-b; the notes do not mention the grouping.",
+     "fix": "Suggest regrouping line c as its own unit (or add a GROUPING note).",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "20",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "tāḥ (src tā)",
+     "problem": "Printed tā is the Vedic neuter plural (= tāni, 'those', object of pari babhūva with viśvā rūpāṇi); 'f. nom. pl. they' is a wrong case and gender label.",
+     "fix": "w tā, gloss 'those', gram 'n. acc. pl. (Vedic)'",
+     "severity": "error",
+     "patch": {
+      "n": "20",
+      "op": "word",
+      "match_w": "tāḥ",
+      "field": "gram",
+      "value": "n. acc. pl. (Vedic form of tāni)"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "etāni",
+     "problem": "etāni agrees with viśvā rūpāṇi and is the object, so acc., not nom.",
+     "fix": "n. acc. pl.",
+     "severity": "minor",
+     "patch": {
+      "n": "20",
+      "op": "word",
+      "match_w": "etāni",
+      "field": "gram",
+      "value": "n. acc. pl."
+     }
+    },
+    {
+     "field": "english",
+     "where": "you are ameṣṭa",
+     "problem": "English drops the final -m of the word it keeps untranslated (w ameṣṭam), and 'highest name of yours, krivi' fixes krivi as the name although krivi is called obscure.",
+     "fix": "you are ameṣṭam, svāhā (and mark krivi as uncertain)",
+     "severity": "minor",
+     "patch": {
+      "n": "20",
+      "op": "replace",
+      "field": "english",
+      "old": "you are ameṣṭa, svāhā",
+      "new": "you are ameṣṭam, svāhā"
+     }
+    }
+   ]
+  },
+  {
+   "n": "21",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "22",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "which you, O thunderbolt-handed god, harness with the reins and with good horses",
+     "problem": "raśmīn and svaśvān are accusative (objects), not instrumentals; 'with the reins and with good horses' invents a construction. The same in Hindi ('लगामों और सुन्दर घोड़ों से').",
+     "fix": "Mount the chariot, O thunderbolt-handed god, whose reins and good horses you yuvase (verb uncertain).",
+     "severity": "error"
+    },
+    {
+     "field": "hindi",
+     "where": "रथ पर खड़े हो",
+     "problem": "Imperative tiṣṭha is rendered as an indicative-looking 'खड़े हो' (and English says 'Mount').",
+     "fix": "रथ पर खड़े हो जाओ,",
+     "severity": "minor",
+     "patch": {
+      "n": "22",
+      "op": "replace",
+      "field": "hindi",
+      "old": "रथ पर खड़े हो,",
+      "new": "रथ पर खड़े हो जाओ,"
+     }
+    },
+    {
+     "field": "text_flags",
+     "where": "yuvase",
+     "problem": "With two accusative objects (raśmīn, svaśvān) the expected verb is yamase (√yam, 'you hold/rein in'), which I know from the parallel verse; yuvase may be a typo. Check against a witness before treating as certain.",
+     "fix": "Add text_flags: src 'yuvase', suggest 'yamase' (possible).",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "23",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "वनस्पति सोम के लिए",
+     "problem": "vanaspati is 'lord of the forest' in English but Hindi 'वनस्पति' means plant/tree.",
+     "fix": "वन के स्वामी सोम के लिए",
+     "severity": "minor",
+     "patch": {
+      "n": "23",
+      "op": "replace",
+      "field": "hindi",
+      "old": "वनस्पति सोम के लिए",
+      "new": "वन के स्वामी सोम के लिए"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "GROUPING",
+     "problem": "'pṛthivi mātaḥ ...' is a separate formula (no svāhā, new addressee); grouping kept but a regrouping is reasonable.",
+     "fix": "Optional: separate unit for the closing formula.",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "24",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "the invoker",
+     "problem": "Glossary: adhvaryu, hotṛ, brahman, udgātṛ keep the Sanskrit.",
+     "fix": "the hotṛ",
+     "severity": "minor",
+     "patch": {
+      "n": "24",
+      "op": "replace",
+      "field": "english",
+      "old": "the invoker",
+      "new": "the hotṛ"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "hotā",
+     "problem": "Same: gloss should keep hotṛ.",
+     "fix": "hotṛ",
+     "severity": "minor",
+     "patch": {
+      "n": "24",
+      "op": "word",
+      "match_w": "hotā",
+      "field": "gloss",
+      "value": "hotṛ"
+     }
+    }
+   ]
+  },
+  {
+   "n": "25",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "इन्द्र की, वीर कर्म करने वाली, तुम दोनों की दोनों भुजाओं को मैं पास लाता हूँ।",
+     "problem": "Mangled: 'वाली' is feminine and seems to qualify the arms, whereas English and gram attach vīryakṛtaḥ to Indra; 'तुम दोनों की' (genitive) contradicts English 'to you two' and the gram 'acc.'.",
+     "fix": "वीर कर्म करने वाले इन्द्र की दोनों भुजाओं को मैं तुम दोनों के पास लाता हूँ।",
+     "severity": "error",
+     "patch": {
+      "n": "25",
+      "op": "replace",
+      "field": "hindi",
+      "old": "इन्द्र की, वीर कर्म करने वाली, तुम दोनों की दोनों भुजाओं को मैं पास लाता हूँ।",
+      "new": "वीर कर्म करने वाले इन्द्र की दोनों भुजाओं को मैं तुम दोनों के पास लाता हूँ।"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "vām",
+     "problem": "Labelled 'acc. du.' but English uses 'to you two'; vām is enclitic gen./dat./acc. du.",
+     "fix": "dat. du. (or gen.)",
+     "severity": "minor",
+     "patch": {
+      "n": "25",
+      "op": "word",
+      "match_w": "vām",
+      "field": "gram",
+      "value": "dat. du. (or gen./acc.)"
+     }
+    },
+    {
+     "field": "split",
+     "where": "abhy-upa-āvaharāmi",
+     "problem": "The printed verb is abhy-upāva-harāmi = abhi + upa + ava + √hṛ (upa + ava give upāva); an 'ā' preverb is wrong.",
+     "fix": "w abhy-upa-avaharāmi, gram '1 sg. pres. abhi-upa-ava-√hṛ'",
+     "severity": "error",
+     "patch": {
+      "n": "25",
+      "op": "word",
+      "match_w": "abhy-upa-āvaharāmi",
+      "field": "w",
+      "value": "abhy-upa-avaharāmi"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "वर्चस् / ऊर्क् / ऊर्ज / योक",
+     "problem": "Hindi keeps Sanskrit words where English translates (brilliance, sap, strength); 'योक' is an English loan and the word is flagged uncertain.",
+     "fix": "Use तेज, रस, बल consistently with unit 14.",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "26",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "27",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "of the ghee rite",
+     "problem": "Glossary: vrata = observance; 'rite' is used for karma.",
+     "fix": "Varuṇa, of the ghee observance",
+     "severity": "minor",
+     "patch": {
+      "n": "27",
+      "op": "replace",
+      "field": "english",
+      "old": "of the ghee rite",
+      "new": "of the ghee observance"
+     }
+    },
+    {
+     "field": "english",
+     "where": "of good counsel",
+     "problem": "Glossary: kratu = will (संकल्प), and the Hindi already says संकल्प; English 'counsel' disagrees.",
+     "fix": "of good will",
+     "severity": "minor",
+     "patch": {
+      "n": "27",
+      "op": "replace",
+      "field": "english",
+      "old": "of good counsel",
+      "new": "of good will"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "sukratuḥ / ghṛta-vrataḥ",
+     "problem": "Gloss should match the glossary (kratu = will, vrata = observance).",
+     "fix": "sukratuḥ: of good will",
+     "severity": "minor",
+     "patch": {
+      "n": "27",
+      "op": "word",
+      "match_w": "sukratuḥ",
+      "field": "gloss",
+      "value": "of good will"
+     }
+    }
+   ]
+  },
+  {
+   "n": "28",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "29",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "30",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "by Viṣṇu with the tenth deity",
+     "problem": "Viṣṇu and daśamyā devatayā are both instrumental; 'with the tenth deity' invents a different relation (instrument).",
+     "fix": "by Viṣṇu, by the tenth deity",
+     "severity": "error",
+     "patch": {
+      "n": "30",
+      "op": "replace",
+      "field": "english",
+      "old": "by Viṣṇu with the tenth deity",
+      "new": "by Viṣṇu, by the tenth deity"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "विष्णु द्वारा, दसवें देवता से प्रेरित",
+     "problem": "Same as English: दसवें देवता से changes the case relation.",
+     "fix": "विष्णु द्वारा, दसवें देवता द्वारा प्रेरित",
+     "severity": "error",
+     "patch": {
+      "n": "30",
+      "op": "replace",
+      "field": "hindi",
+      "old": "विष्णु द्वारा, दसवें देवता से प्रेरित",
+      "new": "विष्णु द्वारा, दसवें देवता द्वारा प्रेरित"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "सविता प्रेरक द्वारा",
+     "problem": "Garbled ('Savitṛ impeller by'); savitrā and prasavitrā are two instrumentals (English: 'Savitṛ the impeller').",
+     "fix": "सविता द्वारा, प्रेरक द्वारा",
+     "severity": "minor",
+     "patch": {
+      "n": "30",
+      "op": "replace",
+      "field": "hindi",
+      "old": "सविता प्रेरक द्वारा",
+      "new": "सविता द्वारा, प्रेरक द्वारा"
+     }
+    }
+   ]
+  },
+  {
+   "n": "31",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "The wind purified by the strainer",
+     "problem": "Deity names are kept (glossary); gloss itself says 'Vāyu, wind'. Use the name.",
+     "fix": "Vāyu purified by the strainer",
+     "severity": "minor",
+     "patch": {
+      "n": "31",
+      "op": "replace",
+      "field": "english",
+      "old": "The wind purified by the strainer",
+      "new": "Vāyu purified by the strainer"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "pratyaṅ",
+     "problem": "pratyaṅ is nom. sg. m. of pratyañc agreeing with somaḥ, not an indeclinable.",
+     "fix": "m. nom. sg.",
+     "severity": "minor",
+     "patch": {
+      "n": "31",
+      "op": "word",
+      "match_w": "pratyaṅ",
+      "field": "gram",
+      "value": "m. nom. sg."
+     }
+    }
+   ]
+  },
+  {
+   "n": "32",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "dear one",
+     "problem": "aṅga is a particle (gram says ind.); 'dear one' is invented and clashes with the fixed rendering tāta = dear one.",
+     "fix": "Indeed, pray, as those with barley ...",
+     "severity": "minor",
+     "patch": {
+      "n": "32",
+      "op": "replace",
+      "field": "english",
+      "old": "Indeed, dear one, as",
+      "new": "Indeed, pray, as"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "aṅga",
+     "problem": "Same: gloss should be a particle sense.",
+     "fix": "pray, now (particle)",
+     "severity": "minor",
+     "patch": {
+      "n": "32",
+      "op": "word",
+      "match_w": "aṅga",
+      "field": "gloss",
+      "value": "pray, now (particle)"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "क्या जौ वाले",
+     "problem": "Hindi starts with the question word 'क्या' for kuvit while English says 'Indeed'; drafter notes only say it may be a question.",
+     "fix": "निश्चय ही, जौ वाले ...",
+     "severity": "minor",
+     "patch": {
+      "n": "32",
+      "op": "replace",
+      "field": "hindi",
+      "old": "क्या जौ वाले",
+      "new": "निश्चय ही, जौ वाले"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "जो कुश के नमस्कार वचन से यजन करते हैं",
+     "problem": "Hindi makes the object an instrumental ('with homage-speech of the kuśa') while English has 'sacrifice homage and utterance of the sacred grass'; the two disagree and neither is settled.",
+     "fix": "Align Hindi and English and keep confidence low.",
+     "severity": "minor"
+    },
+    {
+     "field": "notes",
+     "where": "GROUPING",
+     "problem": "Line c (upayāmagṛhīto 'si ...) is a separate formula joined to the verse a-b.",
+     "fix": "Suggest regrouping line c as its own unit.",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "33",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "हे शुभ के स्वामियो",
+     "problem": "English says 'lords of splendour' (śubh = splendour); Hindi 'शुभ' means auspicious.",
+     "fix": "हे दीप्ति के स्वामियो",
+     "severity": "minor",
+     "patch": {
+      "n": "33",
+      "op": "replace",
+      "field": "hindi",
+      "old": "हे शुभ के स्वामियो",
+      "new": "हे दीप्ति के स्वामियो"
+     }
+    }
+   ]
+  },
+  {
+   "n": "34",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "जैसे दो पिता पुत्र की",
+     "problem": "pitarau is 'two parents' (English); Hindi says 'two fathers'.",
+     "fix": "जैसे माता-पिता पुत्र की",
+     "severity": "error",
+     "patch": {
+      "n": "34",
+      "op": "replace",
+      "field": "hindi",
+      "old": "जैसे दो पिता पुत्र की",
+      "new": "जैसे माता-पिता पुत्र की"
+     }
+    },
+    {
+     "field": "split",
+     "where": "avathuḥ",
+     "problem": "The 2 du. perfect of √av is āvathuḥ (ā + vathuḥ after indra); 'avathuḥ' is neither perfect nor a present form.",
+     "fix": "w āvathuḥ",
+     "severity": "minor",
+     "patch": {
+      "n": "34",
+      "op": "word",
+      "match_w": "avathuḥ",
+      "field": "w",
+      "value": "āvathuḥ"
+     }
+    }
+   ]
+  }
+ ],
+ "summary": "11 errors, 41 minor in 23 of 34 units. Regrouping suggested: 19c, 32c (formula joined to a verse), possibly the closing 'pṛthivi mātaḥ' of 23 and the 'madhumatīr ...' mantra at the end of 4. Units with no issue found: 2, 5, 6, 13, 14, 15, 16, 21, 26, 28, 29. Unit 9 (maryā?) and 22 (yamase?) text suspicions are from memory of parallel texts and need a witness."
+}

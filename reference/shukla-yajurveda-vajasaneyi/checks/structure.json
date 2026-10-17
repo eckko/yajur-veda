@@ -1,0 +1,22 @@
+{
+ "parts": {
+  "00": {
+   "chapters": 40,
+   "highest_chapter": 40,
+   "chapter_gaps": [],
+   "verses": 1975,
+   "lines": 3309,
+   "number_jumps": [],
+   "odd_starts": [],
+   "truncated_end": false,
+   "short_chapters": [],
+   "last_chapter": "40",
+   "last_line": "ओ३म् खं ब्रह्म॑ ॥"
+  }
+ },
+ "flags": [],
+ "toc_vs_text": {
+  "in_toc_not_in_text": [],
+  "in_text_not_in_toc": []
+ }
+}

@@ -1,0 +1,398 @@
+[
+ {
+  "n": "1",
+  "field": "hindi",
+  "old": "हे देव सविता, यज्ञ को प्रेरित करो, यज्ञपति को सौभाग्य के लिए प्रेरित करो। दिव्य गन्धर्व, जो संकल्प को शुद्ध करने वाला है, हमारे संकल्प को शुद्ध करे; वाचस्पति हमारे बल को स्वादिष्ट करे। स्वाहा।",
+  "new": "हे देव सविता, यज्ञ को प्रेरित करो, यज्ञपति को सौभाग्य के लिए प्रेरित करो। दिव्य गन्धर्व, जो अभिप्राय को शुद्ध करने वाला है, हमारे अभिप्राय को शुद्ध करे; वाचस्पति हमारे बल को स्वादिष्ट करे। स्वाहा।",
+  "why": "reviewer (minor): Hindi संकल्प is the fixed rendering of kratu in the glossary, but here it renders ketu/keta (English \"intent\"); the two terms collide across the book."
+ },
+ {
+  "n": "3",
+  "field": "hindi",
+  "old": "जलों का रस, जो उच्च बल वाला है, सूर्य में स्थित और एकत्र किया हुआ है; जलों के रस का जो रस है, उस उत्तम को मैं तुम्हारे लिए ग्रहण करता हूँ; तू उपयाम से ग्रहण किया गया है; इन्द्र के लिए प्रिय तुझे मैं ग्रहण करता हूँ; यह तेरा आसन है; इन्द्र के लिए अत्यन्त प्रिय तुझे।",
+  "new": "जलों का रस, जो उच्च बल वाला है, सूर्य में स्थित और एकत्र किया हुआ है; जलों के रस का जो रस है, तुम्हारे उस उत्तम को मैं ग्रहण करता हूँ; तू उपयाम से ग्रहण किया गया है; इन्द्र के लिए प्रिय तुझे मैं ग्रहण करता हूँ; यह तेरा आसन है; इन्द्र के लिए अत्यन्त प्रिय तुझे।",
+  "why": "reviewer (error): Hindi reads vaḥ as dative (\"for you\"), but gloss, gram and English read it as genitive (\"of yours\"); Hindi and English disagree."
+ },
+ {
+  "n": "3",
+  "field": "notes",
+  "old": "udvayasam is obscure (literally 'having high vigour/food'); marked uncertain. 'taṃ vo gṛhṇāmi' could also be 'I take that from you'; vaḥ is read as 'of you' (genitive). In the src, 'mṷpayā' contains the ṣ-mark artefact only.",
+  "new": "udvayasam is obscure (literally 'having high vigour/food'); marked uncertain. 'taṃ vo gṛhṇāmi' could also be 'I take that from you'; vaḥ is read as 'of you' (genitive). In the src, ṷ in 'mṷpayā' marks an accented u (not a variant).",
+  "why": "reviewer (minor): Wrong description: ṷ stands for an accented u (as the book convention says), not a ṣ-mark."
+ },
+ {
+  "n": "4",
+  "field": "english",
+  "old": "O grahas, whose offerings are strength, going (or enjoying) for the inspired one, a thought. Of those, dear in the settlement, of you, I have gathered food and strength. You are taken with the upayāma. For Indra I take you, the pleasing one; this is your seat; for Indra, you the most pleasing. You two are joiners: join me with the good; you two are separators: separate me from evil.",
+  "new": "O grahas, whose offerings are strength, going (or enjoying) for the inspired one, a reflection. Of those, dear in the settlement, of you, I have gathered food and strength. You are taken with the upayāma. For Indra I take you, the pleasing one; this is your seat; for Indra, you the most pleasing. You two are joiners: join me with the good; you two are separators: separate me from evil.",
+  "why": "reviewer (error): Glossary fixes mati = reflection (cit = thought); \"thought\" collides with cit."
+ },
+ {
+  "n": "4",
+  "field": "word.gloss",
+  "word": "matim",
+  "old": "thought",
+  "new": "reflection",
+  "why": "reviewer (error): Gloss \"thought\" breaks the glossary (mati = reflection)."
+ },
+ {
+  "n": "4",
+  "field": "hindi",
+  "old": "हे ग्रहो, जिनकी आहुति बल है, प्रेरित जन के लिए बुद्धि की ओर जाते हुए; तुम उन सब का, जो बस्ती में प्रिय हैं, मैंने अन्न और बल एकत्र कर लिया। तू उपयाम से ग्रहण किया गया है; इन्द्र के लिए प्रिय तुझे मैं ग्रहण करता हूँ; यह तेरा आसन है; इन्द्र के लिए अत्यन्त प्रिय तुझे। तुम दोनों मिलाने वाले हो, मुझे कल्याण से मिलाओ; तुम दोनों अलग करने वाले हो, मुझे पाप से अलग करो।",
+  "new": "हे ग्रहो, जिनकी आहुति बल है, प्रेरित जन के लिए मति की ओर जाते हुए; तुम उन सब का, जो बस्ती में प्रिय हैं, मैंने अन्न और बल एकत्र कर लिया। तू उपयाम से ग्रहण किया गया है; इन्द्र के लिए प्रिय तुझे मैं ग्रहण करता हूँ; यह तेरा आसन है; इन्द्र के लिए अत्यन्त प्रिय तुझे। तुम दोनों मिलाने वाले हो, मुझे कल्याण से मिलाओ; तुम दोनों अलग करने वाले हो, मुझे पाप से अलग करो।",
+  "why": "reviewer (minor): Hindi should keep mati distinct (मति); बुद्धि is not in the glossary and would also fit dhī."
+ },
+ {
+  "n": "4",
+  "field": "hindi",
+  "old": "हे ग्रहो, जिनकी आहुति बल है, प्रेरित जन के लिए मति की ओर जाते हुए; तुम उन सब का, जो बस्ती में प्रिय हैं, मैंने अन्न और बल एकत्र कर लिया। तू उपयाम से ग्रहण किया गया है; इन्द्र के लिए प्रिय तुझे मैं ग्रहण करता हूँ; यह तेरा आसन है; इन्द्र के लिए अत्यन्त प्रिय तुझे। तुम दोनों मिलाने वाले हो, मुझे कल्याण से मिलाओ; तुम दोनों अलग करने वाले हो, मुझे पाप से अलग करो।",
+  "new": "हे ग्रहो, जिनकी आहुति बल है, प्रेरित जन के लिए मति की ओर जाते हुए; उन बस्ती में प्रिय तुम्हारा मैंने अन्न और बल एकत्र कर लिया। तू उपयाम से ग्रहण किया गया है; इन्द्र के लिए प्रिय तुझे मैं ग्रहण करता हूँ; यह तेरा आसन है; इन्द्र के लिए अत्यन्त प्रिय तुझे। तुम दोनों मिलाने वाले हो, मुझे कल्याण से मिलाओ; तुम दोनों अलग करने वाले हो, मुझे पाप से अलग करो।",
+  "why": "reviewer (minor): \"सब\" (all) is not in the text, and \"तुम ... का\" garbles vaḥ (genitive \"of you\") against teṣām viśipriyāṇām."
+ },
+ {
+  "n": "4",
+  "field": "word.gloss",
+  "word": "grahāḥ",
+  "old": "grahas (taken portions)",
+  "new": "grahas",
+  "why": "reviewer (minor): Gloss \"grahas (taken portions)\" adds an explanation, and the notes themselves say the line does not explain it."
+ },
+ {
+  "n": "6",
+  "field": "word.w",
+  "word": "kakut-mān",
+  "old": "kakut-mān",
+  "new": "kakud-mān",
+  "why": "reviewer (minor): Stem form wrong: the base is kakud (hump, peak); kakut is only the word-final form, and src kakunmān comes from kakud+mān."
+ },
+ {
+  "n": "6",
+  "field": "word.gram",
+  "word": "tena",
+  "old": "n. inst. sg.",
+  "new": "m. inst. sg.",
+  "why": "reviewer (minor): Antecedent is ūrmiḥ (masculine); tena is labelled n. here but m. in unit 9."
+ },
+ {
+  "n": "9",
+  "field": "word.gram",
+  "word": "avajighrata",
+  "old": "2 pl. imp. mid. ava-√ghrā",
+  "new": "2 pl. imp. ava-√ghrā",
+  "why": "reviewer (error): -ta is the active 2 pl. imperative ending (middle would be -dhvam); \"mid.\" is wrong."
+ },
+ {
+  "n": "12",
+  "field": "english",
+  "old": "This is that true agreed speech of yours, by which you made Bṛhaspati win strength, you made him win; Bṛhaspati, strength: O lords of the forest, release yourselves. This is that true agreed speech of yours, by which you made Indra win strength, you made him win; having made Indra win strength, O lords of the forest, release yourselves.",
+  "new": "This is that true agreed speech of yours, by which you made Bṛhaspati win strength; you made Bṛhaspati win strength. O lords of the forest, release yourselves. This is that true agreed speech of yours, by which you made Indra win strength; you made Indra win strength. O lords of the forest, release yourselves.",
+  "why": "reviewer (error): The text mirrors the clause (bṛhaspatiṃ vājam ajījapata | ajījapata bṛhaspatiṃ vājam): the second ajījapata governs the following object. The draft leaves \"Bṛhaspati, strength\" verbless and in line b invents a gerund (\"having made ...\") that is not in the text; lines a and b are also treated differently."
+ },
+ {
+  "n": "12",
+  "field": "hindi",
+  "old": "यह तुम्हारी वह सच्ची सहमति वाली वाणी हुई, जिससे तुमने बृहस्पति को बल जिताया, जिताया; बृहस्पति, बल; हे वनस्पतियो, अपने को मुक्त करो। यह तुम्हारी वह सच्ची सहमति वाली वाणी हुई, जिससे तुमने इन्द्र को बल जिताया, जिताया; इन्द्र को बल जिताकर हे वनस्पतियो, अपने को मुक्त करो।",
+  "new": "यह तुम्हारी वह सच्ची सहमति वाली वाणी हुई, जिससे तुमने बृहस्पति को बल जिताया; तुमने बृहस्पति को बल जिताया; हे वनस्पतियो, अपने को मुक्त करो। यह तुम्हारी वह सच्ची सहमति वाली वाणी हुई, जिससे तुमने इन्द्र को बल जिताया; तुमने इन्द्र को बल जिताया; हे वनस्पतियो, अपने को मुक्त करो।",
+  "why": "reviewer (error): Same problem in Hindi: verbless fragment in line a, invented gerund जिताकर in line b."
+ },
+ {
+  "n": "12",
+  "field": "notes",
+  "old": "Repetition 'ajījapatājījapata' kept as given (two verb forms). 'vanaspatayaḥ' means lords of the forest, usually trees; the line does not say more. The second 'bṛhaspatiṃ vājam' has no verb in the line (ellipsis of 'you made win' is likely) and is rendered as it stands. 'saṃvāk' = agreed or joint speech.",
+  "new": "Repetition 'ajījapatājījapata' kept as given (two verb forms). 'vanaspatayaḥ' means lords of the forest, usually trees; the line does not say more. The repetition 'ajījapata ... ajījapata' is a mirrored repeat: the second ajījapata governs the following 'bṛhaspatiṃ vājam' (line a) and 'indraṃ vājam' (line b). 'saṃvāk' = agreed or joint speech.",
+  "why": "reviewer (error): Wrong analysis; no ellipsis, the second ajījapata supplies the verb."
+ },
+ {
+  "n": "13",
+  "field": "english",
+  "old": "In the impulse of the god Savitṛ, of Bṛhaspati of true impulse, the winner of strength, may I win strength. O strong ones, winners of strength, covering the roads, measuring out the yojanas, go to the goal.",
+  "new": "In the impulse of the god Savitṛ, of Bṛhaspati of true impulse, the winner of strength, may I win strength. O strong ones, winners of strength, propping (or traversing) the roads, measuring out the yojanas, go to the goal.",
+  "why": "reviewer (minor): English \"covering\" has no support and disagrees with Hindi मार्गों को थामते हुए (√skabh = prop, fix)."
+ },
+ {
+  "n": "14",
+  "field": "hindi",
+  "old": "यह वह बलवान जोश में कोड़े की ओर तेज़ी से बढ़ता है, गले में बँधा हुआ, पार्श्व में और मुख में। संकल्प के अनुसार दधिक्रा मार्गों के मोड़ों पर फुर्ती से सरकता हुआ उछलता है। स्वाहा।",
+  "new": "यह वह बलवान कोड़े की ओर तेज़ी से बढ़ता है, गले में बँधा हुआ, पार्श्व में और मुख में। संकल्प के अनुसार दधिक्रा मार्गों के मोड़ों के साथ सरकता हुआ, उछलता हुआ। स्वाहा।",
+  "why": "reviewer (minor): \"जोश में\" and \"फुर्ती से\" are additions; the English has participles (gliding, bounding) but Hindi turns the last one into a finite verb."
+ },
+ {
+  "n": "14",
+  "field": "english",
+  "old": "This strong one hastens to the whip, bound at the neck, at the flank, in the mouth. Dadhikrā, following his purpose, gliding along the bends of the paths, bounding. Svāhā.",
+  "new": "This strong one hastens to the whip, bound at the neck, at the flank, in the mouth. Dadhikrā, following his will, gliding along the bends of the paths, bounding. Svāhā.",
+  "why": "reviewer (minor): Glossary: kratu = will (संकल्प). English \"purpose\" departs from it (Hindi already says संकल्प)."
+ },
+ {
+  "n": "14",
+  "field": "word.gloss",
+  "word": "kratum",
+  "old": "purpose, power",
+  "new": "will",
+  "why": "reviewer (minor): Gloss \"purpose, power\" breaks the glossary (kratu = will)."
+ },
+ {
+  "n": "15",
+  "field": "english",
+  "old": "And after him, running, hastening, eager, the wind blows as after the wing of a bird. Like a hawk gliding, around the curve of Dadhikrāvan, together with the strength of the one who crosses. Svāhā.",
+  "new": "And of him, running, hastening, eager, it blows after like the wing of a bird. Like a hawk gliding, around the curve of Dadhikrāvan, together with the strength of the one who crosses. Svāhā.",
+  "why": "reviewer (error): \"wind\" is added: vāti has no stated subject. \"after him ... as after the wing\" also reverses the simile (parṇaṃ na = like a feather)."
+ },
+ {
+  "n": "15",
+  "field": "hindi",
+  "old": "और उसके, जो दौड़ता, वेग से बढ़ता और लालायित है, पीछे वायु पंख की तरह पक्षी के पीछे बहती है। बाज की तरह गति करते हुए दधिक्रावा के घुमाव के चारों ओर, बल के साथ पार जाने वाले के। स्वाहा।",
+  "new": "और उसके, जो दौड़ता, वेग से बढ़ता और लालायित है, पीछे पक्षी के पंख की तरह बहता है। बाज की तरह गति करते हुए दधिक्रावा के घुमाव के चारों ओर, बल के साथ पार जाने वाले के। स्वाहा।",
+  "why": "reviewer (error): Same addition of \"वायु\"; the sentence is also garbled (पक्षी के पीछे)."
+ },
+ {
+  "n": "16",
+  "field": "hindi",
+  "old": "बलवान घोड़े पुकारों में और देवों के यज्ञ में हमारे लिए कल्याणकारी हों; वे मापे हुए वेग वाले और सुन्दर स्तुति वाले हैं। साँप, भेड़िये और राक्षसों को कुचलते हुए वे सदा हमसे दुःखों को दूर रखें।",
+  "new": "बलवान पुकारों में और दिव्य अनुष्ठान में हमारे लिए कल्याणकारी हों; वे मापे हुए वेग वाले और सुन्दर स्तुति वाले हैं। साँप, भेड़िये और राक्षसों को कुचलते हुए वे सदा हमसे दुःखों को दूर रखें।",
+  "why": "reviewer (error): \"घोड़े\" is added (the English deliberately keeps \"strong ones\" because the line names no noun); devatātā is \"divine rite\", not \"देवों के यज्ञ\" (yajña is reserved for sacrifice; adhvara/rite = अनुष्ठान)."
+ },
+ {
+  "n": "17",
+  "field": "hindi",
+  "old": "वे हमारे घोड़े, पुकार सुनने वाले, सब बलवान और मापे हुए वेग वाले, हमारी पुकार सुनें; हज़ारों को जीतने वाले, यज्ञ या बुद्धि की प्राप्ति में जीतने की इच्छा रखने वाले, जो युद्धों में महान धन ले आए हैं।",
+  "new": "वे हमारे घोड़े, पुकार सुनने वाले, सब बलवान और मापे हुए वेग वाले, हमारी पुकार सुनें; हज़ारों को जीतने वाले, आहुति या मेधा की प्राप्ति में जीतने की इच्छा रखने वाले, जो युद्धों में महान धन ले आए हैं।",
+  "why": "reviewer (minor): English says \"offering (or wisdom)\"; Hindi \"यज्ञ\" is not \"offering\", and glossary has medhā = मेधा."
+ },
+ {
+  "n": "18",
+  "field": "english",
+  "old": "In every contest help us, O strong ones, in the winning of wealth, O inspired ones, O immortals, knowers of ṛta (order). Drink of this sweet drink, gladden yourselves; satisfied, go by the paths travelled by the gods.",
+  "new": "In every contest help us, O strong ones, in the winning of wealth, O inspired ones, O immortals, knowers of order. Drink of this sweet drink, gladden yourselves; satisfied, go by the paths travelled by the gods.",
+  "why": "reviewer (minor): Glossary: ṛta = order everywhere."
+ },
+ {
+  "n": "19",
+  "field": "word.gram",
+  "word": "avajighrata",
+  "old": "2 pl. imp. mid. ava-√ghrā",
+  "new": "2 pl. imp. ava-√ghrā",
+  "why": "reviewer (error): Active -ta ending, not middle (same as unit 9)."
+ },
+ {
+  "n": "19",
+  "field": "hindi",
+  "old": "बल की प्रेरणा मेरे पास आए; ये दोनों, द्यावापृथिवी, सर्वरूप वाले, मेरे पास आएँ। पिता और माता दोनों मेरे पास आएँ, और सोम अमरत्व के साथ मेरे पास आए। हे बलवानो, बल को जीतने वालो, बल की ओर दौड़ चुके हुए, अपने को शुद्ध करते हुए बृहस्पति का भाग सूँघो।",
+  "new": "बल की प्रेरणा मेरे पास आए; ये दोनों, द्यावापृथिवी, सर्वरूप वाले, आएँ। पिता और माता दोनों मेरे पास आएँ, और सोम अमरत्व के साथ मेरे पास आए। हे बलवानो, बल को जीतने वालो, बल की ओर दौड़ चुके हुए, अपने को शुद्ध करते हुए बृहस्पति का भाग सूँघो।",
+  "why": "reviewer (minor): Hindi supplies \"to me\" for heaven and earth while the English leaves the verb bare; keep both the same and minimal."
+ },
+ {
+  "n": "20",
+  "field": "hindi",
+  "old": "आपि के लिए स्वाहा; स्वापि के लिए स्वाहा; अपिज के लिए स्वाहा; क्रतु के लिए स्वाहा; वसु के लिए स्वाहा; दिन के स्वामी के लिए स्वाहा; दिन के लिए स्वाहा; मोहित के लिए स्वाहा; मोहित वैनंशिन के लिए स्वाहा; विनंशी आन्त्यायन के लिए स्वाहा; अन्त्य भौवन के लिए स्वाहा; भुवन के स्वामी के लिए स्वाहा; अधिपति के लिए स्वाहा।",
+  "new": "आपि के लिए स्वाहा; स्वापि के लिए स्वाहा; अपिज के लिए स्वाहा; क्रतु के लिए स्वाहा; वसु के लिए स्वाहा; दिन के स्वामी के लिए स्वाहा; दिन के लिए, मोहित के लिए स्वाहा; मोहित वैनंशिन के लिए स्वाहा; विनंशी आन्त्यायन के लिए स्वाहा; अन्त्य भौवन के लिए स्वाहा; भुवन के स्वामी के लिए स्वाहा; अधिपति के लिए स्वाहा।",
+  "why": "reviewer (error): The text has one svāhā after \"ahne mugdhāya\"; Hindi inserts an extra svāhā (the English is correct)."
+ },
+ {
+  "n": "22",
+  "field": "english",
+  "old": "Let your vigour be in us, in us manliness and resolve; let your splendours be in us. Homage to the mother Earth, homage to the mother Earth. This is your ruler; you are the controller, the restrainer; you are firm, the supporter. You for cultivation, you for security, you for wealth, you for nourishment.",
+  "new": "Let your vigour be in us, in us manliness and will; let your splendours be in us. Homage to the mother Earth, homage to the mother Earth. This is your ruler; you are the controller, the restrainer; you are firm, the supporter. You for cultivation, you for security, you for wealth, you for nourishment.",
+  "why": "reviewer (minor): Glossary: kratu = will."
+ },
+ {
+  "n": "22",
+  "field": "word.gloss",
+  "word": "kratuḥ",
+  "old": "resolve",
+  "new": "will",
+  "why": "reviewer (minor): Gloss \"resolve\" breaks the glossary."
+ },
+ {
+  "n": "23",
+  "field": "english",
+  "old": "The impulse of strength has first brought forth this king Soma, in the plants, in the waters. May they be honeyed for us; may we be wakeful in the kingdom, with priests placed in front. Svāhā.",
+  "new": "The impulse of strength has first brought forth this king Soma, in the plants, in the waters. May they be honeyed for us; may we, the purohitas (placed in front), be wakeful in the kingdom. Svāhā.",
+  "why": "reviewer (error): purohitāḥ is nominative plural agreeing with vayam (\"we ... as purohitas / placed in front\"), not \"with priests\"; the word-level gram (nom. pl.) contradicts the translation."
+ },
+ {
+  "n": "23",
+  "field": "hindi",
+  "old": "बल की प्रेरणा ने पहले इस राजा सोम को ओषधियों में और जलों में उत्पन्न किया। वे हमारे लिए मधुर हों; हम राष्ट्र में पुरोहितों के साथ जागरूक रहें। स्वाहा।",
+  "new": "बल की प्रेरणा ने पहले इस राजा सोम को ओषधियों में और जलों में उत्पन्न किया। वे हमारे लिए मधुर हों; हम पुरोहित राष्ट्र में जागरूक रहें। स्वाहा।",
+  "why": "reviewer (error): Same misreading in Hindi."
+ },
+ {
+  "n": "23",
+  "field": "word.gloss",
+  "word": "purohitāḥ",
+  "old": "with priests placed in front",
+  "new": "as purohitas, placed in front",
+  "why": "reviewer (error): Gloss \"with priests placed in front\" is instrumental in sense; the form is nominative."
+ },
+ {
+  "n": "24",
+  "field": "hindi",
+  "old": "बल की प्रेरणा, जो सम्राट् है, इस को, आकाश को और इन सब लोकों को प्राप्त हुई है। जानता हुआ वह न देना चाहने वाले से भी दिलवाता है; वह हमें सब वीरों से युक्त धन प्रदान करे। स्वाहा।",
+  "new": "बल की प्रेरणा, जो सम्राट् है, इस को, आकाश को और इन सब लोकों को प्राप्त हुई है। जानता हुआ वह न देना चाहने वाले से दिलवाता है; वह हमें सब वीरों से युक्त धन प्रदान करे। स्वाहा।",
+  "why": "reviewer (minor): \"भी\" (even) is not in the text."
+ },
+ {
+  "n": "27",
+  "field": "english",
+  "old": "Urge Aryaman, Bṛhaspati and Indra to giving; also Speech, Viṣṇu, Sarasvatī, Savitṛ and the strong one. Svāhā.",
+  "new": "Urge Aryaman, Bṛhaspati and Indra to giving; Speech, Viṣṇu, Sarasvatī, Savitṛ and the strong one. Svāhā.",
+  "why": "reviewer (minor): \"also\" / Hindi \"भी\" are not in the text (only ca after Savitṛ). Hindi also uses वाक् here but वाणी for vāc in units 11 and 29."
+ },
+ {
+  "n": "27",
+  "field": "hindi",
+  "old": "अर्यमा, बृहस्पति और इन्द्र को देने के लिए प्रेरित करो; वाक्, विष्णु, सरस्वती, सविता और बलवान को भी। स्वाहा।",
+  "new": "अर्यमा, बृहस्पति और इन्द्र को देने के लिए प्रेरित करो; वाणी, विष्णु, सरस्वती, सविता और बलवान को। स्वाहा।",
+  "why": "reviewer (minor): See English: remove \"भी\", use वाणी as in units 11 and 29."
+ },
+ {
+  "n": "28",
+  "field": "hindi",
+  "old": "हे अग्नि, यहाँ हमारी ओर बोलो; हमारे प्रति सुमन बनो। हमें प्रदान करो, हे हज़ारों को जीतने वाले; क्योंकि तुम धन देने वाले हो। स्वाहा।",
+  "new": "हे अग्नि, यहाँ हमारी ओर बोलो; हमारे प्रति प्रसन्नमन बनो। हमें प्रदान करो, हे हज़ारों को जीतने वाले; क्योंकि तुम धन देने वाले हो। स्वाहा।",
+  "why": "reviewer (minor): सुमन alone reads as \"flower\"; sumanāḥ here is \"kindly disposed\"."
+ },
+ {
+  "n": "34",
+  "field": "word.w",
+  "word": "traya-udaśa-akṣareṇa",
+  "old": "traya-udaśa-akṣareṇa",
+  "new": "trayodaśa-akṣareṇa",
+  "why": "reviewer (error): Invented split: the numeral is trayodaśa (\"udaśa\" is no word). Compare ṣoḍaśa-, saptadaśa-, pañcadaśa- in the same unit."
+ },
+ {
+  "n": "39",
+  "field": "english",
+  "old": "May Savitṛ impel you among the impulses, Agni among the householders, Soma among the lords of the forest; Bṛhaspati for speech, Indra for pre-eminence, Rudra for the animals, Mitra the true, Varuṇa among the lords of dharma.",
+  "new": "May Savitṛ impel you among the impulses, Agni among the householders, Soma among the lords of the forest; Bṛhaspati of speech, Indra for pre-eminence, Rudra for the animals, Mitra the true, Varuṇa among the lords of dharma.",
+  "why": "reviewer (minor): vācaḥ is genitive (\"of speech\"), as the gloss says; \"for speech\" treats it as a dative."
+ },
+ {
+  "n": "39",
+  "field": "hindi",
+  "old": "सविता तुझे प्रेरणाओं के बीच प्रेरित करे, अग्नि गृहपतियों के बीच, सोम वनस्पतियों के बीच। बृहस्पति वाणी के लिए, इन्द्र श्रेष्ठता के लिए, रुद्र पशुओं के लिए, सत्य मित्र, और वरुण धर्मपतियों के बीच प्रेरित करे।",
+  "new": "सविता तुझे प्रेरणाओं के बीच प्रेरित करे, अग्नि गृहपतियों के बीच, सोम वनस्पतियों के बीच। बृहस्पति वाणी के, इन्द्र श्रेष्ठता के लिए, रुद्र पशुओं के लिए, सत्य मित्र, और वरुण धर्मपतियों के बीच प्रेरित करे।",
+  "why": "reviewer (minor): Same dative reading."
+ },
+ {
+  "n": "40",
+  "field": "word.gram",
+  "word": "amuṣyai",
+  "old": "f. gen. sg.",
+  "new": "f. dat. sg. (used in a genitive sense here; uncertain)",
+  "why": "reviewer (minor): Form is dative singular feminine; \"f. gen. sg.\" mislabels it (the genitive sense is a matter of usage, not the case)."
+ },
+ {
+  "n": "4",
+  "field": "gram",
+  "old": "pres. part. vi-√i, m. nom. pl.",
+  "new": "pres. part. √vī (or vi-√i; root uncertain), m. nom. pl.",
+  "manual": true
+ },
+ {
+  "n": "4",
+  "field": "text_flags",
+  "old": "[{\"src\": \"sa̱mpṛcaṷ\", \"suggest\": \"sampṛcau\", \"why\": \"the Devanagari has सम्पृचौ (au); the ṷ is a transliteration artefact of the accented au\"}, {\"src\": \"vi̱pṛcaṷ\", \"suggest\": \"vipṛcau\", \"why\": \"the Devanagari has विपृचौ (au); the ṷ is a transliteration artefact\"}]",
+  "new": "[]",
+  "manual": true
+ },
+ {
+  "n": "15",
+  "field": "text_flags",
+  "old": "[{\"src\": \"druva̭tas\", \"suggest\": \"dravatas\", \"why\": \"possible: the Devanagari has द्रुवतः; the root is √dru 'run', so dravataḥ is expected\"}]",
+  "new": "[]",
+  "manual": true
+ },
+ {
+  "n": "17",
+  "field": "gram",
+  "old": "n. acc. sg. (uncertain)",
+  "new": "adj., uncertain (a neuter acc. would be mahat, so it does not agree with dhanam)",
+  "manual": true
+ },
+ {
+  "n": "17",
+  "field": "notes",
+  "old": "and 'maho' (read as 'great', modifying dhanam)",
+  "new": "and 'maho' (read as 'great'; the form does not fit dhanam)",
+  "manual": true
+ },
+ {
+  "n": "18",
+  "field": "gloss",
+  "old": "in every contest",
+  "new": "in each strength",
+  "manual": true
+ },
+ {
+  "n": "18",
+  "field": "english",
+  "old": "In every contest help us",
+  "new": "In each strength help us",
+  "manual": true
+ },
+ {
+  "n": "19",
+  "field": "gram",
+  "old": "3 sg. opt. (intens.) √gam",
+  "new": "3 sg. opt. (reduplicated) √gam",
+  "manual": true
+ },
+ {
+  "n": "21",
+  "field": "text_flags",
+  "old": "kalpatāṃ suggestion",
+  "new": "kalpatā̱ṃᳪ, why corrected",
+  "manual": true
+ },
+ {
+  "n": "35",
+  "field": "hindi",
+  "old": "हे निर्ऋति, यह तेरा भाग है; उसका सेवन कर। स्वाहा। अग्नि को नेता मानने वाले, आगे बैठने वाले देवों के लिए स्वाहा। यम को नेता मानने वाले, दक्षिण में बैठने वाले देवों के लिए स्वाहा। विश्वेदेवों को नेता मानने वाले, पीछे बैठने वाले देवों के लिए स्वाहा। मित्र और वरुण को या मरुतों को नेता मानने वाले, उत्तर में बैठने वाले देवों के लिए स्वाहा। सोम को नेता मानने वाले, ऊपर बैठने वाले, सेवा करने वाले देवों के लिए स्वाहा।",
+  "new": "हे निर्ऋति, यह तेरा भाग है; उसका सेवन कर। स्वाहा। अग्नि के नेतृत्व वाले, आगे बैठने वाले देवों के लिए स्वाहा। यम के नेतृत्व वाले, दक्षिण में बैठने वाले देवों के लिए स्वाहा। विश्वेदेवों के नेतृत्व वाले, पीछे बैठने वाले देवों के लिए स्वाहा। मित्र और वरुण के या मरुतों के नेतृत्व वाले, उत्तर में बैठने वाले देवों के लिए स्वाहा। सोम के नेतृत्व वाले, ऊपर बैठने वाले, सेवा करने वाले देवों के लिए स्वाहा।",
+  "manual": true
+ },
+ {
+  "n": "36",
+  "field": "hindi",
+  "old": "जो देव अग्नि को नेता मानने वाले और आगे बैठने वाले हैं, उनके लिए स्वाहा। जो देव यम को नेता मानने वाले और दक्षिण में बैठने वाले हैं, उनके लिए स्वाहा। जो देव विश्वेदेवों को नेता मानने वाले और पीछे बैठने वाले हैं, उनके लिए स्वाहा। जो देव मित्र और वरुण को या मरुतों को नेता मानने वाले और उत्तर में बैठने वाले हैं, उनके लिए स्वाहा। जो देव सोम को नेता मानने वाले, ऊपर बैठने वाले और सेवा करने वाले हैं, उनके लिए स्वाहा।",
+  "new": "जो देव अग्नि के नेतृत्व वाले और आगे बैठने वाले हैं, उनके लिए स्वाहा। जो देव यम के नेतृत्व वाले और दक्षिण में बैठने वाले हैं, उनके लिए स्वाहा। जो देव विश्वेदेवों के नेतृत्व वाले और पीछे बैठने वाले हैं, उनके लिए स्वाहा। जो देव मित्र और वरुण के या मरुतों के नेतृत्व वाले और उत्तर में बैठने वाले हैं, उनके लिए स्वाहा। जो देव सोम के नेतृत्व वाले, ऊपर बैठने वाले और सेवा करने वाले हैं, उनके लिए स्वाहा।",
+  "manual": true
+ },
+ {
+  "n": "35",
+  "field": "w",
+  "old": "hyphen before case ending",
+  "new": "removed",
+  "manual": true
+ },
+ {
+  "n": "37",
+  "field": "gram",
+  "old": "tat-puruṣa, m. voc. sg.",
+  "new": "tat-puruṣa, m. loc. sg.",
+  "manual": true
+ },
+ {
+  "n": "37",
+  "field": "gloss",
+  "old": "O bearer of the sacrifice",
+  "new": "in the bearer of the sacrifice",
+  "manual": true
+ },
+ {
+  "n": "37",
+  "field": "english",
+  "old": "bestow splendour, O bearer of the sacrifice.",
+  "new": "bestow splendour in the bearer of the sacrifice.",
+  "manual": true
+ },
+ {
+  "n": "37",
+  "field": "hindi",
+  "old": "हे यज्ञ को वहन करने वाले।",
+  "new": "यज्ञ को वहन करने वाले में।",
+  "manual": true
+ }
+]

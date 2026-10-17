@@ -1,0 +1,399 @@
+[
+ {
+  "n": "1",
+  "field": "word.w",
+  "word": "agṛhṇan",
+  "old": "agṛhṇan",
+  "new": "agṛbhṇan",
+  "why": "reviewer (error): Printed token is agṛbhṇan (Vedic √gṛbh); the draft w 'agṛhṇan' is not the printed word."
+ },
+ {
+  "n": "1",
+  "field": "word.gram",
+  "word": "rājasvaḥ",
+  "old": "f. acc. pl.",
+  "new": "uncertain (obscure form)",
+  "why": "reviewer (minor): A form in -aḥ cannot be 'f. acc. pl.' (that would be rājasvāḥ); the form is obscure, so the label overstates."
+ },
+ {
+  "n": "1",
+  "field": "word.gram",
+  "word": "citānāḥ",
+  "old": "part. √cit",
+  "new": "mid. part. f. acc. pl. √cit (tentative)",
+  "why": "reviewer (minor): gram 'part. √cit' gives no case, number or gender."
+ },
+ {
+  "n": "3",
+  "field": "english",
+  "old": "You are the arthetāḥ, givers of kingdom; give me kingdom, svāhā. You are the arthetāḥ, givers of kingdom; give kingdom to so-and-so. You are the vigorous ones, givers of kingdom; give me kingdom, svāhā. You are the vigorous ones, givers of kingdom; give kingdom to so-and-so. You waters flowing around, givers of kingdom; give me kingdom, svāhā. You waters flowing around, givers of kingdom; give kingdom to so-and-so. You are the lord of the waters, giver of kingdom; give me kingdom, svāhā. You are the lord of the waters, giver of kingdom; give kingdom to so-and-so. You are the embryo of the waters, giver of kingdom; give me kingdom, svāhā. You are the embryo of the waters, giver of kingdom; give kingdom to so-and-so.",
+  "new": "You are artheta, givers of kingdom; give me kingdom, svāhā. You are artheta, givers of kingdom; give kingdom to so-and-so. You are the vigorous ones, givers of kingdom; give me kingdom, svāhā. You are the vigorous ones, givers of kingdom; give kingdom to so-and-so. You are waters flowing around, givers of kingdom; give me kingdom, svāhā. You are waters flowing around, givers of kingdom; give kingdom to so-and-so. You are the lord of the waters, giver of kingdom; give me kingdom, svāhā. You are the lord of the waters, giver of kingdom; give kingdom to so-and-so. You are the embryo of the waters, giver of kingdom; give me kingdom, svāhā. You are the embryo of the waters, giver of kingdom; give kingdom to so-and-so.",
+  "why": "reviewer (error): 'arthetāḥ' is invented Sanskrit (a lengthened ā and a visarga added to the printed 'artheta'); w and gloss correctly keep 'artheta'. Also 'You waters flowing around' lacks the copula 'are' (stha)."
+ },
+ {
+  "n": "3",
+  "field": "hindi",
+  "old": "तुम अर्थेता हो, राज्य देने वालियो; मुझे राज्य दो, स्वाहा। तुम अर्थेता हो, राज्य देने वालियो; अमुक को राज्य दो। तुम ओजस्वी हो, राज्य देने वालियो; मुझे राज्य दो, स्वाहा। तुम ओजस्वी हो, राज्य देने वालियो; अमुक को राज्य दो। तुम चारों ओर बहने वाले जल हो, राज्य देने वालियो; मुझे राज्य दो, स्वाहा। तुम चारों ओर बहने वाले जल हो, राज्य देने वालियो; अमुक को राज्य दो। तुम जलों के स्वामी हो, राज्य देने वाले; मुझे राज्य दो, स्वाहा। तुम जलों के स्वामी हो, राज्य देने वाले; अमुक को राज्य दो। तुम जलों के गर्भ हो, राज्य देने वाले; मुझे राज्य दो, स्वाहा। तुम जलों के गर्भ हो, राज्य देने वाले; अमुक को राज्य दो।",
+  "new": "तुम अर्थेत हो, राज्य देने वालियो; मुझे राज्य दो, स्वाहा। तुम अर्थेत हो, राज्य देने वालियो; अमुक को राज्य दो। तुम ओजस्वी हो, राज्य देने वालियो; मुझे राज्य दो, स्वाहा। तुम ओजस्वी हो, राज्य देने वालियो; अमुक को राज्य दो। तुम चारों ओर बहने वाले जल हो, राज्य देने वालियो; मुझे राज्य दो, स्वाहा। तुम चारों ओर बहने वाले जल हो, राज्य देने वालियो; अमुक को राज्य दो। तुम जलों के स्वामी हो, राज्य देने वाले; मुझे राज्य दो, स्वाहा। तुम जलों के स्वामी हो, राज्य देने वाले; अमुक को राज्य दो। तुम जलों के गर्भ हो, राज्य देने वाले; मुझे राज्य दो, स्वाहा। तुम जलों के गर्भ हो, राज्य देने वाले; अमुक को राज्य दो।",
+  "why": "reviewer (error): Same invented form in Hindi (अर्थेता); the printed word is artheta."
+ },
+ {
+  "n": "4",
+  "field": "english",
+  "old": "You are with the sun's skin, givers of kingdom; give me kingdom, svāhā. You are with the sun's skin, givers of kingdom; give kingdom to so-and-so. You are with the sun's brilliance, givers of kingdom; give me kingdom, svāhā. You are with the sun's brilliance, givers of kingdom; give kingdom to so-and-so. You are gladdening, givers of kingdom; give me kingdom, svāhā. You are gladdening, givers of kingdom; give kingdom to so-and-so. You are dwelling in the pen, givers of kingdom; give me kingdom, svāhā. You are dwelling in the pen, givers of kingdom; give kingdom to so-and-so. You are roaring, givers of kingdom; give me kingdom, svāhā. You are roaring, givers of kingdom; give kingdom to so-and-so. You are most mighty, givers of kingdom; give me kingdom, svāhā. You are most mighty, givers of kingdom; give kingdom to so-and-so. You are mighty, givers of kingdom; give me kingdom, svāhā. You are mighty, givers of kingdom; give kingdom to so-and-so. You are supporting the people, givers of kingdom; give me kingdom, svāhā. You are supporting the people, givers of kingdom; give kingdom to so-and-so. You are supporting all, givers of kingdom; give me kingdom, svāhā. You are supporting all, givers of kingdom; give kingdom to so-and-so. O waters, you are self-ruling, givers of kingdom; give kingdom to so-and-so. Let the honeyed ones be mixed with the honeyed ones. Winning great ruling power for the kṣatriya, unassailable, sit down; endowed with strength, bestowing great ruling power on the kṣatriya.",
+  "new": "You are with the sun's skin, givers of kingdom; give me kingdom, svāhā. You are with the sun's skin, givers of kingdom; give kingdom to so-and-so. You are with the sun's brilliance, givers of kingdom; give me kingdom, svāhā. You are with the sun's brilliance, givers of kingdom; give kingdom to so-and-so. You are gladdening, givers of kingdom; give me kingdom, svāhā. You are gladdening, givers of kingdom; give kingdom to so-and-so. You are dwelling in the pen, givers of kingdom; give me kingdom, svāhā. You are dwelling in the pen, givers of kingdom; give kingdom to so-and-so. You are roaring, givers of kingdom; give me kingdom, svāhā. You are roaring, givers of kingdom; give kingdom to so-and-so. You are most mighty, givers of kingdom; give me kingdom, svāhā. You are most mighty, givers of kingdom; give kingdom to so-and-so. You are mighty, givers of kingdom; give me kingdom, svāhā. You are mighty, givers of kingdom; give kingdom to so-and-so. You are supporting the people, givers of kingdom; give me kingdom, svāhā. You are supporting the people, givers of kingdom; give kingdom to so-and-so. You are supporting all, givers of kingdom; give me kingdom, svāhā. You are supporting all, givers of kingdom; give kingdom to so-and-so. You are waters, self-ruling, givers of kingdom; give kingdom to so-and-so. Let the honeyed ones be mixed with the honeyed ones. Winning great ruling power for the kṣatriya, unassailable, sit down; endowed with strength, bestowing great ruling power on the kṣatriya.",
+  "why": "reviewer (minor): 'O waters' makes āpaḥ a vocative, but unit 3 reads the same pattern ('āpaḥ ... stha') as 'you are waters'; Hindi 'वाले' is masculine where all other formulas use the feminine 'वाली' and the word is f. nom. pl."
+ },
+ {
+  "n": "4",
+  "field": "hindi",
+  "old": "तुम सूर्य की त्वचा वाली हो, राज्य देने वालियो; मुझे राज्य दो, स्वाहा। तुम सूर्य की त्वचा वाली हो, राज्य देने वालियो; अमुक को राज्य दो। तुम सूर्य के तेज वाली हो, राज्य देने वालियो; मुझे राज्य दो, स्वाहा। तुम सूर्य के तेज वाली हो, राज्य देने वालियो; अमुक को राज्य दो। तुम आनन्द देने वाली हो, राज्य देने वालियो; मुझे राज्य दो, स्वाहा। तुम आनन्द देने वाली हो, राज्य देने वालियो; अमुक को राज्य दो। तुम गोष्ठ में बसने वाली हो, राज्य देने वालियो; मुझे राज्य दो, स्वाहा। तुम गोष्ठ में बसने वाली हो, राज्य देने वालियो; अमुक को राज्य दो। तुम गर्जन करने वाली हो, राज्य देने वालियो; मुझे राज्य दो, स्वाहा। तुम गर्जन करने वाली हो, राज्य देने वालियो; अमुक को राज्य दो। तुम अत्यन्त बलवती हो, राज्य देने वालियो; मुझे राज्य दो, स्वाहा। तुम अत्यन्त बलवती हो, राज्य देने वालियो; अमुक को राज्य दो। तुम शक्तिशाली हो, राज्य देने वालियो; मुझे राज्य दो, स्वाहा। तुम शक्तिशाली हो, राज्य देने वालियो; अमुक को राज्य दो। तुम लोगों को धारण करने वाली हो, राज्य देने वालियो; मुझे राज्य दो, स्वाहा। तुम लोगों को धारण करने वाली हो, राज्य देने वालियो; अमुक को राज्य दो। तुम सबको धारण करने वाली हो, राज्य देने वालियो; मुझे राज्य दो, स्वाहा। तुम सबको धारण करने वाली हो, राज्य देने वालियो; अमुक को राज्य दो। हे जलो, तुम स्वयं शासन करने वाले हो, राज्य देने वालियो; अमुक को राज्य दो। मधुर जल मधुर जलों के साथ मिलें। क्षत्रिय के लिए महान क्षत्र जीतती हुई, अजेय, बैठो; बल से युक्त, क्षत्रिय के लिए महान क्षत्र धारण करती हुई।",
+  "new": "तुम सूर्य की त्वचा वाली हो, राज्य देने वालियो; मुझे राज्य दो, स्वाहा। तुम सूर्य की त्वचा वाली हो, राज्य देने वालियो; अमुक को राज्य दो। तुम सूर्य के तेज वाली हो, राज्य देने वालियो; मुझे राज्य दो, स्वाहा। तुम सूर्य के तेज वाली हो, राज्य देने वालियो; अमुक को राज्य दो। तुम आनन्द देने वाली हो, राज्य देने वालियो; मुझे राज्य दो, स्वाहा। तुम आनन्द देने वाली हो, राज्य देने वालियो; अमुक को राज्य दो। तुम गोष्ठ में बसने वाली हो, राज्य देने वालियो; मुझे राज्य दो, स्वाहा। तुम गोष्ठ में बसने वाली हो, राज्य देने वालियो; अमुक को राज्य दो। तुम गर्जन करने वाली हो, राज्य देने वालियो; मुझे राज्य दो, स्वाहा। तुम गर्जन करने वाली हो, राज्य देने वालियो; अमुक को राज्य दो। तुम अत्यन्त बलवती हो, राज्य देने वालियो; मुझे राज्य दो, स्वाहा। तुम अत्यन्त बलवती हो, राज्य देने वालियो; अमुक को राज्य दो। तुम शक्तिशाली हो, राज्य देने वालियो; मुझे राज्य दो, स्वाहा। तुम शक्तिशाली हो, राज्य देने वालियो; अमुक को राज्य दो। तुम लोगों को धारण करने वाली हो, राज्य देने वालियो; मुझे राज्य दो, स्वाहा। तुम लोगों को धारण करने वाली हो, राज्य देने वालियो; अमुक को राज्य दो। तुम सबको धारण करने वाली हो, राज्य देने वालियो; मुझे राज्य दो, स्वाहा। तुम सबको धारण करने वाली हो, राज्य देने वालियो; अमुक को राज्य दो। तुम स्वयं शासन करने वाले जल हो, राज्य देने वालियो; अमुक को राज्य दो। मधुर जल मधुर जलों के साथ मिलें। क्षत्रिय के लिए महान क्षत्र जीतती हुई, अजेय, बैठो; बल से युक्त, क्षत्रिय के लिए महान क्षत्र धारण करती हुई।",
+  "why": "reviewer (minor): Same: 'हे जलो' adds a vocative; masculine 'वाले' disagrees with feminine svarājaḥ."
+ },
+ {
+  "n": "7",
+  "field": "hindi",
+  "old": "ये जल साथ-साथ आनन्दित होने वाले, दीप्तिमान, अजेय, कर्मशील और वस्त्र धारण किए हुए हैं। वरुण ने आवासों में जलों का साझा स्थान बनाया; जलों का शिशु अत्यन्त मातृतुल्य जलों के भीतर है।",
+  "new": "ये जल साथ-साथ आनन्दित होने वाले, दीप्तिमान, अजेय, कर्मशील और वस्त्र धारण किए हुए हैं। वरुण ने आवासों में साझा स्थान बनाया; जलों का शिशु अत्यन्त मातृतुल्य जलों के भीतर है।",
+  "why": "reviewer (error): Hindi renders apām twice ('जलों का साझा स्थान' and 'जलों का शिशु'); English and the Sanskrit have it once (sadhastham apām śiśuḥ), so Hindi disagrees with English."
+ },
+ {
+  "n": "10",
+  "field": "hindi",
+  "old": "अवेष्टाः, दन्दशूकाः। पूर्व पर चढ़ो; गायत्री तुम्हारी रक्षा करे; रथन्तर साम, त्रिवृत् स्तोम, वसन्त ऋतु, ब्रह्म धन है।",
+  "new": "अवेष्टाः, डसने वाले जीव। पूर्व पर चढ़ो; गायत्री तुम्हारी रक्षा करे; रथन्तर साम, त्रिवृत् स्तोम, वसन्त ऋतु, ब्रह्म धन है।",
+  "why": "reviewer (minor): English translates dandaśūkāḥ as 'the biting creatures' but Hindi leaves it as transliteration."
+ },
+ {
+  "n": "11",
+  "field": "notes",
+  "old": "pañcadaśa and grīṣma are printed without final visarga before s; read as nominatives.",
+  "new": "pañcadaśa (before s) and grīṣma (before ṛ) are printed without final visarga; read as nominatives.",
+  "why": "reviewer (minor): Note is inaccurate: grīṣma stands before ṛtuḥ (a vowel), not before s; only pañcadaśa is before s."
+ },
+ {
+  "n": "12",
+  "field": "english",
+  "old": "Ascend the west; may Jagatī help you; the Vairūpa sāman, the seventeenfold stoma, the rains the season, the people (viś) the wealth.",
+  "new": "Ascend the west; may Jagatī help you; the Vairūpa sāman, the seventeenfold stoma, the rains the season, the clan (viś) the wealth.",
+  "why": "reviewer (minor): Unit 18 renders viś as 'clan' and this note says 'the clan or people'; make the English consistent."
+ },
+ {
+  "n": "17",
+  "field": "hindi",
+  "old": "सोम के तेज से, अग्नि की दीप्ति से, सूर्य के वर्चस् से, इन्द्र के इन्द्रिय-बल से मैं तुम्हारा अभिषेक करता हूँ। क्षत्रों के स्वामी बनो; अस्त्रों के पार रक्षा करो।",
+  "new": "सोम के यश से, अग्नि की दीप्ति से, सूर्य के तेज से, इन्द्र के इन्द्रिय-बल से मैं तुम्हारा अभिषेक करता हूँ। क्षत्रों के स्वामी बनो; अस्त्रों के पार रक्षा करो।",
+  "why": "reviewer (minor): Hindi maps dyumna to 'तेज' and leaves varcas as 'वर्चस्', whereas unit 14 renders varcaḥ as 'तेज' (English 'brilliance'); English says glory (dyumna) / brilliance (varcas)."
+ },
+ {
+  "n": "19",
+  "field": "english",
+  "old": "Forth from the back of the mountain, the bull, boats move, self-flowing, going. They turned back, downward and upward, flowing after the serpent of the depths. You are the stride of Viṣṇu, you are the striding forth of Viṣṇu, you are the step of Viṣṇu.",
+  "new": "Forth from the back of the mountain, of the bull, boats move, self-flowing, going. They turned back, downward and upward, flowing after the serpent of the depths. You are the stride of Viṣṇu, you are the striding forth of Viṣṇu, you are the step of Viṣṇu.",
+  "why": "reviewer (minor): parvatasya and vṛṣabhasya are both genitive; 'the bull' reads as a nominative apposition."
+ },
+ {
+  "n": "19",
+  "field": "hindi",
+  "old": "पर्वत, वृषभ की पीठ से स्वयं बहने वाली, चलती हुई नौकाएँ आगे बढ़ती हैं। वे नीचे की ओर, ऊपर उठी हुई, गहराई के सर्प के पीछे बहती हुई लौट आईं। तुम विष्णु का विक्रमण हो, तुम विष्णु का विक्रान्त हो, तुम विष्णु का क्रान्त हो।",
+  "new": "पर्वत की, वृषभ की पीठ से स्वयं बहने वाली, चलती हुई नौकाएँ आगे बढ़ती हैं। वे नीचे की ओर, ऊपर उठी हुई, गहराई के सर्प के पीछे बहती हुई लौट आईं। तुम विष्णु का विक्रमण हो, तुम विष्णु का विक्रान्त हो, तुम विष्णु का क्रान्त हो।",
+  "why": "reviewer (minor): The genitive of parvatasya is dropped."
+ },
+ {
+  "n": "20",
+  "field": "word.gram",
+  "word": "tāḥ",
+  "old": "f. nom. pl.",
+  "new": "n. acc. pl. (Vedic form of tāni)",
+  "why": "reviewer (error): Printed tā is the Vedic neuter plural (= tāni, 'those', object of pari babhūva with viśvā rūpāṇi); 'f. nom. pl. they' is a wrong case and gender label."
+ },
+ {
+  "n": "20",
+  "field": "word.gram",
+  "word": "etāni",
+  "old": "n. nom. pl.",
+  "new": "n. acc. pl.",
+  "why": "reviewer (minor): etāni agrees with viśvā rūpāṇi and is the object, so acc., not nom."
+ },
+ {
+  "n": "20",
+  "field": "english",
+  "old": "O Prajāpati, no one other than you has encompassed all these forms. Whatever desires we have, offering to you, may that be ours: may this one be the father of that one, and that one the father of this one; may we be lords of riches, svāhā. O Rudra, in that highest name of yours, krivi, you are offered; you are ameṣṭa, svāhā.",
+  "new": "O Prajāpati, no one other than you has encompassed all these forms. Whatever desires we have, offering to you, may that be ours: may this one be the father of that one, and that one the father of this one; may we be lords of riches, svāhā. O Rudra, in that highest name of yours, krivi, you are offered; you are ameṣṭam, svāhā.",
+  "why": "reviewer (minor): English drops the final -m of the word it keeps untranslated (w ameṣṭam), and 'highest name of yours, krivi' fixes krivi as the name although krivi is called obscure."
+ },
+ {
+  "n": "22",
+  "field": "hindi",
+  "old": "हे इन्द्र, हम तुम्हारे हैं; हे शीघ्र विजयी, जुते न होकर, प्रार्थना के अभाव से हम क्षीण न हों। रथ पर खड़े हो, हे वज्रधारी देव, जिसे तुम लगामों और सुन्दर घोड़ों से जोतते हो।",
+  "new": "हे इन्द्र, हम तुम्हारे हैं; हे शीघ्र विजयी, जुते न होकर, प्रार्थना के अभाव से हम क्षीण न हों। रथ पर खड़े हो जाओ, हे वज्रधारी देव, जिसे तुम लगामों और सुन्दर घोड़ों से जोतते हो।",
+  "why": "reviewer (minor): Imperative tiṣṭha is rendered as an indicative-looking 'खड़े हो' (and English says 'Mount')."
+ },
+ {
+  "n": "23",
+  "field": "hindi",
+  "old": "गृहपति अग्नि के लिए स्वाहा, वनस्पति सोम के लिए स्वाहा; मरुतों के ओज के लिए स्वाहा, इन्द्र के इन्द्रिय-बल के लिए स्वाहा। हे माता पृथिवी, मुझे हिंसित मत करो, और मैं तुम्हें हिंसित न करूँ।",
+  "new": "गृहपति अग्नि के लिए स्वाहा, वन के स्वामी सोम के लिए स्वाहा; मरुतों के ओज के लिए स्वाहा, इन्द्र के इन्द्रिय-बल के लिए स्वाहा। हे माता पृथिवी, मुझे हिंसित मत करो, और मैं तुम्हें हिंसित न करूँ।",
+  "why": "reviewer (minor): vanaspati is 'lord of the forest' in English but Hindi 'वनस्पति' means plant/tree."
+ },
+ {
+  "n": "24",
+  "field": "english",
+  "old": "The swan, sitting in the bright, the good one, sitting in the atmosphere, the invoker, sitting at the altar, the guest, sitting in the house; sitting among men, sitting in the best, sitting in order, sitting in the sky, born of water, born of cows, born of order, born of the mountain: the great order.",
+  "new": "The swan, sitting in the bright, the good one, sitting in the atmosphere, the hotṛ, sitting at the altar, the guest, sitting in the house; sitting among men, sitting in the best, sitting in order, sitting in the sky, born of water, born of cows, born of order, born of the mountain: the great order.",
+  "why": "reviewer (minor): Glossary: adhvaryu, hotṛ, brahman, udgātṛ keep the Sanskrit."
+ },
+ {
+  "n": "24",
+  "field": "word.gloss",
+  "word": "hotā",
+  "old": "invoker",
+  "new": "hotṛ",
+  "why": "reviewer (minor): Same: gloss should keep hotṛ."
+ },
+ {
+  "n": "25",
+  "field": "hindi",
+  "old": "तुम इतने हो, तुम आयु हो; मुझमें आयु स्थापित करो। तुम योक हो, तुम वर्चस् हो; मुझमें वर्चस् स्थापित करो। तुम ऊर्क् हो; मुझमें ऊर्ज स्थापित करो। इन्द्र की, वीर कर्म करने वाली, तुम दोनों की दोनों भुजाओं को मैं पास लाता हूँ।",
+  "new": "तुम इतने हो, तुम आयु हो; मुझमें आयु स्थापित करो। तुम योक हो, तुम वर्चस् हो; मुझमें वर्चस् स्थापित करो। तुम ऊर्क् हो; मुझमें ऊर्ज स्थापित करो। वीर कर्म करने वाले इन्द्र की दोनों भुजाओं को मैं तुम दोनों के पास लाता हूँ।",
+  "why": "reviewer (error): Mangled: 'वाली' is feminine and seems to qualify the arms, whereas English and gram attach vīryakṛtaḥ to Indra; 'तुम दोनों की' (genitive) contradicts English 'to you two' and the gram 'acc.'."
+ },
+ {
+  "n": "25",
+  "field": "word.gram",
+  "word": "vām",
+  "old": "acc. du.",
+  "new": "dat. du. (or gen./acc.)",
+  "why": "reviewer (minor): Labelled 'acc. du.' but English uses 'to you two'; vām is enclitic gen./dat./acc. du."
+ },
+ {
+  "n": "25",
+  "field": "word.w",
+  "word": "abhy-upa-āvaharāmi",
+  "old": "abhy-upa-āvaharāmi",
+  "new": "abhy-upa-avaharāmi",
+  "why": "reviewer (error): The printed verb is abhy-upāva-harāmi = abhi + upa + ava + √hṛ (upa + ava give upāva); an 'ā' preverb is wrong."
+ },
+ {
+  "n": "27",
+  "field": "english",
+  "old": "Varuṇa, of the ghee rite, of good counsel, sat down in the dwellings for sovereignty.",
+  "new": "Varuṇa, of the ghee observance, of good counsel, sat down in the dwellings for sovereignty.",
+  "why": "reviewer (minor): Glossary: vrata = observance; 'rite' is used for karma."
+ },
+ {
+  "n": "27",
+  "field": "english",
+  "old": "Varuṇa, of the ghee observance, of good counsel, sat down in the dwellings for sovereignty.",
+  "new": "Varuṇa, of the ghee observance, of good will, sat down in the dwellings for sovereignty.",
+  "why": "reviewer (minor): Glossary: kratu = will (संकल्प), and the Hindi already says संकल्प; English 'counsel' disagrees."
+ },
+ {
+  "n": "27",
+  "field": "word.gloss",
+  "word": "sukratuḥ",
+  "old": "of good counsel",
+  "new": "of good will",
+  "why": "reviewer (minor): Gloss should match the glossary (kratu = will, vrata = observance)."
+ },
+ {
+  "n": "30",
+  "field": "english",
+  "old": "Impelled by Savitṛ the impeller, by Sarasvatī with speech, by Tvaṣṭṛ with forms, by Pūṣan with cattle, by Indra for us, by Bṛhaspati with sacred power (brahman), by Varuṇa with strength, by Agni with radiance, by Soma the king, by Viṣṇu with the tenth deity, I go forth.",
+  "new": "Impelled by Savitṛ the impeller, by Sarasvatī with speech, by Tvaṣṭṛ with forms, by Pūṣan with cattle, by Indra for us, by Bṛhaspati with sacred power (brahman), by Varuṇa with strength, by Agni with radiance, by Soma the king, by Viṣṇu, by the tenth deity, I go forth.",
+  "why": "reviewer (error): Viṣṇu and daśamyā devatayā are both instrumental; 'with the tenth deity' invents a different relation (instrument)."
+ },
+ {
+  "n": "30",
+  "field": "hindi",
+  "old": "सविता प्रेरक द्वारा, सरस्वती द्वारा वाणी से, त्वष्टा द्वारा रूपों से, पूषा द्वारा पशुओं से, इन्द्र द्वारा हमारे लिए, बृहस्पति द्वारा ब्रह्म से, वरुण द्वारा ओज से, अग्नि द्वारा तेज से, राजा सोम द्वारा, विष्णु द्वारा, दसवें देवता से प्रेरित होकर मैं आगे बढ़ता हूँ।",
+  "new": "सविता प्रेरक द्वारा, सरस्वती द्वारा वाणी से, त्वष्टा द्वारा रूपों से, पूषा द्वारा पशुओं से, इन्द्र द्वारा हमारे लिए, बृहस्पति द्वारा ब्रह्म से, वरुण द्वारा ओज से, अग्नि द्वारा तेज से, राजा सोम द्वारा, विष्णु द्वारा, दसवें देवता द्वारा प्रेरित होकर मैं आगे बढ़ता हूँ।",
+  "why": "reviewer (error): Same as English: दसवें देवता से changes the case relation."
+ },
+ {
+  "n": "30",
+  "field": "hindi",
+  "old": "सविता प्रेरक द्वारा, सरस्वती द्वारा वाणी से, त्वष्टा द्वारा रूपों से, पूषा द्वारा पशुओं से, इन्द्र द्वारा हमारे लिए, बृहस्पति द्वारा ब्रह्म से, वरुण द्वारा ओज से, अग्नि द्वारा तेज से, राजा सोम द्वारा, विष्णु द्वारा, दसवें देवता द्वारा प्रेरित होकर मैं आगे बढ़ता हूँ।",
+  "new": "सविता द्वारा, प्रेरक द्वारा, सरस्वती द्वारा वाणी से, त्वष्टा द्वारा रूपों से, पूषा द्वारा पशुओं से, इन्द्र द्वारा हमारे लिए, बृहस्पति द्वारा ब्रह्म से, वरुण द्वारा ओज से, अग्नि द्वारा तेज से, राजा सोम द्वारा, विष्णु द्वारा, दसवें देवता द्वारा प्रेरित होकर मैं आगे बढ़ता हूँ।",
+  "why": "reviewer (minor): Garbled ('Savitṛ impeller by'); savitrā and prasavitrā are two instrumentals (English: 'Savitṛ the impeller')."
+ },
+ {
+  "n": "31",
+  "field": "english",
+  "old": "Be cooked for the Aśvins; be cooked for Sarasvatī; be cooked for Indra, the good protector. The wind purified by the strainer; Soma turned back, flowed across; the fit friend of Indra.",
+  "new": "Be cooked for the Aśvins; be cooked for Sarasvatī; be cooked for Indra, the good protector. Vāyu purified by the strainer; Soma turned back, flowed across; the fit friend of Indra.",
+  "why": "reviewer (minor): Deity names are kept (glossary); gloss itself says 'Vāyu, wind'. Use the name."
+ },
+ {
+  "n": "31",
+  "field": "word.gram",
+  "word": "pratyaṅ",
+  "old": "ind.",
+  "new": "m. nom. sg.",
+  "why": "reviewer (minor): pratyaṅ is nom. sg. m. of pratyañc agreeing with somaḥ, not an indeclinable."
+ },
+ {
+  "n": "32",
+  "field": "english",
+  "old": "Indeed, dear one, as those with barley cut barley in order, having separated it; here, here, make meals for these who sacrifice homage and utterance of the sacred grass. You are taken with a support (upayāma); you for the Aśvins, you for Sarasvatī, you for Indra, the good protector.",
+  "new": "Indeed, pray, as those with barley cut barley in order, having separated it; here, here, make meals for these who sacrifice homage and utterance of the sacred grass. You are taken with a support (upayāma); you for the Aśvins, you for Sarasvatī, you for Indra, the good protector.",
+  "why": "reviewer (minor): aṅga is a particle (gram says ind.); 'dear one' is invented and clashes with the fixed rendering tāta = dear one."
+ },
+ {
+  "n": "32",
+  "field": "word.gloss",
+  "word": "aṅga",
+  "old": "dear one",
+  "new": "pray, now (particle)",
+  "why": "reviewer (minor): Same: gloss should be a particle sense."
+ },
+ {
+  "n": "32",
+  "field": "hindi",
+  "old": "क्या जौ वाले, जैसे जौ को क्रम से अलग करके काटते हैं; यहीं, यहीं इनके लिए भोजन बनाओ, जो कुश के नमस्कार वचन से यजन करते हैं। तुम उपयाम से ग्रहण किए गए हो; अश्विनों के लिए तुम्हें, सरस्वती के लिए तुम्हें, सुत्रामा इन्द्र के लिए तुम्हें।",
+  "new": "निश्चय ही, जौ वाले, जैसे जौ को क्रम से अलग करके काटते हैं; यहीं, यहीं इनके लिए भोजन बनाओ, जो कुश के नमस्कार वचन से यजन करते हैं। तुम उपयाम से ग्रहण किए गए हो; अश्विनों के लिए तुम्हें, सरस्वती के लिए तुम्हें, सुत्रामा इन्द्र के लिए तुम्हें।",
+  "why": "reviewer (minor): Hindi starts with the question word 'क्या' for kuvit while English says 'Indeed'; drafter notes only say it may be a question."
+ },
+ {
+  "n": "33",
+  "field": "hindi",
+  "old": "हे अश्विनो, तुम दोनों ने असुर नमुचि में सुराम को साथ मिलकर पीकर, हे शुभ के स्वामियो, इन्द्र की कर्मों में सहायता करो।",
+  "new": "हे अश्विनो, तुम दोनों ने असुर नमुचि में सुराम को साथ मिलकर पीकर, हे दीप्ति के स्वामियो, इन्द्र की कर्मों में सहायता करो।",
+  "why": "reviewer (minor): English says 'lords of splendour' (śubh = splendour); Hindi 'शुभ' means auspicious."
+ },
+ {
+  "n": "34",
+  "field": "hindi",
+  "old": "जैसे दो पिता पुत्र की, वैसे ही दोनों अश्विनों ने, हे इन्द्र, कवित्वपूर्ण और अद्भुत कर्मों से रक्षा की। जब तुमने सुराम को शक्तियों से पी लिया, तब सरस्वती ने तुम्हें, हे मघवन्, स्वस्थ किया।",
+  "new": "जैसे माता-पिता पुत्र की, वैसे ही दोनों अश्विनों ने, हे इन्द्र, कवित्वपूर्ण और अद्भुत कर्मों से रक्षा की। जब तुमने सुराम को शक्तियों से पी लिया, तब सरस्वती ने तुम्हें, हे मघवन्, स्वस्थ किया।",
+  "why": "reviewer (error): pitarau is 'two parents' (English); Hindi says 'two fathers'."
+ },
+ {
+  "n": "34",
+  "field": "word.w",
+  "word": "avathuḥ",
+  "old": "avathuḥ",
+  "new": "āvathuḥ",
+  "why": "reviewer (minor): The 2 du. perfect of √av is āvathuḥ (ā + vathuḥ after indra); 'avathuḥ' is neither perfect nor a present form."
+ },
+ {
+  "n": "3",
+  "field": "gram",
+  "old": "nom. sg.",
+  "new": "nom. pl. x10",
+  "manual": true
+ },
+ {
+  "n": "4",
+  "field": "gram",
+  "old": "nom. sg.",
+  "new": "nom. pl. x19",
+  "manual": true
+ },
+ {
+  "n": "4",
+  "field": "notes",
+  "old": "",
+  "new": "The last litany formula (āpaḥ svarājaḥ stha) has only the 'amuṣmai datta' half; the 'me datta svāhā' half that every other item has is missing in the printed text (possible omission in the edition).",
+  "manual": true
+ },
+ {
+  "n": "8",
+  "field": "english",
+  "old": "Protect him as he goes forward, protect him as he goes backward, protect him as he goes crosswise",
+  "new": "Protect him turned forward, protect him turned backward, protect him turned crosswise",
+  "manual": true
+ },
+ {
+  "n": "8",
+  "field": "hindi",
+  "old": "इसकी आगे जाते हुए रक्षा करो, इसकी पीछे जाते हुए रक्षा करो, इसकी तिरछा जाते हुए रक्षा करो",
+  "new": "आगे मुख वाले इसकी रक्षा करो, पीछे मुख वाले इसकी रक्षा करो, तिरछे मुख वाले इसकी रक्षा करो",
+  "manual": true
+ },
+ {
+  "n": "9",
+  "field": "notes",
+  "old": "",
+  "new": "The reading 'āvir mayā' is uncertain: a lost r (āvir maryā) is conceivable but unverified; check against a second edition.",
+  "manual": true
+ },
+ {
+  "n": "18",
+  "field": "confidence",
+  "old": "medium",
+  "new": "low",
+  "manual": true
+ },
+ {
+  "n": "18",
+  "field": "notes",
+  "old": "amī is read as a vocative-like 'you yonder'.",
+  "new": "amī (m. nom. pl., 'those yonder') is uncertain; 'O you yonder' is only a tentative vocative-like reading.",
+  "manual": true
+ },
+ {
+  "n": "19",
+  "field": "hindi",
+  "old": "तुम विष्णु का विक्रमण हो, तुम विष्णु का विक्रान्त हो, तुम विष्णु का क्रान्त हो।",
+  "new": "तुम विष्णु का डग हो, तुम विष्णु का आगे बढ़ना हो, तुम विष्णु का पग हो।",
+  "manual": true
+ },
+ {
+  "n": "19",
+  "field": "notes",
+  "old": "",
+  "new": "GROUPING: the last line (viṣṇor vikramaṇam asi ...) is a separate formula joined to the verse of lines a-b; the edition's grouping is kept.",
+  "manual": true
+ },
+ {
+  "n": "22",
+  "field": "english",
+  "old": "Mount the chariot, which you, O thunderbolt-handed god, harness with the reins and with good horses.",
+  "new": "Mount the chariot, O thunderbolt-handed god; you harness the reins and the good horses.",
+  "manual": true
+ },
+ {
+  "n": "22",
+  "field": "hindi",
+  "old": "रथ पर खड़े हो जाओ, हे वज्रधारी देव, जिसे तुम लगामों और सुन्दर घोड़ों से जोतते हो।",
+  "new": "रथ पर खड़े हो जाओ, हे वज्रधारी देव; तुम लगामों और सुन्दर घोड़ों को जोतते हो।",
+  "manual": true
+ },
+ {
+  "n": "22",
+  "field": "notes",
+  "old": "",
+  "new": "raśmīn and svaśvān are accusatives (objects of yuvase); with two objects a different verb (such as yamase) is conceivable, but this is unverified and the printed yuvase is kept.",
+  "manual": true
+ },
+ {
+  "n": "23",
+  "field": "notes",
+  "old": "",
+  "new": "GROUPING: 'pṛthivi mātaḥ ...' is a separate formula (no svāhā, new addressee); the edition's grouping is kept.",
+  "manual": true
+ },
+ {
+  "n": "25",
+  "field": "hindi",
+  "old": "तुम योक हो, तुम वर्चस् हो; मुझमें वर्चस् स्थापित करो। तुम ऊर्क् हो; मुझमें ऊर्ज स्थापित करो।",
+  "new": "तुम जुआ हो, तुम तेज हो; मुझमें तेज स्थापित करो। तुम रस हो; मुझमें बल स्थापित करो।",
+  "manual": true
+ },
+ {
+  "n": "32",
+  "field": "hindi",
+  "old": "जो कुश के नमस्कार वचन से यजन करते हैं",
+  "new": "जो कुश के नमस्कार और वचन का यजन करते हैं",
+  "manual": true
+ },
+ {
+  "n": "32",
+  "field": "notes",
+  "old": "",
+  "new": "The last line (upayāmagṛhīto 'si ...) is a separate formula joined to the verse of lines a-b; the edition's grouping is kept.",
+  "manual": true
+ }
+]

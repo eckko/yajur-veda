@@ -1,0 +1,688 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "Swell, O inviolable cows, as Indra's share",
+     "problem": "indrāya bhāgam = dative \"for Indra\" + accusative \"a share\"; the dative is dropped.",
+     "fix": "Swell, O inviolable cows, for Indra as a share,",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "Swell, O inviolable cows, as Indra's share,",
+      "new": "Swell, O inviolable cows, for Indra as a share,",
+      "n": "1"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "इन्द्र के भाग के लिए पुष्ट होओ",
+     "problem": "Same: \"for Indra's share\" does not match indrāya bhāgam.",
+     "fix": "इन्द्र के लिए भाग बनकर पुष्ट होओ",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "इन्द्र के भाग के लिए पुष्ट होओ",
+      "new": "इन्द्र के लिए भाग बनकर पुष्ट होओ",
+      "n": "1"
+     }
+    }
+   ]
+  },
+  {
+   "n": "2",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "hvār",
+     "problem": "Word is not in dictionary form: the printed -r is the sandhi form of visarga before mā; the form is hvāḥ (2 sg. root-aorist injunctive of √hvṛ).",
+     "fix": "hvāḥ",
+     "severity": "error",
+     "patch": {
+      "op": "word",
+      "match_w": "hvār",
+      "field": "w",
+      "value": "hvāḥ",
+      "n": "2"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "hvār: the final -r is original",
+     "problem": "Wrong explanation: -r is visarga-sandhi before voiced m, not an original r.",
+     "fix": "hvāḥ: root-aorist injunctive 2 sg. of √hvṛ; the visarga becomes r before mā, hence 'hvārmā' in the text.",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": "hvār: the final -r is original (aorist injunctive of √hvṛ with s lost), hence 'hvārmā' in the text.",
+      "new": "hvāḥ: root-aorist injunctive 2 sg. of √hvṛ; the visarga becomes r before mā, hence 'hvārmā' in the text.",
+      "n": "2"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "viśvadhāḥ",
+     "problem": "Gender missing in gram (addressed implement; m./f. same form).",
+     "fix": "m./f. nom. sg.",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "viśvadhāḥ",
+      "field": "gram",
+      "value": "m./f. nom. sg.",
+      "n": "2"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "gharmaḥ \"heating vessel (gharma)\"",
+     "problem": "Gloss imports a ritual identification (vessel) not in the line; glossary says translate literally. Same in unit 22. Prefer \"heat (gharma)\" and put the vessel sense in notes if wanted.",
+     "fix": "heat, hot offering (gharma)",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "3",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "supvā",
+     "problem": "Not a nominative: nom. sg. of u-stem supū would be supūḥ; supvā = supū + ā, i.e. instrumental sg. (or a different analysis). The draft label \"m. nom. sg.\" is wrong, so Hindi/English \"the good purifier\" (Savitṛ) is unsupported. kāmadhukṣaḥ is also unclear (dhukṣa-: finite s-aorist/desiderative form of √duh is possible, not a noun in -ṣaḥ). Needs a person.",
+     "fix": "MANUAL: re-analyse supvā (instr. sg. of supū \"good purifier\") and kāmadhukṣaḥ; rewrite the clause; do not state firmly.",
+     "severity": "error"
+    },
+    {
+     "field": "confidence",
+     "where": "confidence",
+     "problem": "medium is too high for a clause the draft itself cannot parse.",
+     "fix": "low",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "confidence",
+      "value": "low",
+      "n": "3"
+     }
+    }
+   ]
+  },
+  {
+   "n": "4",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "इन्द्र के भाग तुझे मैं सोम से",
+     "problem": "\"इन्द्र के भाग तुझे\" is ungrammatical Hindi for indrasya tvā bhāgam (thee, Indra's share).",
+     "fix": "इन्द्र के भाग-रूप तुझे मैं सोम से जमाता हूँ",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "इन्द्र के भाग तुझे मैं सोम से जमाता हूँ",
+      "new": "इन्द्र के भाग-रूप तुझे मैं सोम से जमाता हूँ",
+      "n": "4"
+     }
+    }
+   ]
+  },
+  {
+   "n": "5",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "यह मैं अनृत से",
+     "problem": "English says \"Now\", gloss \"here, now\", Hindi says \"this\": inconsistent.",
+     "fix": "अब मैं अनृत से",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "यह मैं अनृत",
+      "new": "अब मैं अनृत",
+      "n": "5"
+     }
+    },
+    {
+     "field": "english",
+     "where": "may I be able to do that",
+     "problem": "\"to do\" is not in the text (tat śakeyam: may I be able [for] that); Hindi adds पूरा करना likewise. Minor.",
+     "fix": "that may I be able (keep literal; do not add \"to do\")",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "6",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "service",
+     "problem": "veṣāya rendered \"service\" is an unsupported interpretation of a rare word; gloss it \"veṣa\" or mark uncertain.",
+     "fix": "You two for the work, you two for veṣa.",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "7",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "8",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "सबसे बड़ा",
+     "problem": "\"largest\" is not -tama (best/most); also three times.",
+     "fix": "सबसे उत्तम",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "सबसे बड़ा वाहक, सबसे बड़ा विजेता, सबसे बड़ा पार लगाने वाला",
+      "new": "सबसे उत्तम वाहक, सबसे उत्तम विजेता, सबसे उत्तम पार लगाने वाला",
+      "n": "8"
+     }
+    }
+   ]
+  },
+  {
+   "n": "9",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "let the five hold (thee)",
+     "problem": "\"thee\" is supplied (no object in the line); Hindi also adds तुझे.",
+     "fix": "let the five hold",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "let the five hold (thee)",
+      "new": "let the five hold",
+      "n": "9"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "पाँचों तुझे थामे रखें",
+     "problem": "Supplied object तुझे.",
+     "fix": "पाँचों थामे रखें",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "पाँचों तुझे थामे रखें",
+      "new": "पाँचों थामे रखें",
+      "n": "9"
+     }
+    }
+   ]
+  },
+  {
+   "n": "10",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "juṣṭam",
+     "problem": "Gender \"n.\" is arbitrary (agrees with tvā); unit 13 uses \"m.\" for the same form. Make consistent: \"acc. sg. ppp. √juṣ (agreeing with tvā)\".",
+     "fix": "acc. sg. ppp. √juṣ, agreeing with tvā",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "11",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "भूति के लिए",
+     "problem": "Word is bhūtāya (from bhūta), Hindi uses भूति (bhūti). English \"welfare\" is fine; Hindi should not alter the word.",
+     "fix": "कल्याण के लिए तुझे, अराति के लिए नहीं",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "12",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "vaiṣṇavyau",
+     "problem": "Feminine dual (vaiṣṇavī), not neuter.",
+     "fix": "f. nom. du.",
+     "severity": "error",
+     "patch": {
+      "op": "word",
+      "match_w": "vaiṣṇavyau",
+      "field": "gram",
+      "value": "f. nom. du.",
+      "n": "12"
+     }
+    },
+    {
+     "field": "split",
+     "where": "agre (after agrepuvaḥ)",
+     "problem": "Printed token is 'gra̭ (= agra, the Devanagari reads ऽग्र॑ इ॒मम्), not 'gre. w \"agre ... n. loc. sg.\" does not match the printed form, and no translation word covers it (Hindi/English drop it). Reading unclear (agra / agre).",
+     "fix": "MANUAL: decide the reading; if agra, gloss \"foremost\" and render it; otherwise add a text_flags entry.",
+     "severity": "error"
+    },
+    {
+     "field": "confidence",
+     "where": "confidence",
+     "problem": "high is too firm with an unexplained word.",
+     "fix": "medium",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "confidence",
+      "value": "medium",
+      "n": "12"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "आगे चलने वाली, आगे शुद्ध करने वाली",
+     "problem": "Singular feminine adjectives agree with neither जलो nor the plural.",
+     "fix": "आगे चलने वाले, आगे शुद्ध करने वाले",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "आगे चलने वाली, आगे शुद्ध करने वाली",
+      "new": "आगे चलने वाले, आगे शुद्ध करने वाले",
+      "n": "12"
+     }
+    }
+   ]
+  },
+  {
+   "n": "13",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "that of you I now cleanse",
+     "problem": "\"now\" is added and idam (\"this\") is dropped.",
+     "fix": "this, that of you, I cleanse",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "that of you I now cleanse",
+      "new": "this, that of you, I cleanse",
+      "n": "13"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "जो कुछ नष्ट कर दिया",
+     "problem": "\"destroyed\" overstates parājaghnuḥ (struck away); English says \"struck away\".",
+     "fix": "जो कुछ मारकर दूर हटा दिया",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "जो कुछ नष्ट कर दिया",
+      "new": "जो कुछ मारकर दूर हटा दिया",
+      "n": "13"
+     }
+    }
+   ]
+  },
+  {
+   "n": "14",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "तू शर्म है",
+     "problem": "Hindi शर्म means \"shame\"; śarma = shelter, protection.",
+     "fix": "तू आश्रय है",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "तू शर्म है",
+      "new": "तू आश्रय है",
+      "n": "14"
+     }
+    }
+   ]
+  },
+  {
+   "n": "15",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "suśami",
+     "problem": "\"ind.\" with note \"instrumental-like form\" is an invented classification; unclear word (voc. of suśamī / adverb). State uncertainty.",
+     "fix": "MANUAL: gram \"uncertain (adverbial or vocative)\"; note it.",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "16",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "17",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "dhṛṣṭiḥ \"bold one (the tongs)\"",
+     "problem": "Gloss adds a ritual identification not in the line (glossary: do not explain the ritual).",
+     "fix": "bold one",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "dhṛṣṭiḥ",
+      "field": "gloss",
+      "value": "bold one",
+      "n": "17"
+     }
+    }
+   ]
+  },
+  {
+   "n": "18",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "तुम चिति हो",
+     "problem": "citaḥ is the participle \"piled\", not the noun चिति; English says \"piled\".",
+     "fix": "तुम चिनी हुई हो, ऊपर की ओर चिनी हुई",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "तुम चिति हो, ऊपर की ओर चिनी हुई",
+      "new": "तुम चिनी हुई हो, ऊपर की ओर चिनी हुई",
+      "n": "18"
+     }
+    }
+   ]
+  },
+  {
+   "n": "19",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "शर्म है",
+     "problem": "Same as unit 14 (शर्म = shame).",
+     "fix": "तू आश्रय है",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "तू शर्म है",
+      "new": "तू आश्रय है",
+      "n": "19"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "पर्वत की तुझे पहचाने",
+     "problem": "Subject missing: prati tvā parvatī vettu = \"let Parvatī recognize thee\"; English has \"the mountain one\".",
+     "fix": "पर्वती तुझे पहचाने",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "पर्वत की तुझे पहचाने",
+      "new": "पर्वती तुझे पहचाने",
+      "n": "19"
+     }
+    }
+   ]
+  },
+  {
+   "n": "20",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "महतियों",
+     "problem": "Not standard Hindi for mahīnām (of the great ones, f.).",
+     "fix": "MANUAL: e.g. \"महान (स्त्रीलिंग) जनों का\" without brackets, or \"विशालाओं का\".",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "21",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "I scatter.",
+     "problem": "tvā (\"thee\") and sam (\"together\") of saṃ vapāmi are dropped; the object of the verb is lost in both languages.",
+     "fix": "…hands of Pūṣan, thee I scatter together.",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "I scatter. Together the waters",
+      "new": "thee I scatter together. Together the waters",
+      "n": "21"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "मैं बिखेरता हूँ",
+     "problem": "Same omission.",
+     "fix": "पूषा के हाथों से तुझे मैं साथ-साथ बिखेरता हूँ।",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "पूषा के हाथों से मैं बिखेरता हूँ।",
+      "new": "पूषा के हाथों से तुझे मैं साथ-साथ बिखेरता हूँ।",
+      "n": "21"
+     }
+    }
+   ]
+  },
+  {
+   "n": "22",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "suggest \"viśvāyur uru prathasvoru te yajñapatiḥ prathatāṃ tvacaṃ gṛhṇīṣvāntarikṣāya tvā\"",
+     "problem": "The restoration is recalled from memory and unverified; the draft's own wording (\"as I recall\") is not a basis for a suggestion, and my recollection of the passage differs (…yajñapatiḥ prathatām agniṣ ṭe tvacaṃ mā hiṃsīt, devas tvā…). Do not publish an invented text.",
+     "fix": "MANUAL: reduce the flag to \"text appears to omit a passage between viśvāyuḥ and devas tvā; check the edition\", with no supplied Sanskrit.",
+     "severity": "error"
+    },
+    {
+     "field": "hindi",
+     "where": "सबसे ऊँचे नाक पर",
+     "problem": "Hindi नाक means \"nose\"; nāka = heaven/firmament.",
+     "fix": "सबसे ऊँचे स्वर्ग पर",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "सबसे ऊँचे नाक पर",
+      "new": "सबसे ऊँचे स्वर्ग पर",
+      "n": "22"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "as [fragment] / viśvāyur",
+     "problem": "\"as\" is not a word; \"viśvāyuḥ\" stated m. nom. while the unit is damaged. Translation silently supplies \"Savitṛ cook thee\" without devaḥ. Keep MANUAL; confidence low is right.",
+     "fix": "MANUAL",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "23",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "24",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "I take the performer of the rite for the gods",
+     "problem": "tvā (\"thee\") dropped; adhvarakṛtam is most naturally an epithet of tvā (\"thee, the rite-maker\"), not a separate object.",
+     "fix": "I take thee, the rite-maker, for the gods.",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "I take the performer of the rite for the gods.",
+      "new": "I take thee, the rite-maker, for the gods.",
+      "n": "24"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "मैं देवों के लिए अध्वर करने वाले को लेता हूँ",
+     "problem": "Same.",
+     "fix": "तुझ अध्वर करने वाले को मैं देवों के लिए लेता हूँ।",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "मैं देवों के लिए अध्वर करने वाले को लेता हूँ।",
+      "new": "तुझ अध्वर करने वाले को मैं देवों के लिए लेता हूँ।",
+      "n": "24"
+     }
+    }
+   ]
+  },
+  {
+   "n": "25",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "'go to the fold' is addressed to the clod",
+     "problem": "Imports ritual context not in the line (glossary: do not explain the ritual).",
+     "fix": "delete that sentence",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": " 'go to the fold' is addressed to the clod/earth that is dug up.",
+      "new": "",
+      "n": "25"
+     }
+    }
+   ]
+  },
+  {
+   "n": "26",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "from the earth",
+     "problem": "pṛthivyai is dative (\"for the earth\"); \"from\" is an unsupported reading beside the ablative devayajanāt. Mention in notes as uncertain.",
+     "fix": "Keep, but add to notes: \"pṛthivyai could be 'for the earth'.\"",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "27",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "28",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "29",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "unsharpened (feminine)",
+     "problem": "Bracketed gloss added to English.",
+     "fix": "unsharpened",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": " (feminine)",
+      "new": "",
+      "n": "29"
+     }
+    }
+   ]
+  },
+  {
+   "n": "30",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "तू अदिति की रस्ना है",
+     "problem": "रस्ना is not a word for \"girdle\" (rāsnā); Hindi रसना = tongue.",
+     "fix": "तू अदिति की मेखला है",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "तू अदिति की रस्ना है",
+      "new": "तू अदिति की मेखला है",
+      "n": "30"
+     }
+    }
+   ]
+  },
+  {
+   "n": "31",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "तू शुक्र है",
+     "problem": "शुक्र in Hindi = Venus/semen; śukram = bright.",
+     "fix": "तू उज्ज्वल है",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "तू शुक्र है",
+      "new": "तू उज्ज्वल है",
+      "n": "31"
+     }
+    }
+   ]
+  }
+ ],
+ "summary": "31 units reviewed. 17 errors, 25 minor; 30 machine patches, 12 MANUAL (no patch). No regrouping suggested. Main risks: unit 3 (supvā/kāmadhukṣaḥ misparsed), unit 12 ('gra unexplained), unit 22 (damaged text, invented restoration in flag); Hindi false friends (शर्म, नाक, रस्ना, शुक्र); dropped tvā in units 21 and 24."
+}

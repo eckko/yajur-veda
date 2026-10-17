@@ -1,0 +1,692 @@
+{
+ "units": [
+  {
+   "n": "33",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "सोम कूटने का पत्थर",
+     "problem": "'Soma' is added; grāvan is only the pressing stone (unit has no Soma).",
+     "fix": "कूटने का पत्थर",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "सोम कूटने का पत्थर",
+      "new": "कूटने का पत्थर",
+      "n": "33"
+     }
+    }
+   ]
+  },
+  {
+   "n": "34",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "अपने लम्बे केशों वाले",
+     "problem": "'अपने' (own) is not in the Sanskrit.",
+     "fix": "लम्बे केशों वाले",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "अपने लम्बे केशों वाले",
+      "new": "लम्बे केशों वाले",
+      "n": "34"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "naḥ",
+     "problem": "Gloss 'to us' contradicts translation and note ('our songs').",
+     "fix": "our",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "naḥ",
+      "field": "gloss",
+      "value": "our",
+      "n": "34"
+     }
+    }
+   ]
+  },
+  {
+   "n": "35",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "iddharī",
+     "problem": "'it' (indeed) is dropped in English though Hindi has ही.",
+     "fix": "The two bay horses carry Indra indeed, of unassailed strength, to",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "carry Indra, of unassailed strength,",
+      "new": "carry Indra indeed, of unassailed strength,",
+      "n": "35"
+     }
+    }
+   ]
+  },
+  {
+   "n": "36",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "सब लोकों में",
+     "problem": "bhuvana rendered with लोक, which the glossary fixes for loka.",
+     "fix": "सब भुवनों में",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "सब लोकों में",
+      "new": "सब भुवनों में",
+      "n": "36"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "saṃrarāṇaḥ",
+     "problem": "rarāṇa belongs to √rā 'give'; 'delighting' is not supported by the root and is given as firm. Mark uncertain (e.g. 'bestowing; delighting uncertain').",
+     "fix": "gloss: bestowing (or delighting; uncertain)",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "37",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "enjoying it",
+     "problem": "Object 'it' is not in the text (juṣāṇā has no stated object).",
+     "fix": "enjoying",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "enjoying it",
+      "new": "enjoying",
+      "n": "37"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "bhakṣayāmi",
+     "problem": "'caus.' is wrong: bhakṣ forms a regular 10th-class present, not a causative of a different meaning.",
+     "fix": "1 sg. pres. √bhakṣ (10th class)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "bhakṣayāmi",
+      "field": "gram",
+      "value": "1 sg. pres. √bhakṣ (10th class)",
+      "n": "37"
+     }
+    }
+   ]
+  },
+  {
+   "n": "38",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "39",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "your two jaws",
+     "problem": "'your' is not in the Sanskrit (śipre only).",
+     "fix": "you made the two jaws shake",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "you made your two jaws shake",
+      "new": "you made the two jaws shake",
+      "n": "39"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "camū",
+     "problem": "camū is the Vedic nom./acc. dual of camū; a locative dual would be camvoḥ. 'loc. du.' is not a valid label; the locative sense is an interpretation.",
+     "fix": "f. nom./acc. du. form (read as locative 'in the two cups', uncertain)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "camū",
+      "field": "gram",
+      "value": "f. nom./acc. du. form (read as locative, uncertain)",
+      "n": "39"
+     }
+    }
+   ]
+  },
+  {
+   "n": "40",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "41",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "viśvāya",
+     "problem": "Dative labelled but glossed 'by all'.",
+     "fix": "for all",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "viśvāya",
+      "field": "gloss",
+      "value": "for all",
+      "n": "41"
+     }
+    }
+   ]
+  },
+  {
+   "n": "42",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "token mahyā / tvā",
+     "problem": "Preverb ā is attached to the wrong token: mahyā = mahi + ā, and tvā is just tvā. The draft gives 'mahi' alone for mahyā and 'ā, tvā' for tvā.",
+     "fix": "token ma̱hyā: words mahi (voc.) + ā (preverb); token tvā̭: word tvā only",
+     "severity": "error"
+    }
+   ]
+  },
+  {
+   "n": "43",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "44",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "हमारे शत्रुओं को दूर कर दे",
+     "problem": "'vi jahi' = strike apart; Hindi has no 'strike' (jahi) and does not match English.",
+     "fix": "हमारे शत्रुओं को अलग-अलग मार दे",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "हमारे शत्रुओं को दूर कर दे",
+      "new": "हमारे शत्रुओं को अलग-अलग मार दे",
+      "n": "44"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "abhi-dāsati",
+     "problem": "Root missing; denominative from dāsa.",
+     "fix": "3 sg. pres. denom. (from dāsa)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "abhi-dāsati",
+      "field": "gram",
+      "value": "3 sg. pres. denom. (from dāsa)",
+      "n": "44"
+     }
+    }
+   ]
+  },
+  {
+   "n": "45",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "huvema",
+     "problem": "Wrong root: huvema is from √hū (hve) 'call', not √hu 'sacrifice'.",
+     "fix": "1 pl. opt. mid. √hū (hve)",
+     "severity": "error",
+     "patch": {
+      "op": "word",
+      "match_w": "huvema",
+      "field": "gram",
+      "value": "1 pl. opt. mid. √hū (hve)",
+      "n": "45"
+     }
+    },
+    {
+     "field": "english",
+     "where": "of good work",
+     "problem": "Glossary fixes karma = rite in this Samhita (sādhu-karman).",
+     "fix": "all-beneficent and of good rites",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "all-beneficent and of good work",
+      "new": "all-beneficent and of good rites",
+      "n": "45"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "sādhu-karmā",
+     "problem": "Same: karma = rite.",
+     "fix": "of good rites",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "sādhu-karmā",
+      "field": "gloss",
+      "value": "of good rites",
+      "n": "45"
+     }
+    }
+   ]
+  },
+  {
+   "n": "46",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "बहुत सी प्रजाएँ",
+     "problem": "viś rendered as प्रजा, which is used for prajā (offspring) elsewhere (unit 36).",
+     "fix": "बहुत से जनसमूह झुक गए",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "बहुत सी प्रजाएँ झुक गईं",
+      "new": "बहुत से जनसमूह झुक गए",
+      "n": "46"
+     }
+    }
+   ]
+  },
+  {
+   "n": "47",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "तुझे अग्नि के लिए गायत्र छन्द वाले को",
+     "problem": "Two accusatives (तुझे ... को) make the Hindi ungrammatical and unclear.",
+     "fix": "तू उपयाम से ग्रहण किया गया है; अग्नि के लिए तुझ गायत्र छन्द वाले को मैं ग्रहण करता हूँ; इन्द्र के लिए तुझ त्रिष्टुप् छन्द वाले को मैं ग्रहण करता हूँ; सब देवों के लिए तुझ जगती छन्द वाले को मैं ग्रहण करता हूँ; अनुष्टुप् तेरा अभिगर है।",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "hindi",
+      "value": "तू उपयाम से ग्रहण किया गया है; अग्नि के लिए तुझ गायत्र छन्द वाले को मैं ग्रहण करता हूँ; इन्द्र के लिए तुझ त्रिष्टुप् छन्द वाले को मैं ग्रहण करता हूँ; सब देवों के लिए तुझ जगती छन्द वाले को मैं ग्रहण करता हूँ; अनुष्टुप् तेरा अभिगर है।",
+      "n": "47"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "abhigaraḥ",
+     "problem": "'acclamation' is a guess for an obscure term (notes admit uncertainty); glossary: keep uncertain terms transliterated.",
+     "fix": "abhigara (obscure; sense not fixed)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "abhigaraḥ",
+      "field": "gloss",
+      "value": "abhigara (obscure; sense not fixed)",
+      "n": "47"
+     }
+    }
+   ]
+  },
+  {
+   "n": "48",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "अत्यन्त मधुर वालियों की",
+     "problem": "Garbled Hindi; English is 'of the sweetest ones'.",
+     "fix": "अत्यन्त मधुरों की",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "अत्यन्त मधुर वालियों की",
+      "new": "अत्यन्त मधुरों की",
+      "n": "48"
+     }
+    }
+   ]
+  },
+  {
+   "n": "49",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "kakubham",
+     "problem": "Case: kakubham agrees with rūpam, which is nominative; 'acc.' is inconsistent (neuter nom.=acc., but the clause needs nom.).",
+     "fix": "n. nom. sg. (uncertain)",
+     "severity": "error",
+     "patch": {
+      "op": "word",
+      "match_w": "kakubham",
+      "field": "gram",
+      "value": "n. nom. sg. (uncertain)",
+      "n": "49"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "बृहत् शुक्र शुक्र",
+     "problem": "Glossary: Hindi śukra = उज्ज्वल.",
+     "fix": "बृहत् उज्ज्वल उज्ज्वल का अग्रगामी है",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "बृहत् शुक्र शुक्र का अग्रगामी है",
+      "new": "बृहत् उज्ज्वल उज्ज्वल का अग्रगामी है",
+      "n": "49"
+     }
+    }
+   ]
+  },
+  {
+   "n": "50",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "51",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "52",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "53",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "strike him away",
+     "problem": "First 'tam tam id hatam' loses its 'him, him indeed' (only the second is rendered).",
+     "fix": "strike away him, him indeed; with the thunderbolt strike him, him indeed",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "strike him away; with the thunderbolt strike him, him indeed",
+      "new": "strike away him, him indeed; with the thunderbolt strike him, him indeed",
+      "n": "53"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "उसे दूर मारो",
+     "problem": "Same omission in Hindi.",
+     "fix": "उसे, उसे ही दूर मारो; वज्र से उसे, उसे ही मारो",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "उसे दूर मारो; वज्र से उसे ही मारो, उसे ही मारो",
+      "new": "उसे, उसे ही दूर मारो; वज्र से उसे, उसे ही मारो",
+      "n": "53"
+     }
+    }
+   ]
+  },
+  {
+   "n": "54",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "in the Soma-purchase",
+     "problem": "English translates an obscure term (krayaṇī) as 'purchase' while Hindi keeps सोमक्रयणी; glossary: keep uncertain terms transliterated.",
+     "fix": "in the somakrayaṇī",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "in the Soma-purchase",
+      "new": "in the somakrayaṇī",
+      "n": "54"
+     }
+    }
+   ]
+  },
+  {
+   "n": "55",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "56",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "57",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "Śukra, purified; Śukra, mixed with milk",
+     "problem": "Glossary fixes śukra = bright (Hindi उज्ज्वल); English elsewhere (48, 49) says 'the bright one'.",
+     "fix": "the bright one, purified; the bright one, mixed with milk",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "Śukra, purified; Śukra, mixed with milk",
+      "new": "the bright one, purified; the bright one, mixed with milk",
+      "n": "57"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "शुक्र शुद्ध किया हुआ; शुक्र दूध से मिला हुआ",
+     "problem": "Glossary: Hindi śukra = उज्ज्वल.",
+     "fix": "उज्ज्वल शुद्ध किया हुआ; उज्ज्वल दूध से मिला हुआ",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "शुक्र शुद्ध किया हुआ; शुक्र दूध से मिला हुआ",
+      "new": "उज्ज्वल शुद्ध किया हुआ; उज्ज्वल दूध से मिला हुआ",
+      "n": "57"
+     }
+    }
+   ]
+  },
+  {
+   "n": "58",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "वात लौटा हुआ",
+     "problem": "abhyāvṛtta = turned toward (English), not 'returned'.",
+     "fix": "वात अभिमुख हुआ",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "वात लौटा हुआ",
+      "new": "वात अभिमुख हुआ",
+      "n": "58"
+     }
+    }
+   ]
+  },
+  {
+   "n": "59",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "patyete",
+     "problem": "Wrong root: patyate is a denominative of pati ('be master'), not √pat.",
+     "fix": "3 du. pres. mid. denom. (from pati)",
+     "severity": "error",
+     "patch": {
+      "op": "word",
+      "match_w": "patyete",
+      "field": "gram",
+      "value": "3 du. pres. mid. denom. (from pati)",
+      "n": "59"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "agan",
+     "problem": "'3 pl.' is wrong: agan is the 3 sg. root aorist (3 pl. is agman); unit 60 correctly labels it 3 sg. Here it agrees in form with a dual subject.",
+     "fix": "3 sg. aor. √gam (with dual subject)",
+     "severity": "error",
+     "patch": {
+      "op": "word",
+      "match_w": "agan",
+      "field": "gram",
+      "value": "3 sg. aor. √gam (with dual subject)",
+      "n": "59"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "'agan' (3 pl.)",
+     "problem": "Note repeats the wrong number.",
+     "fix": "'agan' (3 sg. root aorist, standing with a dual subject)",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": "'agan' (3 pl.) is used of the two",
+      "new": "'agan' (3 sg. root aorist) stands with the two as subject",
+      "n": "59"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "लोक थामे गए",
+     "problem": "rajāṃsi ('airy realms' in English) rendered with लोक, the glossary word for loka.",
+     "fix": "अन्तरिक्ष के क्षेत्र थामे गए",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "लोक थामे गए",
+      "new": "अन्तरिक्ष के क्षेत्र थामे गए",
+      "n": "59"
+     }
+    }
+   ]
+  },
+  {
+   "n": "60",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "bha̱draṃma̭bhūt",
+     "problem": "Printed 'bhadraṃm abhūt' has an extra ṃ+m; expected 'bhadram abhūt'. Possibly the edition's own spelling, so hedge it; the draft does not flag it.",
+     "fix": "flag: src bha̱draṃma̭bhūt, suggest bha̱dramabhūt, why: possible: doubled nasal before vowel; Devanagari has the same",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "61",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "62",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "बहुत धन की पुष्टि",
+     "problem": "'mahi' (greatly) is attached to the wealth in Hindi but to 'yield' in English.",
+     "fix": "वह तू मेरे लिए बहुत दुह: प्रजा में धन की पुष्टि",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "वह तू मेरे लिए प्रजा में, बहुत धन की पुष्टि दुह",
+      "new": "वह तू मेरे लिए बहुत दुह: प्रजा में धन की पुष्टि",
+      "n": "62"
+     }
+    }
+   ]
+  },
+  {
+   "n": "63",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "hiraṇya-vat",
+     "problem": "-vat forms are neuter acc. sg. adjectives used adverbially, not indeclinables.",
+     "fix": "n. acc. sg. (adj. in -vat, used adverbially)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "hiraṇya-vat",
+      "field": "gram",
+      "value": "n. acc. sg. (adj. in -vat, used adverbially)",
+      "n": "63"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "aśva-vat",
+     "problem": "-vat forms are neuter acc. sg. adjectives used adverbially, not indeclinables.",
+     "fix": "n. acc. sg. (adj. in -vat, used adverbially)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "aśva-vat",
+      "field": "gram",
+      "value": "n. acc. sg. (adj. in -vat, used adverbially)",
+      "n": "63"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "vīra-vat",
+     "problem": "-vat forms are neuter acc. sg. adjectives used adverbially, not indeclinables.",
+     "fix": "n. acc. sg. (adj. in -vat, used adverbially)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "vīra-vat",
+      "field": "gram",
+      "value": "n. acc. sg. (adj. in -vat, used adverbially)",
+      "n": "63"
+     }
+    }
+   ]
+  }
+ ],
+ "summary": "5 errors, 33 minor. Errors: unit 42 preverb ā attached to tvā instead of mahyā; 45 huvema root √hū; 49 kakubham case; 59 patyete root and agan number. Grouping: agree that prohyamāṇaḥ (56) belongs to the end of 55 and sannaḥ (59) to the end of 58 (name+participle pattern); edition division can stay. Confidence values are honest; no unit needs raising. Glossary fixes applied: karma=rite (45), śukra=उज्ज्वल (49, 57). Suggested glossary additions: bhuvana (भुवन) distinct from loka; rajas = airy realm (अन्तरिक्ष के क्षेत्र); somakrayaṇī, abhigara kept transliterated."
+}

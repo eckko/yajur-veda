@@ -1,0 +1,460 @@
+[
+ {
+  "n": "1",
+  "field": "notes",
+  "old": "vṛṣṇaḥ could also be read as dative or ablative; aṃśubhyām is instrumental dual of aṃśu (shoot), rendered 'with the shoots'. The deva line also prints Latin j.",
+  "new": "vṛṣṇaḥ could also be read as ablative; aṃśubhyām is instrumental dual of aṃśu (shoot), rendered 'with the shoots'. The deva line also prints Latin j.",
+  "why": "reviewer (minor): vṛṣṇaḥ cannot be dative (dative is vṛṣṇe); only gen./abl. sg."
+ },
+ {
+  "n": "2",
+  "field": "hindi",
+  "old": "हमारे लिए मधुर अन्न-रस बनाओ। हे सोम, तुम्हारा जो अविचल जागृत नाम है, उस के लिए, हे सोम, तुम सोम के लिए स्वाहा। स्वाहा। मैं विस्तृत अंतरिक्ष के पीछे-पीछे चलता हूँ।",
+  "new": "हमारे लिए मधुर अन्न-रस बनाओ। हे सोम, तुम्हारा जो अवंचनीय जागृत नाम है, उस के लिए, हे सोम, तुम सोम के लिए स्वाहा। स्वाहा। मैं विस्तृत अंतरिक्ष के पीछे-पीछे चलता हूँ।",
+  "why": "reviewer (minor): adābhya = 'not to be deceived' (English); Hindi अविचल means unshaken"
+ },
+ {
+  "n": "3",
+  "field": "english",
+  "old": "You are the svāṅkṛta, for all the powers, the heavenly and the earthly; may the mind reach you. Svāhā. You, O one of good being, for Sūrya; you for the gods, for the ray-drinkers; the share of the gods; that to which I praise you is true, upariprutā; by breaking he is slain, that one: phaṭ. You for the breath, you for the vyāna.",
+  "new": "You are the svāṅkṛta, for all the powers, the heavenly and the earthly; may the mind reach you. Svāhā. You, O one of good being, for Sūrya; you for the gods, for the ray-drinkers; the share of the gods; that for which I praise you is true, upariprutā; by breaking he is slain, that one: phaṭ. You for the breath, you for the vyāna.",
+  "why": "reviewer (minor): ungrammatical/unclear for yasmai ... tvā īḍe"
+ },
+ {
+  "n": "6",
+  "field": "confidence",
+  "old": "medium",
+  "new": "low",
+  "why": "reviewer (minor): same obscure forms as unit 3 (svāṅkṛta, subhava, manas tvāṣṭu); medium is too firm"
+ },
+ {
+  "n": "7",
+  "field": "word.gram",
+  "word": "ayāmi",
+  "old": "1 sg. aor. pass. ā-√yam",
+  "new": "1 sg. aor. (passive form) upa-√yam",
+  "why": "reviewer (error): prefix is upa (upo), there is no ā; and a passive aorist does not match the active translation 'I have brought'"
+ },
+ {
+  "n": "7",
+  "field": "hindi",
+  "old": "हे वायु, हे पवित्र रस के पीने वाले, हमारे पास आओ; तुम्हारे हज़ार नियुत हैं, हे सब वरणीय धन वाले। हे देव, तुम्हारे लिए मैंने मादक अन्न-रस लाया है, जिसका प्रथम पान तुम धारण करते हो। तुम वायु के लिए।",
+  "new": "हे वायु, हे उज्ज्वल को पीने वाले, हमारे पास आओ; तुम्हारे हज़ार नियुत हैं, हे सब वरणीय धन वाले। हे देव, तुम्हारे लिए मैंने मादक अन्न-रस लाया है, जिसका प्रथम पान तुम धारण करते हो। तुम वायु के लिए।",
+  "why": "reviewer (minor): English says 'drinker of the bright'; Hindi adds रस/पवित्र"
+ },
+ {
+  "n": "8",
+  "field": "hindi",
+  "old": "हे इन्द्र और वायु, ये निचोड़े हुए रस हैं; अन्नों के साथ पास आओ। निश्चय ही ये बूँदें तुम दोनों को चाहती हैं। तुम उपयाम से ग्रहण किए गए हो; वायु के लिए; तुम इन्द्र और वायु दोनों के लिए; यह तुम्हारा योनि है; तुम एक मन वाले दोनों के लिए।",
+  "new": "हे इन्द्र और वायु, ये निचोड़े हुए रस हैं; अन्नों के साथ पास आओ। निश्चय ही ये बूँदें तुम दोनों को चाहती हैं। तुम उपयाम से ग्रहण किए गए हो; वायु के लिए; तुम इन्द्र और वायु दोनों के लिए; यह तुम्हारी योनि है; तुम एक मन वाले दोनों के लिए।",
+  "why": "reviewer (minor): योनि is feminine in Hindi"
+ },
+ {
+  "n": "10",
+  "field": "hindi",
+  "old": "धन से जीतकर हम आनन्दित हों, जैसे देव हव्य से और गौएँ घास से। हे मित्र और वरुण, तुम दोनों उस न लात मारने वाली दुधारू गाय को प्रतिदिन हमें दो। यह तुम्हारा योनि है; तुम ऋतायु दोनों के लिए।",
+  "new": "धन से जीतकर हम आनन्दित हों, जैसे देव हव्य से और गौएँ घास से। हे मित्र और वरुण, तुम दोनों उस न लात मारने वाली दुधारू गाय को प्रतिदिन हमें दो। यह तुम्हारी योनि है; तुम ऋतायु दोनों के लिए।",
+  "why": "reviewer (minor): योनि is feminine in Hindi"
+ },
+ {
+  "n": "11",
+  "field": "hindi",
+  "old": "हे अश्विनो, तुम दोनों की जो मधुर, सूनृता वाली कशा है, उससे यज्ञ को सींचो। तुम उपयाम से ग्रहण किए गए हो; तुम अश्विनों के लिए; यह तुम्हारा योनि है; तुम दो मधुर के लिए।",
+  "new": "हे अश्विनो, तुम दोनों की जो मधुर, सूनृता वाली कशा है, उससे यज्ञ को सींचो। तुम उपयाम से ग्रहण किए गए हो; तुम अश्विनों के लिए; यह तुम्हारी योनि है; तुम दो मधुर के लिए।",
+  "why": "reviewer (minor): योनि is feminine in Hindi"
+ },
+ {
+  "n": "12",
+  "field": "hindi",
+  "old": "उस को, पुराने ढंग से, पहले के ढंग से, सब ढंग से, इस ढंग से; ज्येष्ठता वाले को, बर्हि पर बैठने वाले को, स्वर्ग को पाने वाले को; सामने की ओर मुड़े वृजन को तुम दुहते हो, कँपाने वाले, शीघ्र, जीतते हुए को; जिनमें तुम बढ़ते हो। तुम उपयाम से ग्रहण किए गए हो, शण्ड के लिए; यह तुम्हारा योनि है; वीरता की रक्षा करो; शण्ड पोंछकर हटाया गया; उज्ज्वल को पीने वाले देव तुम्हें आगे ले चलें; तुम अजेय हो।",
+  "new": "उस को, पुराने ढंग से, पहले के ढंग से, सब ढंग से, इस ढंग से; ज्येष्ठता वाले को, बर्हि पर बैठने वाले को, स्वर्ग को पाने वाले को; सामने की ओर मुड़े वृजन को तुम दुहते हो, कँपाने वाले, शीघ्र, जीतते हुए को; जिनमें तुम बढ़ते हो। तुम उपयाम से ग्रहण किए गए हो, शण्ड के लिए; यह तुम्हारी योनि है; वीरता की रक्षा करो; शण्ड पोंछकर हटाया गया; उज्ज्वल को पीने वाले देव तुम्हें आगे ले चलें; तुम अजेय हो।",
+  "why": "reviewer (minor): योनि is feminine in Hindi"
+ },
+ {
+  "n": "12",
+  "field": "english",
+  "old": "Him, in the old way, in the former way, in every way, in this way; the one of supremacy, seated on the barhis, finding heaven; the vṛjana turned towards us, you milk, the shaker, the swift, the conqueror, along those in which you grow. You are taken up with the upayāma, for Śaṇḍa; this is your womb; protect valour; Śaṇḍa is wiped away; may the gods, drinkers of the bright, lead you forth; you are unassailable.",
+  "new": "Him, in the old way, in the former way, in every way, in this way; the one of supremacy, seated on the barhis, finding heaven; the vṛjana turned towards, you milk, the shaker, the swift, the conqueror, along those in which you grow. You are taken up with the upayāma, for Śaṇḍa; this is your womb; protect valour; Śaṇḍa is wiped away; may the gods, drinkers of the bright, lead you forth; you are unassailable.",
+  "why": "reviewer (error): 'us' is an unsupported addition (notes admit it is an assumption)"
+ },
+ {
+  "n": "12",
+  "field": "word.gram",
+  "word": "jyeṣṭha-tātim",
+  "old": "f. acc. sg.",
+  "new": "m. acc. sg. (adj.)",
+  "why": "reviewer (minor): jyeṣṭhatāti agrees with taṃ (m. acc.), 'f. acc.' is wrong; gloss 'supremacy' vs Hindi 'ज्येष्ठता वाले को' disagree"
+ },
+ {
+  "n": "13",
+  "field": "word.gram",
+  "word": "śukra-śociṣā",
+  "old": "f. inst. sg.",
+  "new": "karmadhāraya, n. inst. sg.",
+  "why": "reviewer (minor): śocis is neuter, not f."
+ },
+ {
+  "n": "15",
+  "field": "english",
+  "old": "He, the first, Bṛhaspati, the knowing one: to that Indra pour the pressed Soma. Svāhā. May the oblations be satisfied with the mead, those that are well offered, well pleased, well sacrificed; which the Āgnīdhra offered with svāhā.",
+  "new": "He, the first, Bṛhaspati, the knowing one: to that Indra pour the pressed Soma. Svāhā. May the oblations be satisfied with the mead, those that are well sacrificed, well pleased, well offered; which the Āgnīdhra offered with svāhā.",
+  "why": "reviewer (minor): sviṣṭāḥ is 'well sacrificed' and suhutāḥ 'well offered'; the order is swapped (and gloss of sviṣṭāḥ)"
+ },
+ {
+  "n": "15",
+  "field": "hindi",
+  "old": "वह प्रथम बृहस्पति, जानने वाला; उस इन्द्र के लिए निचोड़ा हुआ रस आहुति दो। स्वाहा। वे आहुतियाँ मधु से तृप्त हों, जो सुयज्ञ, सुप्रसन्न और सुहुत हुईं; जिसे आग्नीध्र ने स्वाहा के साथ यज्ञ किया।",
+  "new": "वह प्रथम बृहस्पति, जानने वाला; उस इन्द्र के लिए निचोड़ा हुआ रस आहुति दो। स्वाहा। वे आहुतियाँ मधु से तृप्त हों, जो भली-भाँति यज्ञ की गईं, भली-भाँति प्रसन्न हुईं और भली-भाँति आहुत हुईं; जिसे आग्नीध्र ने स्वाहा के साथ यज्ञ किया।",
+  "why": "reviewer (minor): सुयज्ञ does not render sviṣṭāḥ"
+ },
+ {
+  "n": "15",
+  "field": "word.gloss",
+  "word": "sviṣṭāḥ",
+  "old": "well offered",
+  "new": "well sacrificed",
+  "why": "reviewer (minor): gloss 'well offered' duplicates suhutāḥ"
+ },
+ {
+  "n": "16",
+  "field": "word.gram",
+  "word": "jyotiḥ-jarāyū",
+  "old": "tat-puruṣa, m. nom. du.",
+  "new": "tat-puruṣa, case/number uncertain (apposition to pṛśnigarbhāḥ?)",
+  "why": "reviewer (minor): 'm. nom. du.' contradicts the English, which uses it as an appositive of the object 'those who have Pṛśni as womb'"
+ },
+ {
+  "n": "16",
+  "field": "hindi",
+  "old": "इस वेन ने पृश्नि को गर्भ-स्थान मानने वालों को प्रेरित किया; ज्योति का आवरण, रजस् के विस्तार में। इसे जलों के संगम पर, सूर्य के संगम पर, प्रेरित जन मतियों से शिशु की तरह चाटते और दुलारते हैं। तुम उपयाम से ग्रहण किए गए हो; तुम मर्क के लिए।",
+  "new": "इस वेन ने पृश्नि को गर्भ-स्थान मानने वालों को प्रेरित किया; ज्योति का आवरण, रजस् के विस्तार में। इसे जलों और सूर्य के संगम पर, प्रेरित जन मतियों से शिशु की तरह दुलारते हैं। तुम उपयाम से ग्रहण किए गए हो; तुम मर्क के लिए।",
+  "why": "reviewer (minor): Hindi makes two meetings; English (and the text apāṃ saṃgame sūryasya) one; also चाटते और दुलारते adds a sense beyond English 'caress'"
+ },
+ {
+  "n": "17",
+  "field": "hindi",
+  "old": "जिन आह्वानों में, मन की तरह तीक्ष्ण, विपः को तुम दोनों दौड़ते हुए कौशल से जीतते हो। जो बाणों से महान पौरुष वाला है, उसके हाथ में आदिश को मिलाया। यह तुम्हारा योनि है; प्रजाओं की रक्षा करो। मर्क पोंछकर हटाया गया; मन्थी को पीने वाले देव तुम्हें आगे ले चलें; तुम अजेय हो।",
+  "new": "जिन आह्वानों में, मन की तरह तीक्ष्ण, विपः को तुम दोनों दौड़ते हुए कौशल से जीतते हो। जो बाणों से महान पौरुष वाला है, उसके हाथ में आदिश को मिलाया। यह तुम्हारी योनि है; प्रजाओं की रक्षा करो। मर्क पोंछकर हटाया गया; मन्थी को पीने वाले देव तुम्हें आगे ले चलें; तुम अजेय हो।",
+  "why": "reviewer (minor): योनि is feminine in Hindi"
+ },
+ {
+  "n": "17",
+  "field": "word.gram",
+  "word": "yeṣu",
+  "old": "m. loc. pl.",
+  "new": "n. loc. pl.",
+  "why": "reviewer (minor): yeṣu qualifies havaneṣu (n.)"
+ },
+ {
+  "n": "18",
+  "field": "word.gram",
+  "word": "manthi-śociṣā",
+  "old": "tat-puruṣa, f. inst. sg.",
+  "new": "tat-puruṣa, n. inst. sg.",
+  "why": "reviewer (minor): śocis is neuter, not f."
+ },
+ {
+  "n": "20",
+  "field": "english",
+  "old": "You are taken up with the upayāma; you are the āgrayaṇa, the good āgrayaṇa. Protect the sacrifice, protect the lord of the sacrifice; may Viṣṇu protect you with power; you protect Viṣṇu; protect at the pressings.",
+  "new": "You are taken up with the upayāma; you are the āgrayaṇa, the good āgrayaṇa. Protect the sacrifice, protect the lord of the sacrifice; may Viṣṇu protect you with power; you protect Viṣṇu; protect the pressings.",
+  "why": "reviewer (minor): Hindi says 'सवनों की रक्षा करो' (protect the pressings); English differs; abhi + acc. not 'at'"
+ },
+ {
+  "n": "21",
+  "field": "hindi",
+  "old": "सोम शुद्ध बहता है; सोम इस ब्रह्म के लिए, इस क्षत्र के लिए, इस निचोड़ने वाले यजमान के लिए शुद्ध बहता है, अन्न और बल के लिए। जलों के लिए, ओषधियों के लिए शुद्ध बहता है; द्यावापृथिवी के लिए शुद्ध बहता है; सुभूत के लिए शुद्ध बहता है; तुम सब देवों के लिए। यह तुम्हारा योनि है; तुम सब देवों के लिए।",
+  "new": "सोम शुद्ध बहता है; सोम इस ब्रह्म के लिए, इस क्षत्र के लिए, इस निचोड़ने वाले यजमान के लिए शुद्ध बहता है, अन्न और बल के लिए। जलों के लिए, ओषधियों के लिए शुद्ध बहता है; द्यावापृथिवी के लिए शुद्ध बहता है; सुभूत के लिए शुद्ध बहता है; तुम सब देवों के लिए। यह तुम्हारी योनि है; तुम सब देवों के लिए।",
+  "why": "reviewer (minor): योनि is feminine in Hindi"
+ },
+ {
+  "n": "21",
+  "field": "hindi",
+  "old": "सोम शुद्ध बहता है; सोम इस ब्रह्म के लिए, इस क्षत्र के लिए, इस निचोड़ने वाले यजमान के लिए शुद्ध बहता है, अन्न और बल के लिए। जलों के लिए, ओषधियों के लिए शुद्ध बहता है; द्यावापृथिवी के लिए शुद्ध बहता है; सुभूत के लिए शुद्ध बहता है; तुम सब देवों के लिए। यह तुम्हारी योनि है; तुम सब देवों के लिए।",
+  "new": "सोम शुद्ध बहता है; सोम इस ब्रह्म के लिए, इस क्षत्र के लिए, इस निचोड़ने वाले यजमान के लिए शुद्ध बहता है, अन्न और बल के लिए। जलों के लिए, ओषधियों के लिए शुद्ध बहता है; द्यावापृथिवी के लिए शुद्ध बहता है; कल्याण के लिए शुद्ध बहता है; तुम सब देवों के लिए। यह तुम्हारी योनि है; तुम सब देवों के लिए।",
+  "why": "reviewer (minor): English 'well-being'; Hindi leaves it as an unexplained transliteration"
+ },
+ {
+  "n": "22",
+  "field": "hindi",
+  "old": "तुम उपयाम से ग्रहण किए गए हो। बृहत् वाले, बल वाले इन्द्र के लिए, उक्थ की रक्षा करने वाले तुम्हें मैं ग्रहण करता हूँ। हे इन्द्र, तुम्हारा जो बृहद् बल है, उसके लिए, तुम विष्णु के लिए; यह तुम्हारा योनि है; तुम उक्थों के लिए; तुम देवों के लिए; यज्ञ की आयु के लिए देवों की रक्षा करने वाले तुम्हें मैं ग्रहण करता हूँ।",
+  "new": "तुम उपयाम से ग्रहण किए गए हो। बृहत् वाले, बल वाले इन्द्र के लिए, उक्थ की रक्षा करने वाले तुम्हें मैं ग्रहण करता हूँ। हे इन्द्र, तुम्हारा जो बृहद् बल है, उसके लिए, तुम विष्णु के लिए; यह तुम्हारी योनि है; तुम उक्थों के लिए; तुम देवों के लिए; यज्ञ की आयु के लिए देवों की रक्षा करने वाले तुम्हें मैं ग्रहण करता हूँ।",
+  "why": "reviewer (minor): योनि is feminine in Hindi"
+ },
+ {
+  "n": "23",
+  "field": "english",
+  "old": "You, protector of the gods, for Mitra and Varuṇa I take, for the life of the sacrifice; you, protector of the gods, for Indra I take, for the life of the sacrifice; for Indra and Agni; for Indra and Varuṇa; for Indra and Bṛhaspati; for Indra and Viṣṇu: in each case you, protector of the gods, I take for the life of the sacrifice.",
+  "new": "You, protector of the gods, for Mitra and Varuṇa I take, for the life of the sacrifice; you, protector of the gods, for Indra I take, for the life of the sacrifice; you, protector of the gods, for Indra and Agni I take, for the life of the sacrifice; you, protector of the gods, for Indra and Varuṇa I take, for the life of the sacrifice; you, protector of the gods, for Indra and Bṛhaspati I take, for the life of the sacrifice; you, protector of the gods, for Indra and Viṣṇu I take, for the life of the sacrifice.",
+  "why": "reviewer (minor): English abbreviates the six repetitions (brief: nothing dropped; Hindi gives all six)"
+ },
+ {
+  "n": "24",
+  "field": "hindi",
+  "old": "द्यौ के सिर को, पृथ्वी के परिचारक को, ऋत में उत्पन्न वैश्वानर अग्नि को, कवि, सम्राट, जनों के अतिथि को, मुख में पात्र की तरह, देवों ने उत्पन्न किया।",
+  "new": "द्यौ के सिर को, पृथ्वी के परिचारक को, ऋत में उत्पन्न वैश्वानर अग्नि को, कवि, सम्राट, जनों के अतिथि को, मुख में पात्र को, देवों ने उत्पन्न किया।",
+  "why": "reviewer (minor): 'की तरह' (like) is not in the text; English says 'a vessel at the mouth'"
+ },
+ {
+  "n": "25",
+  "field": "hindi",
+  "old": "तुम उपयाम से ग्रहण किए गए हो; तुम स्थिर हो, स्थिर निवास वाले, स्थिरों में सबसे स्थिर, हे अटलों में सबसे अटल निवासी। यह तुम्हारा योनि है; तुम वैश्वानर के लिए। मैं स्थिर मन और वाणी से सोम को स्थिर रूप से नीचे लाता हूँ। तब इन्द्र हमारे कुलों को शत्रुरहित और एक मन वाला करे।",
+  "new": "तुम उपयाम से ग्रहण किए गए हो; तुम स्थिर हो, स्थिर निवास वाले, स्थिरों में सबसे स्थिर, हे अटलों में सबसे अटल निवासी। यह तुम्हारी योनि है; तुम वैश्वानर के लिए। मैं स्थिर मन और वाणी से सोम को स्थिर रूप से नीचे लाता हूँ। तब इन्द्र हमारे कुलों को शत्रुरहित और एक मन वाला करे।",
+  "why": "reviewer (minor): योनि is feminine in Hindi"
+ },
+ {
+  "n": "26",
+  "field": "english",
+  "old": "The drop of yours that spills, the shoot of yours fallen from the pressing stone from the lap of the two dhiṣaṇā, or from the adhvaryu, or whatever from the strainer: that, vaṣaṭ-made, I offer to you with the mind. Svāhā. You are the stepping up of the gods.",
+  "new": "The drop of yours that spills, the shoot of yours fallen from the pressing stone from the lap of the two dhiṣaṇā, or from the adhvaryu, or round about, whatever from the strainer (pari uncertain): that, vaṣaṭ-made, I offer to you with the mind. Svāhā. You are the stepping up of the gods.",
+  "why": "reviewer (minor): 'pari vā' is dropped in both English and Hindi although the notes discuss it"
+ },
+ {
+  "n": "30",
+  "field": "notes",
+  "old": "A litany of names (Madhu, Mādhava, Śukra, Śuci, Nabhas, Nabhasya, Iṣa, Ūrja, Sahas, Sahasya, Tapas, Tapasya); the line does not say what they are, so none is identified. iṣe/ūrje are dative forms ('for refreshment, for strength') and are left as names for consistency with the list. 'aṃhasaspataye' is read aṃhasaḥ-pataye (printed form); aṃhas = distress, narrowness. The word 'tvā' of each repeated clause comes first in the token (tvopayāmagṛhīto'si = tvā upayāmagṛhītaḥ asi).",
+  "new": "A litany of names (Madhu, Mādhava, Śukra, Śuci, Nabhas, Nabhasya, Iṣa, Ūrja, Sahas, Sahasya, Tapas, Tapasya); the line does not say what they are, so none is identified. iṣe/ūrje are dative forms ('for refreshment, for strength') and are left as names for consistency with the list. 'aṃhasaspataye' is read aṃhasaḥ-pataye (printed form); aṃhas = distress, narrowness. The word 'tvā' of each repeated clause comes first in the token (tvopayāmagṛhīto'si = tvā upayāmagṛhītaḥ asi). Reviewer: iṣe and ūrje may also be plain datives 'for refreshment, for strength'; the names reading is only for list consistency (uncertain).",
+  "why": "reviewer (minor): notes contradict themselves (says dative forms meaning 'for refreshment, for strength' but keeps names Iṣa, Ūrja); aṃhasas is also an assumed reading of 'aṃhasaspataye'"
+ },
+ {
+  "n": "31",
+  "field": "hindi",
+  "old": "हे इन्द्र और अग्नि, निचोड़े हुए सोम के पास स्तुतियों के साथ आओ, नभस् के वरणीय को। इसका पान करो, बुद्धि से प्रेरित होकर। तुम उपयाम से ग्रहण किए गए हो; तुम इन्द्र और अग्नि के लिए; यह तुम्हारा योनि है; तुम इन्द्र और अग्नि के लिए।",
+  "new": "हे इन्द्र और अग्नि, निचोड़े हुए सोम के पास स्तुतियों के साथ आओ, नभस् के वरणीय को। इसका पान करो, बुद्धि से प्रेरित होकर। तुम उपयाम से ग्रहण किए गए हो; तुम इन्द्र और अग्नि के लिए; यह तुम्हारी योनि है; तुम इन्द्र और अग्नि के लिए।",
+  "why": "reviewer (minor): योनि is feminine in Hindi"
+ },
+ {
+  "n": "31",
+  "field": "english",
+  "old": "O Indra and Agni, come with songs to the pressed Soma, the desirable nabhas. Drink of this, impelled by thought. You are taken up with the upayāma; you for Indra and Agni; this is your womb; you for Indra and Agni.",
+  "new": "O Indra and Agni, come with songs to the pressed Soma, the desirable nabhas. Drink of this, impelled by insight. You are taken up with the upayāma; you for Indra and Agni; this is your womb; you for Indra and Agni.",
+  "why": "reviewer (error): glossary: dhī = insight (धी)"
+ },
+ {
+  "n": "31",
+  "field": "hindi",
+  "old": "हे इन्द्र और अग्नि, निचोड़े हुए सोम के पास स्तुतियों के साथ आओ, नभस् के वरणीय को। इसका पान करो, बुद्धि से प्रेरित होकर। तुम उपयाम से ग्रहण किए गए हो; तुम इन्द्र और अग्नि के लिए; यह तुम्हारी योनि है; तुम इन्द्र और अग्नि के लिए।",
+  "new": "हे इन्द्र और अग्नि, निचोड़े हुए सोम के पास स्तुतियों के साथ आओ, नभस् के वरणीय को। इसका पान करो, धी से प्रेरित होकर। तुम उपयाम से ग्रहण किए गए हो; तुम इन्द्र और अग्नि के लिए; यह तुम्हारी योनि है; तुम इन्द्र और अग्नि के लिए।",
+  "why": "reviewer (error): glossary: dhī = धी"
+ },
+ {
+  "n": "31",
+  "field": "word.gloss",
+  "word": "dhiyā",
+  "old": "with thought",
+  "new": "with insight",
+  "why": "reviewer (error): gloss 'with thought' contradicts glossary"
+ },
+ {
+  "n": "31",
+  "field": "hindi",
+  "old": "हे इन्द्र और अग्नि, निचोड़े हुए सोम के पास स्तुतियों के साथ आओ, नभस् के वरणीय को। इसका पान करो, धी से प्रेरित होकर। तुम उपयाम से ग्रहण किए गए हो; तुम इन्द्र और अग्नि के लिए; यह तुम्हारी योनि है; तुम इन्द्र और अग्नि के लिए।",
+  "new": "हे इन्द्र और अग्नि, निचोड़े हुए सोम के पास स्तुतियों के साथ आओ, वरणीय नभस् को। इसका पान करो, धी से प्रेरित होकर। तुम उपयाम से ग्रहण किए गए हो; तुम इन्द्र और अग्नि के लिए; यह तुम्हारी योनि है; तुम इन्द्र और अग्नि के लिए।",
+  "why": "reviewer (minor): Hindi turns nabhas into a genitive; English 'the desirable nabhas'"
+ },
+ {
+  "n": "32",
+  "field": "hindi",
+  "old": "जो अग्नि को प्रज्वलित करते हैं और क्रम से बर्हि बिछाते हैं, जिनका सखा युवा इन्द्र है। तुम उपयाम से ग्रहण किए गए हो; तुम अग्नि और इन्द्र के लिए; यह तुम्हारा योनि है; तुम अग्नि और इन्द्र के लिए।",
+  "new": "जो अग्नि को प्रज्वलित करते हैं और क्रम से बर्हि बिछाते हैं, जिनका सखा युवा इन्द्र है। तुम उपयाम से ग्रहण किए गए हो; तुम अग्नि और इन्द्र के लिए; यह तुम्हारी योनि है; तुम अग्नि और इन्द्र के लिए।",
+  "why": "reviewer (minor): योनि is feminine in Hindi"
+ },
+ {
+  "n": "33",
+  "field": "hindi",
+  "old": "हे सहायको, जनों को धारण करने वालो, सब देवो, आओ; देने वालो, दाता के निचोड़े हुए सोम के पास। तुम उपयाम से ग्रहण किए गए हो; तुम सब देवों के लिए; यह तुम्हारा योनि है; तुम सब देवों के लिए।",
+  "new": "हे सहायको, जनों को धारण करने वालो, सब देवो, आओ; देने वालो, दाता के निचोड़े हुए सोम के पास। तुम उपयाम से ग्रहण किए गए हो; तुम सब देवों के लिए; यह तुम्हारी योनि है; तुम सब देवों के लिए।",
+  "why": "reviewer (minor): योनि is feminine in Hindi"
+ },
+ {
+  "n": "34",
+  "field": "hindi",
+  "old": "सब देवो, आओ; मेरी इस पुकार को सुनो; इस बर्हि पर आकर बैठो। तुम उपयाम से ग्रहण किए गए हो; तुम सब देवों के लिए; यह तुम्हारा योनि है; तुम सब देवों के लिए।",
+  "new": "सब देवो, आओ; मेरी इस पुकार को सुनो; इस बर्हि पर आकर बैठो। तुम उपयाम से ग्रहण किए गए हो; तुम सब देवों के लिए; यह तुम्हारी योनि है; तुम सब देवों के लिए।",
+  "why": "reviewer (minor): योनि is feminine in Hindi"
+ },
+ {
+  "n": "35",
+  "field": "hindi",
+  "old": "हे इन्द्र, हे मरुतों वाले, यहाँ सोम पिओ, जैसे शार्यात में तुमने निचोड़े हुए का पान किया। तुम्हारे मार्गदर्शन में, तुम्हारे आश्रय में, हे शूर, सुयज्ञ करने वाले कवि तुम्हारी सेवा करते हैं। तुम उपयाम से ग्रहण किए गए हो; तुम मरुतों वाले इन्द्र के लिए; यह तुम्हारा योनि है; तुम मरुतों वाले इन्द्र के लिए।",
+  "new": "हे इन्द्र, हे मरुतों वाले, यहाँ सोम पिओ, जैसे शार्यात में तुमने निचोड़े हुए का पान किया। तुम्हारे मार्गदर्शन में, तुम्हारे आश्रय में, हे शूर, सुयज्ञ करने वाले कवि तुम्हारी सेवा करते हैं। तुम उपयाम से ग्रहण किए गए हो; तुम मरुतों वाले इन्द्र के लिए; यह तुम्हारी योनि है; तुम मरुतों वाले इन्द्र के लिए।",
+  "why": "reviewer (minor): योनि is feminine in Hindi"
+ },
+ {
+  "n": "36",
+  "field": "hindi",
+  "old": "मरुतों वाले, वृषभ, बढ़े हुए, कंजूसी न करने वाले, दिव्य शासक इन्द्र को; सर्वविजयी, उग्र, बल देने वाले को नई सहायता के लिए यहाँ हम पुकारें। तुम उपयाम से ग्रहण किए गए हो; तुम मरुतों वाले इन्द्र के लिए; यह तुम्हारा योनि है; तुम मरुतों वाले इन्द्र के लिए। तुम उपयाम से ग्रहण किए गए हो; तुम मरुतों के ओज के लिए।",
+  "new": "मरुतों वाले, वृषभ, बढ़े हुए, कंजूसी न करने वाले, दिव्य शासक इन्द्र को; सर्वविजयी, उग्र, बल देने वाले को नई सहायता के लिए यहाँ हम पुकारें। तुम उपयाम से ग्रहण किए गए हो; तुम मरुतों वाले इन्द्र के लिए; यह तुम्हारी योनि है; तुम मरुतों वाले इन्द्र के लिए। तुम उपयाम से ग्रहण किए गए हो; तुम मरुतों के ओज के लिए।",
+  "why": "reviewer (minor): योनि is feminine in Hindi"
+ },
+ {
+  "n": "37",
+  "field": "hindi",
+  "old": "हे इन्द्र, मरुतों के साथ, अपने गण के साथ, एक मन होकर सोम पिओ, हे वृत्र को मारने वाले, हे शूर, जानने वाले। शत्रुओं को मारो, अत्याचारियों को दूर हटाओ, फिर चारों ओर से हमारे लिए अभय करो। तुम उपयाम से ग्रहण किए गए हो; तुम मरुतों वाले इन्द्र के लिए; यह तुम्हारा योनि है; तुम मरुतों वाले इन्द्र के लिए।",
+  "new": "हे इन्द्र, मरुतों के साथ, अपने गण के साथ, एक मन होकर सोम पिओ, हे वृत्र को मारने वाले, हे शूर, जानने वाले। शत्रुओं को मारो, अत्याचारियों को दूर हटाओ, फिर चारों ओर से हमारे लिए अभय करो। तुम उपयाम से ग्रहण किए गए हो; तुम मरुतों वाले इन्द्र के लिए; यह तुम्हारी योनि है; तुम मरुतों वाले इन्द्र के लिए।",
+  "why": "reviewer (minor): योनि is feminine in Hindi"
+ },
+ {
+  "n": "37",
+  "field": "hindi",
+  "old": "हे इन्द्र, मरुतों के साथ, अपने गण के साथ, एक मन होकर सोम पिओ, हे वृत्र को मारने वाले, हे शूर, जानने वाले। शत्रुओं को मारो, अत्याचारियों को दूर हटाओ, फिर चारों ओर से हमारे लिए अभय करो। तुम उपयाम से ग्रहण किए गए हो; तुम मरुतों वाले इन्द्र के लिए; यह तुम्हारी योनि है; तुम मरुतों वाले इन्द्र के लिए।",
+  "new": "हे इन्द्र, मरुतों के साथ, अपने गण के साथ, एक मन होकर सोम पिओ, हे वृत्र को मारने वाले, हे शूर, जानने वाले। शत्रुओं को मारो, विरोधियों को दूर हटाओ, फिर चारों ओर से हमारे लिए अभय करो। तुम उपयाम से ग्रहण किए गए हो; तुम मरुतों वाले इन्द्र के लिए; यह तुम्हारी योनि है; तुम मरुतों वाले इन्द्र के लिए।",
+  "why": "reviewer (minor): mṛdhaḥ = foes (English); अत्याचारी adds 'oppressors'"
+ },
+ {
+  "n": "38",
+  "field": "hindi",
+  "old": "हे इन्द्र, मरुतों वाले वृषभ, रण के लिए, मद के लिए अपनी इच्छा के अनुसार सोम पिओ। पेट में मधु की लहर डालो; तुम राजा हो, निचोड़े हुओं में प्रथम ग्रहण करने वाले। तुम उपयाम से ग्रहण किए गए हो; तुम मरुतों वाले इन्द्र के लिए। यह तुम्हारा योनि है; तुम मरुतों वाले इन्द्र के लिए।",
+  "new": "हे इन्द्र, मरुतों वाले वृषभ, रण के लिए, मद के लिए अपनी इच्छा के अनुसार सोम पिओ। पेट में मधु की लहर डालो; तुम राजा हो, निचोड़े हुओं में प्रथम ग्रहण करने वाले। तुम उपयाम से ग्रहण किए गए हो; तुम मरुतों वाले इन्द्र के लिए। यह तुम्हारी योनि है; तुम मरुतों वाले इन्द्र के लिए।",
+  "why": "reviewer (minor): योनि is feminine in Hindi"
+ },
+ {
+  "n": "39",
+  "field": "hindi",
+  "old": "महान इन्द्र, पुरुष की तरह, जनों को भरने वाला और दुगुने बल वाला, अपनी शक्तियों से असीम, हमारी ओर मुड़कर वीर्य के लिए बढ़ा है; विशाल, विस्तृत, कर्ताओं द्वारा सुनिर्मित वह हुआ। तुम उपयाम से ग्रहण किए गए हो; तुम महेन्द्र के लिए; यह तुम्हारा योनि है; तुम महेन्द्र के लिए।",
+  "new": "महान इन्द्र, पुरुष की तरह, जनों को भरने वाला और दुगुने बल वाला, अपनी शक्तियों से असीम, हमारी ओर मुड़कर वीर्य के लिए बढ़ा है; विशाल, विस्तृत, कर्ताओं द्वारा सुनिर्मित वह हुआ। तुम उपयाम से ग्रहण किए गए हो; तुम महेन्द्र के लिए; यह तुम्हारी योनि है; तुम महेन्द्र के लिए।",
+  "why": "reviewer (minor): योनि is feminine in Hindi"
+ },
+ {
+  "n": "40",
+  "field": "hindi",
+  "old": "महान इन्द्र, जो बल से वृष्टि वाले पर्जन्य के समान है, वत्स के स्तोत्रों से बढ़ा है। तुम उपयाम से ग्रहण किए गए हो; तुम महेन्द्र के लिए; यह तुम्हारा योनि है; तुम महेन्द्र के लिए।",
+  "new": "महान इन्द्र, जो बल से वृष्टि वाले पर्जन्य के समान है, वत्स के स्तोत्रों से बढ़ा है। तुम उपयाम से ग्रहण किए गए हो; तुम महेन्द्र के लिए; यह तुम्हारी योनि है; तुम महेन्द्र के लिए।",
+  "why": "reviewer (minor): योनि is feminine in Hindi"
+ },
+ {
+  "n": "41",
+  "field": "notes",
+  "old": "'ketavaḥ' could be 'rays' or 'banners, signs'. 'jātavedasam' is kept as the name Jātavedas; the line does not identify him further, and 'sūryam' is read as the object of 'dṛśe' (to see Sūrya).",
+  "new": "'ketavaḥ' could be 'rays' or 'banners, signs'. 'jātavedasam' is kept as the name Jātavedas; the line does not identify him further, and 'sūryam' is read as the object of 'dṛśe' (to see Sūrya). Reviewer: sūryam is better taken as object of vahanti in apposition to jātavedasaṃ devam; dṛśe viśvāya = for all to see.",
+  "why": "reviewer (minor): dṛśe is a dative infinitive taking no object like that; sūryam is more naturally object of vahanti (the rays carry Sūrya/Jātavedas up). Hindi/English order leaves it ambiguous"
+ },
+ {
+  "n": "42",
+  "field": "english",
+  "old": "The bright face of the gods has risen, the eye of Mitra, Varuṇa and Agni. He has filled heaven and earth and the mid-space; Sūrya is the self of what moves and what stands. Svāhā.",
+  "new": "The bright face of the gods has risen, the eye of Mitra, Varuṇa and Agni. Sūrya, the self of what moves and what stands, has filled heaven and earth and the mid-space. Svāhā.",
+  "why": "reviewer (error): Sūrya is the subject of āprāḥ (sūrya ātmā ... in one clause); the draft invents 'He' and a copula 'is'"
+ },
+ {
+  "n": "42",
+  "field": "hindi",
+  "old": "देवों का चित्र-विचित्र अग्रभाग ऊपर उठा है, मित्र, वरुण और अग्नि का नेत्र। उसने द्यावापृथिवी और अंतरिक्ष को भर दिया; सूर्य चलने वाले और स्थिर रहने वाले का आत्मा है। स्वाहा।",
+  "new": "देवों का चित्र-विचित्र अग्रभाग ऊपर उठा है, मित्र, वरुण और अग्नि का नेत्र। सूर्य ने, जो चलने वाले और स्थिर रहने वाले का आत्मा है, द्यावापृथिवी और अंतरिक्ष को भर दिया। स्वाहा।",
+  "why": "reviewer (error): same invented subject 'उसने' and copula"
+ },
+ {
+  "n": "44",
+  "field": "english",
+  "old": "May this Agni make wide space for us; may this one go ahead, breaking the foes. May this one win the prizes in the winning of prizes; may this one, thrilled, conquer the enemies. Svāhā.",
+  "new": "May this Agni make wide space for us; may this one go ahead, breaking the foes. May this one win strength in the winning of strength; may this one, thrilled, conquer the enemies. Svāhā.",
+  "why": "reviewer (error): glossary: vāja = strength; 'prizes' contradicts it; Hindi has 'संग्राम में बलों' (battle)"
+ },
+ {
+  "n": "44",
+  "field": "hindi",
+  "old": "यह अग्नि हमारे लिए विस्तृत स्थान बनाए; यह शत्रुओं को तोड़ता हुआ आगे चले। यह संग्राम में बलों को जीते; यह उत्साह से भरा शत्रुओं को जीते। स्वाहा।",
+  "new": "यह अग्नि हमारे लिए विस्तृत स्थान बनाए; यह शत्रुओं को तोड़ता हुआ आगे चले। यह बल की प्राप्ति में बल को जीते; यह उत्साह से भरा शत्रुओं को जीते। स्वाहा।",
+  "why": "reviewer (error): vājasātau is 'in the winning of strength', not 'संग्राम'"
+ },
+ {
+  "n": "44",
+  "field": "word.gloss",
+  "word": "vājān",
+  "old": "prizes, strength",
+  "new": "strength",
+  "why": "reviewer (minor): gloss 'prizes, strength' → strength"
+ },
+ {
+  "n": "44",
+  "field": "word.gloss",
+  "word": "vāja-sātau",
+  "old": "in the winning of prizes",
+  "new": "in the winning of strength",
+  "why": "reviewer (minor): gloss 'in the winning of prizes'"
+ },
+ {
+  "n": "3",
+  "field": "split",
+  "old": "deva-aṃśaḥ",
+  "new": "deva-aṃśubhyaḥ (suggested)",
+  "manual": true
+ },
+ {
+  "n": "3",
+  "field": "english",
+  "old": "; the share of the gods;",
+  "new": "; for the divine rays;",
+  "manual": true
+ },
+ {
+  "n": "3",
+  "field": "hindi",
+  "old": "देवों का अंश;",
+  "new": "दिव्य किरणों के लिए;",
+  "manual": true
+ },
+ {
+  "n": "3",
+  "field": "text_flags",
+  "old": "why",
+  "new": "updated",
+  "manual": true
+ },
+ {
+  "n": "26",
+  "field": "gram",
+  "old": "te gen.",
+  "new": "dat.",
+  "manual": true
+ },
+ {
+  "n": "35",
+  "field": "split",
+  "old": "tvā + eṣaḥ",
+  "new": "eṣaḥ",
+  "manual": true
+ },
+ {
+  "n": "36",
+  "field": "split",
+  "old": "tvā + eṣaḥ",
+  "new": "eṣaḥ",
+  "manual": true
+ },
+ {
+  "n": "37",
+  "field": "split",
+  "old": "tvā + eṣaḥ",
+  "new": "eṣaḥ",
+  "manual": true
+ },
+ {
+  "n": "30",
+  "field": "notes",
+  "old": "",
+  "new": "condensed note",
+  "manual": true
+ },
+ {
+  "n": "38",
+  "field": "english",
+  "old": "drink the Soma as you wish, for joy",
+  "new": "drink the Soma in your own way (anuṣvadham, uncertain), for joy",
+  "manual": true
+ },
+ {
+  "n": "38",
+  "field": "hindi",
+  "old": "रण के लिए, मद के लिए अपनी इच्छा के अनुसार",
+  "new": "आनन्द के लिए, मद के लिए अपने ढंग से",
+  "manual": true
+ },
+ {
+  "n": "42",
+  "field": "notes",
+  "old": "The subject of 'āprāḥ' is taken as the risen one (Sūrya) without further identification beyond what the line says.",
+  "new": "The subject of 'āprāḥ' is Sūrya, as the line states it.",
+  "manual": true
+ }
+]

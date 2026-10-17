@@ -1,0 +1,415 @@
+[
+ {
+  "n": "2",
+  "field": "word.w",
+  "word": "stha",
+  "old": "stha",
+  "new": "sthaḥ",
+  "why": "reviewer (minor): 2 du. of √as is sthaḥ (visarga lost before u- in sandhi); w should be the dictionary form"
+ },
+ {
+  "n": "3",
+  "field": "word.gloss",
+  "word": "jātavedasau",
+  "old": "O two Jātavedas (Agni)",
+  "new": "O two Jātavedas",
+  "why": "reviewer (minor): '(Agni)' adds an identity the line does not state; the note also calls it an epithet of Agni while saying it is not identified"
+ },
+ {
+  "n": "3",
+  "field": "notes",
+  "old": "jātavedasau is a dual vocative (Jātavedas, an epithet of Agni): two are addressed, not identified in the line.",
+  "new": "jātavedasau is a dual vocative (Jātavedas): two are addressed, not identified in the line.",
+  "why": "reviewer (minor): contradictory identification of the two addressed"
+ },
+ {
+  "n": "4",
+  "field": "word.gram",
+  "word": "a-pra-yucchan",
+  "old": "pres. part. √yuch",
+  "new": "pres. part. m. nom. sg. √yuch",
+  "why": "reviewer (minor): participle given without case, number, gender"
+ },
+ {
+  "n": "5",
+  "field": "english",
+  "old": "I take you for the pervading lord, for the all-surrounding lord, for Tanūnapāt, for the mighty Śākvara, for the mighty one, for the most powerful. You are the unassailed, the unassailable, the might of the gods, free from reproach, protector from reproach; straight and true, may I approach the truth; set me in the good course.",
+  "new": "I take you for the pervading lord, for the all-surrounding lord, for Tanūnapāt, for Śākvara, for the mighty one, for the most powerful. You are the unassailed, the unassailable, the might of the gods, free from reproach, protector from reproach; straight and true, may I approach the truth; set me in the good course.",
+  "why": "reviewer (minor): 'mighty' is added to Śākvara (the Hindi keeps the bare name); duplicates śakvane 'mighty one'"
+ },
+ {
+  "n": "5",
+  "field": "word.gloss",
+  "word": "śākvarāya",
+  "old": "to the mighty one (śākvara)",
+  "new": "to Śākvara (obscure)",
+  "why": "reviewer (minor): gloss repeats 'mighty one' of śakvane and presents an obscure term as settled"
+ },
+ {
+  "n": "7",
+  "field": "hindi",
+  "old": "हे देव सोम, तेरा एक-एक अंशु इन्द्र के लिए, अद्वितीय धन पाने वाले के लिए, बढ़े। तेरी ओर इन्द्र बढ़े; तू इन्द्र के लिए बढ़। हम मित्रों को दान और बुद्धि से बढ़ा। कल्याण हो; हे देव सोम, मैं तेरे सवन को प्राप्त करूँ। इच्छित धन गति और सौभाग्य के लिए हों। सत्य; सत्य बोलने वालों को नमस्कार, द्यावापृथिवी को नमस्कार।",
+  "new": "हे देव सोम, तेरा एक-एक अंशु इन्द्र के लिए, अद्वितीय धन पाने वाले के लिए, बढ़े। तेरी ओर इन्द्र बढ़े; तू इन्द्र के लिए बढ़। हम मित्रों को दान और बुद्धि से बढ़ा। कल्याण हो; हे देव सोम, मैं तेरे सवन को प्राप्त करूँ। इच्छित धन प्रेरणा और सौभाग्य के लिए हों। सत्य; सत्य बोलने वालों को नमस्कार, द्यावापृथिवी को नमस्कार।",
+  "why": "reviewer (error): preṣe is glossed 'for the impulse' (glossary: prasava/impulse), but the Hindi says गति (motion)"
+ },
+ {
+  "n": "7",
+  "field": "english",
+  "old": "Let each shoot of yours, O god Soma, swell for Indra, the finder of the sole wealth. Let Indra swell toward you; swell, you, for Indra. Make us, your friends, prosper with bounty and wisdom. Well-being! O god Soma, may I attain your pressing. Desired riches for impulse, for good fortune! Truth! Homage to the speakers of truth, homage to heaven and earth.",
+  "new": "Let each shoot of yours, O god Soma, swell for Indra, the finder of the sole wealth. Let Indra swell toward you; swell, you, for Indra. Make us, friends, prosper with bounty and wisdom. Well-being! O god Soma, may I attain your pressing. Desired riches for impulse, for good fortune! Truth! Homage to the speakers of truth, homage to heaven and earth.",
+  "why": "reviewer (minor): 'your' is added; the line has only asmān sakhīn"
+ },
+ {
+  "n": "11",
+  "field": "english",
+  "old": "May Indraghoṣa with the Vasus protect you from the front; may Pracetas with the Rudras protect you from behind; may Manojava with the Fathers protect you from the south; may Viśvakarman with the Ādityas protect you from the north. Here I release this heated water outside, away from the sacrifice.",
+  "new": "May Indraghoṣa with the Vasus protect you from the front; may Pracetas with the Rudras protect you from behind; may Manojava with the Fathers protect you from the south; may Viśvakarman with the Ādityas protect you from the north. I release this heated water outside, away from the sacrifice.",
+  "why": "reviewer (minor): 'Here' is added (idam is already 'this heated water')"
+ },
+ {
+  "n": "12",
+  "field": "english",
+  "old": "You are a lioness. Svāhā. You are a lioness, winner of the Ādityas. Svāhā. You are a lioness, winner of brahma-power, winner of kṣatra-power. Svāhā. You are a lioness, winner of good offspring, winner of increase of wealth. Svāhā. You are a lioness: bring the gods for the sacrificer. Svāhā. You for the beings.",
+  "new": "You are a lioness. Svāhā. You are a lioness, winner of the Ādityas. Svāhā. You are a lioness, winner of brahma, winner of kṣatra. Svāhā. You are a lioness, winner of good offspring, winner of increase of wealth. Svāhā. You are a lioness: bring the gods for the sacrificer. Svāhā. You for the beings.",
+  "why": "reviewer (minor): 'power' is added to brahma and kṣatra (Hindi has bare ब्रह्म, क्षत्र; glossary keeps brahma terms)"
+ },
+ {
+  "n": "12",
+  "field": "word.gloss",
+  "word": "brahma-vaniḥ",
+  "old": "winner of brahma-power",
+  "new": "winner of brahma",
+  "why": "reviewer (minor): same addition of 'power' in gloss"
+ },
+ {
+  "n": "12",
+  "field": "word.gloss",
+  "word": "kṣatra-vaniḥ",
+  "old": "winner of kṣatra-power",
+  "new": "winner of kṣatra",
+  "why": "reviewer (minor): same addition of 'power' in gloss"
+ },
+ {
+  "n": "14",
+  "field": "english",
+  "old": "The inspired ones yoke the mind and yoke the thoughts, [serving] the great, inspired, wise one. He alone, who knows the rites, apportions the priestly functions. Great is the praise of the god Savitṛ. Svāhā.",
+  "new": "The inspired ones of the great, inspired, wise one yoke the mind and yoke the thoughts. He alone, who knows the rites, apportions the priestly functions. Great is the praise of the god Savitṛ. Svāhā.",
+  "why": "reviewer (error): bracketed word 'serving' is an unsupported addition; the relation viprāḥ viprasya (the inspired ones of the great inspired wise one) is simply genitive"
+ },
+ {
+  "n": "14",
+  "field": "hindi",
+  "old": "प्रेरित विद्वान महान् और ज्ञानी प्रेरक के मन को जोड़ते हैं और विचारों को जोड़ते हैं। कर्मों का जानने वाला वह अकेला ही होत्र के कार्यों को बाँटता है। देव सविता की स्तुति महान् है। स्वाहा।",
+  "new": "महान् ज्ञानी प्रेरित जन के प्रेरित जन मन को जोड़ते हैं और विचारों को जोड़ते हैं। कर्मों का जानने वाला वह अकेला ही होत्र के कार्यों को बाँटता है। देव सविता की स्तुति महान् है। स्वाहा।",
+  "why": "reviewer (error): vipra (inspired one) is rendered as प्रेरित विद्वान in the subject but as प्रेरक (the one who inspires) in the genitive: wrong and inconsistent; plural viprāḥ also lost"
+ },
+ {
+  "n": "17",
+  "field": "english",
+  "old": "O you two who hear the gods, proclaim among the gods. Go forth eastward to the rite, arranging it; lead the sacrifice upward, do not make it crooked. Speak to your own cowpen, O two goddesses, in the house; do not speak away our life, do not speak away our offspring; delight here on the height of the earth.",
+  "new": "O you two who hear the gods, proclaim among the gods. Go forth eastward to the rite, arranging it; lead the sacrifice upward, do not make it crooked. Speak to your own cowpen, O two goddesses, in the house; do not speak away life, do not speak away offspring; delight here on the height of the earth.",
+  "why": "reviewer (minor): 'our' is added; the line has āyuḥ and prajām only"
+ },
+ {
+  "n": "17",
+  "field": "hindi",
+  "old": "हे देवों को सुनने वाले दोनो, देवताओं के बीच घोषणा करो। पूर्व की ओर यज्ञ में जाओ, उसे सजाते हुए; यज्ञ को ऊपर ले चलो, उसे टेढ़ा न करो। हे दोनों देवियो, घर में अपने गोष्ठ को पुकारो; आयु को कहकर दूर न करो, प्रजा को कहकर दूर न करो; यहाँ पृथ्वी की ऊँचाई पर रमण करो।",
+  "new": "हे देवों को सुनने वाले दोनो, देवताओं के बीच घोषणा करो। पूर्व की ओर अध्वर में आगे जाओ, उसे सजाते हुए; यज्ञ को ऊपर ले चलो, उसे टेढ़ा न करो। हे दोनों देवियो, घर में अपने गोष्ठ को पुकारो; आयु को कहकर दूर न करो, प्रजा को कहकर दूर न करो; यहाँ पृथ्वी की ऊँचाई पर रमण करो।",
+  "why": "reviewer (minor): adhvara is 'rite' (glossary; yajña stays sacrifice) but Hindi uses यज्ञ for adhvaram and again for yajñam"
+ },
+ {
+  "n": "18",
+  "field": "hindi",
+  "old": "मैं अब विष्णु के वीर कर्मों को कहूँगा, जिसने पार्थिव लोकों को नापा; जिसने ऊपरी निवास को थामा, तीन प्रकार से पग रखता हुआ, विस्तीर्ण गति वाला। तुझे विष्णु के लिए।",
+  "new": "मैं अब विष्णु के वीर कृत्यों को कहूँगा, जिसने पार्थिव लोकों को नापा; जिसने ऊपरी निवास को थामा, तीन प्रकार से पग रखता हुआ, विस्तीर्ण गति वाला। तुझे विष्णु के लिए।",
+  "why": "reviewer (minor): vīryāṇi are heroic deeds; karma is fixed as 'rite' in this Samhita, so कर्म misleads"
+ },
+ {
+  "n": "21",
+  "field": "word.w",
+  "word": "stho",
+  "old": "stho",
+  "new": "sthaḥ",
+  "why": "reviewer (minor): 2 du. of √as is sthaḥ; w should be the dictionary form"
+ },
+ {
+  "n": "22",
+  "field": "english",
+  "old": "At the impulse of the god Savitṛ, with the arms of the two Aśvins, with the hands of Pūṣan, I take you. You are a woman; here I cut off the necks of the Rakṣases. You are great, loud-sounding; speak the great speech for Indra.",
+  "new": "At the impulse of the god Savitṛ, with the arms of the two Aśvins, with the hands of Pūṣan, I take you. You are a woman; here I cut off the necks of the demons. You are great, loud-sounding; speak the great speech for Indra.",
+  "why": "reviewer (error): glossary: rakṣas = demon"
+ },
+ {
+  "n": "22",
+  "field": "word.gloss",
+  "word": "rakṣasām",
+  "old": "of the Rakṣases",
+  "new": "of the demons",
+  "why": "reviewer (error): glossary rendering"
+ },
+ {
+  "n": "23",
+  "field": "english",
+  "old": "The Rakṣas-slaying, the valaga-slaying, the one belonging to Viṣṇu: here I scatter out that valaga which an outsider or a companion buried for me; here I scatter out that valaga which one equal to me or one unlike me buried for me; here I scatter out that valaga which a kinsman or a non-kinsman buried for me; here I scatter out that valaga which one born with me or one not born with me buried for me: I scatter the utkṛtyā.",
+  "new": "The demon-slaying, the valaga-slaying, the one belonging to Viṣṇu: here I scatter out that valaga which an outsider or a companion buried for me; here I scatter out that valaga which one equal to me or one unlike me buried for me; here I scatter out that valaga which a kinsman or a non-kinsman buried for me; here I scatter out that valaga which one born with me or one not born with me buried for me: I scatter the utkṛtyā.",
+  "why": "reviewer (error): glossary: rakṣas = demon"
+ },
+ {
+  "n": "23",
+  "field": "word.gloss",
+  "word": "rakṣaḥ-haṇam",
+  "old": "Rakṣas-slaying",
+  "new": "demon-slaying",
+  "why": "reviewer (error): glossary rendering"
+ },
+ {
+  "n": "24",
+  "field": "english",
+  "old": "You are self-ruling, slayer of rivals; you are ruler of the session, slayer of the hostile; you are ruler of the people, slayer of Rakṣases; you are ruler of all, slayer of enemies.",
+  "new": "You are self-ruling, slayer of rivals; you are ruler of the session, slayer of the hostile; you are ruler of the people, slayer of demons; you are ruler of all, slayer of enemies.",
+  "why": "reviewer (error): glossary: rakṣas = demon"
+ },
+ {
+  "n": "24",
+  "field": "word.gloss",
+  "word": "rakṣaḥ-hā",
+  "old": "slayer of Rakṣases",
+  "new": "slayer of demons",
+  "why": "reviewer (error): glossary rendering"
+ },
+ {
+  "n": "25",
+  "field": "english",
+  "old": "You Rakṣas-slayers, valaga-slayers, belonging to Viṣṇu: I sprinkle you. You Rakṣas-slayers, valaga-slayers, belonging to Viṣṇu: I lead you down. You Rakṣas-slayers, valaga-slayers, belonging to Viṣṇu: I strew you down. You two Rakṣas-slayers, valaga-slayers, belonging to Viṣṇu: I place you near. You two Rakṣas-slayers, valaga-slayers, belonging to Viṣṇu: I lay you around. You belong to Viṣṇu; you (all) belong to Viṣṇu.",
+  "new": "You demon-slayers, valaga-slayers, belonging to Viṣṇu: I sprinkle you. You demon-slayers, valaga-slayers, belonging to Viṣṇu: I lead you down. You demon-slayers, valaga-slayers, belonging to Viṣṇu: I strew you down. You two demon-slayers, valaga-slayers, belonging to Viṣṇu: I place you near. You two demon-slayers, valaga-slayers, belonging to Viṣṇu: I lay you around. You belong to Viṣṇu; you (all) belong to Viṣṇu.",
+  "why": "reviewer (error): glossary: rakṣas = demon"
+ },
+ {
+  "n": "26",
+  "field": "english",
+  "old": "At the impulse of the god Savitṛ, with the arms of the two Aśvins, with the hands of Pūṣan, I take you. You are a woman; here I cut off the necks of the Rakṣases. You are barley; keep hatred away from us, keep the enemies away. You for the sky; you for the atmosphere; you for the earth. May the worlds, the seats of the fathers, be pure. You are the seat of the fathers.",
+  "new": "At the impulse of the god Savitṛ, with the arms of the two Aśvins, with the hands of Pūṣan, I take you. You are a woman; here I cut off the necks of the demons. You are barley; keep hatred away from us, keep the enemies away. You for the sky; you for the atmosphere; you for the earth. May the worlds, the seats of the fathers, be pure. You are the seat of the fathers.",
+  "why": "reviewer (error): glossary: rakṣas = demon"
+ },
+ {
+  "n": "26",
+  "field": "word.gloss",
+  "word": "rakṣasām",
+  "old": "of the Rakṣases",
+  "new": "of the demons",
+  "why": "reviewer (error): glossary rendering"
+ },
+ {
+  "n": "26",
+  "field": "english",
+  "old": "At the impulse of the god Savitṛ, with the arms of the two Aśvins, with the hands of Pūṣan, I take you. You are a woman; here I cut off the necks of the demons. You are barley; keep hatred away from us, keep the enemies away. You for the sky; you for the atmosphere; you for the earth. May the worlds, the seats of the fathers, be pure. You are the seat of the fathers.",
+  "new": "At the impulse of the god Savitṛ, with the arms of the two Aśvins, with the hands of Pūṣan, I take you. You are a woman; here I cut off the necks of the demons. You are barley; keep hatred away from us, keep the hostile powers away. You for the sky; you for the atmosphere; you for the earth. May the worlds, the seats of the fathers, be pure. You are the seat of the fathers.",
+  "why": "reviewer (error): glossary: arāti = hostile power"
+ },
+ {
+  "n": "26",
+  "field": "hindi",
+  "old": "देव सविता की प्रेरणा में, अश्विनों की भुजाओं से और पूषा के हाथों से मैं तुझे ग्रहण करता हूँ। तू नारी है; यहाँ मैं राक्षसों की गर्दनें काटता हूँ। तू यव है; हमसे द्वेष को दूर कर, शत्रुओं को दूर कर। द्युलोक के लिए तुझे, अन्तरिक्ष के लिए तुझे, पृथ्वी के लिए तुझे। पितरों के निवास रूप लोक शुद्ध हों। तू पितरों का निवास है।",
+  "new": "देव सविता की प्रेरणा में, अश्विनों की भुजाओं से और पूषा के हाथों से मैं तुझे ग्रहण करता हूँ। तू नारी है; यहाँ मैं राक्षसों की गर्दनें काटता हूँ। तू यव है; हमसे द्वेष को दूर कर, विरोधी शक्तियों को दूर कर। द्युलोक के लिए तुझे, अन्तरिक्ष के लिए तुझे, पृथ्वी के लिए तुझे। पितरों के निवास रूप लोक शुद्ध हों। तू पितरों का निवास है।",
+  "why": "reviewer (error): same rule; शत्रु is also used for sapatna/amitra elsewhere"
+ },
+ {
+  "n": "26",
+  "field": "word.gloss",
+  "word": "arātīḥ",
+  "old": "enemies",
+  "new": "hostile powers",
+  "why": "reviewer (error): glossary rendering"
+ },
+ {
+  "n": "27",
+  "field": "english",
+  "old": "Prop up the sky, fill the atmosphere, make yourself firm on the earth. May the Marut Dyutāna fix you, and Mitra and Varuṇa, with firm support. I lay (these) around you, winner of brahma-power, winner of kṣatra-power, winner of increase of wealth. Make brahma-power firm, make kṣatra-power firm, make life firm, make offspring firm.",
+  "new": "Prop up the sky, fill the atmosphere, make yourself firm on the earth. May Dyutāna Māruta fix you, and Mitra and Varuṇa, with firm support. I lay around you, winner of brahma, winner of kṣatra, winner of increase of wealth. Make brahma firm, make kṣatra firm, make life firm, make offspring firm.",
+  "why": "reviewer (error): '(these)' is an unsupported insertion (paryūhāmi takes tvā); 'the Marut Dyutāna' makes māruta an identity (Hindi correctly has द्युतान मारुत); '-power' added to brahma/kṣatra"
+ },
+ {
+  "n": "27",
+  "field": "word.gloss",
+  "word": "brahma-vani",
+  "old": "winner of brahma-power",
+  "new": "winner of brahma",
+  "why": "reviewer (minor): 'power' added"
+ },
+ {
+  "n": "27",
+  "field": "word.gloss",
+  "word": "kṣatra-vani",
+  "old": "winner of kṣatra-power",
+  "new": "winner of kṣatra",
+  "why": "reviewer (minor): 'power' added"
+ },
+ {
+  "n": "27",
+  "field": "word.gloss",
+  "word": "brahma",
+  "old": "brahma-power",
+  "new": "brahma",
+  "why": "reviewer (minor): 'brahma-power'"
+ },
+ {
+  "n": "27",
+  "field": "word.gloss",
+  "word": "kṣatram",
+  "old": "kṣatra-power",
+  "new": "kṣatra",
+  "why": "reviewer (minor): 'kṣatra-power'"
+ },
+ {
+  "n": "28",
+  "field": "english",
+  "old": "You are firm; this sacrificer is firm in this abode; may he abound in offspring and cattle. O heaven and earth, be filled with ghee. You are Indra's covering, the shelter of all people.",
+  "new": "You are firm; this sacrificer is firm in this abode; may he abound in offspring and cattle. O heaven and earth, be filled with ghee. You are Indra's covering, the shade of all people.",
+  "why": "reviewer (minor): chāyā: Hindi says छाया (shade); English says shelter, so the two disagree"
+ },
+ {
+  "n": "33",
+  "field": "hindi",
+  "old": "तू समुद्र है, सबको व्याप्त करने वाला; तू अजन्मा है, एक पैर वाला, गहराई का सर्प है; तू वाणी है; तू इन्द्र का है; तू ऋत का आसन है। हे ऋत के दोनों द्वारो, मुझे मत तपाओ। हे मार्गों के स्वामी, मुझे आगे ले चल। इस देवयान पथ पर मेरा कल्याण हो।",
+  "new": "तू समुद्र है, सबको व्याप्त करने वाला; तू अजन्मा है, एक पैर वाला, गहराई का सर्प है; तू वाणी है; तू इन्द्र का है; तू ऋत का आसन है। हे ऋत के दोनों द्वारो, मुझे मत तपाओ। हे मार्गों के, हे मार्ग के स्वामी, मुझे आगे ले चल। इस देवयान पथ पर मेरा कल्याण हो।",
+  "why": "reviewer (minor): adhvanām adhvapate has two words and English renders both ('lord of the paths, lord of the way'); Hindi renders one"
+ },
+ {
+  "n": "34",
+  "field": "english",
+  "old": "Look at me with the eye of Mitra, O fires. You are sagaras, sagaras; with the name sagara, with the Rudra-like host, protect me, O fires; nourish me, O fires; guard me. Homage to you; do not harm me.",
+  "new": "Look at me with the eye of Mitra, O fires. You are sagaras, sagaras; with the name sagara, with the host belonging to Rudra, protect me, O fires; nourish me, O fires; guard me. Homage to you; do not harm me.",
+  "why": "reviewer (minor): raudra = 'of/belonging to Rudra'; 'Rudra-like' is an interpretation"
+ },
+ {
+  "n": "34",
+  "field": "word.gloss",
+  "word": "raudreṇa",
+  "old": "Rudra-like",
+  "new": "belonging to Rudra",
+  "why": "reviewer (minor): same"
+ },
+ {
+  "n": "35",
+  "field": "english",
+  "old": "You are light, of all forms, the gathering of all the gods. O Soma, you are the giver of wide shelter from hatreds made by oneself and made by others. Svāhā. Enjoying, may the aptu partake of the ghee. Svāhā.",
+  "new": "You are light, of all forms, the gathering of all the gods. O Soma, you are the giver of wide shelter from hatreds made by oneself and made by others. Svāhā. Enjoying, may the aptu partake of the clarified butter. Svāhā.",
+  "why": "reviewer (error): glossary: ājya = clarified butter, ghṛta = ghee"
+ },
+ {
+  "n": "35",
+  "field": "word.gloss",
+  "word": "ājyasya",
+  "old": "of the ghee",
+  "new": "of the clarified butter",
+  "why": "reviewer (error): glossary rendering"
+ },
+ {
+  "n": "36",
+  "field": "word.gram",
+  "word": "namaḥ",
+  "old": "n. nom. sg.",
+  "new": "n. stem form, first member of the compound nama-uktim",
+  "why": "reviewer (minor): nama uktim is the compound 'utterance of homage' (English already so renders); gram says a separate nom. sg."
+ },
+ {
+  "n": "37",
+  "field": "english",
+  "old": "May this Agni make wide room for us; may this one go in front, smashing the foes. May this one win the prizes in the winning of prizes; may this one, exulting, win over the enemies. Svāhā.",
+  "new": "May this Agni make wide room for us; may this one go in front, smashing the foes. May this one win the strengths in the winning of strength; may this one, exulting, win over the enemies. Svāhā.",
+  "why": "reviewer (error): glossary: vāja = strength"
+ },
+ {
+  "n": "37",
+  "field": "hindi",
+  "old": "यह अग्नि हमारे लिए विस्तृत स्थान बनाए; यह शत्रुओं को तोड़ता हुआ आगे चले। यह युद्ध में पुरस्कारों को जीते; यह हर्षित होकर शत्रुओं को जीते। स्वाहा।",
+  "new": "यह अग्नि हमारे लिए विस्तृत स्थान बनाए; यह शत्रुओं को तोड़ता हुआ आगे चले। यह बल-प्राप्ति में बलों को जीते; यह हर्षित होकर शत्रुओं को जीते। स्वाहा।",
+  "why": "reviewer (error): 'in battle' and 'prizes' are both added; vāja is fixed as strength"
+ },
+ {
+  "n": "37",
+  "field": "word.gloss",
+  "word": "vājān",
+  "old": "prizes",
+  "new": "strengths",
+  "why": "reviewer (error): glossary rendering"
+ },
+ {
+  "n": "37",
+  "field": "word.gloss",
+  "word": "vāja-sātau",
+  "old": "in the winning of prizes",
+  "new": "in the winning of strength",
+  "why": "reviewer (error): glossary rendering"
+ },
+ {
+  "n": "8",
+  "field": "english",
+  "old": "the highest, which stands",
+  "new": "the most extensive, which stands",
+  "manual": true
+ },
+ {
+  "n": "8",
+  "field": "gloss",
+  "old": "highest, most extensive",
+  "new": "most extensive",
+  "manual": true
+ },
+ {
+  "n": "19",
+  "field": "notes",
+  "old": "The whole is addressed",
+  "new": "The printed dakṣiṇādota is divided dakṣiṇāt + uta only as a best fit: 'ota' is not uta, so ā + uta (or u + uta) is possible. The whole is addressed",
+  "manual": true
+ },
+ {
+  "n": "23",
+  "field": "gloss",
+  "old": "valaga (a buried spell)",
+  "new": "valaga (buried; sense uncertain)",
+  "manual": true
+ },
+ {
+  "n": "23",
+  "field": "hindi",
+  "old": "उखाड़कर बिखेरता",
+  "new": "बाहर बिखेरता",
+  "manual": true
+ },
+ {
+  "n": "24",
+  "field": "hindi",
+  "old": "तू सत्रराट् है",
+  "new": "तू सत्र का राजा है",
+  "manual": true
+ },
+ {
+  "n": "24",
+  "field": "confidence",
+  "old": "high",
+  "new": "medium",
+  "manual": true
+ },
+ {
+  "n": "7",
+  "field": "english",
+  "old": "Truth! Homage to the speakers of truth",
+  "new": "Order! Homage to the speakers of order",
+  "manual": true
+ },
+ {
+  "n": "7",
+  "field": "hindi",
+  "old": "सत्य; सत्य बोलने वालों को",
+  "new": "ऋत; ऋत बोलने वालों को",
+  "manual": true
+ },
+ {
+  "n": "39",
+  "field": "hindi",
+  "old": "हे देव सोम, तू देव होकर",
+  "new": "यह, हे देव सोम, तू देव होकर",
+  "manual": true
+ }
+]
