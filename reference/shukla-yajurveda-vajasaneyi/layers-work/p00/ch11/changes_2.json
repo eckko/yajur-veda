@@ -1,0 +1,186 @@
+[
+ {
+  "n": "43",
+  "field": "word.gram",
+  "word": "kanikradat",
+  "old": "pres. part. intens. √krand",
+  "new": "m. nom. sg. pres. part. intens. √krand",
+  "why": "reviewer (minor): Participle label lacks case, number and gender (the form is m. nom. sg., agreeing with the addressee)."
+ },
+ {
+  "n": "44",
+  "field": "english",
+  "old": "Be firm, be strong-limbed, be swift, strong steed; be broad, well-seated, you, the bearer of Agni's purīṣa.",
+  "new": "Be firm, be strong-limbed, be swift, O strong steed; be broad, well-seated, you, the bearer of Agni's purīṣa.",
+  "why": "reviewer (minor): arvan is a vocative (the Hindi has हे) but the English drops the O."
+ },
+ {
+  "n": "46",
+  "field": "hindi",
+  "old": "बलवान आगे बढ़े, गर्जना करता हुआ, रेंकता हुआ गधा, पत्वा। पुरीष वाले अग्नि को धारण करता हुआ वह आयु पूरी होने से पहले न गिरे। वृषभ, ओजस्वी अग्नि को, जलों के गर्भ को, समुद्र से सम्बन्धित को धारण करता हुआ -- हे अग्नि, भोज के लिए यहाँ आओ।",
+  "new": "बलवान आगे बढ़े, गर्जना करता हुआ, रेंकता हुआ गधा, पत्वा। पुरीष वाले अग्नि को धारण करता हुआ वह आयु से पहले न गिरे। वृषभ, ओजस्वी अग्नि को, जलों के गर्भ को, समुद्र से सम्बन्धित को धारण करता हुआ -- हे अग्नि, भोज के लिए यहाँ आओ।",
+  "why": "reviewer (minor): Adds 'पूरी होने' (completion of life); the Sanskrit has only purā āyuṣaḥ 'before life/span'."
+ },
+ {
+  "n": "46",
+  "field": "hindi",
+  "old": "बलवान आगे बढ़े, गर्जना करता हुआ, रेंकता हुआ गधा, पत्वा। पुरीष वाले अग्नि को धारण करता हुआ वह आयु से पहले न गिरे। वृषभ, ओजस्वी अग्नि को, जलों के गर्भ को, समुद्र से सम्बन्धित को धारण करता हुआ -- हे अग्नि, भोज के लिए यहाँ आओ।",
+  "new": "बलवान आगे बढ़े, गर्जना करता हुआ, रेंकता हुआ गधा, पत्वा। पुरीष वाले अग्नि को धारण करता हुआ वह आयु से पहले न गिरे। वृषभ, वीर्यवान अग्नि को, जलों के गर्भ को, समुद्र से सम्बन्धित को धारण करता हुआ -- हे अग्नि, भोज के लिए यहाँ आओ।",
+  "why": "reviewer (minor): vṛṣaṇam is 'virile/bull-like' (English says virile); ओजस्वी means 'full of ojas', a different word."
+ },
+ {
+  "n": "47",
+  "field": "english",
+  "old": "Order, truth; order, truth. We bring Agni of the purīṣa, in the manner of Aṅgiras. O plants, rejoice at this auspicious Agni coming here towards you. Casting away all want and afflictions, sitting down, strike away our ill-thought.",
+  "new": "Order, truth; order, truth. We bring Agni of the purīṣa, like Aṅgiras. O plants, rejoice at this auspicious Agni coming here towards you. Casting away all want and afflictions, sitting down, strike away our ill-thought.",
+  "why": "reviewer (minor): aṅgirasvat is rendered 'like Aṅgiras' in every other unit of the chunk (58, 60, 61, 65); keep one rendering."
+ },
+ {
+  "n": "50",
+  "field": "hindi",
+  "old": "हे जलो, तुम निश्चय ही आनन्द देने वाले हो; इसलिए हमें रस में स्थापित करो, महान आनन्द और दर्शन के लिए।",
+  "new": "हे जलो, तुम निश्चय ही आनन्द देने वाले हो; इसलिए हमें रस के लिए स्थापित करो, महान आनन्द और दर्शन के लिए।",
+  "why": "reviewer (minor): ūrje is dative ('for sap', as the draft's own gloss says); Hindi uses a locative 'in'."
+ },
+ {
+  "n": "50",
+  "field": "english",
+  "old": "You waters are indeed bringers of delight; so place us in sap, for great joy and for sight.",
+  "new": "You waters are indeed bringers of delight; so place us for sap, for great joy and for sight.",
+  "why": "reviewer (minor): Same mismatch: ūrje is dative, English has 'in'."
+ },
+ {
+  "n": "53",
+  "field": "hindi",
+  "old": "मित्र ने पृथ्वी और भूमि को ज्योति के साथ मिलाकर -- हे सुजात जातवेद, मैं तुम्हें यक्ष्म रोग से मुक्ति के लिए, सन्तानों के लिए मिलाता हूँ।",
+  "new": "मित्र ने पृथ्वी और भूमि को ज्योति के साथ मिलाकर -- मैं तुम्हें, सुजात जातवेद को, यक्ष्म से मुक्ति के लिए, सन्तानों के लिए मिलाता हूँ।",
+  "why": "reviewer (error): sujātam jātavedasam are accusatives in apposition to tvā (object), not vocatives; 'हे' makes them an address."
+ },
+ {
+  "n": "53",
+  "field": "english",
+  "old": "Mitra, having united the earth and the ground together with light — well-born Jātavedas, I join you for freedom from yakṣma (wasting sickness), for the offspring.",
+  "new": "Mitra, having united the earth and the ground together with light — I join you, the well-born Jātavedas, for freedom from yakṣma, for the offspring.",
+  "why": "reviewer (minor): Same case problem: reads as a vocative; also the bracketed '(wasting sickness)' is an added interpretation (and Hindi adds 'रोग', fixed above)."
+ },
+ {
+  "n": "63",
+  "field": "english",
+  "old": "May the god Savitṛ scatter you up, the fair-handed, fair-fingered, fair-armed one, and with strength. Not wavering, fill the regions and the quarters on the earth.",
+  "new": "May the god Savitṛ, fair-handed, fair-fingered and fair-armed, scatter you up, and with strength. Not wavering, fill the regions and the quarters on the earth.",
+  "why": "reviewer (error): supāṇiḥ svaṅguriḥ subāhuḥ are nominative singular masculine and qualify Savitṛ (subject), not tvā; the English puts them after 'you' as if describing the addressee (addressee of line 2 is feminine)."
+ },
+ {
+  "n": "63",
+  "field": "hindi",
+  "old": "देव सविता तुम्हें ऊपर बिखेरे, सुन्दर हाथों वाला, सुन्दर अंगुलियों वाला, सुन्दर भुजाओं वाला, और शक्ति से। न डगमगाती हुई तुम पृथ्वी पर प्रदेशों और दिशाओं को भर दो।",
+  "new": "सुन्दर हाथों वाले, सुन्दर अंगुलियों वाले और सुन्दर भुजाओं वाले देव सविता तुम्हें ऊपर बिखेरे, और शक्ति से। न डगमगाती हुई तुम पृथ्वी पर प्रदेशों और दिशाओं को भर दो।",
+  "why": "reviewer (error): Same: epithets are Savitṛ's, but the Hindi (singular -वाला after 'तुम्हें') leaves them hanging after the object."
+ },
+ {
+  "n": "68",
+  "field": "english",
+  "old": "Do not break, do not be harmed, O mother; be bold and show valour well. Agni and you two will do this.",
+  "new": "Do not break, do not be harmed, O mother; be bold and show valour well. You and Agni, the two of you, will do this.",
+  "why": "reviewer (error): 'Agni and you two' reads as three subjects; kariṣyathaḥ is 2 du. = you (addressed) and Agni, the two of you."
+ },
+ {
+  "n": "75",
+  "field": "word.gram",
+  "word": "tiṣṭhate",
+  "old": "m. dat. sg. pres. part. mid √sthā",
+  "new": "m. dat. sg. pres. act. part. √sthā",
+  "why": "reviewer (minor): tiṣṭhate is the dative singular of the active participle tiṣṭhat, not a middle participle."
+ },
+ {
+  "n": "76",
+  "field": "notes",
+  "old": "irammada is obscure and left transliterated. The object of havāmahe in line 2 is Agni; the second 'we call' is supplied. bṛhate may qualify rāyaspoṣāya or agnau-related; read with rāyaspoṣāya.",
+  "new": "irammada is obscure and left transliterated. The object of havāmahe in line 2 is Agni; the second 'we call' is supplied. bṛhate (dat.) agrees with rāyaspoṣāya.",
+  "why": "reviewer (minor): False ambiguity: bṛhate is dative and cannot agree with locative agnau; it agrees only with rāyaspoṣāya."
+ },
+ {
+  "n": "78",
+  "field": "notes",
+  "old": "The verb is not stated for the instrumentals (the sense is that they are devoured or crushed by these). malimlu is left transliterated. bhagavaḥ is an irregular vocative form (read as O blessed one). The source marks taskarān with the pluti sign.",
+  "new": "The instrumentals go with khāda 'eat' in line 2. malimlu is left transliterated. bhagavaḥ is an irregular vocative form (read as O blessed one). The source marks taskarān with the pluti sign.",
+  "why": "reviewer (minor): Wrong: khāda ('eat') in line 2 is the governing verb of the instrumentals; the remark invents a gap."
+ },
+ {
+  "n": "52",
+  "field": "gram",
+  "old": "2 pl. pres. caus. √jan",
+  "new": "x",
+  "manual": true
+ },
+ {
+  "n": "60",
+  "field": "gram",
+  "old": "3 pl. impv. caus. √dhūp",
+  "new": "cl.10",
+  "manual": true
+ },
+ {
+  "n": "60",
+  "field": "gram",
+  "old": "3 pl. impv. caus. √dhūp",
+  "new": "cl.10",
+  "manual": true
+ },
+ {
+  "n": "60",
+  "field": "gram",
+  "old": "3 pl. impv. caus. √dhūp",
+  "new": "cl.10",
+  "manual": true
+ },
+ {
+  "n": "60",
+  "field": "gram",
+  "old": "3 pl. impv. caus. √dhūp",
+  "new": "cl.10",
+  "manual": true
+ },
+ {
+  "n": "60",
+  "field": "gram",
+  "old": "3 sg. impv. caus. √dhūp",
+  "new": "cl.10",
+  "manual": true
+ },
+ {
+  "n": "60",
+  "field": "gram",
+  "old": "3 sg. impv. caus. √dhūp",
+  "new": "cl.10",
+  "manual": true
+ },
+ {
+  "n": "60",
+  "field": "gram",
+  "old": "3 sg. impv. caus. √dhūp",
+  "new": "cl.10",
+  "manual": true
+ },
+ {
+  "n": "61",
+  "field": "split",
+  "old": "avaṭa",
+  "new": "avaṭe + flag",
+  "manual": true
+ },
+ {
+  "n": "71",
+  "field": "english",
+  "old": "From the farther side, from the saṃvat",
+  "new": "From the farther one, up from the saṃvat",
+  "manual": true
+ },
+ {
+  "n": "71",
+  "field": "hindi",
+  "old": "दूर वाली दिशा से",
+  "new": "दूर वाली से",
+  "manual": true
+ }
+]
