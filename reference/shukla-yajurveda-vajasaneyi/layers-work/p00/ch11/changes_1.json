@@ -1,0 +1,203 @@
+[
+ {
+  "n": "2",
+  "field": "text_flags",
+  "old": [
+   {
+    "src": "śaktyā̭'",
+    "suggest": "śaktyā̭",
+    "why": "possible stray avagraha at line end; no sandhi explains it"
+   }
+  ],
+  "new": [],
+  "why": "reviewer (error): The flag quotes a printed avagraha that is not in the input (lines_iast and lines_deva both end plain 'śaktyā̭' / 'शक्त्या॑'). The flag is invented."
+ },
+ {
+  "n": "2",
+  "field": "notes",
+  "old": "The line ends in a printed avagraha after śaktyā that has no sandhi source; it looks like a stray mark. A reading śaktyai (dative, 'for power') is possible; not applied. The sentence has no finite verb and continues in the next unit.",
+  "new": "The sentence has no finite verb and continues in the next unit.",
+  "why": "reviewer (minor): Notes repeat the non-existent stray avagraha and the speculative reading śaktyai."
+ },
+ {
+  "n": "4",
+  "field": "word.w",
+  "word": "hotrāḥ",
+  "old": "hotrāḥ",
+  "new": "hotrā",
+  "why": "reviewer (minor): w 'hotrāḥ' is feminine nom/acc pl. but gram and notes say neuter pl.; the neuter plural is hotrā, which is also the printed form."
+ },
+ {
+  "n": "6",
+  "field": "hindi",
+  "old": "जिसके प्रयाण के पीछे अन्य देव चले, देव की महिमा के पीछे ओज के साथ; जिसने पार्थिव लोकों को नापा, वह एतश, देव सविता, अपनी महिमा से रजसों को भी नापने वाला है।",
+  "new": "जिसके प्रयाण के पीछे अन्य देव चले, देव की महिमा के पीछे ओज के साथ; जिसने पार्थिवों को नापा, उस एतश, देव सविता ने महिमा से रजसों को नापा।",
+  "why": "reviewer (error): Hindi adds 'लोकों' (pārthivāni is only 'earthly ones'), 'अपनी', 'भी', and changes vimame (perfect, 'measured') to a present participle 'नापने वाला है'; English says 'measured'."
+ },
+ {
+  "n": "7",
+  "field": "hindi",
+  "old": "हे देव सविता, यज्ञ को आगे प्रेरित करो; यज्ञपति को भग के लिए प्रेरित करो। दिव्य गन्धर्व, केत को पवित्र करने वाला, हमारे केत को पवित्र करे; वाणी का स्वामी हमारी वाणी को मधुर करे।",
+  "new": "हे देव सविता, यज्ञ को आगे प्रेरित करो; यज्ञपति को भाग्य के लिए प्रेरित करो। दिव्य गन्धर्व, केत को पवित्र करने वाला, हमारे केत को पवित्र करे; वाणी का स्वामी हमारी वाणी को मधुर करे।",
+  "why": "reviewer (error): Hindi makes bhagāya a name (Bhaga) while gloss and English say 'for fortune'; the notes say the name is only possible."
+ },
+ {
+  "n": "10",
+  "field": "word.gloss",
+  "word": "jāgatena",
+  "old": "with the jagatī",
+  "new": "with the jāgata (metre)",
+  "why": "reviewer (minor): Gloss 'with the jagatī' does not match the English 'jāgata metre' or the parallel glosses of gāyatreṇa/traiṣṭubhena."
+ },
+ {
+  "n": "15",
+  "field": "english",
+  "old": "Overcoming, come, stepping down on ill-speech; come to Rudra's lordship of the host, bringing comfort. Go through the wide intermediate space, with well-being as your path, making things fearless, together with Pūṣan, your companion.",
+  "new": "Overcoming, come, stepping down on ill-speech; come to Rudra's lordship of the host, bringing comfort. Go through the wide intermediate space, with well-being as your path, making things fearless, together with Pūṣan, the companion.",
+  "why": "reviewer (minor): 'your' is not in the Sanskrit (sayujā is only 'companion' of Pūṣan)."
+ },
+ {
+  "n": "17",
+  "field": "english",
+  "old": "Agni has looked along the front of the dawns, along the days, the first Jātavedas. Along the many rays of Sūrya and along heaven and earth you have stretched out.",
+  "new": "Agni has looked along the front of the dawns, along the days, the first Jātavedas. Along the rays of Sūrya in many places and along heaven and earth you have stretched out.",
+  "why": "reviewer (error): purutrā ('in many places') is attached to the rays as 'many'; gloss says 'in many places'."
+ },
+ {
+  "n": "17",
+  "field": "hindi",
+  "old": "अग्नि ने उषाओं के अग्र भाग के साथ-साथ देखा, दिनों के साथ-साथ भी, प्रथम जातवेदस् ने। सूर्य की अनेक स्थानों में फैली किरणों के साथ-साथ और द्यावापृथिवी के साथ-साथ तुमने विस्तार किया है।",
+  "new": "अग्नि ने उषाओं के अग्र भाग के साथ-साथ देखा, दिनों के साथ-साथ भी, प्रथम जातवेदस् ने। सूर्य की किरणों के साथ-साथ अनेक स्थानों में और द्यावापृथिवी के साथ-साथ तुमने विस्तार किया है।",
+  "why": "reviewer (error): Hindi adds 'फैली' (spread), which is not in the text, and ties purutrā to the rays."
+ },
+ {
+  "n": "20",
+  "field": "word.gram",
+  "word": "pṛtanyataḥ",
+  "old": "pres. part. m. acc. pl. √pṛtanya",
+  "new": "pres. part. m. acc. pl. denom. of pṛtanā",
+  "why": "reviewer (minor): '√pṛtanya' is not a root; pṛtanyati is a denominative of pṛtanā."
+ },
+ {
+  "n": "22",
+  "field": "word.w",
+  "word": "akaḥ",
+  "old": "akaḥ",
+  "new": "akar",
+  "why": "reviewer (minor): The pre-sandhi dictionary form of the aorist is akar (akar + s- gives akaḥ); w 'akaḥ' keeps the sandhi form."
+ },
+ {
+  "n": "22",
+  "field": "hindi",
+  "old": "धन देने वाला बलवान् ऊपर चला गया है; वेगवान् ने पृथ्वी पर अच्छा लोक, सुकृत, बनाया। वहाँ से हम सुन्दर मुख वाले अग्नि को खोदें, स्वः की ओर चढ़ते हुए सबसे ऊँचे नाक तक।",
+  "new": "धन देने वाला बलवान् ऊपर चला गया है; वेगवान् ने पृथ्वी पर अच्छा लोक, सुकृत, बनाया। वहाँ से हम सुन्दर मुख वाले अग्नि को खोदें, स्वः की ओर चढ़ते हुए सबसे ऊँचे स्वर्ग तक।",
+  "why": "reviewer (error): Glossary: nāka = स्वर्ग in Hindi; 'नाक' reads as 'nose'."
+ },
+ {
+  "n": "23",
+  "field": "hindi",
+  "old": "मैं मन से और घृत से तुम्हें सींचता हूँ, जो सब भुवनों के सामने स्थित है, चौड़े को, आड़े फैले हुए को, ओज से महान् को, सबसे विशाल को, अन्नों के साथ वेगवान् को, दिखाई देने वाले को।",
+  "new": "मैं मन से और घृत से तुम्हें सींचता हूँ, जो सब भुवनों के सामने स्थित है, चौड़े को, आड़ी दिशा में, जीवन-शक्ति से महान् को, सबसे विशाल को, अन्नों के साथ वेगवान् को, दिखाई देने वाले को।",
+  "why": "reviewer (minor): 'फैले हुए' is added (tiraścā is only 'across'); vayasā 'vigour' is rendered ओज here but जीवन-शक्ति in unit 35 (ओज is used for ojas in unit 6)."
+ },
+ {
+  "n": "24",
+  "field": "english",
+  "old": "I sprinkle from all sides the one turned towards me; with a mind free of demons may he take pleasure in that. Agni, maryaśrī, of desirable colour, is not to be touched with the body, quivering.",
+  "new": "I sprinkle from all sides the one facing; with a mind free of demons may he take pleasure in that. Agni, maryaśrī, of desirable colour, is not to be touched with the body, quivering.",
+  "why": "reviewer (error): 'me' is added; pratyañcam is only 'turned towards / facing'."
+ },
+ {
+  "n": "24",
+  "field": "word.gram",
+  "word": "jarbhurāṇaḥ",
+  "old": "pres. part. mid. m. nom. sg. √jarbhur",
+  "new": "pres. part. mid. m. nom. sg. intens. √bhur",
+  "why": "reviewer (minor): '√jarbhur' is not a root; the participle belongs to the intensive of √bhur."
+ },
+ {
+  "n": "25",
+  "field": "hindi",
+  "old": "शक्ति का स्वामी, कवि अग्नि हव्यों के चारों ओर गया है, देने वाले को रत्न प्रदान करता हुआ।",
+  "new": "बल का स्वामी, कवि अग्नि हव्यों के चारों ओर गया है, देने वाले को रत्न प्रदान करता हुआ।",
+  "why": "reviewer (minor): vāja = strength is rendered बल elsewhere (units 14 etc.); शक्ति is used for śakti."
+ },
+ {
+  "n": "26",
+  "field": "hindi",
+  "old": "हे अग्नि, हम तुम्हारे चारों ओर दुर्ग रखते हैं, हे सहस्य, तुम्हें, विप्र को, साहसी वर्ण वाले को, प्रतिदिन भङ्गुरावान् के हन्ता को।",
+  "new": "हे अग्नि, हम तुम्हारे चारों ओर दुर्ग रखते हैं, हे सहस्य, तुम्हें, विप्र को, साहसी वर्ण वाले को, प्रतिदिन भङ्गुरावतों के हन्ता को।",
+  "why": "reviewer (minor): Number mismatch: gen. pl. bhaṅgurāvatām, English 'bhaṅgurāvat ones', Hindi singular."
+ },
+ {
+  "n": "28",
+  "field": "word.gram",
+  "word": "dīdyatam",
+  "old": "pres. part. m. acc. sg. √dīdī",
+  "new": "pres. part. m. acc. sg. √dī",
+  "why": "reviewer (minor): '√dīdī' is not a root."
+ },
+ {
+  "n": "29",
+  "field": "notes",
+  "old": "puṣkara is obscure and kept transliterated. The syntax of pinvamānam (agreeing with a word unstated) and of ā ca prathasva is tentative. The printed mahā~2 carries a pluta mark: read mahān.",
+  "new": "puṣkara is obscure and kept transliterated. The syntax of pinvamānam (agreeing with a word unstated) and of ā ca prathasva is tentative. The printed mahā~2 carries a pluta mark: read mahān. Alternatively pinvamānam agrees with samudram: 'the ocean swelling all around'.",
+  "why": "reviewer (minor): Notes say pinvamānam agrees with an unstated word, but it can agree with samudram ('the ocean swelling all around'); the draft takes samudram as its object without saying so."
+ },
+ {
+  "n": "31",
+  "field": "hindi",
+  "old": "तुम दोनों स्वः को पाने वाली, मिली हुई, छाती से और स्वयं से मिलकर पहन लो; भीतर अग्नि को ले जाने वाली, ज्योतिमान् को निरन्तर।",
+  "new": "तुम दोनों स्वः को पाने वाली, मिली हुई, छाती से और स्वयं से मिलकर पहन लो; भीतर अग्नि को ले जाने वाली, ज्योतिमान् को निरन्तर ही।",
+  "why": "reviewer (minor): The particle it ('indeed', in the English) is dropped in Hindi."
+ },
+ {
+  "n": "38",
+  "field": "english",
+  "old": "Send forth the divine waters, honeyed, to the creatures for freedom from sickness. From their standing-place let the plants with good fruits spring up.",
+  "new": "Send forth the divine waters, honeyed, for the creatures, for freedom from sickness. From their standing-place let the plants with good fruits spring up.",
+  "why": "reviewer (minor): prajābhyaḥ is dative ('for'), as in the gloss; 'to the creatures' reads as a recipient of the sending."
+ },
+ {
+  "n": "40",
+  "field": "hindi",
+  "old": "सुजात, ज्योति के साथ, आश्रय, वरूथ और स्वः में बैठ गया है। हे अग्नि, सब रूपों वाला वस्त्र पहन लो, हे विभावसु।",
+  "new": "सुजात, ज्योति के साथ, आश्रय, रक्षा, स्वः में बैठ गया है। हे अग्नि, सब रूपों वाला वस्त्र पहन लो, हे विभावसु।",
+  "why": "reviewer (minor): Hindi leaves varūtham untranslated (English 'protection') and adds 'और' that the Sanskrit (three bare accusatives) does not have."
+ },
+ {
+  "n": "41",
+  "field": "notes",
+  "old": "svadhvarāva is split svadhvara plus ava (imperative of √av). The sense of dṛśe ca is tentative. suśukvaniḥ is rendered 'brightly shining'.",
+  "new": "svadhvarāva is split svadhvara plus ava (imperative of √av). The sense of dṛśe ca is tentative. suśukvaniḥ is rendered 'brightly shining'. The printed final ā of svadhvarāvā is not explained by sandhi (svadhvara + ava would give svadhvarāva); taken as a lengthened ava, unconfirmed.",
+  "why": "reviewer (minor): svadhvara + ava would give svadhvarāva; the printed final ā (svadhva̱rāvā̭) is unexplained and not flagged or noted."
+ },
+ {
+  "n": "42",
+  "field": "hindi",
+  "old": "सीधे खड़े, भलीभाँति हमारी सहायता के लिए खड़े हो, देव सविता की तरह; सीधे खड़े, बल के देने वाले, जब हम अञ्जियों और वाघतों के साथ तुम्हें पुकारते हैं।",
+  "new": "सीधे खड़े, भलीभाँति हमारी सहायता के लिए खड़े हो, देव सविता की तरह; सीधे खड़े, बल को जीतने वाले, जब हम अञ्जियों और वाघतों के साथ तुम्हें पुकारते हैं।",
+  "why": "reviewer (error): English says 'winner of strength' (sanitā) but Hindi says 'giver'."
+ },
+ {
+  "n": "5",
+  "field": "gram",
+  "old": "du. acc.",
+  "new": "enclitic du. (acc./dat./gen.; sense uncertain)",
+  "manual": true
+ },
+ {
+  "n": "15",
+  "field": "english",
+  "old": "stepping down on ill-speech",
+  "new": "crossing over ill-speech",
+  "manual": true
+ },
+ {
+  "n": "22",
+  "field": "hindi",
+  "old": "वेगवान् ने पृथ्वी",
+  "new": "घोड़े ने पृथ्वी",
+  "manual": true
+ }
+]
