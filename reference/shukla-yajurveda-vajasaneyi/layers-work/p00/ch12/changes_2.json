@@ -1,0 +1,218 @@
+[
+ {
+  "n": "44",
+  "field": "word.gram",
+  "word": "satyāḥ",
+  "old": "f. nom. pl.",
+  "new": "m. nom. pl.",
+  "why": "reviewer (error): Labelled f. nom. pl., but it agrees with kāmāḥ, which is masculine (and the draft itself labels kāmāḥ m.)."
+ },
+ {
+  "n": "45",
+  "field": "hindi",
+  "old": "हट जाओ, चले जाओ और यहाँ से सरक जाओ, जो तुम यहाँ हो, पुराने और नए। यम ने पृथ्वी पर इसके लिए विश्राम-स्थान दिया; पितरों ने इसके लिए यह लोक बनाया।",
+  "new": "हट जाओ, चले जाओ और यहाँ से सरक जाओ, जो तुम यहाँ हो, पुराने और नए। यम ने पृथ्वी पर विश्राम-स्थान दिया; पितरों ने इसके लिए यह लोक बनाया।",
+  "why": "reviewer (error): asmai occurs only in the second clause (lokam asmai). The Hindi also puts 'for him' into the first clause, which is an addition."
+ },
+ {
+  "n": "46",
+  "field": "hindi",
+  "old": "तू सम्यक् बोध है, कामनाओं को धारण करने वाला; मुझमें तेरा कामनाओं को धारण करना हो। तू अग्नि की भस्म है, तू अग्नि का पुरीष है। तुम संचित हो, चारों ओर संचित हो, ऊपर की ओर संचित हो; स्थान ग्रहण करो।",
+  "new": "तू सहमति है, कामनाओं को धारण करने वाला; मुझमें तेरा कामनाओं को धारण करना हो। तू अग्नि की भस्म है, तू अग्नि का पुरीष है। तुम संचित हो, चारों ओर संचित हो, ऊपर की ओर संचित हो; स्थान ग्रहण करो।",
+  "why": "reviewer (minor): English and gloss say 'concord' for saṃjñānam, but the Hindi gives a different sense ('right knowledge'). The two languages disagree."
+ },
+ {
+  "n": "47",
+  "field": "english",
+  "old": "This is that Agni in whom Indra, eager, placed the pressed Soma in the belly. Having won thousandfold strength, you are praised like a racing steed, O Jātavedas.",
+  "new": "This is that Agni in whom Indra, eager, placed the pressed Soma in the belly. Having won thousandfold strength, a racer, like a steed, you are praised, O Jātavedas.",
+  "why": "reviewer (error): The draft's own gram labels vājam, atyam and saptim all as accusative objects of sasavān. The English instead turns saptim into a comparison for Agni ('praised like a steed'), which contradicts that parsing and moves na."
+ },
+ {
+  "n": "47",
+  "field": "hindi",
+  "old": "यह वही अग्नि है जिसमें इन्द्र ने उत्सुक होकर निचोड़ा हुआ सोम उदर में धारण किया। हजार गुना बल जीतकर तू तेज़ दौड़ने वाले घोड़े के समान स्तुत किया जाता है, हे जातवेदस्।",
+  "new": "यह वही अग्नि है जिसमें इन्द्र ने उत्सुक होकर निचोड़ा हुआ सोम उदर में धारण किया। हजार गुना बल, दौड़ने वाले घोड़े के समान, जीतकर तू स्तुत किया जाता है, हे जातवेदस्।",
+  "why": "reviewer (error): Same case problem as the English: the comparison is attached to Agni although saptim is accusative."
+ },
+ {
+  "n": "48",
+  "field": "word.w",
+  "word": "sa",
+  "old": "sa",
+  "new": "saḥ",
+  "why": "reviewer (minor): w is 'sa' while every other unit normalises this pronoun to 'saḥ' (e.g. unit 43). Inconsistent dictionary form."
+ },
+ {
+  "n": "50",
+  "field": "hindi",
+  "old": "पुरीष से जुड़े अग्नि, ढलानों के साथ एकमत होकर, द्रोह-रहित और पीड़ा-रहित होकर यज्ञ का और बड़े पोषणों का सेवन करें।",
+  "new": "पुरीष से जुड़े अग्नि, प्रावणों के साथ एकमत होकर, द्रोह-रहित और पीड़ा-रहित होकर यज्ञ का और बड़े पोषणों का सेवन करें।",
+  "why": "reviewer (minor): prāvaṇebhiḥ is called obscure in the gloss and the English leaves it as 'prāvaṇas', but the Hindi commits to 'slopes'. The glossary says obscure terms stay transliterated."
+ },
+ {
+  "n": "51",
+  "field": "hindi",
+  "old": "हे अग्नि, पुकारने वाले के लिए इडा को सिद्ध कर, अनेक कर्मों वाले, गौ के लाभ को, सबसे स्थायी को। हमारे लिए पुत्र और वंशज हो, सन्तान उत्पन्न करने वाला; हे अग्नि, तेरी वह सुमति हमारे साथ हो।",
+  "new": "हे अग्नि, पुकारने वाले के लिए इडा को सिद्ध कर, अनेक शक्तियों वाले, गौ के लाभ को, सबसे स्थायी को। हमारे लिए पुत्र और वंशज हो, सन्तान उत्पन्न करने वाला; हे अग्नि, तेरी वह सुमति हमारे साथ हो।",
+  "why": "reviewer (minor): The glossary fixes karma = rite, so 'कर्म' will read as rites. daṃsa is rendered 'powers' in unit 74 (daṃsobhiḥ). Rendering purudaṃsa as 'many deeds' or 'कर्म' is inconsistent across units. The word gloss 'of many deeds' and the English 'the one of many deeds' need the same change, to 'of many powers'."
+ },
+ {
+  "n": "52",
+  "field": "notes",
+  "old": "In the input rohāthā is read as roha + atha (lengthened final); atho is the usual form. ṛtviya could also be 'proper, timely'.",
+  "new": "In the input rohāthā is read as roha + atha (lengthened final); the lengthened final ā is Vedic (as in vardhayā). ṛtviya could also be 'proper, timely'.",
+  "why": "reviewer (minor): The note is misleading. The reading is atha with a lengthened final ā (like vardhayā in the same line), not a corrupt 'atho'."
+ },
+ {
+  "n": "55",
+  "field": "word.w",
+  "word": "soma",
+  "old": "soma",
+  "new": "somam",
+  "why": "reviewer (minor): The text flag suggests somam and the translation uses it as object, but the word list still has the printed w 'soma'. Per the layer rule, the corrected form belongs in words (src stays as printed). gram should then be m. acc. sg. only."
+ },
+ {
+  "n": "55",
+  "field": "hindi",
+  "old": "वे चितकबरी इसके सूददोहस् को सोम में मिलाती हैं; देवों के जन्म पर, विश, तीनों में, द्युलोक के प्रकाशमान स्थान में।",
+  "new": "वे चितकबरी, इसकी सूददोहस्, सोम को मिलाती हैं; देवों के जन्म पर, विश, तीनों में, द्युलोक के प्रकाशमान स्थान में।",
+  "why": "reviewer (error): Contradicts the gloss and the English. sūdadohasaḥ is nom. pl. f. (adjective of the pṛśnayaḥ), but the Hindi makes it an accusative object and puts Soma in the locative ('in the Soma')."
+ },
+ {
+  "n": "56",
+  "field": "notes",
+  "old": "The words are regrouped in translation: satpatim = lord of the good; vājānām ... patim = lord of strengths. vyacas is rendered 'wide'.",
+  "new": "The words are regrouped in translation: satpatim = lord of the good; vājānām ... patim = lord of strengths. vyacas is rendered 'wide'. satpatim may instead be 'true lord', construed with vājānām and patim; 'lord of the good' is a tentative reading.",
+  "why": "reviewer (minor): The parse splits one phrase and treats 'the good' as fact. vājānāṃ satpatiṃ patim could equally be 'the true lord of strengths, the lord'. The note should record this."
+ },
+ {
+  "n": "58",
+  "field": "word.w",
+  "word": "adhipāḥ",
+  "old": "adhipāḥ",
+  "new": "adhipā",
+  "why": "reviewer (minor): Printed form is adhipā, which is the attested nom. sg. of the ā-stem (like gopā). The draft's w 'adhipāḥ' is an unprinted form and the note justifies it as 'nominative of adhipā'."
+ },
+ {
+  "n": "61",
+  "field": "hindi",
+  "old": "जैसे माता पुत्र को, वैसे पृथ्वी ने पुरीष से जुड़े अग्नि को अपनी योनि में अभारुखा। उसे सब देवों और ऋतुओं के साथ सहमत होकर प्रजापति विश्वकर्मा मुक्त करे।",
+  "new": "जैसे माता पुत्र को, वैसे पृथ्वी पुरीष से जुड़े अग्नि को अपनी योनि में अभारुखा। उसे सब देवों और ऋतुओं के साथ सहमत होकर प्रजापति विश्वकर्मा मुक्त करे।",
+  "why": "reviewer (minor): 'ने' implies a perfect transitive verb that is not in the Sanskrit. The English has no verb here and abhārukhā is declared obscure. The Hindi adds grammar."
+ },
+ {
+  "n": "66",
+  "field": "notes",
+  "old": "The subject is not named in the unit. vasūnām may also be 'of the Vasus'; samare pathīnām (meeting or encounter of paths) is obscure.",
+  "new": "The subject is not named in the unit. vasūnām may also be 'of the Vasus'; samare pathīnām (meeting or encounter of paths) is obscure. devaḥ iva savitā: 'like the god Savitṛ' is one reading; Savitṛ may instead be the subject of tasthau ('Savitṛ, as if a god, ... stood').",
+  "why": "reviewer (minor): The English fixes 'Like the god Savitṛ' as a comparison. But savitā is nominative and may be the subject of tasthau ('Savitṛ, as if a god, of true dharma ... stood'). The note says only that the subject is not named; it should mention this alternative."
+ },
+ {
+  "n": "68",
+  "field": "word.gram",
+  "word": "yonau",
+  "old": "f. loc. sg.",
+  "new": "m. loc. sg. (masculine here, agreeing with kṛte)",
+  "why": "reviewer (minor): Labelled f. loc., but it is qualified by kṛte (m./n. loc.), which the draft labels m. loc. sg. The two labels contradict each other, so yoni is masculine here."
+ },
+ {
+  "n": "68",
+  "field": "word.gram",
+  "word": "nedīyaḥ",
+  "old": "n. nom. sg.",
+  "new": "adv. (n. acc. sg. of nedīyas)",
+  "why": "reviewer (minor): Labelled n. nom. sg., but it is used adverbially ('nearer'), not as the subject. It also does not agree with sṛṇyaḥ."
+ },
+ {
+  "n": "69",
+  "field": "hindi",
+  "old": "हलों के फाल सुखपूर्वक भूमि को जोतें, हल चलाने वाले सुखपूर्वक वाहक पशुओं के साथ आगे बढ़ें। हे शुनासीर, हवि से प्रसन्न होकर औषधियों को अच्छे फलों वाली बनाओ, इसके लिए।",
+  "new": "हलों के फाल सुखपूर्वक भूमि को जोतें, हल चलाने वाले सुखपूर्वक वाहक पशुओं के साथ आगे बढ़ें। शुनासीर, हवि से प्रसन्न होकर औषधियों को अच्छे फलों वाली बनाओ, इसके लिए।",
+  "why": "reviewer (minor): The words are nominative (śunāsīrā tośamānā), a dual pair, not a singular vocative. The English has no 'O'. The Hindi adds a vocative that the gloss does not support."
+ },
+ {
+  "n": "74",
+  "field": "hindi",
+  "old": "अब्द अयवों के साथ एक मन होकर, उषा अरुण किरणों के साथ, दोनों अश्विन समान प्रीति वाले अपनी शक्तियों के साथ, सूर एतश के साथ, वैश्वानर इडा और घी के साथ; स्वाहा।",
+  "new": "अब्द अयवों के साथ एक मन होकर, उषा अरुण वर्ण वालियों के साथ, दोनों अश्विन समान प्रीति वाले अपनी शक्तियों के साथ, सूर एतश के साथ, वैश्वानर इडा और घी के साथ; स्वाहा।",
+  "why": "reviewer (error): The Sanskrit is only aruṇībhiḥ 'with the ruddy ones' (f.), as the draft's own gloss and English say. 'किरणों' (rays) is an unsupported noun."
+ },
+ {
+  "n": "75",
+  "field": "english",
+  "old": "The plants that were born before the gods, three ages ago — of those brown ones I now reflect on the hundred and seven abodes.",
+  "new": "The plants that were born before the gods, three ages ago — of those brown ones I now reflect on a hundred abodes and seven.",
+  "why": "reviewer (minor): śataṃ dhāmāni sapta ca is literally 'a hundred abodes and seven'. The sum 107 is a contested reading used as fact, and it differs from the Hindi (सौ और सात धाम)."
+ },
+ {
+  "n": "76",
+  "field": "english",
+  "old": "O mother, you have a hundred abodes and a thousand shoots. So, O ones of a hundred wills, make this one free from sickness for me.",
+  "new": "O mother, you have a hundred abodes and a thousand shoots. Then, O ones of a hundred wills, make this one free from sickness for me.",
+  "why": "reviewer (minor): The gloss for adhā is 'then'. 'So' adds an inference ('therefore') not in the word."
+ },
+ {
+  "n": "76",
+  "field": "hindi",
+  "old": "हे माता, तुम्हारे सौ धाम हैं और हजार अंकुर। अतः हे सौ संकल्पों वाली, तुम इसे मेरे लिए रोग-रहित करो।",
+  "new": "हे माता, तुम्हारे सौ धाम हैं और हजार अंकुर। तब हे सौ संकल्पों वाली, तुम इसे मेरे लिए रोग-रहित करो।",
+  "why": "reviewer (minor): 'अतः' (therefore) adds a causal link; adhā is only 'then'."
+ },
+ {
+  "n": "78",
+  "field": "english",
+  "old": "'Plants', 'mothers' — this I say to you, O goddesses. May I win a horse, a cow, a garment, and your self, O man.",
+  "new": "'Plants', O mothers — this I say to you, O goddesses. May I win a horse, a cow, a garment, and your self, O man.",
+  "why": "reviewer (error): iti follows only oṣadhīḥ. mātaraḥ is a vocative (the draft's own gram: f. voc. pl.), not a second quoted name. The quotation marks around 'mothers' contradict the gram."
+ },
+ {
+  "n": "78",
+  "field": "hindi",
+  "old": "'औषधियाँ', 'माताएँ' — हे देवियो, यह मैं तुमसे कहता हूँ। मैं घोड़ा, गाय, वस्त्र और तेरा आत्मा पा सकूँ, हे पुरुष।",
+  "new": "'औषधियाँ' — हे माताओ, हे देवियो, यह मैं तुमसे कहता हूँ। मैं घोड़ा, गाय, वस्त्र और तेरा आत्मा पा सकूँ, हे पुरुष।",
+  "why": "reviewer (error): Same error in Hindi: 'माताएँ' is put in quotation marks, but mātaraḥ is vocative."
+ },
+ {
+  "n": "73",
+  "field": "gram",
+  "old": "m. nom. pl.",
+  "new": "adj., nom./voc. pl. (agreement uncertain)",
+  "manual": true
+ },
+ {
+  "n": "73",
+  "field": "english",
+  "old": "Be released, O aghnyā; going the gods' way, we have gone",
+  "new": "Be released, O aghnyā, going the gods' way; we have gone",
+  "manual": true
+ },
+ {
+  "n": "73",
+  "field": "hindi",
+  "old": "हे अघ्न्या, मुक्त हो जाओ; देवों के मार्ग पर चलने वाले हम इस",
+  "new": "हे अघ्न्या, देवों के मार्ग पर चलने वाली, मुक्त हो जाओ; हम इस",
+  "manual": true
+ },
+ {
+  "n": "74",
+  "field": "gloss",
+  "old": "the sun",
+  "new": "Sūra (obscure; possibly the sun)",
+  "manual": true
+ },
+ {
+  "n": "74",
+  "field": "english",
+  "old": "in concert, the sun with Etaśa",
+  "new": "in concert, Sūra with Etaśa",
+  "manual": true
+ },
+ {
+  "n": "74",
+  "field": "notes",
+  "old": "sūra is rendered 'the sun'.",
+  "new": "Sūra is kept as a name in both languages (it may be the sun).",
+  "manual": true
+ }
+]

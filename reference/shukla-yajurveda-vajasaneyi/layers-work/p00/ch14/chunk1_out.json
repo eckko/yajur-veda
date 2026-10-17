@@ -162,10 +162,10 @@
     ]
    }
   ],
-  "hindi": "",
-  "english": "",
+  "hindi": "तुम दृढ़ निवास वाली हो, दृढ़ योनि वाली हो, तुम दृढ़ हो। दृढ़ योनि में भली-भाँति बैठो, उख्य के प्रथम ध्वज का सेवन करती हुई। दोनों अश्विन अध्वर्यु तुम्हें यहाँ बिठाएँ।",
+  "english": "You are firm in dwelling, firm in womb, you are firm. Sit in the firm womb, rightly, delighting in the first banner of the ukhya. May the two Aśvins, the two adhvaryus, seat you here.",
   "text_flags": [],
-  "notes": "",
+  "notes": "ukhyasya is taken as 'of the ukhya' (belonging to the pot); the sense of 'banner of the ukhya' is not explained by the line. juṣāṇā is feminine and agrees with the addressed 'you' (tvā). The unit is one printed line containing a half-verse break (|).",
   "confidence": "medium"
  },
  {
@@ -370,10 +370,16 @@
     ]
    }
   ],
-  "hindi": "",
-  "english": "",
-  "text_flags": [],
-  "notes": "",
+  "hindi": "तुम निवास वाली, घृत से भरी, उदार हो; हे सुखद, पृथ्वी के आसन पर बैठो। रुद्र और वसु तुम्हारी स्तुति करें; इन ब्रह्म-वचनों को सौभाग्य के लिए बढ़ाओ। दोनों अश्विन अध्वर्यु तुम्हें यहाँ बिठाएँ।",
+  "english": "You who have a dwelling, rich in ghee, bountiful, sit, O pleasant one, on the seat of the earth. May the Rudras and the Vasus praise you; make these sacred utterances swell for good fortune. May the two Aśvins, the two adhvaryus, seat you here.",
+  "text_flags": [
+   {
+    "src": "purṷndhiḥ",
+    "suggest": "purandhiḥ",
+    "why": "possible: the usual form is purandhi 'bountiful'; the printed vowel after pur- looks like a variant"
+   }
+  ],
+  "notes": "kulāyinī is uncertain (taken as 'having a dwelling'). In 'imā brahma pīpihi', imā may also be read as nominative plural feminine and brahma/pīpihi construed differently; the plain reading is 'make these sacred utterances swell'. brahma is neuter plural here, not the priest.",
   "confidence": "medium"
  },
  {
@@ -588,10 +594,10 @@
     ]
    }
   ],
-  "hindi": "",
-  "english": "",
+  "hindi": "अपनी शक्तियों से, हे कौशल के स्वामी, देवों की कृपा में, महान आनन्द के लिए यहाँ बैठो। पुत्र के लिए पिता के समान बनो, अत्यन्त सुखद और सरलता से प्रवेश करने योग्य; शरीर के साथ भली-भाँति प्रवेश करो। दोनों अश्विन अध्वर्यु तुम्हें यहाँ बिठाएँ।",
+  "english": "With your own powers, O lord of skill, sit here in the favour of the gods, for great delight. Be like a father to a son, very kind and easy to enter; enter together with the body. May the two Aśvins, the two adhvaryus, seat you here.",
   "text_flags": [],
-  "notes": "",
+  "notes": "dakṣapite 'O lord of skill' and svāveśā 'easy to enter' are tentative. The particle ā in 'sūnava ā' is taken with edhi; its force is unclear.",
   "confidence": "medium"
  },
  {
@@ -811,10 +817,10 @@
     ]
    }
   ],
-  "hindi": "",
-  "english": "",
+  "hindi": "तुम पृथ्वी की मिट्टी हो, अपस नाम वाली; उस तुम्हारी सब देव स्तुति करें। स्तोम को पीठ वाली, घृत से भरी, यहाँ बैठो; हमारे लिए सन्तान सहित धन अर्पित करो। दोनों अश्विन अध्वर्यु तुम्हें यहाँ बिठाएँ।",
+  "english": "You are the soil of the earth, apsas by name; may all the gods praise you, that one. With stoma as your back, rich in ghee, sit here; offer to us wealth together with offspring. May the two Aśvins, the two adhvaryus, seat you here.",
   "text_flags": [],
-  "notes": "",
+  "notes": "apsaḥ is an obscure term and is left untranslated. 'draviṇā ā yajasva' is rendered 'offer wealth'; the exact sense of ā-√yaj here is uncertain.",
   "confidence": "medium"
  },
  {
@@ -1010,10 +1016,10 @@
     ]
    }
   ],
-  "hindi": "",
-  "english": "",
+  "hindi": "मैं तुम्हें अदिति की पीठ पर बैठाता हूँ, अन्तरिक्ष को धारण करने वाली, थामने वाली, दिशाओं की स्वामिनी, भुवनों की। तुम जल की लहर और जल की बूँद हो; विश्वकर्मा तुम्हारे ऋषि हैं। दोनों अश्विन अध्वर्यु तुम्हें यहाँ बिठाएँ।",
+  "english": "I seat you on the back of Aditi, the supporter of the atmosphere, the prop, the mistress of the directions, of the worlds. You are the wave, the drop of the waters; Viśvakarman is your sage. May the two Aśvins, the two adhvaryus, seat you here.",
   "text_flags": [],
-  "notes": "",
+  "notes": "adityāḥ is taken as the genitive of Aditi. The line has a half-verse break (|) before ūrmiḥ; 'of the waters' (apām) is taken with both 'wave' and 'drop'.",
   "confidence": "medium"
  },
  {
@@ -1368,10 +1374,10 @@
     ]
    }
   ],
-  "hindi": "",
-  "english": "",
+  "hindi": "शुक्र और शुचि, ग्रीष्म की दोनों ऋतुएँ: तुम अग्नि के भीतर संयोजन हो। द्यावापृथिवी व्यवस्थित हों, जल और ओषधियाँ व्यवस्थित हों, अग्नियाँ व्यवस्थित हों; अलग-अलग ज्येष्ठता के लिए नमस्कार, समान व्रत वाले। जो अग्नियाँ समान मन वाली इन द्यावापृथिवी के बीच हैं; ग्रीष्म की दोनों ऋतुएँ, व्यवस्थित होती हुई, जैसे देव इन्द्र में प्रवेश करते हैं वैसे साथ-साथ प्रवेश करें। उस देवता के साथ अङ्गिरा के समान तुम दोनों दृढ़ होकर बैठो।",
+  "english": "Śukra and Śuci, the two seasons of summer: you are the joining within Agni. May heaven and earth be ordered, may the waters, the plants, the fires be ordered, each separately; homage for seniority, of the same observance. The fires which, like-minded, are between these two, heaven and earth: the two seasons of summer, being ordered, let them enter together, as the gods enter Indra. With that deity, like Aṅgiras, sit firm, you two.",
   "text_flags": [],
-  "notes": "",
+  "notes": "kalpetām etc. are forms of √kḷp, rendered 'be ordered'; the sense is tentative. 'agner antaḥ śleṣo 'si' is rendered literally ('joining within Agni'). The grammatical subject of abhisaṃviśantu (dual seasons with a plural verb) is uncertain, and 'indram iva devāḥ' could also be read 'the gods, like Indra'. Śukra and Śuci are kept as names; the line does not state what they are.",
   "confidence": "medium"
  },
  {
@@ -2033,10 +2039,10 @@
     ]
    }
   ],
-  "hindi": "",
-  "english": "",
+  "hindi": "ऋतुओं के साथ मिलकर, विधाओं के साथ मिलकर, देवों के साथ मिलकर, देवों के साथ मिलकर, वयोनाधों के साथ: तुम्हें अग्नि वैश्वानर के लिए। दोनों अश्विन अध्वर्यु तुम्हें यहाँ बिठाएँ। ऋतुओं के साथ मिलकर, विधाओं के साथ मिलकर, वसुओं के साथ मिलकर, देवों के साथ मिलकर, वयोनाधों के साथ: तुम्हें अग्नि वैश्वानर के लिए। दोनों अश्विन अध्वर्यु तुम्हें यहाँ बिठाएँ। ऋतुओं के साथ मिलकर, विधाओं के साथ मिलकर, रुद्रों के साथ मिलकर, देवों के साथ मिलकर, वयोनाधों के साथ: तुम्हें अग्नि वैश्वानर के लिए। दोनों अश्विन अध्वर्यु तुम्हें यहाँ बिठाएँ। ऋतुओं के साथ मिलकर, विधाओं के साथ मिलकर, आदित्यों के साथ मिलकर, देवों के साथ मिलकर, वयोनाधों के साथ: तुम्हें अग्नि वैश्वानर के लिए। दोनों अश्विन अध्वर्यु तुम्हें यहाँ बिठाएँ। ऋतुओं के साथ मिलकर, विधाओं के साथ मिलकर, सब देवों के साथ मिलकर, देवों के साथ मिलकर, वयोनाधों के साथ: तुम्हें अग्नि वैश्वानर के लिए। दोनों अश्विन अध्वर्यु तुम्हें यहाँ बिठाएँ।",
+  "english": "United with the seasons, united with the ordinances, united with the gods, united with the gods, the vayonādhas: you for Agni Vaiśvānara. May the two Aśvins, the two adhvaryus, seat you here. United with the seasons, united with the ordinances, united with the Vasus, united with the gods, the vayonādhas: you for Agni Vaiśvānara. May the two Aśvins, the two adhvaryus, seat you here. United with the seasons, united with the ordinances, united with the Rudras, united with the gods, the vayonādhas: you for Agni Vaiśvānara. May the two Aśvins, the two adhvaryus, seat you here. United with the seasons, united with the ordinances, united with the Ādityas, united with the gods, the vayonādhas: you for Agni Vaiśvānara. May the two Aśvins, the two adhvaryus, seat you here. United with the seasons, united with the ordinances, united with all the gods, united with the gods, the vayonādhas: you for Agni Vaiśvānara. May the two Aśvins, the two adhvaryus, seat you here.",
   "text_flags": [],
-  "notes": "",
+  "notes": "Five parallel lines of one numbered verse; only the third member changes (devaiḥ, vasubhiḥ, rudraiḥ, ādityaiḥ, viśvair devaiḥ). vayonādhaiḥ is an obscure term and is left untranslated; vidhābhiḥ is rendered 'ordinances' tentatively. The finite verb for 'you' is not stated: 'you for Agni Vaiśvānara' is left as printed. Line 1 repeats 'with the gods' twice as printed.",
   "confidence": "medium"
  },
  {
@@ -2301,10 +2307,10 @@
     ]
    }
   ],
-  "hindi": "",
-  "english": "",
+  "hindi": "मेरे प्राण की रक्षा करो, मेरे अपान की रक्षा करो, मेरे व्यान की रक्षा करो; मेरी आँख के लिए विस्तार से चमको; मेरे कान को यशस्वी करो। जलों को बढ़ाओ, ओषधियों को तृप्त करो; दो पैर वालों की रक्षा करो, चार पैर वालों की रक्षा करो; द्युलोक से वर्षा को प्रेरित करो।",
+  "english": "Protect my breath, protect my out-breath, protect my diffused breath; shine widely for my eye; make my ear renowned. Swell the waters, quicken the plants; guard the two-footed, protect the four-footed; send forth the rain from heaven.",
   "text_flags": [],
-  "notes": "",
+  "notes": "'cakṣur me urvyā vi bhāhi' is rendered 'shine widely for my eye'; the case role of cakṣuḥ is unclear. prāṇa, apāna, vyāna are rendered by their literal senses (breath, out-breath, diffused breath). dvipād and catuṣpād are left as 'two-footed' and 'four-footed' without saying what they refer to.",
   "confidence": "medium"
  },
  {
@@ -2758,10 +2764,10 @@
     ]
    }
   ],
-  "hindi": "",
-  "english": "",
+  "hindi": "सिर वयस् है, प्रजापति छन्द है; क्षत्र वयस् है, मयन्द छन्द है; आधार-स्तम्भ वयस् है, अधिपति छन्द है। विश्वकर्मा वयस् है, परमेष्ठी छन्द है; बकरा वयस् है, विवल छन्द है; मेढ़ा वयस् है, विशाल छन्द है। पुरुष वयस् है, तन्द्र छन्द है; बाघ वयस् है, अनाधृष्ट छन्द है; सिंह वयस् है, छदि छन्द है; पष्ठवाट् वयस् है, बृहती छन्द है; उक्षा वयस् है, ककुभ् छन्द है; ऋषभ वयस् है, सतोबृहती छन्द है।",
+  "english": "The head is the vayas, Prajāpati the metre; ruling power is the vayas, the mayanda the metre; the prop is the vayas, the overlord the metre. Viśvakarman is the vayas, Parameṣṭhin the metre; the he-goat is the vayas, the vivala the metre; the ram is the vayas, the wide the metre. The man is the vayas, the tandra the metre; the tiger is the vayas, the unassailable the metre; the lion is the vayas, the chadis the metre; the paṣṭhavāh is the vayas, Bṛhatī the metre; the bull (ukṣan) is the vayas, Kakubh the metre; the bull (ṛṣabha) is the vayas, Satobṛhatī the metre.",
   "text_flags": [],
-  "notes": "",
+  "notes": "Each pair reads 'X is the vayas, Y the metre'. vayas (age, vigour; also 'bird') is left untranslated because the line does not fix its sense. mayanda, vivala, tandra, chadis and paṣṭhavāh are obscure and left transliterated; viśāla 'wide' and anādhṛṣṭa 'unassailable' are plain adjectives used as metre names. Lines b and c contain double spaces in the input (after chandaḥ and after chanda).",
   "confidence": "medium"
  },
  {
@@ -3032,11 +3038,17 @@
     ]
    }
   ],
-  "hindi": "",
-  "english": "",
-  "text_flags": [],
-  "notes": "",
-  "confidence": "medium"
+  "hindi": "बैल वयस् है, पंक्ति छन्द है; दुधारू गाय वयस् है, जगती छन्द है; त्र्यवि वयस् है, त्रिष्टुप् छन्द है; दित्यवाट् वयस् है, विराज् छन्द है; पञ्चावि वयस् है, गायत्री छन्द है; त्रिवत्स वयस् है, उष्णिक् छन्द है; तुर्यवाट् वयस् है, अनुष्टुप् छन्द है। फिर अंश: लोक, ता, इन्द्र को।",
+  "english": "The ox is the vayas, Paṅkti the metre; the milch cow is the vayas, Jagatī the metre; the tryavi is the vayas, Triṣṭubh the metre; the dityavāh is the vayas, Virāj the metre; the pañcāvi is the vayas, Gāyatrī the metre; the trivatsa is the vayas, Uṣṇih the metre; the turyavāh is the vayas, Anuṣṭubh the metre. Then the fragment: the world, tā, Indra.",
+  "text_flags": [
+   {
+    "src": "tā",
+    "suggest": "unclear fragment, possibly the opening words (pratīka) of the next formula",
+    "why": "possible: 'lokaṃ tā indram' does not fit the preceding pattern and has no verb"
+   }
+  ],
+  "notes": "GROUPING: the closing words 'lokaṃ tā indram' look like a stray incipit (pratīka) of the following formula, not part of this unit; they are translated only as a fragment. tryavi, dityavāh, pañcāvi, trivatsa and turyavāh are obscure animal terms and are left transliterated; vayas is left untranslated. Double spaces occur in the input (before 'ʼstuṣṭup', after chando and after lokaṃ).",
+  "confidence": "low"
  },
  {
   "n": "11",
@@ -3155,10 +3167,10 @@
     ]
    }
   ],
-  "hindi": "",
-  "english": "",
+  "hindi": "हे इन्द्र और अग्नि, तुम दोनों अडिग ईंट को दृढ़ करो। पीठ से तुम द्यावापृथिवी और अन्तरिक्ष को अलग-अलग धकेलते हो।",
+  "english": "O Indra and Agni, make the unwavering brick firm, you two. With its back you push apart heaven and earth and the atmosphere.",
   "text_flags": [],
-  "notes": "",
+  "notes": "bādhase is second person singular after a dual address; the subject of the second line is taken to be the brick, which is not stated. vi-√bādh is rendered 'push apart'.",
   "confidence": "medium"
  },
  {
@@ -3341,7 +3353,7 @@
       "words": [
        {
         "w": "pratiṣṭhāyai",
-        "gloss": "for support",
+        "gloss": "for foundation",
         "gram": "f. dat. sg."
        }
       ]
@@ -3415,7 +3427,7 @@
       "words": [
        {
         "w": "chardiṣā",
-        "gloss": "with shelter",
+        "gloss": "with covering",
         "gram": "n. inst. sg."
        }
       ]
@@ -3478,10 +3490,10 @@
     ]
    }
   ],
-  "hindi": "",
-  "english": "",
+  "hindi": "विश्वकर्मा तुम्हें अन्तरिक्ष की पीठ पर बिठाए, विशाल और विस्तृत तुम्हें। अन्तरिक्ष को थामो, अन्तरिक्ष को दृढ़ करो, अन्तरिक्ष को हानि न पहुँचाओ। सब प्राण के लिए, अपान के लिए, व्यान के लिए, उदान के लिए, प्रतिष्ठा के लिए, गति के लिए। वायु तुम्हारी रक्षा करे, महान कल्याण और अत्यन्त सुखद आवरण के साथ। उस देवता के साथ अङ्गिरा के समान दृढ़ होकर बैठो।",
+  "english": "May Viśvakarman seat you on the back of the atmosphere, you who are spacious and broad. Hold the atmosphere, make the atmosphere firm, do not harm the atmosphere. For all breath, for out-breath, for diffused breath, for up-breath, for foundation, for movement. May Vāyu protect you, with great well-being and with most beneficial covering. With that deity, like Aṅgiras, sit firm.",
   "text_flags": [],
-  "notes": "",
+  "notes": "The second sentence of line a lists datives ('for breath ... for movement') without a verb in this unit. mahyā is taken as the feminine instrumental of mahī 'great' with svastyā; chardis is rendered 'covering'. Line a contains a half-verse break (|).",
   "confidence": "medium"
  },
  {
@@ -3634,7 +3646,7 @@
       "words": [
        {
         "w": "bṛhatī",
-        "gloss": "Bṛhatī",
+        "gloss": "great",
         "gram": "f. nom. sg."
        }
       ]
@@ -3652,11 +3664,11 @@
     ]
    }
   ],
-  "hindi": "",
-  "english": "",
+  "hindi": "तुम रानी हो, पूर्व दिशा; तुम विराज् हो, दक्षिण दिशा; तुम सम्राज् हो, पश्चिम दिशा; तुम स्वराज् हो, उत्तर दिशा; तुम अधिपत्नी हो, महान दिशा।",
+  "english": "You are the queen, the eastern direction; you are Virāj, the southern direction; you are Samrāj, the western direction; you are Svarāj, the northern direction; you are the mistress, the great direction.",
   "text_flags": [],
-  "notes": "",
-  "confidence": "medium"
+  "notes": "virāj, samrāj, svarāj are rendered as titles kept in transliteration. bṛhatī dik is rendered 'the great direction'; the line does not say which direction it is.",
+  "confidence": "high"
  },
  {
   "n": "14",
@@ -3849,10 +3861,10 @@
     ]
    }
   ],
-  "hindi": "",
-  "english": "",
+  "hindi": "विश्वकर्मा तुम्हें अन्तरिक्ष की पीठ पर बिठाए, प्रकाश से भरी तुम्हें। सब प्राण के लिए, अपान के लिए, व्यान के लिए सारा प्रकाश दो। वायु तुम्हारा अधिपति है; उस देवता के साथ अङ्गिरा के समान दृढ़ होकर बैठो।",
+  "english": "May Viśvakarman seat you on the back of the atmosphere, you who are full of light. For all breath, for out-breath, for diffused breath, grant all light. Vāyu is your overlord; with that deity, like Aṅgiras, sit firm.",
   "text_flags": [],
-  "notes": "",
+  "notes": "viśvasmai is taken with prāṇāya only (all breath); it could also govern all three datives.",
   "confidence": "medium"
  },
  {
@@ -4207,10 +4219,10 @@
     ]
    }
   ],
-  "hindi": "",
-  "english": "",
+  "hindi": "नभस् और नभस्य, वर्षा की दोनों ऋतुएँ: तुम अग्नि के भीतर संयोजन हो। द्यावापृथिवी व्यवस्थित हों, जल और ओषधियाँ व्यवस्थित हों, अग्नियाँ व्यवस्थित हों; अलग-अलग ज्येष्ठता के लिए नमस्कार, समान व्रत वाले। जो अग्नियाँ समान मन वाली इन द्यावापृथिवी के बीच हैं; वर्षा की दोनों ऋतुएँ, व्यवस्थित होती हुई, जैसे देव इन्द्र में प्रवेश करते हैं वैसे साथ-साथ प्रवेश करें। उस देवता के साथ अङ्गिरा के समान तुम दोनों दृढ़ होकर बैठो।",
+  "english": "Nabhas and Nabhasya, the two seasons of the rains: you are the joining within Agni. May heaven and earth be ordered, may the waters, the plants, the fires be ordered, each separately; homage for seniority, of the same observance. The fires which, like-minded, are between these two, heaven and earth: the two seasons of the rains, being ordered, let them enter together, as the gods enter Indra. With that deity, like Aṅgiras, sit firm, you two.",
   "text_flags": [],
-  "notes": "",
+  "notes": "kalpetām etc. are forms of √kḷp, rendered 'be ordered'; the sense is tentative. 'agner antaḥ śleṣo 'si' is rendered literally ('joining within Agni'). The grammatical subject of abhisaṃviśantu (dual seasons with a plural verb) is uncertain, and 'indram iva devāḥ' could also be read 'the gods, like Indra'. Nabhas and Nabhasya are kept as names; the line does not state what they are.",
   "confidence": "medium"
  },
  {
@@ -4550,10 +4562,10 @@
     ]
    }
   ],
-  "hindi": "",
-  "english": "",
+  "hindi": "इष और ऊर्ज, शरद की दोनों ऋतुएँ: तुम अग्नि के भीतर संयोजन हो। द्यावापृथिवी व्यवस्थित हों, जल और ओषधियाँ व्यवस्थित हों, अग्नियाँ व्यवस्थित हों; अलग-अलग ज्येष्ठता के लिए नमस्कार, समान व्रत वाले। जो अग्नियाँ समान मन वाली इन द्यावापृथिवी के बीच हैं; शरद की दोनों ऋतुएँ, व्यवस्थित होती हुई, जैसे देव इन्द्र में प्रवेश करते हैं वैसे साथ-साथ प्रवेश करें। उस देवता के साथ अङ्गिरा के समान तुम दोनों दृढ़ होकर बैठो।",
+  "english": "Iṣa and Ūrja, the two seasons of autumn: you are the joining within Agni. May heaven and earth be ordered, may the waters, the plants, the fires be ordered, each separately; homage for seniority, of the same observance. The fires which, like-minded, are between these two, heaven and earth: the two seasons of autumn, being ordered, let them enter together, as the gods enter Indra. With that deity, like Aṅgiras, sit firm, you two.",
   "text_flags": [],
-  "notes": "",
+  "notes": "kalpetām etc. are forms of √kḷp, rendered 'be ordered'; the sense is tentative. 'agner antaḥ śleṣo 'si' is rendered literally ('joining within Agni'). The grammatical subject of abhisaṃviśantu (dual seasons with a plural verb) is uncertain, and 'indram iva devāḥ' could also be read 'the gods, like Indra'. Iṣa and Ūrja are kept as names; the line does not state what they are. Line b has a double space after abhikalpamānā in the input.",
   "confidence": "medium"
  },
  {
@@ -7526,10 +7538,10 @@
     ]
    }
   ],
-  "hindi": "",
-  "english": "",
+  "hindi": "सह और सहस्य, हेमन्त की दोनों ऋतुएँ: तुम अग्नि के भीतर संयोजन हो। द्यावापृथिवी व्यवस्थित हों, जल और ओषधियाँ व्यवस्थित हों, अग्नियाँ व्यवस्थित हों; अलग-अलग ज्येष्ठता के लिए नमस्कार, समान व्रत वाले। जो अग्नियाँ समान मन वाली इन द्यावापृथिवी के बीच हैं; हेमन्त की दोनों ऋतुएँ, व्यवस्थित होती हुई, जैसे देव इन्द्र में प्रवेश करते हैं वैसे साथ-साथ प्रवेश करें। उस देवता के साथ अङ्गिरा के समान तुम दोनों दृढ़ होकर बैठो।",
+  "english": "Saha and Sahasya, the two seasons of Hemanta: you are the joining within Agni. May heaven and earth be ordered, may the waters, the plants, the fires be ordered, each separately; homage for seniority, of the same observance. The fires which, like-minded, are between these two, heaven and earth: the two seasons of Hemanta, being ordered, let them enter together, as the gods enter Indra. With that deity, like Aṅgiras, sit firm, you two.",
   "text_flags": [],
-  "notes": "",
+  "notes": "kalpetām etc. are forms of √kḷp, rendered 'be ordered'; the sense is tentative. 'agner antaḥ śleṣo 'si' is rendered literally ('joining within Agni'). The grammatical subject of abhisaṃviśantu (dual seasons with a plural verb) is uncertain, and 'indram iva devāḥ' could also be read 'the gods, like Indra'. Saha and Sahasya are kept as names; the line does not state what they are.",
   "confidence": "medium"
  },
  {
