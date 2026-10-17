@@ -1,0 +1,1274 @@
+[
+ {
+  "n": "1",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "dṛ̱śā̱no",
+      "words": [
+       {
+        "w": "dṛśānaḥ",
+        "gloss": "visible",
+        "gram": "m. nom. sg. pres. part. √dṛś"
+       }
+      ]
+     },
+     {
+      "src": "ru̱kma",
+      "words": [
+       {
+        "w": "rukmaḥ",
+        "gloss": "bright ornament, shining one",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "u̱rvyā",
+      "words": [
+       {
+        "w": "urvyā",
+        "gloss": "widely",
+        "gram": "f. inst. sg. used as adv."
+       }
+      ]
+     },
+     {
+      "src": "vya̭dyaud",
+      "words": [
+       {
+        "w": "vi",
+        "gloss": "apart, forth",
+        "gram": "ind."
+       },
+       {
+        "w": "adyaut",
+        "gloss": "shone",
+        "gram": "3 sg. aor. √dyut"
+       }
+      ]
+     },
+     {
+      "src": "du̱rmarṣa̱māyṷḥ",
+      "words": [
+       {
+        "w": "durmarṣam",
+        "gloss": "hard to bear",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "āyuḥ",
+        "gloss": "life, vital force",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "śri̱ye",
+      "words": [
+       {
+        "w": "śriye",
+        "gloss": "for splendour",
+        "gram": "f. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "rṷcā̱naḥ",
+      "words": [
+       {
+        "w": "rucānaḥ",
+        "gloss": "shining",
+        "gram": "m. nom. sg. pres. part. mid. √ruc"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "a̱gnira̱mṛto̭",
+      "words": [
+       {
+        "w": "agniḥ",
+        "gloss": "Agni",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "amṛtaḥ",
+        "gloss": "immortal",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "abhava̱dvayo̭bhi̱ryadḙna̱ṃ",
+      "words": [
+       {
+        "w": "abhavat",
+        "gloss": "became",
+        "gram": "3 sg. impf. √bhū"
+       },
+       {
+        "w": "vayobhiḥ",
+        "gloss": "with vital powers",
+        "gram": "n. inst. pl."
+       },
+       {
+        "w": "yat",
+        "gloss": "when",
+        "gram": "ind."
+       },
+       {
+        "w": "enam",
+        "gloss": "him",
+        "gram": "pron. m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "dyauraja̭nayatsu̱retā̭ḥ",
+      "words": [
+       {
+        "w": "dyauḥ",
+        "gloss": "heaven",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ajanayat",
+        "gloss": "begot",
+        "gram": "3 sg. impf. caus. √jan"
+       },
+       {
+        "w": "suretāḥ",
+        "gloss": "of good seed",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "दिखाई देता हुआ, चमकीला रुक्म विस्तार से दमका; शोभा के लिए दीप्त होता हुआ, दुःसह आयु वाला। अग्नि जीवन-शक्तियों के साथ अमर हो गया, जब उत्तम बीज वाले द्यौ ने उसे उत्पन्न किया।",
+  "english": "Visible, the bright rukma shone forth widely, a life hard to bear, shining for splendour. Agni became immortal with vital powers, when Heaven, of good seed, begot him.",
+  "text_flags": [],
+  "notes": "rukma (bright ornament) and vayas (vital powers; also food or birds) are rendered literally; the construction of durmarṣam āyuḥ (acc. \"hard to bear life\") is unclear and may qualify rukma or be an object; alternatives not resolved. The unit repeats at 25.",
+  "confidence": "medium"
+ },
+ {
+  "n": "2",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "nakto̱ṣāsā̱",
+      "words": [
+       {
+        "w": "naktoṣāsā",
+        "gloss": "night and dawn",
+        "gram": "f. nom. du. dvandva"
+       }
+      ]
+     },
+     {
+      "src": "sama̭nasā̱",
+      "words": [
+       {
+        "w": "samanasā",
+        "gloss": "of one mind",
+        "gram": "f. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "virṷ̄pe",
+      "words": [
+       {
+        "w": "virūpe",
+        "gloss": "of different forms",
+        "gram": "f. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "dhā̱payḙte̱",
+      "words": [
+       {
+        "w": "dhāpayete",
+        "gloss": "both suckle",
+        "gram": "3 du. pres. mid. caus. √dhe"
+       }
+      ]
+     },
+     {
+      "src": "śiśu̱meka̭ᳪ",
+      "words": [
+       {
+        "w": "śiśum",
+        "gloss": "child",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "ekam",
+        "gloss": "one",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "samī̱cī",
+      "words": [
+       {
+        "w": "samīcī",
+        "gloss": "united, together",
+        "gram": "f. nom. du."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "dyāvā̱kṣāmā̭",
+      "words": [
+       {
+        "w": "dyāvākṣāmā",
+        "gloss": "heaven and earth",
+        "gram": "f. nom. du. dvandva"
+       }
+      ]
+     },
+     {
+      "src": "ru̱kmo",
+      "words": [
+       {
+        "w": "rukmaḥ",
+        "gloss": "bright ornament, shining one",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "a̱ntarvi",
+      "words": [
+       {
+        "w": "antar",
+        "gloss": "within",
+        "gram": "ind."
+       },
+       {
+        "w": "vi",
+        "gloss": "apart",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bhā̭ti",
+      "words": [
+       {
+        "w": "bhāti",
+        "gloss": "shines",
+        "gram": "3 sg. pres. √bhā"
+       }
+      ]
+     },
+     {
+      "src": "de̱vā",
+      "words": [
+       {
+        "w": "devāḥ",
+        "gloss": "gods",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "a̱gniṃ",
+      "words": [
+       {
+        "w": "agnim",
+        "gloss": "Agni",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "dhā̭rayandraviṇo̱dāḥ",
+      "words": [
+       {
+        "w": "dhārayan",
+        "gloss": "held",
+        "gram": "3 pl. impf. caus. √dhṛ"
+       },
+       {
+        "w": "draviṇo-dāḥ",
+        "gloss": "wealth-giving",
+        "gram": "m. nom. pl. tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "रात और उषा, एक मन वाली, भिन्न रूपों वाली, मिलकर एक शिशु को दूध पिलाती हैं। द्यावा और क्षामा के भीतर रुक्म चमकता है; धन देने वाले देवों ने अग्नि को धारण किया।",
+  "english": "Night and Dawn, of one mind and of different forms, together nurse the one child. Between Heaven and Earth the rukma shines forth; the wealth-giving gods held Agni.",
+  "text_flags": [],
+  "notes": "dhāpayete: \"suckle\" (caus. of √dhe) taken literally. antar vi bhāti: \"shines within/between\" taken with dyāvākṣāmā; the sense of kṣāmā as \"earth\" is taken from usage. dhārayan is an augmentless 3 pl. form (read as past).",
+  "confidence": "medium"
+ },
+ {
+  "n": "3",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "viśvā̭",
+      "words": [
+       {
+        "w": "viśvā",
+        "gloss": "all",
+        "gram": "n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "rū̱pāṇi̱",
+      "words": [
+       {
+        "w": "rūpāṇi",
+        "gloss": "forms",
+        "gram": "n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "prati̭",
+      "words": [
+       {
+        "w": "prati",
+        "gloss": "on, towards",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "muñcate",
+      "words": [
+       {
+        "w": "muñcate",
+        "gloss": "puts on",
+        "gram": "3 sg. pres. mid. √muc"
+       }
+      ]
+     },
+     {
+      "src": "ka̱viḥ",
+      "words": [
+       {
+        "w": "kaviḥ",
+        "gloss": "seer",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "prāsā̭vīdbha̱draṃ",
+      "words": [
+       {
+        "w": "prāsāvīt",
+        "gloss": "impelled",
+        "gram": "3 sg. aor. pra-√su"
+       },
+       {
+        "w": "bhadram",
+        "gloss": "good",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "dvi̱pade̱",
+      "words": [
+       {
+        "w": "dvi-pade",
+        "gloss": "two-footed",
+        "gram": "m. dat. sg. bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "catṷṣpade",
+      "words": [
+       {
+        "w": "catuḥ-pade",
+        "gloss": "four-footed",
+        "gram": "m. dat. sg. bahuvrīhi"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "vi",
+      "words": [
+       {
+        "w": "vi",
+        "gloss": "forth",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "nāka̭makhyatsavi̱tā",
+      "words": [
+       {
+        "w": "nākam",
+        "gloss": "firmament",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "akhyat",
+        "gloss": "lit up, looked upon",
+        "gram": "3 sg. aor. √khyā"
+       },
+       {
+        "w": "savitā",
+        "gloss": "Savitṛ",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vare̱ṇyo'nṷ",
+      "words": [
+       {
+        "w": "vareṇyaḥ",
+        "gloss": "excellent",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "anu",
+        "gloss": "after",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pra̱yāṇa̭mu̱ṣaso̱",
+      "words": [
+       {
+        "w": "prayāṇam",
+        "gloss": "course",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "uṣasaḥ",
+        "gloss": "of the dawns",
+        "gram": "f. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "vi",
+      "words": [
+       {
+        "w": "vi",
+        "gloss": "forth",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "rā̭jati",
+      "words": [
+       {
+        "w": "rājati",
+        "gloss": "shines",
+        "gram": "3 sg. pres. √rāj"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "कवि सब रूपों को धारण करता है; उसने दो पैर वाले और चार पैर वाले के लिए कल्याणकारी को प्रेरित किया। श्रेष्ठ सविता ने आकाश को प्रकाशित किया और उषाओं के प्रयाण के पीछे चमकता है।",
+  "english": "The seer puts on all forms; he has impelled what is good for the two-footed and the four-footed. Savitṛ, the excellent, has lit up the firmament and shines forth after the course of the dawns.",
+  "text_flags": [],
+  "notes": "nāka rendered \"firmament\"; the glossary renders nāka as heaven (स्वर्ग) in Hindi only where required, here the Hindi uses आकाश for the literal \"vault\"; vi akhyat read as \"lit up\". Alternative: \"looked upon\".",
+  "confidence": "medium"
+ },
+ {
+  "n": "4",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "su̱pa̱rṇo̱'si",
+      "words": [
+       {
+        "w": "suparṇaḥ",
+        "gloss": "fair-winged",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "asi",
+        "gloss": "you are",
+        "gram": "2 sg. pres. √as"
+       }
+      ]
+     },
+     {
+      "src": "ga̱rutmā̭~stri̱vṛtte̱",
+      "words": [
+       {
+        "w": "garutmān",
+        "gloss": "winged",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "trivṛt",
+        "gloss": "trivṛt",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "te",
+        "gloss": "your",
+        "gram": "gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "śiro̭",
+      "words": [
+       {
+        "w": "śiraḥ",
+        "gloss": "head",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "gāya̱traṃ",
+      "words": [
+       {
+        "w": "gāyatram",
+        "gloss": "gāyatra",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "cakṣṷrbṛhadrathanta̱re",
+      "words": [
+       {
+        "w": "cakṣuḥ",
+        "gloss": "eye",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "bṛhad-rathantare",
+        "gloss": "bṛhat and rathantara",
+        "gram": "n. nom. du. dvandva"
+       }
+      ]
+     },
+     {
+      "src": "pakṣau",
+      "words": [
+       {
+        "w": "pakṣau",
+        "gloss": "two wings",
+        "gram": "m. nom. du."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "stoma̭",
+      "words": [
+       {
+        "w": "stomaḥ",
+        "gloss": "stoma",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ā̱tmā",
+      "words": [
+       {
+        "w": "ātmā",
+        "gloss": "self",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "chandā̱ᳪsyaṅgā̭ni̱",
+      "words": [
+       {
+        "w": "chandāṃsi",
+        "gloss": "metres",
+        "gram": "n. nom. pl."
+       },
+       {
+        "w": "aṅgāni",
+        "gloss": "limbs",
+        "gram": "n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "yajṷ̄~ᳪṣi̱",
+      "words": [
+       {
+        "w": "yajūṃṣi",
+        "gloss": "yajus formulas",
+        "gram": "n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "nāma̭",
+      "words": [
+       {
+        "w": "nāma",
+        "gloss": "name",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "|",
+      "words": [
+       {
+        "w": "|",
+        "gloss": "pause mark",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "sāma̭",
+      "words": [
+       {
+        "w": "sāma",
+        "gloss": "sāman",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "te",
+      "words": [
+       {
+        "w": "te",
+        "gloss": "your",
+        "gram": "gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "ta̱nūrvā̭made̱vyaṃ",
+      "words": [
+       {
+        "w": "tanūḥ",
+        "gloss": "body",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "vāmadevyam",
+        "gloss": "vāmadevya",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ya̭jñāya̱jñiya̱ṃ",
+      "words": [
+       {
+        "w": "yajñāyajñiyam",
+        "gloss": "yajñāyajñiya",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "puccha̱ṃ",
+      "words": [
+       {
+        "w": "pucchaṃ",
+        "gloss": "tail",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "dhiṣṇyā̭ḥ",
+      "words": [
+       {
+        "w": "dhiṣṇyāḥ",
+        "gloss": "dhiṣṇyas",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "śa̱pāḥ",
+      "words": [
+       {
+        "w": "śapāḥ",
+        "gloss": "hooves",
+        "gram": "m. nom. pl."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "su̱pa̱rṇo̱'si",
+      "words": [
+       {
+        "w": "suparṇaḥ",
+        "gloss": "fair-winged",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "asi",
+        "gloss": "you are",
+        "gram": "2 sg. pres. √as"
+       }
+      ]
+     },
+     {
+      "src": "ga̱rutmā̱ndiva̭ṃ",
+      "words": [
+       {
+        "w": "garutmān",
+        "gloss": "winged",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "divam",
+        "gloss": "sky",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "gaccha̱",
+      "words": [
+       {
+        "w": "gaccha",
+        "gloss": "go",
+        "gram": "2 sg. imp. √gam"
+       }
+      ]
+     },
+     {
+      "src": "sva̭ḥ",
+      "words": [
+       {
+        "w": "svar",
+        "gloss": "light, heaven",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "pata",
+      "words": [
+       {
+        "w": "pata",
+        "gloss": "fly",
+        "gram": "2 sg. imp. √pat"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "तुम सुन्दर पंखों वाले हो, पंखों वाले हो; त्रिवृत् तुम्हारा सिर है, गायत्र आँख है, बृहत् और रथन्तर दोनों पंख हैं। स्तोम आत्मा है, छन्द अंग हैं, यजुस् नाम हैं; साम तुम्हारा शरीर है, वामदेव्य और यज्ञायज्ञिय पूँछ हैं, धिष्ण्य खुर हैं। तुम सुन्दर पंखों वाले हो, पंखों वाले हो; आकाश की ओर जाओ, स्वर् में उड़ो।",
+  "english": "You are fair-winged, winged; the trivṛt is your head, the gāyatra your eye, the bṛhat and rathantara your two wings. The stoma is the self, the metres are the limbs, the yajus formulas are the name; the sāman is your body, the vāmadevya and yajñāyajñiya are the tail, the dhiṣṇyas are the hooves. You are fair-winged, winged; go to the sky, fly to the light.",
+  "text_flags": [],
+  "notes": "Suparṇa and garutmat are rendered as adjectives (\"fair-winged\", \"winged\") because the line states no identity. dhiṣṇyāḥ and śapāḥ are uncertain: dhiṣṇya (hearth/seat) kept transliterated; śapa rendered \"hoof\"; svar rendered \"light\" (could be heaven). The sentence \"you are the stoma...\" forms: stomaḥ ātmā etc. Taken with te as owner of all items.",
+  "confidence": "medium"
+ },
+ {
+  "n": "5",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "viṣṇo̱ḥ",
+      "words": [
+       {
+        "w": "viṣṇoḥ",
+        "gloss": "of Viṣṇu",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "kramo̭'si",
+      "words": [
+       {
+        "w": "kramaḥ",
+        "gloss": "stride",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "asi",
+        "gloss": "you are",
+        "gram": "2 sg. pres. √as"
+       }
+      ]
+     },
+     {
+      "src": "sapatna̱hā",
+      "words": [
+       {
+        "w": "sapatna-hā",
+        "gloss": "slayer of rivals",
+        "gram": "m. nom. sg. tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "gā̭ya̱traṃ",
+      "words": [
+       {
+        "w": "gāyatram",
+        "gloss": "gāyatra",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "chanda̱",
+      "words": [
+       {
+        "w": "chandaḥ",
+        "gloss": "metre",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ā",
+      "words": [
+       {
+        "w": "ā",
+        "gloss": "up",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ro̭ha",
+      "words": [
+       {
+        "w": "roha",
+        "gloss": "mount",
+        "gram": "2 sg. imp. √ruh"
+       }
+      ]
+     },
+     {
+      "src": "pṛthi̱vīmanu̱",
+      "words": [
+       {
+        "w": "pṛthivīm",
+        "gloss": "earth",
+        "gram": "f. acc. sg."
+       },
+       {
+        "w": "anu",
+        "gloss": "along",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vi",
+      "words": [
+       {
+        "w": "vi",
+        "gloss": "apart",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kra̭masva̱",
+      "words": [
+       {
+        "w": "kramasva",
+        "gloss": "stride",
+        "gram": "2 sg. imp. mid. √kram"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "viṣṇo̱ḥ",
+      "words": [
+       {
+        "w": "viṣṇoḥ",
+        "gloss": "of Viṣṇu",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "kramo̭'syabhimāti̱hā",
+      "words": [
+       {
+        "w": "kramaḥ",
+        "gloss": "stride",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "asi",
+        "gloss": "you are",
+        "gram": "2 sg. pres. √as"
+       },
+       {
+        "w": "abhimāti-hā",
+        "gloss": "slayer of enemies",
+        "gram": "m. nom. sg. tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "trai̭ṣṭubha̱ṃ",
+      "words": [
+       {
+        "w": "traiṣṭubham",
+        "gloss": "traiṣṭubha",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "chanda̱",
+      "words": [
+       {
+        "w": "chandaḥ",
+        "gloss": "metre",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ā",
+      "words": [
+       {
+        "w": "ā",
+        "gloss": "up",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ro̭hā̱ntari̭kṣa̱manu̱",
+      "words": [
+       {
+        "w": "roha",
+        "gloss": "mount",
+        "gram": "2 sg. imp. √ruh"
+       },
+       {
+        "w": "antarikṣam",
+        "gloss": "airy space",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "anu",
+        "gloss": "along",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vi",
+      "words": [
+       {
+        "w": "vi",
+        "gloss": "apart",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kra̭masva",
+      "words": [
+       {
+        "w": "kramasva",
+        "gloss": "stride",
+        "gram": "2 sg. imp. mid. √kram"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "viṣṇo̱ḥ",
+      "words": [
+       {
+        "w": "viṣṇoḥ",
+        "gloss": "of Viṣṇu",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "kramo̭'syarātīya̱to",
+      "words": [
+       {
+        "w": "kramaḥ",
+        "gloss": "stride",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "asi",
+        "gloss": "you are",
+        "gram": "2 sg. pres. √as"
+       },
+       {
+        "w": "arātīyataḥ",
+        "gloss": "of the one acting as a foe",
+        "gram": "m. gen. sg. pres. part."
+       }
+      ]
+     },
+     {
+      "src": "ha̱ntā",
+      "words": [
+       {
+        "w": "hantā",
+        "gloss": "slayer",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "jāga̭ta̱ṃ",
+      "words": [
+       {
+        "w": "jāgatam",
+        "gloss": "jāgata",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "chanda̱",
+      "words": [
+       {
+        "w": "chandaḥ",
+        "gloss": "metre",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ā",
+      "words": [
+       {
+        "w": "ā",
+        "gloss": "up",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ro̭ha̱",
+      "words": [
+       {
+        "w": "roha",
+        "gloss": "mount",
+        "gram": "2 sg. imp. √ruh"
+       }
+      ]
+     },
+     {
+      "src": "diva̱manu̱",
+      "words": [
+       {
+        "w": "divam",
+        "gloss": "sky",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "anu",
+        "gloss": "along",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vi",
+      "words": [
+       {
+        "w": "vi",
+        "gloss": "apart",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kra̭masva",
+      "words": [
+       {
+        "w": "kramasva",
+        "gloss": "stride",
+        "gram": "2 sg. imp. mid. √kram"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "viṣṇo̱ḥ",
+      "words": [
+       {
+        "w": "viṣṇoḥ",
+        "gloss": "of Viṣṇu",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "kramo̭'si",
+      "words": [
+       {
+        "w": "kramaḥ",
+        "gloss": "stride",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "asi",
+        "gloss": "you are",
+        "gram": "2 sg. pres. √as"
+       }
+      ]
+     },
+     {
+      "src": "śatrūya̱to",
+      "words": [
+       {
+        "w": "śatrūyataḥ",
+        "gloss": "of the one acting as an enemy",
+        "gram": "m. gen. sg. pres. part."
+       }
+      ]
+     },
+     {
+      "src": "ha̱ntā''nṷṣṭubha̱ṃ",
+      "words": [
+       {
+        "w": "hantā",
+        "gloss": "slayer",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ānuṣṭubham",
+        "gloss": "anuṣṭubh",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "chanda̱",
+      "words": [
+       {
+        "w": "chandaḥ",
+        "gloss": "metre",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ā",
+      "words": [
+       {
+        "w": "ā",
+        "gloss": "up",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ro̭ha̱",
+      "words": [
+       {
+        "w": "roha",
+        "gloss": "mount",
+        "gram": "2 sg. imp. √ruh"
+       }
+      ]
+     },
+     {
+      "src": "diśo'nu̱",
+      "words": [
+       {
+        "w": "diśaḥ",
+        "gloss": "directions",
+        "gram": "f. acc. pl."
+       },
+       {
+        "w": "anu",
+        "gloss": "along",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vi",
+      "words": [
+       {
+        "w": "vi",
+        "gloss": "apart",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kra̭masva",
+      "words": [
+       {
+        "w": "kramasva",
+        "gloss": "stride",
+        "gram": "2 sg. imp. mid. √kram"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "तुम विष्णु के पद-क्रम हो, शत्रुओं को मारने वाले; गायत्र छन्द पर चढ़ो, पृथ्वी के साथ-साथ पग बढ़ाओ। तुम विष्णु के पद-क्रम हो, विरोधियों को मारने वाले; त्रैष्टुभ छन्द पर चढ़ो, अन्तरिक्ष के साथ-साथ पग बढ़ाओ। तुम विष्णु के पद-क्रम हो, शत्रु जैसा आचरण करने वाले के हन्ता; जागत छन्द पर चढ़ो, द्यौ के साथ-साथ पग बढ़ाओ। तुम विष्णु के पद-क्रम हो, शत्रु बनने वाले के हन्ता; आनुष्टुभ छन्द पर चढ़ो, दिशाओं के साथ-साथ पग बढ़ाओ।",
+  "english": "You are the stride of Viṣṇu, slayer of rivals; mount the gāyatra metre; stride out along the earth. You are the stride of Viṣṇu, slayer of enemies; mount the traiṣṭubha metre; stride out along the airy space. You are the stride of Viṣṇu, slayer of one who acts as a foe; mount the jāgata metre; stride out along the sky. You are the stride of Viṣṇu, slayer of one who acts as an enemy; mount the anuṣṭubh metre; stride out along the directions.",
+  "text_flags": [],
+  "notes": "Four parallel formulas. antarikṣa rendered \"airy space\" for consistency with glossary rajas; ānuṣṭubham read as the vṛddhi derivative of anuṣṭubh. The first line ends with a stray accent mark (kramasva̱), kept in src.",
+  "confidence": "high"
+ }
+]

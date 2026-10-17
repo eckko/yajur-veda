@@ -1,0 +1,926 @@
+[
+ {
+  "n": "34",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sa",
+      "words": [
+       {
+        "w": "sa",
+        "gloss": "he",
+        "gram": "pron. m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "dṷdrava̱tsvā̱huta̱ḥ",
+      "words": [
+       {
+        "w": "dudravat",
+        "gloss": "ran",
+        "gram": "3 sg. aor. √dru"
+       },
+       {
+        "w": "su-āhutaḥ",
+        "gloss": "well-invoked",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sa",
+      "words": [
+       {
+        "w": "sa",
+        "gloss": "he",
+        "gram": "pron. m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "dṷdrava̱tsvā̱hutaḥ",
+      "words": [
+       {
+        "w": "dudravat",
+        "gloss": "ran",
+        "gram": "3 sg. aor. √dru"
+       },
+       {
+        "w": "su-āhutaḥ",
+        "gloss": "well-invoked",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "|",
+      "words": [
+       {
+        "w": "|",
+        "gloss": "half-verse mark",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "su̱brahmā̭",
+      "words": [
+       {
+        "w": "su-brahmā",
+        "gloss": "with good prayer",
+        "gram": "bahuvrīhi m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ya̱jñaḥ",
+      "words": [
+       {
+        "w": "yajñaḥ",
+        "gloss": "sacrifice",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "su̱śamī̱",
+      "words": [
+       {
+        "w": "su-śamī",
+        "gloss": "good labour",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vasṷ̄nāṃ",
+      "words": [
+       {
+        "w": "vasūnām",
+        "gloss": "of the Vasus",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "de̱vaᳪ",
+      "words": [
+       {
+        "w": "devam",
+        "gloss": "divine",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "rādho̱",
+      "words": [
+       {
+        "w": "rādhaḥ",
+        "gloss": "bounty",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "janā̭nām",
+      "words": [
+       {
+        "w": "janānām",
+        "gloss": "of the peoples",
+        "gram": "m. gen. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वह दौड़ा, भली-भाँति आहुति पाया हुआ; वह दौड़ा, भली-भाँति आहुति पाया हुआ। उत्तम प्रार्थना वाला यज्ञ, वसुओं का उत्तम श्रम, लोगों का दिव्य दान।",
+  "english": "He ran, well-invoked; he ran, well-invoked. The sacrifice with good prayer, the good labour of the Vasus, the divine bounty of the peoples.",
+  "text_flags": [],
+  "notes": "Verbs and case of the last three phrases are not stated in the line; translated as a series of phrases. dudravat is read as 3 sg. of √dru; devaṃ rādhaḥ taken as neuter nom./acc. Sense of śamī (labour, effort) is uncertain.",
+  "confidence": "medium"
+ },
+ {
+  "n": "35",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "agne̱",
+      "words": [
+       {
+        "w": "agne",
+        "gloss": "O Agni",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vāja̭sya̱",
+      "words": [
+       {
+        "w": "vājasya",
+        "gloss": "of strength",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "goma̭ta̱",
+      "words": [
+       {
+        "w": "gomataḥ",
+        "gloss": "rich in cattle",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "īśā̭naḥ",
+      "words": [
+       {
+        "w": "īśānaḥ",
+        "gloss": "ruler",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sahaso",
+      "words": [
+       {
+        "w": "sahasaḥ",
+        "gloss": "of might",
+        "gram": "n. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "yaho",
+      "words": [
+       {
+        "w": "yaho",
+        "gloss": "O son",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "|",
+      "words": [
+       {
+        "w": "|",
+        "gloss": "half-verse mark",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "a̱sme",
+      "words": [
+       {
+        "w": "asme",
+        "gloss": "to us",
+        "gram": "pron. dat. pl."
+       }
+      ]
+     },
+     {
+      "src": "dhḙhi",
+      "words": [
+       {
+        "w": "dhehi",
+        "gloss": "place, grant",
+        "gram": "2 sg. impv. √dhā"
+       }
+      ]
+     },
+     {
+      "src": "jātavedo̱",
+      "words": [
+       {
+        "w": "jātavedaḥ",
+        "gloss": "O Jātavedas",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "mahi̱",
+      "words": [
+       {
+        "w": "mahi",
+        "gloss": "great",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "śrava̭ḥ",
+      "words": [
+       {
+        "w": "śravaḥ",
+        "gloss": "fame",
+        "gram": "n. acc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हे अग्नि, गौओं से युक्त बल के स्वामी, हे बल के पुत्र, हे जातवेदस्, हमें महान यश प्रदान करो।",
+  "english": "O Agni, ruler of strength rich in cattle, O son of might, O Jātavedas, grant us great fame.",
+  "text_flags": [],
+  "notes": "yaho (yahu 'son, offspring') is an obscure vocative; rendered 'O son'.",
+  "confidence": "medium"
+ },
+ {
+  "n": "36",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sa",
+      "words": [
+       {
+        "w": "sa",
+        "gloss": "he",
+        "gram": "pron. m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "i̭dhā̱no",
+      "words": [
+       {
+        "w": "idhānaḥ",
+        "gloss": "kindled",
+        "gram": "pres. part. √indh m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vasṷṣka̱vira̱gnirī̱ḍenyo̭",
+      "words": [
+       {
+        "w": "vasuḥ",
+        "gloss": "the good one",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "kaviḥ",
+        "gloss": "seer",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "agniḥ",
+        "gloss": "Agni",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "īḍenyaḥ",
+        "gloss": "to be praised",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "gi̱rā",
+      "words": [
+       {
+        "w": "girā",
+        "gloss": "with song",
+        "gram": "f. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "|",
+      "words": [
+       {
+        "w": "|",
+        "gloss": "half-verse mark",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "re̱vada̱smabhya̭ṃ",
+      "words": [
+       {
+        "w": "revat",
+        "gloss": "richly",
+        "gram": "adv."
+       },
+       {
+        "w": "asmabhyam",
+        "gloss": "to us",
+        "gram": "pron. dat. pl."
+       }
+      ]
+     },
+     {
+      "src": "purvaṇīka",
+      "words": [
+       {
+        "w": "purvaṇīka",
+        "gloss": "O many-faced one",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "dīdihi",
+      "words": [
+       {
+        "w": "dīdihi",
+        "gloss": "shine",
+        "gram": "2 sg. impv. √dī"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वह प्रज्वलित, शुभ, कवि, स्तुति के योग्य अग्नि वाणी से स्तुति के योग्य है। हे अनेक रूपों वाले, हमारे लिए समृद्धि के साथ चमक।",
+  "english": "He, kindled, the good one, the seer, Agni, to be praised with song. O many-faced one, shine richly for us.",
+  "text_flags": [
+   {
+    "src": "vasṷṣka̱vira̱gnirī̱ḍenyo̭",
+    "suggest": "vasuḥ kaviḥ agniḥ īḍenyaḥ",
+    "why": "sandhi resolved: vasuḥ kaviḥ agniḥ īḍenyaḥ; the printed token is a fused form (possible)"
+   }
+  ],
+  "notes": "vasu is rendered 'the good one'; purvaṇīka (many-faced / of many ranks) is uncertain.",
+  "confidence": "medium"
+ },
+ {
+  "n": "37",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "kṣa̱po",
+      "words": [
+       {
+        "w": "kṣapaḥ",
+        "gloss": "of the nights",
+        "gram": "f. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "rā̭jannu̱ta",
+      "words": [
+       {
+        "w": "rājan",
+        "gloss": "O king",
+        "gram": "m. voc. sg."
+       },
+       {
+        "w": "uta",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tmanāgne̱",
+      "words": [
+       {
+        "w": "tmanā",
+        "gloss": "by yourself",
+        "gram": "f. inst. sg."
+       },
+       {
+        "w": "agne",
+        "gloss": "O Agni",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vasto̭ru̱toṣasa̭ḥ",
+      "words": [
+       {
+        "w": "vastoḥ",
+        "gloss": "of the day",
+        "gram": "m. gen. sg."
+       },
+       {
+        "w": "uta",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "uṣasaḥ",
+        "gloss": "of the dawns",
+        "gram": "f. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "|",
+      "words": [
+       {
+        "w": "|",
+        "gloss": "half-verse mark",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "sa",
+      "words": [
+       {
+        "w": "sa",
+        "gloss": "that one",
+        "gram": "pron. m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ti̭gmajambha",
+      "words": [
+       {
+        "w": "tigma-jambha",
+        "gloss": "sharp-jawed",
+        "gram": "bahuvrīhi m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ra̱kṣaso̭",
+      "words": [
+       {
+        "w": "rakṣasaḥ",
+        "gloss": "demons",
+        "gram": "n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "daha̱",
+      "words": [
+       {
+        "w": "daha",
+        "gloss": "burn",
+        "gram": "2 sg. impv. √dah"
+       }
+      ]
+     },
+     {
+      "src": "prati̭",
+      "words": [
+       {
+        "w": "prati",
+        "gloss": "against",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हे रात्रियों के राजा, हे अग्नि, दिन और उषाओं के भी तुम स्वयं; वह तुम, हे तीक्ष्ण जबड़ों वाले, राक्षसों के विरुद्ध जलाओ।",
+  "english": "O king of the nights, O Agni, by yourself, of the day and of the dawns; that one, O sharp-jawed, burn against the demons.",
+  "text_flags": [],
+  "notes": "Case of kṣapaḥ is uncertain (read as genitive, 'of the nights'); vastoḥ read as 'of the day'; 'prati daha' rendered 'burn against'. The sentence is elliptical.",
+  "confidence": "medium"
+ },
+ {
+  "n": "38",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "bha̱dro",
+      "words": [
+       {
+        "w": "bhadraḥ",
+        "gloss": "auspicious",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "no̭",
+      "words": [
+       {
+        "w": "naḥ",
+        "gloss": "for us",
+        "gram": "pron. dat. pl."
+       }
+      ]
+     },
+     {
+      "src": "a̱gnirāhṷto",
+      "words": [
+       {
+        "w": "agniḥ",
+        "gloss": "Agni",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "āhutaḥ",
+        "gloss": "invoked",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bha̱drā",
+      "words": [
+       {
+        "w": "bhadrā",
+        "gloss": "auspicious",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "rā̱tiḥ",
+      "words": [
+       {
+        "w": "rātiḥ",
+        "gloss": "gift",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sṷbhaga",
+      "words": [
+       {
+        "w": "su-bhaga",
+        "gloss": "O fortunate one",
+        "gram": "bahuvrīhi m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "bha̱dro",
+      "words": [
+       {
+        "w": "bhadraḥ",
+        "gloss": "auspicious",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "a̭dhva̱raḥ",
+      "words": [
+       {
+        "w": "adhvaraḥ",
+        "gloss": "rite",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "|",
+      "words": [
+       {
+        "w": "|",
+        "gloss": "half-verse mark",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "bha̱drā",
+      "words": [
+       {
+        "w": "bhadrāḥ",
+        "gloss": "auspicious",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "u̱ta",
+      "words": [
+       {
+        "w": "uta",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "praśa̭stayaḥ",
+      "words": [
+       {
+        "w": "praśastayaḥ",
+        "gloss": "praises",
+        "gram": "f. nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हमारे लिए आहुति दिया हुआ अग्नि कल्याणकारी है, दान कल्याणकारी है, हे सौभाग्यवान, अनुष्ठान कल्याणकारी है, और स्तुतियाँ भी कल्याणकारी हैं।",
+  "english": "Auspicious for us is Agni when invoked, auspicious is the gift, O fortunate one, auspicious is the rite, and auspicious are the praises.",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high"
+ },
+ {
+  "n": "39",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "bha̱drā",
+      "words": [
+       {
+        "w": "bhadrāḥ",
+        "gloss": "auspicious",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "u̱ta",
+      "words": [
+       {
+        "w": "uta",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "praśa̭stayo",
+      "words": [
+       {
+        "w": "praśastayaḥ",
+        "gloss": "praises",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "bha̱draṃ",
+      "words": [
+       {
+        "w": "bhadram",
+        "gloss": "auspicious",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "mana̭ḥ",
+      "words": [
+       {
+        "w": "manaḥ",
+        "gloss": "mind",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kṛṇuṣva",
+      "words": [
+       {
+        "w": "kṛṇuṣva",
+        "gloss": "make",
+        "gram": "2 sg. impv. mid. √kṛ"
+       }
+      ]
+     },
+     {
+      "src": "vṛtra̱tūryḙ",
+      "words": [
+       {
+        "w": "vṛtra-tūrye",
+        "gloss": "in the smiting of Vṛtra",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "|",
+      "words": [
+       {
+        "w": "|",
+        "gloss": "half-verse mark",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "yenā̭",
+      "words": [
+       {
+        "w": "yena",
+        "gloss": "by which",
+        "gram": "rel. n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "sa̱matsṷ",
+      "words": [
+       {
+        "w": "samatsu",
+        "gloss": "in battles",
+        "gram": "f. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "sā̱saha̭ḥ",
+      "words": [
+       {
+        "w": "sāsahaḥ",
+        "gloss": "conquering",
+        "gram": "perf. part. √sah m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और स्तुतियाँ कल्याणकारी हैं; वृत्र के संहार में मन को कल्याणकारी बनाओ, जिसके द्वारा तुम युद्धों में विजयी होते हो।",
+  "english": "And auspicious are the praises; make the mind auspicious in the smiting of Vṛtra, by which you are the conqueror in battles.",
+  "text_flags": [],
+  "notes": "vṛtratūrya: Vṛtra may be the name or 'obstacle, enemy'; rendered literally. sāsahaḥ taken as a participle 'conquering'; the sentence continues in the next unit.",
+  "confidence": "medium"
+ },
+ {
+  "n": "40",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yenā̭",
+      "words": [
+       {
+        "w": "yena",
+        "gloss": "by which",
+        "gram": "rel. n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "sa̱matsṷ",
+      "words": [
+       {
+        "w": "samatsu",
+        "gloss": "in battles",
+        "gram": "f. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "sā̱saho'va̭",
+      "words": [
+       {
+        "w": "sāsahaḥ",
+        "gloss": "conquering",
+        "gram": "perf. part. √sah m. nom. sg."
+       },
+       {
+        "w": "ava",
+        "gloss": "down",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sthi̱rā",
+      "words": [
+       {
+        "w": "sthirā",
+        "gloss": "firm things",
+        "gram": "n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "ta̭nuhi̱",
+      "words": [
+       {
+        "w": "tanuhi",
+        "gloss": "stretch, slacken",
+        "gram": "2 sg. impv. √tan"
+       }
+      ]
+     },
+     {
+      "src": "bhūri̱",
+      "words": [
+       {
+        "w": "bhūri",
+        "gloss": "many",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "śardha̭tām",
+      "words": [
+       {
+        "w": "śardhatām",
+        "gloss": "of the bold",
+        "gram": "pres. part. √śardh m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "|",
+      "words": [
+       {
+        "w": "|",
+        "gloss": "half-verse mark",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "va̱nemā̭",
+      "words": [
+       {
+        "w": "vanema",
+        "gloss": "may we win",
+        "gram": "1 pl. opt. √van"
+       }
+      ]
+     },
+     {
+      "src": "te",
+      "words": [
+       {
+        "w": "te",
+        "gloss": "your",
+        "gram": "pron. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "a̱bhiṣṭi̭bhiḥ",
+      "words": [
+       {
+        "w": "abhiṣṭibhiḥ",
+        "gloss": "by the assaults",
+        "gram": "f. inst. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जिसके द्वारा तुम युद्धों में विजयी हो, उससे बहुतों के, जो साहस करते हैं, दृढ़ वस्तुओं को ढीला करो; तुम्हारे आक्रमणों से हम जीतें।",
+  "english": "By which you are the conqueror in battles, slacken the firm things of the many who are bold; may we win through your assaults.",
+  "text_flags": [],
+  "notes": "ava tan (slacken, unstring) has no stated object; 'firm things' is the neuter plural sthirā. śardhatām taken as participle 'being bold'; abhiṣṭi (assault, superiority) is uncertain.",
+  "confidence": "low"
+ }
+]

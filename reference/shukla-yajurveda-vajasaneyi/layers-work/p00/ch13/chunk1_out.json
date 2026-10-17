@@ -1,0 +1,1375 @@
+[
+ {
+  "n": "1",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "mayi̭",
+      "words": [
+       {
+        "w": "mayi",
+        "gloss": "in me",
+        "gram": "loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "gṛhṇā̱myagrḙ",
+      "words": [
+       {
+        "w": "gṛhṇāmi",
+        "gloss": "I take",
+        "gram": "1 sg. pres. √grah"
+       },
+       {
+        "w": "agre",
+        "gloss": "at first",
+        "gram": "loc. sg. (adv.)"
+       }
+      ]
+     },
+     {
+      "src": "a̱gniᳪ",
+      "words": [
+       {
+        "w": "agnim",
+        "gloss": "Agni",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "rā̱yaspoṣā̭ya",
+      "words": [
+       {
+        "w": "rāyaspoṣāya",
+        "gloss": "for increase of wealth",
+        "gram": "m. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "suprajā̱stvāya̭",
+      "words": [
+       {
+        "w": "suprajāstvāya",
+        "gloss": "for good offspring",
+        "gram": "n. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "su̱vīryā̭ya",
+      "words": [
+       {
+        "w": "suvīryāya",
+        "gloss": "for good heroic strength",
+        "gram": "n. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "|",
+      "words": [
+       {
+        "w": "|",
+        "gloss": "pause mark (danda)",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "māmṷ",
+      "words": [
+       {
+        "w": "mām",
+        "gloss": "me",
+        "gram": "acc. sg."
+       },
+       {
+        "w": "u",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "de̱vatā̭ḥ",
+      "words": [
+       {
+        "w": "devatāḥ",
+        "gloss": "the gods",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "sacantām",
+      "words": [
+       {
+        "w": "sacantām",
+        "gloss": "may they attend",
+        "gram": "3 pl. impv. √sac"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "मैं पहले अपने में अग्नि को धारण करता हूँ, धन की वृद्धि के लिए, उत्तम सन्तान के लिए और उत्तम वीर्य के लिए; और देवता मेरा साथ दें।",
+  "english": "I first take Agni into myself, for the increase of wealth, for good offspring and for good heroic strength; and may the gods attend me.",
+  "text_flags": [],
+  "notes": "mayi gṛhṇāmi: 'in myself' taken with the verb; devatāḥ rendered 'the gods'.",
+  "confidence": "high"
+ },
+ {
+  "n": "2",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "a̱pāṃ",
+      "words": [
+       {
+        "w": "apām",
+        "gloss": "of the waters",
+        "gram": "f. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "pṛ̱ṣṭhama̭si̱",
+      "words": [
+       {
+        "w": "pṛṣṭham",
+        "gloss": "back",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "asi",
+        "gloss": "you are",
+        "gram": "2 sg. pres. √as"
+       }
+      ]
+     },
+     {
+      "src": "yoni̭ra̱gneḥ",
+      "words": [
+       {
+        "w": "yoniḥ",
+        "gloss": "womb",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "agneḥ",
+        "gloss": "of Agni",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "sa̭mu̱drama̱bhita̱ḥ",
+      "words": [
+       {
+        "w": "samudram",
+        "gloss": "sea",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "abhitaḥ",
+        "gloss": "all around",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pinva̭mānam",
+      "words": [
+       {
+        "w": "pinvamānam",
+        "gloss": "swelling",
+        "gram": "pres. part. √pinv"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "vardha̭māno",
+      "words": [
+       {
+        "w": "vardhamānaḥ",
+        "gloss": "growing",
+        "gram": "pres. part. √vṛdh"
+       }
+      ]
+     },
+     {
+      "src": "ma̱hā~2 ",
+      "words": [
+       {
+        "w": "mahān",
+        "gloss": "great",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ā",
+      "words": [
+       {
+        "w": "ā",
+        "gloss": "and, on",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ca̱",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "puṣka̭re",
+      "words": [
+       {
+        "w": "puṣkare",
+        "gloss": "in the puṣkara",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "di̱vo",
+      "words": [
+       {
+        "w": "divaḥ",
+        "gloss": "of the sky",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "mātra̭yā",
+      "words": [
+       {
+        "w": "mātrayā",
+        "gloss": "with the measure",
+        "gram": "f. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "vari̱mṇā",
+      "words": [
+       {
+        "w": "varimṇā",
+        "gloss": "with breadth",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "pra̭thasva",
+      "words": [
+       {
+        "w": "prathasva",
+        "gloss": "spread out",
+        "gram": "2 sg. impv. mid. √prath"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "तू जलों का पृष्ठ है, अग्नि की योनि है, समुद्र के चारों ओर फूलती हुई है; बढ़ता हुआ, महान्, पुष्कर में आकाश के माप और विस्तार के साथ फैल।",
+  "english": "You are the back of the waters, the womb of Agni, swelling all around the sea; growing, great, spread out in the puṣkara with the measure of the sky and with breadth.",
+  "text_flags": [],
+  "notes": "puṣkara left untranslated (lotus / pool / sky-region are all possible). 'mahā~2 ā ca': mahān with ā ca; the pluta mark ~2 is part of the token. Gender of the addressee is not fixed by the line.",
+  "confidence": "medium"
+ },
+ {
+  "n": "3",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "brahma̭",
+      "words": [
+       {
+        "w": "brahma",
+        "gloss": "brahman",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "jajñā̱naṃ",
+      "words": [
+       {
+        "w": "jajñānam",
+        "gloss": "born",
+        "gram": "pf. part. √jan"
+       }
+      ]
+     },
+     {
+      "src": "pra̭tha̱maṃ",
+      "words": [
+       {
+        "w": "prathamam",
+        "gloss": "first",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "pu̱rastā̱dvi",
+      "words": [
+       {
+        "w": "purastāt",
+        "gloss": "from the front",
+        "gram": "ind."
+       },
+       {
+        "w": "vi",
+        "gloss": "apart, open",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sī̭ma̱taḥ",
+      "words": [
+       {
+        "w": "sīmataḥ",
+        "gloss": "from the boundary",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "su̱ruco̭",
+      "words": [
+       {
+        "w": "surucaḥ",
+        "gloss": "bright ones",
+        "gram": "acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "ve̱na",
+      "words": [
+       {
+        "w": "venaḥ",
+        "gloss": "Vena",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ā̭vaḥ",
+      "words": [
+       {
+        "w": "āvaḥ",
+        "gloss": "revealed",
+        "gram": "3 sg. impf. √vṛ"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "sa",
+      "words": [
+       {
+        "w": "saḥ",
+        "gloss": "he",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bu̱dhnyā̱",
+      "words": [
+       {
+        "w": "budhnyāḥ",
+        "gloss": "bases",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "upa̱mā",
+      "words": [
+       {
+        "w": "upamāḥ",
+        "gloss": "nearest points",
+        "gram": "acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "a̭sya",
+      "words": [
+       {
+        "w": "asya",
+        "gloss": "its",
+        "gram": "gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "vi̱ṣṭhāḥ",
+      "words": [
+       {
+        "w": "viṣṭhāḥ",
+        "gloss": "stations",
+        "gram": "acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "sa̱taśca̱",
+      "words": [
+       {
+        "w": "sataḥ",
+        "gloss": "of what is",
+        "gram": "gen. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yoni̱masa̭taśca̱",
+      "words": [
+       {
+        "w": "yonim",
+        "gloss": "womb",
+        "gram": "f. acc. sg."
+       },
+       {
+        "w": "asataḥ",
+        "gloss": "of what is not",
+        "gram": "gen. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vi",
+      "words": [
+       {
+        "w": "vi",
+        "gloss": "apart, open",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "va̭ḥ",
+      "words": [
+       {
+        "w": "vaḥ",
+        "gloss": "he opened",
+        "gram": "3 sg. impf. √vṛ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वेन ने सीमा से, सामने से, पहले उत्पन्न ब्रह्म और उज्ज्वल प्रकाशों को प्रकट किया; उसने इसके आधारों, निकटतम स्थानों और स्थितियों को खोला, तथा जो है और जो नहीं है उसकी योनि को खोला।",
+  "english": "Vena, from the boundary and from the front, revealed the first-born brahman and the bright ones; he opened its bases, its nearest points and its stations, and the womb of what is and of what is not.",
+  "text_flags": [],
+  "notes": "Obscure: suruco (surucaḥ, 'bright ones' taken as object of vi āvaḥ) and the objects of vi vaḥ (vivaḥ) are uncertain; budhnyāḥ, upamāḥ, viṣṭhāḥ are rendered literally and their sense is not fixed. Vena is a name.",
+  "confidence": "low"
+ },
+ {
+  "n": "4",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "hi̱ra̱ṇya̱ga̱rbhaḥ",
+      "words": [
+       {
+        "w": "hiraṇya-garbhaḥ",
+        "gloss": "golden womb",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sama̭varta̱tāgrḙ",
+      "words": [
+       {
+        "w": "samavartata",
+        "gloss": "came into being",
+        "gram": "3 sg. impf. mid. sam-√vṛt"
+       },
+       {
+        "w": "agre",
+        "gloss": "at first",
+        "gram": "loc. sg. (adv.)"
+       }
+      ]
+     },
+     {
+      "src": "bhū̱tasya̭",
+      "words": [
+       {
+        "w": "bhūtasya",
+        "gloss": "of what exists",
+        "gram": "n. gen. sg."
+       },
+       {
+        "w": "jātaḥ",
+        "gloss": "born",
+        "gram": "pp. m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "jā̱taḥ",
+      "words": [
+       {
+        "w": "patiḥ",
+        "gloss": "lord",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "pati̱reka̭",
+      "words": [
+       {
+        "w": "ekaḥ",
+        "gloss": "one",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "āsīt",
+      "words": [
+       {
+        "w": "āsīt",
+        "gloss": "was",
+        "gram": "3 sg. impf. √as"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "sa",
+      "words": [
+       {
+        "w": "saḥ",
+        "gloss": "he",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "dā̭dhāra",
+      "words": [
+       {
+        "w": "dādhāra",
+        "gloss": "held",
+        "gram": "3 sg. pf. √dhṛ"
+       }
+      ]
+     },
+     {
+      "src": "pṛthi̱vīṃ",
+      "words": [
+       {
+        "w": "pṛthivīm",
+        "gloss": "earth",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "dyāmu̱temāṃ",
+      "words": [
+       {
+        "w": "dyām",
+        "gloss": "sky",
+        "gram": "f. acc. sg."
+       },
+       {
+        "w": "uta",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "imām",
+        "gloss": "this",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kasmai̭",
+      "words": [
+       {
+        "w": "kasmai",
+        "gloss": "to whom",
+        "gram": "m. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "de̱vāya̭",
+      "words": [
+       {
+        "w": "devāya",
+        "gloss": "to the god",
+        "gram": "m. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "ha̱viṣā̭",
+      "words": [
+       {
+        "w": "haviṣā",
+        "gloss": "with the offering",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "vidhema",
+      "words": [
+       {
+        "w": "vidhema",
+        "gloss": "may we serve",
+        "gram": "1 pl. opt. √vidh"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हिरण्यगर्भ आरम्भ में प्रकट हुआ; उत्पन्न होकर वह प्राणियों का एकमात्र स्वामी था। उसने पृथ्वी और आकाश तथा इस लोक को धारण किया। किस देव को हम हवि से पूजें?",
+  "english": "The golden womb came into being at first; born, he was the one lord of what exists. He held up the earth and the sky and this one. To which god may we offer with the oblation?",
+  "text_flags": [],
+  "notes": "'imām' (this, feminine) is left without a stated noun. kasmai devāya: 'to which god' (interrogative; some take it as a name).",
+  "confidence": "high"
+ },
+ {
+  "n": "5",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "dra̱psaśca̭skanda",
+      "words": [
+       {
+        "w": "drapsaḥ",
+        "gloss": "drop",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "skanda",
+        "gloss": "has leapt",
+        "gram": "3 sg. aor. √skand"
+       }
+      ]
+     },
+     {
+      "src": "pṛthi̱vīmanu̱",
+      "words": [
+       {
+        "w": "pṛthivīm",
+        "gloss": "earth",
+        "gram": "f. acc. sg."
+       },
+       {
+        "w": "anu",
+        "gloss": "along",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "dyāmi̱maṃ",
+      "words": [
+       {
+        "w": "dyām",
+        "gloss": "sky",
+        "gram": "f. acc. sg."
+       },
+       {
+        "w": "imam",
+        "gloss": "this",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca̱",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yoni̱manu̱",
+      "words": [
+       {
+        "w": "yonim",
+        "gloss": "womb",
+        "gram": "f. acc. sg."
+       },
+       {
+        "w": "anu",
+        "gloss": "along",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yaśca̱",
+      "words": [
+       {
+        "w": "yaḥ",
+        "gloss": "which",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pūrva̭ḥ",
+      "words": [
+       {
+        "w": "pūrvaḥ",
+        "gloss": "former",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "sa̱mā̱naṃ",
+      "words": [
+       {
+        "w": "samānam",
+        "gloss": "common",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "yoni̱manṷ",
+      "words": [
+       {
+        "w": "yonim",
+        "gloss": "womb",
+        "gram": "f. acc. sg."
+       },
+       {
+        "w": "anu",
+        "gloss": "along",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sa̱ñcara̭ntaṃ",
+      "words": [
+       {
+        "w": "sañcarantam",
+        "gloss": "moving along",
+        "gram": "pres. part. √car"
+       }
+      ]
+     },
+     {
+      "src": "dra̱psaṃ",
+      "words": [
+       {
+        "w": "drapsam",
+        "gloss": "drop",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "jṷho̱myanṷ",
+      "words": [
+       {
+        "w": "juhomi",
+        "gloss": "I offer",
+        "gram": "1 sg. pres. √hu"
+       },
+       {
+        "w": "anu",
+        "gloss": "after",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sa̱pta",
+      "words": [
+       {
+        "w": "sapta",
+        "gloss": "seven",
+        "gram": "num."
+       }
+      ]
+     },
+     {
+      "src": "hotrā̭ḥ",
+      "words": [
+       {
+        "w": "hotrāḥ",
+        "gloss": "hotṛ-priests, offerings",
+        "gram": "f. acc. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "बूँद पृथ्वी के साथ, आकाश के साथ, इस योनि के साथ और जो पूर्व है उसके साथ टपकी है। उसी साझा योनि के साथ चलती हुई बूँद को मैं सात होत्राओं के अनुसार अर्पित करता हूँ।",
+  "english": "The drop has leapt along the earth and the sky, and along this womb and along the former one. The drop moving along the common womb I offer, following the seven hotrās.",
+  "text_flags": [],
+  "notes": "skanda (aorist, 'has leapt') with anu governing the accusatives; hotrāḥ (seven) is uncertain (offerings or priests); kept as hotrā.",
+  "confidence": "medium"
+ },
+ {
+  "n": "6",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "namo̭'stu",
+      "words": [
+       {
+        "w": "namaḥ",
+        "gloss": "homage",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "astu",
+        "gloss": "let there be",
+        "gram": "3 sg. impv. √as"
+       }
+      ]
+     },
+     {
+      "src": "sa̱rpebhyo̱",
+      "words": [
+       {
+        "w": "sarpebhyaḥ",
+        "gloss": "to the serpents",
+        "gram": "m. dat. pl."
+       }
+      ]
+     },
+     {
+      "src": "ye",
+      "words": [
+       {
+        "w": "ye",
+        "gloss": "who",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "ke",
+      "words": [
+       {
+        "w": "ke",
+        "gloss": "any",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "ca̭",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pṛthi̱vīmanṷ",
+      "words": [
+       {
+        "w": "pṛthivīm",
+        "gloss": "earth",
+        "gram": "f. acc. sg."
+       },
+       {
+        "w": "anu",
+        "gloss": "along",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "|",
+      "words": [
+       {
+        "w": "|",
+        "gloss": "pause mark (danda)",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "ye",
+      "words": [
+       {
+        "w": "ye",
+        "gloss": "who",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "a̱ntari̭kṣe̱",
+      "words": [
+       {
+        "w": "antarikṣe",
+        "gloss": "in the airy space",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ye",
+      "words": [
+       {
+        "w": "ye",
+        "gloss": "who",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "di̱vi",
+      "words": [
+       {
+        "w": "divi",
+        "gloss": "in the sky",
+        "gram": "loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "tebhya̭ḥ",
+      "words": [
+       {
+        "w": "tebhyaḥ",
+        "gloss": "to them",
+        "gram": "m. dat. pl."
+       }
+      ]
+     },
+     {
+      "src": "sa̱rpebhyo̱",
+      "words": [
+       {
+        "w": "sarpebhyaḥ",
+        "gloss": "to the serpents",
+        "gram": "m. dat. pl."
+       }
+      ]
+     },
+     {
+      "src": "nama̭ḥ",
+      "words": [
+       {
+        "w": "namaḥ",
+        "gloss": "homage",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "सर्पों को नमस्कार हो, जो कोई पृथ्वी पर हैं; जो अन्तरिक्ष में हैं, जो द्युलोक में हैं, उन सर्पों को नमस्कार।",
+  "english": "Homage to the serpents, whoever they are along the earth; those who are in the airy space, those who are in the sky: to those serpents, homage.",
+  "text_flags": [],
+  "notes": "'ye ke ca' taken as 'whoever'.",
+  "confidence": "high"
+ },
+ {
+  "n": "7",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yā",
+      "words": [
+       {
+        "w": "yāḥ",
+        "gloss": "which",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "iṣa̭vo",
+      "words": [
+       {
+        "w": "iṣavaḥ",
+        "gloss": "arrows",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "yātu̱dhānā̭nā̱ṃ",
+      "words": [
+       {
+        "w": "yātudhānānām",
+        "gloss": "of the sorcerers",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "ye",
+      "words": [
+       {
+        "w": "ye",
+        "gloss": "who",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "vā̱",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vana̱spatī̱~1",
+      "words": [
+       {
+        "w": "vanaspatīn",
+        "gloss": "trees",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "ranṷ",
+      "words": [
+       {
+        "w": "anu",
+        "gloss": "along",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "|",
+      "words": [
+       {
+        "w": "|",
+        "gloss": "pause mark (danda)",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "ye",
+      "words": [
+       {
+        "w": "ye",
+        "gloss": "who",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "vā̭va̱ṭeṣu̱",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       },
+       {
+        "w": "avaṭeṣu",
+        "gloss": "in pits",
+        "gram": "m. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "śera̭te̱",
+      "words": [
+       {
+        "w": "śerate",
+        "gloss": "lie",
+        "gram": "3 pl. pres. mid. √śī"
+       }
+      ]
+     },
+     {
+      "src": "tebhya̭ḥ",
+      "words": [
+       {
+        "w": "tebhyaḥ",
+        "gloss": "to them",
+        "gram": "m. dat. pl."
+       }
+      ]
+     },
+     {
+      "src": "sa̱rpebhyo̱",
+      "words": [
+       {
+        "w": "sarpebhyaḥ",
+        "gloss": "to the serpents",
+        "gram": "m. dat. pl."
+       }
+      ]
+     },
+     {
+      "src": "nama̭ḥ",
+      "words": [
+       {
+        "w": "namaḥ",
+        "gloss": "homage",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जो यातुधानों के बाण हैं, अथवा जो वनस्पतियों के साथ हैं, अथवा जो गड्ढों में पड़े हैं, उन सर्पों को नमस्कार।",
+  "english": "Those who are the arrows of the sorcerers, or who are along the trees, or who lie in pits: to those serpents, homage.",
+  "text_flags": [],
+  "notes": "'yā iṣavo' (feminine yāḥ with iṣavaḥ) is as printed; the relative ye in the following clauses refers to the serpents. Printed 'vā̱ vana̱spatī̱~1 ranṷ': vanaspatīn anu.",
+  "confidence": "medium"
+ },
+ {
+  "n": "8",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ye",
+      "words": [
+       {
+        "w": "ye",
+        "gloss": "who",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "vā̱mī",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       },
+       {
+        "w": "amī",
+        "gloss": "those yonder",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "ro̭ca̱ne",
+      "words": [
+       {
+        "w": "rocane",
+        "gloss": "in the bright space",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "di̱vo",
+      "words": [
+       {
+        "w": "divaḥ",
+        "gloss": "of the sky",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "ye",
+      "words": [
+       {
+        "w": "ye",
+        "gloss": "who",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "vā̱",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sūrya̭sya",
+      "words": [
+       {
+        "w": "sūryasya",
+        "gloss": "of Sūrya",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "ra̱śmiṣṷ",
+      "words": [
+       {
+        "w": "raśmiṣu",
+        "gloss": "in the rays",
+        "gram": "m. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "|",
+      "words": [
+       {
+        "w": "|",
+        "gloss": "pause mark (danda)",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "yeṣā̭ma̱psu",
+      "words": [
+       {
+        "w": "yeṣām",
+        "gloss": "whose",
+        "gram": "m. gen. pl."
+       },
+       {
+        "w": "apsu",
+        "gloss": "in the waters",
+        "gram": "f. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "sada̭skṛ̱taṃ",
+      "words": [
+       {
+        "w": "sadaḥ",
+        "gloss": "seat",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "kṛtam",
+        "gloss": "made",
+        "gram": "pp. n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tebhya̭ḥ",
+      "words": [
+       {
+        "w": "tebhyaḥ",
+        "gloss": "to them",
+        "gram": "m. dat. pl."
+       }
+      ]
+     },
+     {
+      "src": "sa̱rpebhyo̱",
+      "words": [
+       {
+        "w": "sarpebhyaḥ",
+        "gloss": "to the serpents",
+        "gram": "m. dat. pl."
+       }
+      ]
+     },
+     {
+      "src": "nama̭ḥ",
+      "words": [
+       {
+        "w": "namaḥ",
+        "gloss": "homage",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जो वे उधर आकाश के प्रकाशमय स्थान में हैं, अथवा जो सूर्य की किरणों में हैं, जिनका आसन जलों में बना है, उन सर्पों को नमस्कार।",
+  "english": "Those yonder who are in the bright space of the sky, or who are in the rays of Sūrya, whose seat is made in the waters: to those serpents, homage.",
+  "text_flags": [],
+  "notes": "'vāmī' split as vā amī ('or those yonder'); alternative word division is possible but the split is the usual one.",
+  "confidence": "medium"
+ }
+]
