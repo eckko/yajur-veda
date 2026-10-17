@@ -8,3 +8,5 @@ AI drafts. English uses plain IAST for Sanskrit terms; Hindi stays in Devanagari
 - Names of deities and priests: transliterate, gloss "name of a god" only if the line says so
 - Formulas addressed to implements (vessels, sacrificial grass, the pit): translate literally, e.g. "I cut you for ..."; do not explain the ritual
 - Accent marks (svara) in the source: keep them in `src`; do not reproduce them in `words`, Hindi or English
+- adhvara = rite (yajña stays sacrifice); Sūrya stays Sūrya; loka = world (लोक)
+- Hindi: no brackets and no Latin letters; do not insert nouns or verbs from a neighbouring unit
