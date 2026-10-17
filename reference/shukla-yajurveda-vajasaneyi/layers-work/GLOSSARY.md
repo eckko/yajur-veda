@@ -10,3 +10,6 @@ AI drafts. English uses plain IAST for Sanskrit terms; Hindi stays in Devanagari
 - Accent marks (svara) in the source: keep them in `src`; do not reproduce them in `words`, Hindi or English
 - adhvara = rite (yajña stays sacrifice); Sūrya stays Sūrya; loka = world (लोक)
 - Hindi: no brackets and no Latin letters; do not insert nouns or verbs from a neighbouring unit
+- yajñapati = lord of the sacrifice; pavitra = strainer; rakṣas = demon; arāti = hostile power; prasava = impulse; vāja = strength; gharma = heat, hot offering (no vessel gloss)
+- Hindi: śarma = आश्रय (never शर्म); nāka = स्वर्ग; rāsnā = मेखला; śukra = उज्ज्वल. Keep dhiṣaṇā, veṣa, kāmadhukṣaḥ transliterated as uncertain terms
+- kavi = seer (kave "O seer"), apart from ṛṣi = sage; Hindi brahman = ब्रह्मन् (never ब्रह्मा); ājya = clarified butter, ghṛta = ghee; śoṣa = dryness; hima = winter (Hindi शीत ऋतु); āśis = wish, blessing; Āgnīdhra stays untranslated (priest)

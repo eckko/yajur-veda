@@ -1,0 +1,321 @@
+[
+ {
+  "n": "1",
+  "field": "english",
+  "old": "Thee for food, thee for strength. You are winds. Let god Savitṛ impel you to the most excellent work. Swell, O inviolable cows, as Indra's share, rich in offspring, free from disease, free from consumption. Let no thief, nor any evil-wisher, have power over you. May you be many and steadfast with this lord of cattle. Protect the sacrificer's cattle.",
+  "new": "Thee for food, thee for strength. You are winds. Let god Savitṛ impel you to the most excellent work. Swell, O inviolable cows, for Indra as a share, rich in offspring, free from disease, free from consumption. Let no thief, nor any evil-wisher, have power over you. May you be many and steadfast with this lord of cattle. Protect the sacrificer's cattle.",
+  "why": "reviewer (minor): indrāya bhāgam = dative \"for Indra\" + accusative \"a share\"; the dative is dropped."
+ },
+ {
+  "n": "1",
+  "field": "hindi",
+  "old": "अन्न के लिए तुझे, बल के लिए तुझे। तुम वायु हो। देव सविता तुम्हें श्रेष्ठतम कर्म के लिए प्रेरित करे। हे अघ्न्या गौओ, इन्द्र के भाग के लिए पुष्ट होओ; संतानवाली, रोगरहित, यक्ष्मारहित होओ। तुम पर चोर का वश न चले, न पापी का। इस गोपति के पास तुम बहुत-सी होकर स्थिर रहो। यजमान के पशुओं की रक्षा कर।",
+  "new": "अन्न के लिए तुझे, बल के लिए तुझे। तुम वायु हो। देव सविता तुम्हें श्रेष्ठतम कर्म के लिए प्रेरित करे। हे अघ्न्या गौओ, इन्द्र के लिए भाग बनकर पुष्ट होओ; संतानवाली, रोगरहित, यक्ष्मारहित होओ। तुम पर चोर का वश न चले, न पापी का। इस गोपति के पास तुम बहुत-सी होकर स्थिर रहो। यजमान के पशुओं की रक्षा कर।",
+  "why": "reviewer (minor): Same: \"for Indra's share\" does not match indrāya bhāgam."
+ },
+ {
+  "n": "2",
+  "field": "word.w",
+  "word": "hvār",
+  "old": "hvār",
+  "new": "hvāḥ",
+  "why": "reviewer (error): Word is not in dictionary form: the printed -r is the sandhi form of visarga before mā; the form is hvāḥ (2 sg. root-aorist injunctive of √hvṛ)."
+ },
+ {
+  "n": "2",
+  "field": "notes",
+  "old": "vasoḥ: gen. of vasu, 'the good one / wealth'; commentators take it as a name (Agni or Vāyu); left literal. hvār: the final -r is original (aorist injunctive of √hvṛ with s lost), hence 'hvārmā' in the text. 'mā hvāḥ' = do not go crooked, i.e. waver.",
+  "new": "vasoḥ: gen. of vasu, 'the good one / wealth'; commentators take it as a name (Agni or Vāyu); left literal. hvāḥ: root-aorist injunctive 2 sg. of √hvṛ; the visarga becomes r before mā, hence 'hvārmā' in the text. 'mā hvāḥ' = do not go crooked, i.e. waver.",
+  "why": "reviewer (error): Wrong explanation: -r is visarga-sandhi before voiced m, not an original r."
+ },
+ {
+  "n": "2",
+  "field": "word.gram",
+  "word": "viśvadhāḥ",
+  "old": "nom. sg.",
+  "new": "m./f. nom. sg.",
+  "why": "reviewer (minor): Gender missing in gram (addressed implement; m./f. same form)."
+ },
+ {
+  "n": "3",
+  "field": "confidence",
+  "old": "medium",
+  "new": "low",
+  "why": "reviewer (minor): medium is too high for a clause the draft itself cannot parse."
+ },
+ {
+  "n": "4",
+  "field": "hindi",
+  "old": "वह विश्वायु है; वह विश्वकर्मा है; वह विश्व का पोषण करने वाली है। इन्द्र के भाग तुझे मैं सोम से जमाता हूँ। हे विष्णु, हव्य की रक्षा कर।",
+  "new": "वह विश्वायु है; वह विश्वकर्मा है; वह विश्व का पोषण करने वाली है। इन्द्र के भाग-रूप तुझे मैं सोम से जमाता हूँ। हे विष्णु, हव्य की रक्षा कर।",
+  "why": "reviewer (minor): \"इन्द्र के भाग तुझे\" is ungrammatical Hindi for indrasya tvā bhāgam (thee, Indra's share)."
+ },
+ {
+  "n": "5",
+  "field": "hindi",
+  "old": "हे व्रतपति अग्नि, मैं व्रत का आचरण करूँगा; उसे मैं पूरा कर सकूँ; वह मेरे लिए सिद्ध हो। यह मैं अनृत से सत्य की ओर जाता हूँ।",
+  "new": "हे व्रतपति अग्नि, मैं व्रत का आचरण करूँगा; उसे मैं पूरा कर सकूँ; वह मेरे लिए सिद्ध हो। अब मैं अनृत से सत्य की ओर जाता हूँ।",
+  "why": "reviewer (minor): English says \"Now\", gloss \"here, now\", Hindi says \"this\": inconsistent."
+ },
+ {
+  "n": "8",
+  "field": "hindi",
+  "old": "तू धुर है; हिंसक को हिंसित कर; जो हमें हिंसित करता है उसे हिंसित कर; जिसे हम हिंसित करते हैं उसे हिंसित कर। तू देवों का सबसे बड़ा वाहक, सबसे बड़ा विजेता, सबसे बड़ा पार लगाने वाला, सबसे प्रिय, देवों को सबसे अच्छी तरह बुलाने वाला है।",
+  "new": "तू धुर है; हिंसक को हिंसित कर; जो हमें हिंसित करता है उसे हिंसित कर; जिसे हम हिंसित करते हैं उसे हिंसित कर। तू देवों का सबसे उत्तम वाहक, सबसे उत्तम विजेता, सबसे उत्तम पार लगाने वाला, सबसे प्रिय, देवों को सबसे अच्छी तरह बुलाने वाला है।",
+  "why": "reviewer (minor): \"largest\" is not -tama (best/most); also three times."
+ },
+ {
+  "n": "9",
+  "field": "english",
+  "old": "Let Viṣṇu stride thee widely for the wind; smitten away is the demon; let the five hold (thee).",
+  "new": "Let Viṣṇu stride thee widely for the wind; smitten away is the demon; let the five hold.",
+  "why": "reviewer (minor): \"thee\" is supplied (no object in the line); Hindi also adds तुझे."
+ },
+ {
+  "n": "9",
+  "field": "hindi",
+  "old": "विष्णु तुझे वायु के लिए विस्तृत रूप से पग भरे; राक्षस मार भगाया गया; पाँचों तुझे थामे रखें।",
+  "new": "विष्णु तुझे वायु के लिए विस्तृत रूप से पग भरे; राक्षस मार भगाया गया; पाँचों थामे रखें।",
+  "why": "reviewer (minor): Supplied object तुझे."
+ },
+ {
+  "n": "12",
+  "field": "word.gram",
+  "word": "vaiṣṇavyau",
+  "old": "n. nom. du.",
+  "new": "f. nom. du.",
+  "why": "reviewer (error): Feminine dual (vaiṣṇavī), not neuter."
+ },
+ {
+  "n": "12",
+  "field": "confidence",
+  "old": "high",
+  "new": "medium",
+  "why": "reviewer (minor): high is too firm with an unexplained word."
+ },
+ {
+  "n": "12",
+  "field": "hindi",
+  "old": "तुम दोनों विष्णु के पवित्र हो। सविता की प्रेरणा में मैं तुम्हें छिद्ररहित पवित्र से, सूर्य की किरणों से शुद्ध करता हूँ। हे दिव्य जलो, आगे चलने वाली, आगे शुद्ध करने वाली, आज इस यज्ञ को आगे ले चलो, यज्ञपति को आगे ले चलो, सुप्रतिष्ठित यज्ञपति को, देवों को चाहने वाले को।",
+  "new": "तुम दोनों विष्णु के पवित्र हो। सविता की प्रेरणा में मैं तुम्हें छिद्ररहित पवित्र से, सूर्य की किरणों से शुद्ध करता हूँ। हे दिव्य जलो, आगे चलने वाले, आगे शुद्ध करने वाले, आज इस यज्ञ को आगे ले चलो, यज्ञपति को आगे ले चलो, सुप्रतिष्ठित यज्ञपति को, देवों को चाहने वाले को।",
+  "why": "reviewer (minor): Singular feminine adjectives agree with neither जलो nor the plural."
+ },
+ {
+  "n": "13",
+  "field": "english",
+  "old": "Indra chose you in the overcoming of Vṛtra; you chose Indra in the overcoming of Vṛtra; you are sprinkled. I sprinkle thee, welcome to Agni; I sprinkle thee, welcome to Agni and Soma. Be clean for the divine work, for the worship of the gods. What of you the impure ones have struck away, that of you I now cleanse.",
+  "new": "Indra chose you in the overcoming of Vṛtra; you chose Indra in the overcoming of Vṛtra; you are sprinkled. I sprinkle thee, welcome to Agni; I sprinkle thee, welcome to Agni and Soma. Be clean for the divine work, for the worship of the gods. What of you the impure ones have struck away, this, that of you, I cleanse.",
+  "why": "reviewer (minor): \"now\" is added and idam (\"this\") is dropped."
+ },
+ {
+  "n": "13",
+  "field": "hindi",
+  "old": "इन्द्र ने वृत्र-विजय में तुम्हें चुना; तुमने वृत्र-विजय में इन्द्र को चुना; तुम प्रोक्षित हो। अग्नि को प्रिय तुझे प्रोक्षण करता हूँ; अग्नि और सोम को प्रिय तुझे प्रोक्षण करता हूँ। दिव्य कर्म के लिए, देवयज्ञ के लिए शुद्ध होओ। अशुद्धों ने तुम्हारा जो कुछ नष्ट कर दिया, तुम्हारा वह यह मैं शुद्ध करता हूँ।",
+  "new": "इन्द्र ने वृत्र-विजय में तुम्हें चुना; तुमने वृत्र-विजय में इन्द्र को चुना; तुम प्रोक्षित हो। अग्नि को प्रिय तुझे प्रोक्षण करता हूँ; अग्नि और सोम को प्रिय तुझे प्रोक्षण करता हूँ। दिव्य कर्म के लिए, देवयज्ञ के लिए शुद्ध होओ। अशुद्धों ने तुम्हारा जो कुछ मारकर दूर हटा दिया, तुम्हारा वह यह मैं शुद्ध करता हूँ।",
+  "why": "reviewer (minor): \"destroyed\" overstates parājaghnuḥ (struck away); English says \"struck away\"."
+ },
+ {
+  "n": "14",
+  "field": "hindi",
+  "old": "तू शर्म है; राक्षस झाड़ दिया गया, अरातियाँ झाड़ दी गईं। तू अदिति की त्वचा है; अदिति तुझे पहचाने। तू पत्थर है, वनस्पति का; तू चौड़े तल वाला ग्रावा है; अदिति की त्वचा तुझे पहचाने।",
+  "new": "तू आश्रय है; राक्षस झाड़ दिया गया, अरातियाँ झाड़ दी गईं। तू अदिति की त्वचा है; अदिति तुझे पहचाने। तू पत्थर है, वनस्पति का; तू चौड़े तल वाला ग्रावा है; अदिति की त्वचा तुझे पहचाने।",
+  "why": "reviewer (error): Hindi शर्म means \"shame\"; śarma = shelter, protection."
+ },
+ {
+  "n": "17",
+  "field": "word.gloss",
+  "word": "dhṛṣṭiḥ",
+  "old": "bold one (the tongs)",
+  "new": "bold one",
+  "why": "reviewer (minor): Gloss adds a ritual identification not in the line (glossary: do not explain the ritual)."
+ },
+ {
+  "n": "18",
+  "field": "hindi",
+  "old": "हे अग्नि, ब्रह्म को ग्रहण कर; तू धरुण है; अन्तरिक्ष को दृढ़ कर; ब्रह्म को जीतने वाले, क्षत्र को जीतने वाले, सजातों को जीतने वाले तुझे मैं भ्रातृव्य के वध के लिए रखता हूँ। तू धर्त्र है; द्यौ को दृढ़ कर; ब्रह्म को जीतने वाले, क्षत्र को जीतने वाले, सजातों को जीतने वाले तुझे मैं भ्रातृव्य के वध के लिए रखता हूँ। सब दिशाओं के लिए तुझे रखता हूँ। तुम चिति हो, ऊपर की ओर चिनी हुई; भृगुओं और अङ्गिरसों के तप से तपो।",
+  "new": "हे अग्नि, ब्रह्म को ग्रहण कर; तू धरुण है; अन्तरिक्ष को दृढ़ कर; ब्रह्म को जीतने वाले, क्षत्र को जीतने वाले, सजातों को जीतने वाले तुझे मैं भ्रातृव्य के वध के लिए रखता हूँ। तू धर्त्र है; द्यौ को दृढ़ कर; ब्रह्म को जीतने वाले, क्षत्र को जीतने वाले, सजातों को जीतने वाले तुझे मैं भ्रातृव्य के वध के लिए रखता हूँ। सब दिशाओं के लिए तुझे रखता हूँ। तुम चिनी हुई हो, ऊपर की ओर चिनी हुई; भृगुओं और अङ्गिरसों के तप से तपो।",
+  "why": "reviewer (error): citaḥ is the participle \"piled\", not the noun चिति; English says \"piled\"."
+ },
+ {
+  "n": "19",
+  "field": "hindi",
+  "old": "तू शर्म है; राक्षस झाड़ दिया गया, अरातियाँ झाड़ दी गईं; तू अदिति की त्वचा है; अदिति तुझे पहचाने। तू धिषणा है, पर्वत की; अदिति की त्वचा तुझे पहचाने। तू द्यौ का खम्भा है। तू धिषणा है, पर्वत से उत्पन्न; पर्वत की तुझे पहचाने।",
+  "new": "तू आश्रय है; राक्षस झाड़ दिया गया, अरातियाँ झाड़ दी गईं; तू अदिति की त्वचा है; अदिति तुझे पहचाने। तू धिषणा है, पर्वत की; अदिति की त्वचा तुझे पहचाने। तू द्यौ का खम्भा है। तू धिषणा है, पर्वत से उत्पन्न; पर्वत की तुझे पहचाने।",
+  "why": "reviewer (error): Same as unit 14 (शर्म = shame)."
+ },
+ {
+  "n": "19",
+  "field": "hindi",
+  "old": "तू आश्रय है; राक्षस झाड़ दिया गया, अरातियाँ झाड़ दी गईं; तू अदिति की त्वचा है; अदिति तुझे पहचाने। तू धिषणा है, पर्वत की; अदिति की त्वचा तुझे पहचाने। तू द्यौ का खम्भा है। तू धिषणा है, पर्वत से उत्पन्न; पर्वत की तुझे पहचाने।",
+  "new": "तू आश्रय है; राक्षस झाड़ दिया गया, अरातियाँ झाड़ दी गईं; तू अदिति की त्वचा है; अदिति तुझे पहचाने। तू धिषणा है, पर्वत की; अदिति की त्वचा तुझे पहचाने। तू द्यौ का खम्भा है। तू धिषणा है, पर्वत से उत्पन्न; पर्वती तुझे पहचाने।",
+  "why": "reviewer (error): Subject missing: prati tvā parvatī vettu = \"let Parvatī recognize thee\"; English has \"the mountain one\"."
+ },
+ {
+  "n": "21",
+  "field": "english",
+  "old": "On the impulse of god Savitṛ, with the arms of the Aśvins, with the hands of Pūṣan, I scatter. Together the waters with the plants, together the plants with the sap. Let the rich ones be mingled with the moving ones; let the honeyed ones be mingled with the honeyed ones.",
+  "new": "On the impulse of god Savitṛ, with the arms of the Aśvins, with the hands of Pūṣan, thee I scatter together. Together the waters with the plants, together the plants with the sap. Let the rich ones be mingled with the moving ones; let the honeyed ones be mingled with the honeyed ones.",
+  "why": "reviewer (error): tvā (\"thee\") and sam (\"together\") of saṃ vapāmi are dropped; the object of the verb is lost in both languages."
+ },
+ {
+  "n": "21",
+  "field": "hindi",
+  "old": "देव सविता की प्रेरणा में, अश्विनों की भुजाओं से, पूषा के हाथों से मैं बिखेरता हूँ। जल ओषधियों के साथ मिलें, ओषधियाँ रस के साथ मिलें। धनवाली जंगम के साथ मिलें; मधुवाली मधुवालियों के साथ मिलें।",
+  "new": "देव सविता की प्रेरणा में, अश्विनों की भुजाओं से, पूषा के हाथों से तुझे मैं साथ-साथ बिखेरता हूँ। जल ओषधियों के साथ मिलें, ओषधियाँ रस के साथ मिलें। धनवाली जंगम के साथ मिलें; मधुवाली मधुवालियों के साथ मिलें।",
+  "why": "reviewer (error): Same omission."
+ },
+ {
+  "n": "22",
+  "field": "hindi",
+  "old": "उत्पत्ति के लिए तुझे जोड़ता हूँ; यह अग्नि का, यह अग्नि और सोम का; अन्न के लिए तुझे। तू घर्म है, विश्वायु। सविता तुझे सबसे ऊँचे नाक पर पकाए।",
+  "new": "उत्पत्ति के लिए तुझे जोड़ता हूँ; यह अग्नि का, यह अग्नि और सोम का; अन्न के लिए तुझे। तू घर्म है, विश्वायु। सविता तुझे सबसे ऊँचे स्वर्ग पर पकाए।",
+  "why": "reviewer (error): Hindi नाक means \"nose\"; nāka = heaven/firmament."
+ },
+ {
+  "n": "24",
+  "field": "english",
+  "old": "On the impulse of god Savitṛ, with the arms of the Aśvins, with the hands of Pūṣan, I take the performer of the rite for the gods. Thou art Indra's right arm, thousand-spiked, hundred-edged. Thou art Vāyu, sharp-edged, the slayer of the hater.",
+  "new": "On the impulse of god Savitṛ, with the arms of the Aśvins, with the hands of Pūṣan, I take thee, the rite-maker, for the gods. Thou art Indra's right arm, thousand-spiked, hundred-edged. Thou art Vāyu, sharp-edged, the slayer of the hater.",
+  "why": "reviewer (error): tvā (\"thee\") dropped; adhvarakṛtam is most naturally an epithet of tvā (\"thee, the rite-maker\"), not a separate object."
+ },
+ {
+  "n": "24",
+  "field": "hindi",
+  "old": "देव सविता की प्रेरणा में, अश्विनों की भुजाओं से, पूषा के हाथों से मैं देवों के लिए अध्वर करने वाले को लेता हूँ। तू इन्द्र की दाहिनी भुजा है, हज़ार नोकों वाली, सौ धारों वाली। तू वायु है, तीखी धार वाला, द्वेष करने वाले का वध।",
+  "new": "देव सविता की प्रेरणा में, अश्विनों की भुजाओं से, पूषा के हाथों से तुझ अध्वर करने वाले को मैं देवों के लिए लेता हूँ। तू इन्द्र की दाहिनी भुजा है, हज़ार नोकों वाली, सौ धारों वाली। तू वायु है, तीखी धार वाला, द्वेष करने वाले का वध।",
+  "why": "reviewer (error): Same."
+ },
+ {
+  "n": "25",
+  "field": "notes",
+  "old": "'te' with varṣatu taken as dative ('for thee'); could be 'thy (sky)'. 'go to the fold' is addressed to the clod/earth that is dug up.",
+  "new": "'te' with varṣatu taken as dative ('for thee'); could be 'thy (sky)'.",
+  "why": "reviewer (minor): Imports ritual context not in the line (glossary: do not explain the ritual)."
+ },
+ {
+  "n": "29",
+  "field": "english",
+  "old": "Burnt away is the demon, burnt away are the hostile powers; scorched out is the demon, scorched out are the hostile powers. Thou art unsharpened, rival-destroying; thee, the strong one, I wipe clean for the kindling of vigour. Burnt away is the demon, burnt away are the hostile powers; scorched out is the demon, scorched out are the hostile powers. Thou art unsharpened (feminine), rival-destroying; thee, the strong one, I wipe clean for the kindling of vigour.",
+  "new": "Burnt away is the demon, burnt away are the hostile powers; scorched out is the demon, scorched out are the hostile powers. Thou art unsharpened, rival-destroying; thee, the strong one, I wipe clean for the kindling of vigour. Burnt away is the demon, burnt away are the hostile powers; scorched out is the demon, scorched out are the hostile powers. Thou art unsharpened, rival-destroying; thee, the strong one, I wipe clean for the kindling of vigour.",
+  "why": "reviewer (minor): Bracketed gloss added to English."
+ },
+ {
+  "n": "30",
+  "field": "hindi",
+  "old": "तू अदिति की रस्ना है; तू विष्णु का वेष्प है। बल के लिए तुझे; अहिंसित आँख से तुझे देखता हूँ। तू अग्नि की जिह्वा है, देवों के लिए सुन्दर आह्वान करने वाली; मेरे लिए हर धाम के लिए, हर यजुः के लिए हो।",
+  "new": "तू अदिति की मेखला है; तू विष्णु का वेष्प है। बल के लिए तुझे; अहिंसित आँख से तुझे देखता हूँ। तू अग्नि की जिह्वा है, देवों के लिए सुन्दर आह्वान करने वाली; मेरे लिए हर धाम के लिए, हर यजुः के लिए हो।",
+  "why": "reviewer (error): रस्ना is not a word for \"girdle\" (rāsnā); Hindi रसना = tongue."
+ },
+ {
+  "n": "31",
+  "field": "hindi",
+  "old": "सविता की प्रेरणा में छिद्ररहित पवित्र से, सूर्य की किरणों से तुझे शुद्ध करता हूँ। सविता की प्रेरणा में छिद्ररहित पवित्र से, सूर्य की किरणों से तुम्हें शुद्ध करता हूँ। तू तेज है, तू शुक्र है, तू अमृत है; तू धाम है, नाम है, देवों को प्रिय है; तू अनाधृष्ट देवयजन है।",
+  "new": "सविता की प्रेरणा में छिद्ररहित पवित्र से, सूर्य की किरणों से तुझे शुद्ध करता हूँ। सविता की प्रेरणा में छिद्ररहित पवित्र से, सूर्य की किरणों से तुम्हें शुद्ध करता हूँ। तू तेज है, तू उज्ज्वल है, तू अमृत है; तू धाम है, नाम है, देवों को प्रिय है; तू अनाधृष्ट देवयजन है।",
+  "why": "reviewer (error): शुक्र in Hindi = Venus/semen; śukram = bright."
+ },
+ {
+  "n": "2",
+  "field": "gloss:gharmaḥ",
+  "old": "heating vessel (gharma)",
+  "new": "heat, hot offering (gharma)",
+  "why": "MANUAL, settled by the lead agent: literal"
+ },
+ {
+  "n": "22",
+  "field": "gloss:gharmaḥ",
+  "old": "heating vessel (gharma)",
+  "new": "heat, hot offering (gharma)",
+  "why": "MANUAL, settled by the lead agent: literal"
+ },
+ {
+  "n": "10",
+  "field": "gram:juṣṭam",
+  "old": "n. acc. sg. ppp. √juṣ",
+  "new": "acc. sg. ppp. √juṣ, agreeing with tvā",
+  "why": "MANUAL, settled by the lead agent: consistency"
+ },
+ {
+  "n": "10",
+  "field": "gram:juṣṭam",
+  "old": "n. acc. sg. ppp. √juṣ",
+  "new": "acc. sg. ppp. √juṣ, agreeing with tvā",
+  "why": "MANUAL, settled by the lead agent: consistency"
+ },
+ {
+  "n": "15",
+  "field": "gram:suśami",
+  "old": "ind.",
+  "new": "uncertain (adverbial or vocative)",
+  "why": "MANUAL, settled by the lead agent: uncertain"
+ },
+ {
+  "n": "11",
+  "field": "hindi",
+  "old": "भूति के लिए तुझे, अराति के लिए नहीं; मैं स्वर्ग को देखूँ; घर के खम्भे पृथिवी पर दृढ़ हों; मैं विस्तृत अन्तरिक्ष के साथ-साथ चलता हूँ। तुझे पृथिवी की नाभि में, अदिति की गोद में स्थापित करता हूँ। हे अग्नि, हव्य की रक्षा कर।",
+  "new": "कल्याण के लिए तुझे, अराति के लिए नहीं; मैं स्वर्ग को देखूँ; घर के खम्भे पृथिवी पर दृढ़ हों; मैं विस्तृत अन्तरिक्ष के साथ-साथ चलता हूँ। तुझे पृथिवी की नाभि में, अदिति की गोद में स्थापित करता हूँ। हे अग्नि, हव्य की रक्षा कर।",
+  "why": "MANUAL, settled by the lead agent: bhūtāya is not bhūti"
+ },
+ {
+  "n": "5",
+  "field": "english",
+  "old": "O Agni, lord of vows, I shall keep the vow; may I be able to do that; may that succeed for me. Now I go from untruth to truth.",
+  "new": "O Agni, lord of vows, I shall keep the vow; may I be able that; may that succeed for me. Now I go from untruth to truth.",
+  "why": "MANUAL, settled by the lead agent: \"to do\" not in the text"
+ },
+ {
+  "n": "6",
+  "field": "english",
+  "old": "Who yokes thee? He yokes thee. For whom does he yoke thee? For him he yokes thee. You two for the work, you two for the service.",
+  "new": "Who yokes thee? He yokes thee. For whom does he yoke thee? For him he yokes thee. You two for the work, you two for the veṣa.",
+  "why": "MANUAL, settled by the lead agent: rare word kept untranslated"
+ },
+ {
+  "n": "20",
+  "field": "notes",
+  "old": "",
+  "new": "appended: Hindi महतियों is not standard; mahīnām (of the great ones, f.) needs a better Hindi rendering: human check.",
+  "why": "MANUAL, settled by the lead agent: left for human check"
+ },
+ {
+  "n": "26",
+  "field": "notes",
+  "old": "",
+  "new": "appended: pṛthivyai could be \"for the earth\" (dative); \"from the earth\" is uncertain.",
+  "why": "MANUAL, settled by the lead agent: left for human check"
+ },
+ {
+  "n": "12",
+  "field": "notes",
+  "old": "",
+  "new": "appended: UNRESOLVED: printed token is 'gra (= agra?); the draft read it as agre and did not translate it. Needs a human decision.",
+  "why": "MANUAL, settled by the lead agent: left for human check"
+ },
+ {
+  "n": "3",
+  "field": "notes",
+  "old": "",
+  "new": "appended: UNRESOLVED: supvā is not a nominative (instr. sg. of supū?) and kāmadhukṣaḥ is unclear; the clause translation is unsupported. Needs a human reading.",
+  "why": "MANUAL, settled by the lead agent: left for human check"
+ },
+ {
+  "n": "3",
+  "field": "confidence",
+  "old": "low",
+  "new": "low",
+  "why": "MANUAL, settled by the lead agent: unresolved"
+ },
+ {
+  "n": "22",
+  "field": "notes",
+  "old": "",
+  "new": "appended: UNRESOLVED: the text looks damaged or truncated. The draft restoration in text_flags was recalled from memory and is withdrawn; check the edition.",
+  "why": "MANUAL, settled by the lead agent: left for human check"
+ },
+ {
+  "n": "22",
+  "field": "text_flags.suggest",
+  "old": "vi̱śvāyururu prathasvoru te yajñapatiḥ prathatāṃ tvacaṃ gṛhṇīṣvāntarikṣāya tvā | devastvā",
+  "new": "",
+  "why": "MANUAL, settled by the lead agent: recalled from memory, not supported by the text"
+ }
+]

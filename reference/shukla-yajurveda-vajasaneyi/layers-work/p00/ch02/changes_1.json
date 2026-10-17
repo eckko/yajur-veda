@@ -1,0 +1,545 @@
+[
+ {
+  "n": "1",
+  "field": "hindi",
+  "old": "तू काला है, माँद में ठहरने वाला; अग्नि के लिए प्रिय तुझे मैं प्रोक्षित करता हूँ (जल छिड़कता हूँ)। तू वेदि है; बर्हिस् (कुश) के लिए प्रिय तुझे मैं प्रोक्षित करता हूँ। तू बर्हिस् है; स्रुचों के लिए प्रिय तुझे मैं प्रोक्षित करता हूँ।",
+  "new": "तू काला है, माँद में ठहरने वाला; अग्नि के लिए प्रिय तुझे मैं प्रोक्षित करता हूँ। तू वेदि है; बर्हिस् के लिए प्रिय तुझे मैं प्रोक्षित करता हूँ। तू बर्हिस् है; स्रुचों के लिए प्रिय तुझे मैं प्रोक्षित करता हूँ।",
+  "why": "reviewer (minor): Bracketed gloss in the Hindi (brief: no bracketed glosses in Hindi)."
+ },
+ {
+  "n": "1",
+  "field": "notes",
+  "old": "Three formulas joined in one line; the edition's double spaces mark the formula boundaries (kept as a trailing space on the preceding token). kṛṣṇaḥ ākhareṣṭhaḥ is addressed to the black antelope skin.",
+  "new": "Three formulas joined in one line; the edition's double spaces mark the formula boundaries (kept as a trailing space on the preceding token).",
+  "why": "reviewer (minor): Names the addressee (black antelope skin) which the line does not state; glossary says translate implement formulas literally and do not explain the ritual."
+ },
+ {
+  "n": "2",
+  "field": "hindi",
+  "old": "तू अदिति के लिए सींचने वाला है। हे विष्णु, तू (उसकी) चोटी है। ऊन-सा कोमल, देवों के लिए सुखद आसन तुझे मैं बिछाता हूँ। भूमि के पति के लिए स्वाहा, भुवन के पति के लिए स्वाहा, भूतों के पति के लिए स्वाहा।",
+  "new": "तू अदिति के लिए सींचने वाला है। हे विष्णु, तू चोटी है। ऊन-सा कोमल, देवों के लिए सुखद आसन तुझे मैं बिछाता हूँ। भूमि के पति के लिए स्वाहा, भुवन के पति के लिए स्वाहा, भूतों के पति के लिए स्वाहा।",
+  "why": "reviewer (minor): Bracketed gloss in the Hindi (brief: no bracketed glosses in Hindi)."
+ },
+ {
+  "n": "3",
+  "field": "notes",
+  "old": "ariṣṭayai: the edition prints ariṣṭayai (dative, 'for unharmedness'); other recensions read ariṣṭyai (from ariṣṭi); kept as printed. 'agnir iḍa īḍitaḥ': iḍaḥ taken as genitive of iḍ ('praised by/of Iḍā, the libation-praise'); a vocative 'O Iḍā' is also possible. The second danda is attached to īḍitaḥ in the source (token 'ī̭ḍi̱taḥ|').",
+  "new": "ariṣṭayai: the edition prints ariṣṭayai (dative, 'for unharmedness'); kept as printed. 'agnir iḍa īḍitaḥ': iḍaḥ taken as genitive of iḍ ('praised by/of Iḍā, the libation-praise'); a vocative 'O Iḍā' is also possible. The second danda is attached to īḍitaḥ in the source (token 'ī̭ḍi̱taḥ|').",
+  "why": "reviewer (minor): Invented variant claim: nothing in the input supports what 'other recensions' read."
+ },
+ {
+  "n": "3",
+  "field": "hindi",
+  "old": "विश्वावसु गन्धर्व तुझे चारों ओर रखे, सबकी और यजमान की अक्षति (क्षेमकुशल) के लिए; तू परिधि है; अग्नि इडा द्वारा स्तुत है। तू इन्द्र की दाहिनी भुजा है, सबकी और यजमान की अक्षति के लिए; तू परिधि है; अग्नि इडा द्वारा स्तुत है। मित्र और वरुण तुझे उत्तर की ओर अटल धर्म से चारों ओर रखें, सबकी और यजमान की अक्षति के लिए; तू परिधि है; अग्नि इडा द्वारा स्तुत है।",
+  "new": "विश्वावसु गन्धर्व तुझे चारों ओर रखे, सबकी और यजमान की अक्षति के लिए; तू परिधि है; अग्नि इडा द्वारा स्तुत है। तू इन्द्र की दाहिनी भुजा है, सबकी और यजमान की अक्षति के लिए; तू परिधि है; अग्नि इडा द्वारा स्तुत है। मित्र और वरुण तुझे उत्तर की ओर अटल धर्म से चारों ओर रखें, सबकी और यजमान की अक्षति के लिए; तू परिधि है; अग्नि इडा द्वारा स्तुत है।",
+  "why": "reviewer (minor): Bracketed gloss in the Hindi (brief: no bracketed glosses in Hindi)."
+ },
+ {
+  "n": "3",
+  "field": "english",
+  "old": "May the Gandharva Viśvāvasu lay you around, for the safety of all, of the sacrificer; you are an enclosing-stick; Agni is praised by Iḍā. You are Indra's right arm, for the safety of all, of the sacrificer; you are an enclosing-stick; Agni is praised by Iḍā. May Mitra and Varuṇa lay you around on the north with firm ordinance, for the safety of all, of the sacrificer; you are an enclosing-stick; Agni is praised by Iḍā.",
+  "new": "May the Gandharva Viśvāvasu lay you around, for the safety of all, of the sacrificer; you are an enclosing-stick; Agni is praised by Iḍā. You are Indra's right arm, for the safety of all, of the sacrificer; you are an enclosing-stick; Agni is praised by Iḍā. May Mitra and Varuṇa lay you around on the north with firm dharma, for the safety of all, of the sacrificer; you are an enclosing-stick; Agni is praised by Iḍā.",
+  "why": "reviewer (minor): dharmaṇā is rendered 'ordinance' in English but धर्म in Hindi; the brief fixes dharma = dharma."
+ },
+ {
+  "n": "4",
+  "field": "english",
+  "old": "You, O sage, the feast-offerer, the bright one, may we kindle; O Agni, the great one, at the rite.",
+  "new": "You, O seer, the feast-offerer, the bright one, may we kindle; O Agni, the great one, at the rite.",
+  "why": "reviewer (minor): kave (kavi) rendered 'sage', which is the fixed rendering of ṛṣi; use 'seer' to keep them apart."
+ },
+ {
+  "n": "4",
+  "field": "word.gloss",
+  "word": "kave",
+  "old": "O sage",
+  "new": "O seer",
+  "why": "reviewer (minor): Same: kavi vs ṛṣi."
+ },
+ {
+  "n": "4",
+  "field": "hindi",
+  "old": "हे कवि, तुझ वीतिहोत्र (यज्ञ के भोजन को ले जाने वाले), द्युतिमान् को हम प्रज्वलित करें; हे अग्नि, अध्वर में तुझ महान् को।",
+  "new": "हे कवि, तुझ वीतिहोत्र, द्युतिमान् को हम प्रज्वलित करें; हे अग्नि, अध्वर में तुझ महान् को।",
+  "why": "reviewer (minor): Bracketed gloss in the Hindi (brief: no bracketed glosses in Hindi). The bracket also contradicts the English 'feast-offerer'."
+ },
+ {
+  "n": "5",
+  "field": "notes",
+  "old": "kasyāścid abhiśastyai: dative form in the sense 'against any curse' (so also prasityai, duriṣṭayai in unit 20). Four distinct formulas in one line, separated by the edition's double space and danda.",
+  "new": "kasyāścid abhiśastyai: dative form in the sense 'against any curse' (so also prasityai, duriṣṭayai in unit 20). Several formulas in one line; the edition marks only one double space (after samid asi) and one danda.",
+  "why": "reviewer (minor): The count 'four' is not supported by the markers printed (one double space, one danda)."
+ },
+ {
+  "n": "7",
+  "field": "notes",
+  "old": "vāja = strength / prize / race; 'vājaṃ sariṣyantam' rendered 'about to run the race'. bhūyāstam is dual (addressed to two implements, e.g. the two ladles); the line does not name them.",
+  "new": "vāja = strength / prize / race; 'vājaṃ sariṣyantam' rendered 'about to run the race'. bhūyāstam is dual; the line does not say who the two addressed are.",
+  "why": "reviewer (minor): Speculative identification (two ladles) not in the line."
+ },
+ {
+  "n": "7",
+  "field": "hindi",
+  "old": "हे अग्नि, वाज को जीतने वाले, वाज (दौड़/बल) की ओर दौड़ने जा रहे तुझ वाजजित् को मैं पोंछता हूँ। देवों को नमस्कार, पितरों के लिए स्वधा। तुम दोनों मेरे लिए सुगमता से वश में रहो।",
+  "new": "हे अग्नि, वाज को जीतने वाले, वाज की ओर दौड़ने जा रहे तुझ वाजजित् को मैं पोंछता हूँ। देवों को नमस्कार, पितरों के लिए स्वधा। तुम दोनों मेरे लिए सुगमता से वश में रहो।",
+  "why": "reviewer (minor): Bracketed gloss in the Hindi (brief: no bracketed glosses in Hindi)."
+ },
+ {
+  "n": "8",
+  "field": "hindi",
+  "old": "आज देवों के लिए घी बिना छलकाए मैं इकट्ठा करूँ। हे विष्णु, पैर से मैं तुझ पर पाँव न रखूँ। हे अग्नि, तेरी धन-भरी छाया में मैं पहुँचूँ। हे विष्णु, तू (उसका) स्थान है। यहाँ से इन्द्र ने वीर कर्म किया; वह अध्वर में ऊँचा खड़ा हुआ।",
+  "new": "आज देवों के लिए घी बिना छलकाए मैं इकट्ठा करूँ। हे विष्णु, पैर से मैं तुझ पर पाँव न रखूँ। हे अग्नि, तेरी धन-भरी छाया में मैं पहुँचूँ। हे विष्णु, तू स्थान है। यहाँ से इन्द्र ने वीर कर्म किया; वह अध्वर में ऊँचा खड़ा हुआ।",
+  "why": "reviewer (minor): Bracketed gloss in the Hindi (brief: no bracketed glosses in Hindi)."
+ },
+ {
+  "n": "9",
+  "field": "english",
+  "old": "O Agni, take up the office of hotṛ, take up the office of messenger. May heaven and earth protect you; do you protect heaven and earth. Indra, the maker of good offering for the gods, has been (so) with the ghee oblation; svāhā. Light together with light.",
+  "new": "O Agni, take up the office of hotṛ, take up the office of messenger. May heaven and earth protect you; do you protect heaven and earth. Indra, the maker of good offering for the gods, has been (so) with clarified butter as the oblation; svāhā. Light together with light.",
+  "why": "reviewer (minor): ājya is 'clarified butter' elsewhere (unit 8); ghee is ghṛta."
+ },
+ {
+  "n": "9",
+  "field": "hindi",
+  "old": "हे अग्नि, होता का कार्य ग्रहण कर, दूत का कार्य ग्रहण कर। द्यावा-पृथिवी तेरी रक्षा करें; तू द्यावा-पृथिवी की रक्षा कर। देवों के लिए सु-इष्ट करने वाला इन्द्र घी की आहुति से हुआ; स्वाहा। ज्योति ज्योति के साथ मिली।",
+  "new": "हे अग्नि, होता का कार्य ग्रहण कर, दूत का कार्य ग्रहण कर। द्यावा-पृथिवी तेरी रक्षा करें; तू द्यावा-पृथिवी की रक्षा कर। देवों के लिए स्विष्टकृत् इन्द्र घी की आहुति से हुआ; स्वाहा। ज्योति ज्योति के साथ।",
+  "why": "reviewer (minor): \"सु-इष्ट\" is an invented rendering of sviṣṭakṛt; \"मिली\" adds a verb the line lacks (EN has none)."
+ },
+ {
+  "n": "10",
+  "field": "hindi",
+  "old": "इन्द्र मुझमें यह इन्द्रिय (बल) रखे; उदार धन हमारा साथ दें। हमारी आशाएँ (आशीषें) हमारी हों; हमारी आशाएँ सच हों। पृथिवी माता आहूत है; पृथिवी माता मुझे बुलाए; अग्नि आग्नीध्र से (मुझे बुलाए); स्वाहा।",
+  "new": "इन्द्र मुझमें यह इन्द्रिय रखे; उदार धन हमारा साथ दें। हमारी आशाएँ हमारी हों; हमारी आशाएँ सच हों। पृथिवी माता आहूत है; पृथिवी माता मुझे बुलाए; अग्नि आग्नीध्र से; स्वाहा।",
+  "why": "reviewer (minor): Bracketed gloss in the Hindi (brief: no bracketed glosses in Hindi)."
+ },
+ {
+  "n": "10",
+  "field": "word.gloss",
+  "word": "āgnīdhrāt",
+  "old": "from the Āgnīdhra (fire-tender's shed)",
+  "new": "from the Āgnīdhra",
+  "why": "reviewer (minor): \"(fire-tender's shed)\" and \"n.\" are unsupported; Āgnīdhra may be the priest (glossary: keep priest names)."
+ },
+ {
+  "n": "11",
+  "field": "hindi",
+  "old": "द्यौ पिता आहूत है; द्यौ पिता मुझे बुलाए; अग्नि आग्नीध्र से (मुझे बुलाए); स्वाहा। देव सविता की प्रेरणा में, अश्विनों की भुजाओं से, पूषा के हाथों से तुझे मैं ग्रहण करता हूँ; अग्नि के मुख से तुझे मैं खाता हूँ।",
+  "new": "द्यौ पिता आहूत है; द्यौ पिता मुझे बुलाए; अग्नि आग्नीध्र से; स्वाहा। देव सविता की प्रेरणा में, अश्विनों की भुजाओं से, पूषा के हाथों से तुझे मैं ग्रहण करता हूँ; अग्नि के मुख से तुझे मैं खाता हूँ।",
+  "why": "reviewer (minor): Bracketed gloss in the Hindi (brief: no bracketed glosses in Hindi)."
+ },
+ {
+  "n": "11",
+  "field": "word.gloss",
+  "word": "āgnīdhrāt",
+  "old": "from the Āgnīdhra (fire-tender's shed)",
+  "new": "from the Āgnīdhra",
+  "why": "reviewer (minor): Same as unit 10."
+ },
+ {
+  "n": "12",
+  "field": "hindi",
+  "old": "हे देव सविता, तेरे इस यज्ञ को उन्होंने ब्रह्मा बृहस्पति को बताया है। उससे यज्ञ की रक्षा कर, उससे यज्ञपति की, उससे मेरी रक्षा कर।",
+  "new": "हे देव सविता, तेरे इस यज्ञ को उन्होंने ब्रह्मन् बृहस्पति को बताया है। उससे यज्ञ की रक्षा कर, उससे यज्ञपति की, उससे मेरी रक्षा कर।",
+  "why": "reviewer (error): ब्रह्मा is the god Brahmā; brahmaṇe is the priest brahman (glossary: keep brahman)."
+ },
+ {
+  "n": "13",
+  "field": "word.gram",
+  "word": "pratiṣṭha",
+  "old": "2 sg. impv. pra-√sthā",
+  "new": "2 sg. impv. prati-√sthā",
+  "why": "reviewer (error): The printed word is pratiṣṭha (prati-√sthā), not pra-√sthā; pra-√sthā would be prasthā."
+ },
+ {
+  "n": "13",
+  "field": "word.gloss",
+  "word": "pratiṣṭha",
+  "old": "go forth, stand firm",
+  "new": "stand firm",
+  "why": "reviewer (error): \"go forth\" follows the wrong root."
+ },
+ {
+  "n": "13",
+  "field": "english",
+  "old": "May mind, the impulse, enjoy the clarified butter; may Bṛhaspati extend this sacrifice; may he set this sacrifice in order, unharmed. May all the gods rejoice here. Om. Go forth.",
+  "new": "May mind, the impulse, enjoy the clarified butter; may Bṛhaspati extend this sacrifice; may he set this sacrifice in order, unharmed. May all the gods rejoice here. Om. Stand firm.",
+  "why": "reviewer (error): Follows from the wrong root."
+ },
+ {
+  "n": "13",
+  "field": "notes",
+  "old": "mano jūtiḥ: 'mind, (that is) impulse' in apposition. o3m: om with pluti (prolongation mark 3). pratiṣṭha: 2 sg. imperative 'set out / stand firm'; rendered 'go forth'.",
+  "new": "mano jūtiḥ: 'mind, (that is) impulse' in apposition. o3m: om with pluti (prolongation mark 3). pratiṣṭha: 2 sg. imperative of prati-√sthā, 'stand firm'.",
+  "why": "reviewer (minor): Same."
+ },
+ {
+  "n": "13",
+  "field": "hindi",
+  "old": "मन, प्रेरणा, घी का सेवन करे; बृहस्पति इस यज्ञ को फैलाए; इस यज्ञ को अक्षत (बिना हानि) स्थापित करे। सब देव यहाँ आनन्दित हों। ओम्। आगे बढ़।",
+  "new": "मन, प्रेरणा, घी का सेवन करे; बृहस्पति इस यज्ञ को फैलाए; इस यज्ञ को अक्षत स्थापित करे। सब देव यहाँ आनन्दित हों। ओम्। दृढ़ स्थित हो।",
+  "why": "reviewer (error): Hindi 'आगे बढ़' follows the wrong root; bracketed gloss."
+ },
+ {
+  "n": "13",
+  "field": "notes",
+  "old": "mano jūtiḥ: 'mind, (that is) impulse' in apposition. o3m: om with pluti (prolongation mark 3). pratiṣṭha: 2 sg. imperative of prati-√sthā, 'stand firm'.",
+  "new": "mano jūtiḥ: 'mind, (that is) impulse' in apposition. o3m: om with pluti (prolongation mark 3). pratiṣṭha: 2 sg. imperative of prati-√sthā, 'stand firm'. ariṣṭam can also be taken adverbially with tanotu ('extend unharmed'); the draft joins it to the second yajñam.",
+  "why": "reviewer (minor): ariṣṭam may be adverbial with tanotu (\"extend unharmed\") instead of agreeing with the second yajñam; the draft states one reading."
+ },
+ {
+  "n": "14",
+  "field": "hindi",
+  "old": "हे अग्नि, यह तेरी समिध् है; उससे बढ़ और फूल (पुष्ट हो)। हम भी बढ़ें और पुष्ट हों। हे अग्नि, वाज को जीतने वाले, वाज की दौड़ दौड़ चुके तुझ वाजजित् को मैं पोंछता हूँ।",
+  "new": "हे अग्नि, यह तेरी समिध् है; उससे बढ़ और फूल। हम भी बढ़ें और पुष्ट हों। हे अग्नि, वाज को जीतने वाले, वाज की दौड़ दौड़ चुके तुझ वाजजित् को मैं पोंछता हूँ।",
+  "why": "reviewer (minor): Bracketed gloss in the Hindi (brief: no bracketed glosses in Hindi)."
+ },
+ {
+  "n": "15",
+  "field": "hindi",
+  "old": "अग्नि और सोम की विजय के पीछे मैं भी विजय पाऊँ; वाज (बल) की प्रेरणा से मैं अपने को आगे बढ़ाता हूँ। अग्नि और सोम उसे दूर हटाएँ जो हमसे द्वेष करता है और जिससे हम द्वेष करते हैं; वाज की प्रेरणा से उसे मैं दूर हटाता हूँ। इन्द्र और अग्नि की विजय के पीछे मैं भी विजय पाऊँ; वाज की प्रेरणा से मैं अपने को आगे बढ़ाता हूँ। इन्द्र और अग्नि उसे दूर हटाएँ जो हमसे द्वेष करता है और जिससे हम द्वेष करते हैं; वाज की प्रेरणा से उसे मैं दूर हटाता हूँ।",
+  "new": "अग्नि और सोम की विजय के पीछे मैं विजय पाऊँ; वाज की प्रेरणा से मैं अपने को आगे बढ़ाता हूँ। अग्नि और सोम उसे दूर हटाएँ जो हमसे द्वेष करता है और जिससे हम द्वेष करते हैं; वाज की प्रेरणा से उसे मैं दूर हटाता हूँ। इन्द्र और अग्नि की विजय के पीछे मैं विजय पाऊँ; वाज की प्रेरणा से मैं अपने को आगे बढ़ाता हूँ। इन्द्र और अग्नि उसे दूर हटाएँ जो हमसे द्वेष करता है और जिससे हम द्वेष करते हैं; वाज की प्रेरणा से उसे मैं दूर हटाता हूँ।",
+  "why": "reviewer (minor): Bracketed gloss in the Hindi (brief: no bracketed glosses in Hindi). 'भी' (also) is not in the Sanskrit."
+ },
+ {
+  "n": "16",
+  "field": "word.gram",
+  "word": "rihāṇāḥ",
+  "old": "n. nom. pl. pres. part. ātm. √rih",
+  "new": "m. nom. pl. pres. part. ātm. √rih",
+  "why": "reviewer (error): Form in -āḥ is masculine; \"n. nom. pl.\" is wrong."
+ },
+ {
+  "n": "16",
+  "field": "word.gram",
+  "word": "vayaḥ",
+  "old": "n. nom. pl.",
+  "new": "m. nom. pl. (stem vi)",
+  "why": "reviewer (minor): vayaḥ \"birds\" is nom. pl. of vi (m.), agreeing with the masc. participle."
+ },
+ {
+  "n": "16",
+  "field": "hindi",
+  "old": "वसुओं के लिए तुझे, रुद्रों के लिए तुझे, आदित्यों के लिए तुझे। हे द्यावा-पृथिवी, तुम दोनों एकमत हो; मित्र और वरुण वृष्टि से तेरी सहायता करें। पक्षी चाटते हुए अभ्यक्त (घी-लिपे) का सेवन करें; मरुतों की चितकबरी घोड़ियों के पास जा; चितकबरी गाय बनकर द्युलोक में जा; वहाँ से हमारे लिए वृष्टि ला। हे अग्नि, तू आँख की रक्षा करने वाला है; मेरी आँख की रक्षा कर।",
+  "new": "वसुओं के लिए तुझे, रुद्रों के लिए तुझे, आदित्यों के लिए तुझे। हे द्यावा-पृथिवी, तुम दोनों एकमत हो; मित्र और वरुण वृष्टि से तेरी सहायता करें। पक्षी चाटते हुए अभ्यक्त का सेवन करें; मरुतों की चितकबरी घोड़ियों के पास जा; चितकबरी गाय बनकर द्युलोक में जा; वहाँ से हमारे लिए वृष्टि ला। हे अग्नि, तू आँख की रक्षा करने वाला है; मेरी आँख की रक्षा कर।",
+  "why": "reviewer (minor): Bracketed gloss in the Hindi (brief: no bracketed glosses in Hindi)."
+ },
+ {
+  "n": "17",
+  "field": "english",
+  "old": "The enclosing-stick which you set around yourself, O god Agni, while being hidden by the Paṇis, that very one I bring to you according to your liking; may this one not become estranged from you. Go, you two, to the dear abode of Agni.",
+  "new": "The enclosing-stick which you set around, O god Agni, while being hidden by the Paṇis, that very one I bring to you according to your liking; may this one not become estranged from you. Go, you two, to the dear abode of Agni.",
+  "why": "reviewer (minor): 'yourself' is not in the text."
+ },
+ {
+  "n": "18",
+  "field": "word.gloss",
+  "word": "gṛṇantaḥ",
+  "old": "welcoming, praising",
+  "new": "praising",
+  "why": "reviewer (minor): √gṝ means call out, praise; \"welcoming\" is unsupported."
+ },
+ {
+  "n": "18",
+  "field": "english",
+  "old": "You are sharers in the drippings, O gods, lofty with refreshment, standing on the prastara, and belonging to the enclosing-sticks. All of you, greeting this speech, having sat down on this barhis, rejoice. Svāhā. Vāṭ.",
+  "new": "You are sharers in the drippings, O gods, lofty with refreshment, standing on the prastara, and belonging to the enclosing-sticks. All of you, praising this speech, having sat down on this barhis, rejoice. Svāhā. Vāṭ.",
+  "why": "reviewer (minor): Same."
+ },
+ {
+  "n": "18",
+  "field": "hindi",
+  "old": "हे देव, तुम संस्राव (बचे हुए रस) के भागी हो, अन्न से महान्, प्रस्तर पर स्थित और परिधियों से सम्बद्ध। तुम सब इस वाणी का स्वागत करते हुए इस बर्हिस् पर बैठकर आनन्दित हो। स्वाहा। वाट्।",
+  "new": "हे देव, तुम संस्राव के भागी हो, अन्न से महान्, प्रस्तर पर स्थित और परिधियों से सम्बद्ध। तुम सब इस वाणी की स्तुति करते हुए इस बर्हिस् पर बैठकर आनन्दित हो। स्वाहा। वाट्।",
+  "why": "reviewer (minor): 'स्वागत' unsupported (gṛṇantaḥ = praising); bracketed gloss."
+ },
+ {
+  "n": "19",
+  "field": "notes",
+  "old": "ghṛtācī sthaḥ: dual (two ladles). 'namaś ca ta upa ca' is elliptical; 'upa' rendered 'upon (you)'. śive, sviṣṭe: locatives with the noun understood.",
+  "new": "ghṛtācī sthaḥ: dual. 'namaś ca ta upa ca' is elliptical; 'upa' rendered 'upon (you)'. śive, sviṣṭe: locatives with the noun understood.",
+  "why": "reviewer (minor): 'two ladles' is not stated in the line."
+ },
+ {
+  "n": "19",
+  "field": "english",
+  "old": "You two are ghee-laden; as yoke-bearers, guard; you two are in favour; place me in favour. O sacrifice, homage be to you, and (homage) upon you. Stand firm in the auspicious place of the sacrifice; stand firm in my well-offered sacrifice.",
+  "new": "You two are ghee-laden; as yoke-bearers, guard; you two are in favour; place me in favour. O sacrifice, homage be to you, and (homage) upon you. Stand firm in the auspicious (place) of the sacrifice; stand firm in my well-offered (sacrifice).",
+  "why": "reviewer (minor): Added nouns are unmarked in English (noted only in notes)."
+ },
+ {
+  "n": "19",
+  "field": "hindi",
+  "old": "तुम दोनों घृत से भरी हो; धुरी ढोने वाली के रूप में रक्षा करो; तुम दोनों कृपा में हो; मुझे कृपा में रखो। हे यज्ञ, तुझे नमस्कार हो और (नमस्कार) तुझ पर हो। यज्ञ के मंगल (स्थान) में ठहर; मेरे सु-इष्ट (अच्छी तरह किए गए यज्ञ) में ठहर।",
+  "new": "तुम दोनों घृत से भरी हो; धुरी ढोने वाली के रूप में रक्षा करो; तुम दोनों कृपा में हो; मुझे कृपा में रखो। हे यज्ञ, तुझे नमस्कार हो और तुझ पर हो। यज्ञ के मंगल में ठहर; मेरे सु-इष्ट में ठहर।",
+  "why": "reviewer (minor): Bracketed gloss in the Hindi (brief: no bracketed glosses in Hindi)."
+ },
+ {
+  "n": "20",
+  "field": "hindi",
+  "old": "हे अग्नि, अबाधित आयु वाले, अत्यन्त तीक्ष्ण, मुझे बिजली से बचा, बन्धन से बचा, बुरे यज्ञ से बचा, बुरे भोजन से बचा; हमारे अन्न को विषरहित कर। योनि (आसन) में सुखपूर्वक बैठी हुई; स्वाहा, वाट्। संवेश (विश्राम) के पति अग्नि के लिए स्वाहा। यश से भरी सरस्वती के लिए स्वाहा।",
+  "new": "हे अग्नि, अबाधित आयु वाले, अत्यन्त तीक्ष्ण, मुझे बिजली से बचा, बन्धन से बचा, बुरे यज्ञ से बचा, बुरे भोजन से बचा; हमारे अन्न को विषरहित कर। योनि में सुखपूर्वक बैठी हुई; स्वाहा, वाट्। संवेश के पति अग्नि के लिए स्वाहा। यश से भरी सरस्वती के लिए स्वाहा।",
+  "why": "reviewer (minor): Bracketed gloss in the Hindi (brief: no bracketed glosses in Hindi)."
+ },
+ {
+  "n": "20",
+  "field": "english",
+  "old": "O Agni of undeceived life, sharpest one, guard me from the lightning-stroke, guard from the fetter, guard from ill sacrifice, guard from bad food; make our food free of poison. Well-seated in the womb (its seat): svāhā, vāṭ. To Agni, lord of lying-down, svāhā. To Sarasvatī, rich in glory, svāhā.",
+  "new": "O Agni of undeceived life, sharpest one, guard me from the lightning-stroke, guard from the fetter, guard from ill sacrifice, guard from bad food; make our food free of poison. Well-seated in the womb: svāhā, vāṭ. To Agni, lord of lying-down, svāhā. To Sarasvatī, rich in glory, svāhā.",
+  "why": "reviewer (minor): '(its seat)' is an addition."
+ },
+ {
+  "n": "20",
+  "field": "notes",
+  "old": "duriṣṭayai: dative with the sense 'from ill sacrifice' (edition's form; compare ariṣṭayai in unit 3). adabdhāyo: vocative of adabdhāyu ('whose life is undeceived'). aśītama: superlative, 'sharpest'. suṣadā: feminine nominative ('well-seated'); its referent is not named in the line.",
+  "new": "duriṣṭayai: dative with the sense 'from ill sacrifice' (edition's form; compare ariṣṭayai in unit 3). adabdhāyo: vocative of adabdhāyu ('whose life is undeceived'). aśītama: superlative, 'sharpest'. suṣadā: feminine nominative ('well-seated'); its referent is not named in the line. aśītama: the sense 'sharpest' is uncertain (obscure word). didyu is 'missile, dart'; 'lightning-stroke' is an interpretation.",
+  "why": "reviewer (minor): \"sharpest\" for aśītama is stated as fact but the word is obscure; didyu is better \"missile, dart\" than \"lightning-stroke\"."
+ },
+ {
+  "n": "22",
+  "field": "hindi",
+  "old": "बर्हिस् हवि से, घी से अभ्यक्त हो; आदित्यों के साथ, वसुओं के साथ, मरुतों के साथ। इन्द्र विश्वेदेवों के साथ अभ्यक्त हो; जो (अर्पित है) वह दिव्य नभ में जाए; स्वाहा।",
+  "new": "बर्हिस् हवि से, घी से अभ्यक्त हो; आदित्यों के साथ, वसुओं के साथ, मरुतों के साथ। इन्द्र विश्वेदेवों के साथ अभ्यक्त हो; जो वह दिव्य नभ में जाए; स्वाहा।",
+  "why": "reviewer (minor): Bracketed gloss in the Hindi (brief: no bracketed glosses in Hindi)."
+ },
+ {
+  "n": "23",
+  "field": "word.gloss",
+  "word": "kaḥ",
+  "old": "who (Ka)",
+  "new": "who",
+  "why": "reviewer (error): \"(Ka)\" treats the pronoun as a name; the draft note itself says Prajāpati is not stated."
+ },
+ {
+  "n": "23",
+  "field": "english",
+  "old": "Who looses you? He (Ka) looses you. For whom does he loose you? For him he looses you. For prosperity. You are the share of the Rākṣasas.",
+  "new": "Who looses you? He looses you. For whom does he loose you? For him he looses you. For prosperity. You are the share of the Rākṣasas.",
+  "why": "reviewer (error): Same."
+ },
+ {
+  "n": "23",
+  "field": "hindi",
+  "old": "कौन तुझे छोड़ता है? वह (क = प्रजापति) तुझे छोड़ता है। किसके लिए तुझे छोड़ता है? उसके लिए तुझे छोड़ता है। पुष्टि के लिए। तू राक्षसों का भाग है।",
+  "new": "कौन तुझे छोड़ता है? वह तुझे छोड़ता है। किसके लिए तुझे छोड़ता है? उसके लिए तुझे छोड़ता है। पुष्टि के लिए। तू राक्षसों का भाग है।",
+  "why": "reviewer (error): Hindi imports 'क = प्रजापति', contradicting the draft's own note."
+ },
+ {
+  "n": "25",
+  "field": "hindi",
+  "old": "द्युलोक में विष्णु ने जागत छन्द से पग बढ़ाया; वहाँ से वह बहिष्कृत है जो हमसे द्वेष करता है और जिससे हम द्वेष करते हैं। अन्तरिक्ष में विष्णु ने त्रैष्टुभ छन्द से पग बढ़ाया; वहाँ से वह बहिष्कृत है जो हमसे द्वेष करता है और जिससे हम द्वेष करते हैं। पृथिवी पर विष्णु ने गायत्र छन्द से पग बढ़ाया; वहाँ से वह बहिष्कृत है जो हमसे द्वेष करता है और जिससे हम द्वेष करते हैं; इस अन्न से, इस प्रतिष्ठा से। हम स्वर् (प्रकाश) को पहुँचे; हम ज्योति से युक्त हुए।",
+  "new": "द्युलोक में विष्णु ने जागत छन्द से पग बढ़ाया; वहाँ से वह बहिष्कृत है जो हमसे द्वेष करता है और जिससे हम द्वेष करते हैं। अन्तरिक्ष में विष्णु ने त्रैष्टुभ छन्द से पग बढ़ाया; वहाँ से वह बहिष्कृत है जो हमसे द्वेष करता है और जिससे हम द्वेष करते हैं। पृथिवी पर विष्णु ने गायत्र छन्द से पग बढ़ाया; वहाँ से वह बहिष्कृत है जो हमसे द्वेष करता है और जिससे हम द्वेष करते हैं; इस अन्न से, इस प्रतिष्ठा से। हम स्वर् को पहुँचे; हम ज्योति से युक्त हुए।",
+  "why": "reviewer (minor): Bracketed gloss in the Hindi (brief: no bracketed glosses in Hindi)."
+ },
+ {
+  "n": "27",
+  "field": "hindi",
+  "old": "हे अग्नि गृहपति, हे अग्नि, तुझ गृहपति के द्वारा मैं अच्छा गृहपति होऊँ; हे अग्नि, मुझ गृहपति के द्वारा तू अच्छा गृहपति हो। हम दोनों के गृहपत्य (घर के कार्य) सौ हेमन्तों तक अकेले-जुते न हों (कमी वाले न हों)। मैं सूर्य की गति का अनुसरण करता हूँ।",
+  "new": "हे अग्नि गृहपति, हे अग्नि, तुझ गृहपति के द्वारा मैं अच्छा गृहपति होऊँ; हे अग्नि, मुझ गृहपति के द्वारा तू अच्छा गृहपति हो। हम दोनों के गृहपत्य सौ शीत ऋतुओं तक अकेले-जुते न हों। मैं सूर्य की गति का अनुसरण करता हूँ।",
+  "why": "reviewer (minor): Bracketed gloss in the Hindi (brief: no bracketed glosses in Hindi). 'हेमन्त' is a different word (the season) from hima."
+ },
+ {
+  "n": "27",
+  "field": "english",
+  "old": "O Agni, house-lord, by you, O Agni, the house-lord, may I be a good house-lord; by me, O Agni, the house-lord, may you be a good house-lord. May the household affairs of us two be not single-yoked (not scanty) for a hundred winters. I follow the course of the sun.",
+  "new": "O Agni, house-lord, by you, O Agni, the house-lord, may I be a good house-lord; by me, O Agni, the house-lord, may you be a good house-lord. May the household affairs of us two be not single-yoked for a hundred winters. I follow the course of the sun.",
+  "why": "reviewer (minor): Bracketed gloss that interprets asthūri beyond the literal."
+ },
+ {
+  "n": "29",
+  "field": "hindi",
+  "old": "कव्य (पितरों की हवि) ढोने वाले अग्नि के लिए स्वाहा; पितरों सहित सोम के लिए स्वाहा। वेदि पर बैठे असुर और राक्षस दूर मार भगाए गए।",
+  "new": "कव्य ढोने वाले अग्नि के लिए स्वाहा; पितरों सहित सोम के लिए स्वाहा। वेदि पर बैठे असुर और राक्षस दूर मार भगाए गए।",
+  "why": "reviewer (minor): Bracketed gloss in the Hindi (brief: no bracketed glosses in Hindi)."
+ },
+ {
+  "n": "30",
+  "field": "english",
+  "old": "The Asuras who, putting on forms, roam at their own will, who carry far-off bodies and near bodies: may Agni drive them from this world.",
+  "new": "Those who, putting on forms, being Asuras, roam at their own will, who carry far-off bodies and near bodies: may Agni drive them from this world.",
+  "why": "reviewer (error): santaḥ (being) is dropped from both languages."
+ },
+ {
+  "n": "30",
+  "field": "hindi",
+  "old": "जो असुर रूप धारण करके स्वेच्छा से विचरते हैं, जो दूर के और पास के शरीरों को धारण करते हैं, उन्हें अग्नि इस लोक से भगा दे।",
+  "new": "जो रूप धारण करते हुए, असुर होते हुए, स्वेच्छा से विचरते हैं, जो दूर के और पास के शरीरों को धारण करते हैं, उन्हें अग्नि इस लोक से भगा दे।",
+  "why": "reviewer (error): santaḥ dropped."
+ },
+ {
+  "n": "32",
+  "field": "word.gloss",
+  "word": "śoṣāya",
+  "old": "for ardour, heat",
+  "new": "for drying, dryness",
+  "why": "reviewer (error): śoṣa is drying up / dryness (√śuṣ), not \"ardour, heat\"."
+ },
+ {
+  "n": "32",
+  "field": "english",
+  "old": "Homage to you, O fathers, for sap; homage to you, O fathers, for ardour; homage to you, O fathers, for life; homage to you, O fathers, for svadhā; homage to you, O fathers, for the terrible; homage to you, O fathers, for wrath; homage to you, O fathers; O fathers, homage to you. Give us houses, O fathers; of what is ours, O fathers, may we give to you; put on this garment, O fathers.",
+  "new": "Homage to you, O fathers, for sap; homage to you, O fathers, for dryness; homage to you, O fathers, for life; homage to you, O fathers, for svadhā; homage to you, O fathers, for the terrible; homage to you, O fathers, for wrath; homage to you, O fathers; O fathers, homage to you. Give us houses, O fathers; of what is ours, O fathers, may we give to you; put on this garment, O fathers.",
+  "why": "reviewer (error): Same."
+ },
+ {
+  "n": "32",
+  "field": "notes",
+  "old": "rasāya, śoṣāya, jīvāya, svadhāyai, ghorāya, manyave: datives of purpose ('for ...'); śoṣa taken as 'ardour, heat'. sataḥ: genitive of the present participle of √as ('of what is'), partitive. deṣma: 1 pl. aorist optative of √dā.",
+  "new": "rasāya, śoṣāya, jīvāya, svadhāyai, ghorāya, manyave: datives of purpose ('for ...'); śoṣa taken as 'drying up, dryness'. sataḥ: genitive of the present participle of √as ('of what is'), partitive. deṣma: 1 pl. aorist optative of √dā.",
+  "why": "reviewer (error): Same."
+ },
+ {
+  "n": "32",
+  "field": "word.gloss",
+  "word": "sataḥ",
+  "old": "of what is (ours)",
+  "new": "of what exists",
+  "why": "reviewer (minor): \"(ours)\" is not in the text."
+ },
+ {
+  "n": "32",
+  "field": "english",
+  "old": "Homage to you, O fathers, for sap; homage to you, O fathers, for dryness; homage to you, O fathers, for life; homage to you, O fathers, for svadhā; homage to you, O fathers, for the terrible; homage to you, O fathers, for wrath; homage to you, O fathers; O fathers, homage to you. Give us houses, O fathers; of what is ours, O fathers, may we give to you; put on this garment, O fathers.",
+  "new": "Homage to you, O fathers, for sap; homage to you, O fathers, for dryness; homage to you, O fathers, for life; homage to you, O fathers, for svadhā; homage to you, O fathers, for the terrible; homage to you, O fathers, for wrath; homage to you, O fathers; O fathers, homage to you. Give us houses, O fathers; of what exists, O fathers, may we give to you; put on this garment, O fathers.",
+  "why": "reviewer (minor): Same."
+ },
+ {
+  "n": "32",
+  "field": "hindi",
+  "old": "हे पितरो, रस के लिए तुम्हें नमस्कार; हे पितरो, शोष (तेज) के लिए तुम्हें नमस्कार; हे पितरो, जीवन के लिए तुम्हें नमस्कार; हे पितरो, स्वधा के लिए तुम्हें नमस्कार; हे पितरो, घोर के लिए तुम्हें नमस्कार; हे पितरो, मन्यु के लिए तुम्हें नमस्कार; हे पितरो, तुम्हें नमस्कार; हे पितरो, तुम्हें नमस्कार। हे पितरो, हमें घर दो; हे पितरो, जो हमारा है उसमें से हम तुम्हें दें; हे पितरो, यह वस्त्र धारण करो।",
+  "new": "हे पितरो, रस के लिए तुम्हें नमस्कार; हे पितरो, शोष के लिए तुम्हें नमस्कार; हे पितरो, जीवन के लिए तुम्हें नमस्कार; हे पितरो, स्वधा के लिए तुम्हें नमस्कार; हे पितरो, घोर के लिए तुम्हें नमस्कार; हे पितरो, मन्यु के लिए तुम्हें नमस्कार; हे पितरो, तुम्हें नमस्कार; हे पितरो, तुम्हें नमस्कार। हे पितरो, हमें घर दो; हे पितरो, जो है उसमें से हम तुम्हें दें; हे पितरो, यह वस्त्र धारण करो।",
+  "why": "reviewer (error): Bracketed gloss; 'हमारा' (ours) unsupported; 'तेज' contradicts śoṣa=dryness."
+ },
+ {
+  "n": "33",
+  "field": "hindi",
+  "old": "हे पितरो, कमल की माला पहने एक कुमार-गर्भ स्थापित करो, जिससे यहाँ पुरुष हो।",
+  "new": "हे पितरो, गर्भ को, कमल की माला पहने कुमार को, स्थापित करो, जिससे यहाँ पुरुष हो।",
+  "why": "reviewer (minor): 'एक' added; garbha and kumāra fused into a compound that is not printed."
+ },
+ {
+  "n": "34",
+  "field": "hindi",
+  "old": "ऊर्ज (पोषण), अमृत, घी, दूध, कीलाल और परिस्रुत् ढोती हुई (हे जलो), तुम स्वधा हो; मेरे पितरों को तृप्त करो।",
+  "new": "ऊर्ज, अमृत, घी, दूध, कीलाल और परिस्रुत् ढोती हुई, तुम स्वधा हो; मेरे पितरों को तृप्त करो।",
+  "why": "reviewer (error): '(हे जलो)' names the addressees which the draft's own note says the line does not; other bracketed gloss."
+ },
+ {
+  "n": "34",
+  "field": "english",
+  "old": "(You) bearing nourishment, immortality, ghee, milk, kīlāla (a sweet drink) and parisrut (fermented liquor): you are svadhā; satisfy my fathers.",
+  "new": "(You) bearing nourishment, immortality, ghee, milk, kīlāla and parisrut: you are svadhā; satisfy my fathers.",
+  "why": "reviewer (minor): Glosses contradict the note 'kept as drink names'."
+ },
+ {
+  "n": "2",
+  "field": "notes",
+  "old": "",
+  "new": "appended: bhuva- is kept as a distinct word (the middle world?), not \"earth\"; the compound is contested: human check.",
+  "why": "MANUAL, settled by the lead agent (note or minimal fix; reviewer item kept for human check)"
+ },
+ {
+  "n": "3",
+  "field": "notes",
+  "old": "",
+  "new": "appended: \"iḍaḥ\" is obscure (genitive of Iḍā or vocative); \"praised by Iḍā\" is uncertain.",
+  "why": "MANUAL, settled by the lead agent (note or minimal fix; reviewer item kept for human check)"
+ },
+ {
+  "n": "3",
+  "field": "confidence",
+  "old": "high",
+  "new": "medium",
+  "why": "MANUAL, settled by the lead agent (note or minimal fix; reviewer item kept for human check)"
+ },
+ {
+  "n": "5",
+  "field": "notes",
+  "old": "",
+  "new": "appended: kasyāścit = kasyāḥ + cit (f. gen./abl. sg. + indefinite); the draft split is simplified.",
+  "why": "MANUAL, settled by the lead agent (note or minimal fix; reviewer item kept for human check)"
+ },
+ {
+  "n": "8",
+  "field": "w",
+  "old": "asthāt",
+  "new": "ā-asthāt",
+  "why": "MANUAL, settled by the lead agent (note or minimal fix; reviewer item kept for human check)"
+ },
+ {
+  "n": "10",
+  "field": "gloss",
+  "old": "the prayers, blessings",
+  "new": "wishes, blessings",
+  "why": "MANUAL, settled by the lead agent (note or minimal fix; reviewer item kept for human check)"
+ },
+ {
+  "n": "10",
+  "field": "gloss",
+  "old": "the prayers, blessings",
+  "new": "wishes, blessings",
+  "why": "MANUAL, settled by the lead agent (note or minimal fix; reviewer item kept for human check)"
+ },
+ {
+  "n": "10",
+  "field": "english",
+  "old": "May Indra place this power in me; may bounteous riches attend us. May the prayers be ours; may our prayers be true. Earth the mother is invoked; may earth the mother invoke me; may Agni from the Āgnīdhra (invoke me); svāhā.",
+  "new": "May Indra place this power in me; may bounteous riches attend us. May the wishes be ours; may our wishes be true. Earth the mother is invoked; may earth the mother invoke me; may Agni from the Āgnīdhra (invoke me); svāhā.",
+  "why": "MANUAL, settled by the lead agent (note or minimal fix; reviewer item kept for human check)"
+ },
+ {
+  "n": "17",
+  "field": "notes",
+  "old": "",
+  "new": "appended: apacetayātai is causative and apītam = api + itam; the draft gloss is non-causative and unsplit: human check.",
+  "why": "MANUAL, settled by the lead agent (note or minimal fix; reviewer item kept for human check)"
+ },
+ {
+  "n": "19",
+  "field": "notes",
+  "old": "",
+  "new": "appended: \"upa ca\" is elliptical; \"(homage) upon (thee)\" is the draft's supplement.",
+  "why": "MANUAL, settled by the lead agent (note or minimal fix; reviewer item kept for human check)"
+ },
+ {
+  "n": "21",
+  "field": "notes",
+  "old": "",
+  "new": "appended: \"veda\" after \"yena tvaṃ deva\" may be the perfect of √vid (\"you found\") rather than a vocative; both readings possible.",
+  "why": "MANUAL, settled by the lead agent (note or minimal fix; reviewer item kept for human check)"
+ },
+ {
+  "n": "21",
+  "field": "confidence",
+  "old": "high",
+  "new": "medium",
+  "why": "MANUAL, settled by the lead agent (note or minimal fix; reviewer item kept for human check)"
+ },
+ {
+  "n": "25",
+  "field": "notes",
+  "old": "",
+  "new": "appended: asyai pratiṣṭhāyai are both read best as dative; the sense \"from this foundation\" is interpretive; svar = heaven/light (not only \"the light\").",
+  "why": "MANUAL, settled by the lead agent (note or minimal fix; reviewer item kept for human check)"
+ },
+ {
+  "n": "25",
+  "field": "confidence",
+  "old": "high",
+  "new": "medium",
+  "why": "MANUAL, settled by the lead agent (note or minimal fix; reviewer item kept for human check)"
+ },
+ {
+  "n": "30",
+  "field": "notes",
+  "old": "",
+  "new": "appended: parāpuraḥ and nipuraḥ are obscure; their translation is uncertain (pur may also mean stronghold).",
+  "why": "MANUAL, settled by the lead agent (note or minimal fix; reviewer item kept for human check)"
+ },
+ {
+  "n": "31",
+  "field": "notes",
+  "old": "",
+  "new": "appended: āvṛṣāyadhvam is a denominative of vṛṣan (\"act like a bull, show vigour\"); \"take your fill\" is uncertain.",
+  "why": "MANUAL, settled by the lead agent (note or minimal fix; reviewer item kept for human check)"
+ }
+]
