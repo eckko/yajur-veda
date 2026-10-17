@@ -2,7 +2,7 @@
 
 Updated: 2026-10-17 on branch docs/2026-10-17/version-1. Base source: S1 (DharmicData, Madhyandina). 40 of 40 adhyayas extracted, 1,975 verses, 3,309 lines.
 
-The checker reports 24 errors, all stray Latin `j`/`k` letters kept exactly as in S1 (logged line by line in ISSUES.md). No other errors. No published translations found. Chapters 1-10 now carry AI-drafted, independently AI-reviewed layers (sandhi split, Hindi, English); chapters 16-40 have none yet.
+The checker reports 24 errors, all stray Latin `j`/`k` letters kept exactly as in S1 (logged line by line in ISSUES.md). No other errors. No published translations found. Chapters 1-15 now carry AI-drafted, independently AI-reviewed layers (sandhi split, Hindi, English); chapters 16-40 have none yet.
 
 | Part | Chapter | Sanskrit lines | Source | Hindi | English | Check | Notes |
 |---|---|---|---|---|---|---|---|
