@@ -17,3 +17,4 @@ AI drafts. English uses plain IAST for Sanskrit terms; Hindi stays in Devanagari
 - dhī = insight (धी); medhā = wisdom (मेधा); cit = thought (चित्); mati = reflection; kratu = will (संकल्प); vrata = observance (व्रत), also Varuṇa's vratāni
 - śarma English = shelter (Hindi आश्रय); adhvara English = rite (Hindi अनुष्ठान); sūrya = Sūrya in every unit; kavi = seer (Hindi कवि)
 - Keep uncertain terms transliterated: sagme, skambhasarjanī, oṇyoḥ
+- ṛta = order (ऋत) everywhere, including ṛtavādin "speaker of order"; Hindi adhvara = अनुष्ठान (not यज्ञ)

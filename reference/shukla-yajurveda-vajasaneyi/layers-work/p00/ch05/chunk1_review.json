@@ -1,0 +1,935 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "2",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "stha",
+     "problem": "2 du. of √as is sthaḥ (visarga lost before u- in sandhi); w should be the dictionary form",
+     "fix": "sthaḥ",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "stha",
+      "field": "w",
+      "value": "sthaḥ",
+      "n": "2"
+     }
+    }
+   ]
+  },
+  {
+   "n": "3",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "jātavedasau",
+     "problem": "'(Agni)' adds an identity the line does not state; the note also calls it an epithet of Agni while saying it is not identified",
+     "fix": "O two Jātavedas",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "jātavedasau",
+      "field": "gloss",
+      "value": "O two Jātavedas",
+      "n": "3"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "jātavedasau note",
+     "problem": "contradictory identification of the two addressed",
+     "fix": "drop 'an epithet of Agni'",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": "(Jātavedas, an epithet of Agni)",
+      "new": "(Jātavedas)",
+      "n": "3"
+     }
+    }
+   ]
+  },
+  {
+   "n": "4",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "a-pra-yucchan",
+     "problem": "participle given without case, number, gender",
+     "fix": "pres. part. m. nom. sg. √yuch",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "a-pra-yucchan",
+      "field": "gram",
+      "value": "pres. part. m. nom. sg. √yuch",
+      "n": "4"
+     }
+    }
+   ]
+  },
+  {
+   "n": "5",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "for the mighty Śākvara",
+     "problem": "'mighty' is added to Śākvara (the Hindi keeps the bare name); duplicates śakvane 'mighty one'",
+     "fix": "for Śākvara",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "for the mighty Śākvara",
+      "new": "for Śākvara",
+      "n": "5"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "śākvarāya",
+     "problem": "gloss repeats 'mighty one' of śakvane and presents an obscure term as settled",
+     "fix": "to Śākvara (obscure)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "śākvarāya",
+      "field": "gloss",
+      "value": "to Śākvara (obscure)",
+      "n": "5"
+     }
+    }
+   ]
+  },
+  {
+   "n": "6",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "7",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "गति",
+     "problem": "preṣe is glossed 'for the impulse' (glossary: prasava/impulse), but the Hindi says गति (motion)",
+     "fix": "धन प्रेरणा और सौभाग्य के लिए हों",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "धन गति और सौभाग्य",
+      "new": "धन प्रेरणा और सौभाग्य",
+      "n": "7"
+     }
+    },
+    {
+     "field": "english",
+     "where": "your friends",
+     "problem": "'your' is added; the line has only asmān sakhīn",
+     "fix": "Make us, friends, prosper",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "Make us, your friends, prosper",
+      "new": "Make us, friends, prosper",
+      "n": "7"
+     }
+    }
+   ]
+  },
+  {
+   "n": "8",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "the highest",
+     "problem": "gloss says 'highest, most extensive'; English says 'highest' three times while Hindi says सबसे विस्तृत: the two translations disagree",
+     "fix": "use one rendering in both, e.g. English 'the most extensive' (3 places) or Hindi 'सबसे ऊँचा'",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "9",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "10",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "11",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "Here I release",
+     "problem": "'Here' is added (idam is already 'this heated water')",
+     "fix": "I release this heated water outside, away from the sacrifice.",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "Here I release",
+      "new": "I release",
+      "n": "11"
+     }
+    }
+   ]
+  },
+  {
+   "n": "12",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "brahma-power / kṣatra-power",
+     "problem": "'power' is added to brahma and kṣatra (Hindi has bare ब्रह्म, क्षत्र; glossary keeps brahma terms)",
+     "fix": "winner of brahma, winner of kṣatra",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "winner of brahma-power, winner of kṣatra-power",
+      "new": "winner of brahma, winner of kṣatra",
+      "n": "12"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "brahma-vaniḥ",
+     "problem": "same addition of 'power' in gloss",
+     "fix": "winner of brahma",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "brahma-vaniḥ",
+      "field": "gloss",
+      "value": "winner of brahma",
+      "n": "12"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "kṣatra-vaniḥ",
+     "problem": "same addition of 'power' in gloss",
+     "fix": "winner of kṣatra",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "kṣatra-vaniḥ",
+      "field": "gloss",
+      "value": "winner of kṣatra",
+      "n": "12"
+     }
+    }
+   ]
+  },
+  {
+   "n": "13",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "14",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "[serving]",
+     "problem": "bracketed word 'serving' is an unsupported addition; the relation viprāḥ viprasya (the inspired ones of the great inspired wise one) is simply genitive",
+     "fix": "The inspired ones of the great, inspired, wise one yoke the mind and yoke the thoughts. He alone, who knows the rites, apportions the priestly functions. Great is the praise of the god Savitṛ. Svāhā.",
+     "severity": "error",
+     "patch": {
+      "op": "set",
+      "field": "english",
+      "value": "The inspired ones of the great, inspired, wise one yoke the mind and yoke the thoughts. He alone, who knows the rites, apportions the priestly functions. Great is the praise of the god Savitṛ. Svāhā.",
+      "n": "14"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "प्रेरित विद्वान ... प्रेरक",
+     "problem": "vipra (inspired one) is rendered as प्रेरित विद्वान in the subject but as प्रेरक (the one who inspires) in the genitive: wrong and inconsistent; plural viprāḥ also lost",
+     "fix": "महान् ज्ञानी प्रेरित जन के प्रेरित जन मन को जोड़ते हैं और विचारों को जोड़ते हैं। कर्मों का जानने वाला वह अकेला ही होत्र के कार्यों को बाँटता है। देव सविता की स्तुति महान् है। स्वाहा।",
+     "severity": "error",
+     "patch": {
+      "op": "set",
+      "field": "hindi",
+      "value": "महान् ज्ञानी प्रेरित जन के प्रेरित जन मन को जोड़ते हैं और विचारों को जोड़ते हैं। कर्मों का जानने वाला वह अकेला ही होत्र के कार्यों को बाँटता है। देव सविता की स्तुति महान् है। स्वाहा।",
+      "n": "14"
+     }
+    }
+   ]
+  },
+  {
+   "n": "15",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "16",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "17",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "our life / our offspring",
+     "problem": "'our' is added; the line has āyuḥ and prajām only",
+     "fix": "do not speak away life, do not speak away offspring",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "do not speak away our life, do not speak away our offspring",
+      "new": "do not speak away life, do not speak away offspring",
+      "n": "17"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "यज्ञ में जाओ",
+     "problem": "adhvara is 'rite' (glossary; yajña stays sacrifice) but Hindi uses यज्ञ for adhvaram and again for yajñam",
+     "fix": "पूर्व की ओर अध्वर में आगे जाओ",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "पूर्व की ओर यज्ञ में जाओ",
+      "new": "पूर्व की ओर अध्वर में आगे जाओ",
+      "n": "17"
+     }
+    }
+   ]
+  },
+  {
+   "n": "18",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "वीर कर्मों",
+     "problem": "vīryāṇi are heroic deeds; karma is fixed as 'rite' in this Samhita, so कर्म misleads",
+     "fix": "विष्णु के वीर कृत्यों को",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "विष्णु के वीर कर्मों को",
+      "new": "विष्णु के वीर कृत्यों को",
+      "n": "18"
+     }
+    }
+   ]
+  },
+  {
+   "n": "19",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "dakṣiṇāt, uta",
+     "problem": "printed is dakṣiṇā-d-ota; 'ota' is not uta (uta would give dakṣiṇād uta). Likely ā + uta (or u + uta)",
+     "fix": "split as dakṣiṇāt + ota (read ā uta), or flag as uncertain in notes",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "20",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "21",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "stho",
+     "problem": "2 du. of √as is sthaḥ; w should be the dictionary form",
+     "fix": "sthaḥ",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "stho",
+      "field": "w",
+      "value": "sthaḥ",
+      "n": "21"
+     }
+    }
+   ]
+  },
+  {
+   "n": "22",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "Rakṣases",
+     "problem": "glossary: rakṣas = demon",
+     "fix": "I cut off the necks of the demons",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "the necks of the Rakṣases",
+      "new": "the necks of the demons",
+      "n": "22"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "rakṣasām",
+     "problem": "glossary rendering",
+     "fix": "of the demons",
+     "severity": "error",
+     "patch": {
+      "op": "word",
+      "match_w": "rakṣasām",
+      "field": "gloss",
+      "value": "of the demons",
+      "n": "22"
+     }
+    }
+   ]
+  },
+  {
+   "n": "23",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "Rakṣas-slaying",
+     "problem": "glossary: rakṣas = demon",
+     "fix": "The demon-slaying",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "The Rakṣas-slaying",
+      "new": "The demon-slaying",
+      "n": "23"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "rakṣaḥ-haṇam",
+     "problem": "glossary rendering",
+     "fix": "demon-slaying",
+     "severity": "error",
+     "patch": {
+      "op": "word",
+      "match_w": "rakṣaḥ-haṇam",
+      "field": "gloss",
+      "value": "demon-slaying",
+      "n": "23"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "valagam",
+     "problem": "gloss '(a buried spell)' states an interpretation the line does not give (it says only 'buried'); the note itself calls it uncertain",
+     "fix": "valaga (buried object, obscure)",
+     "severity": "minor"
+    },
+    {
+     "field": "hindi",
+     "where": "उखाड़कर बिखेरता",
+     "problem": "Hindi adds 'uprooting'; English has 'scatter out' for utkirāmi",
+     "fix": "उसे ऊपर बिखेरता हूँ (or keep English 'scatter out')",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "24",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "Rakṣases",
+     "problem": "glossary: rakṣas = demon",
+     "fix": "slayer of demons",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "slayer of Rakṣases",
+      "new": "slayer of demons",
+      "n": "24"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "rakṣaḥ-hā",
+     "problem": "glossary rendering",
+     "fix": "slayer of demons",
+     "severity": "error",
+     "patch": {
+      "op": "word",
+      "match_w": "rakṣaḥ-hā",
+      "field": "gloss",
+      "value": "slayer of demons",
+      "n": "24"
+     }
+    },
+    {
+     "field": "confidence",
+     "where": "high",
+     "problem": "the note itself says satrarāṭ is uncertain ('other senses possible'); Hindi leaves सत्रराट् untranslated while English says 'ruler of the session'",
+     "fix": "medium",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "25",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "Rakṣas-slayers (5 times)",
+     "problem": "glossary: rakṣas = demon",
+     "fix": "replace 'Rakṣas-slayers' by 'demon-slayers' throughout",
+     "severity": "error",
+     "patch": {
+      "op": "set",
+      "field": "english",
+      "value": "You demon-slayers, valaga-slayers, belonging to Viṣṇu: I sprinkle you. You demon-slayers, valaga-slayers, belonging to Viṣṇu: I lead you down. You demon-slayers, valaga-slayers, belonging to Viṣṇu: I strew you down. You two demon-slayers, valaga-slayers, belonging to Viṣṇu: I place you near. You two demon-slayers, valaga-slayers, belonging to Viṣṇu: I lay you around. You belong to Viṣṇu; you (all) belong to Viṣṇu.",
+      "n": "25"
+     }
+    }
+   ]
+  },
+  {
+   "n": "26",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "Rakṣases",
+     "problem": "glossary: rakṣas = demon",
+     "fix": "the necks of the demons",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "the necks of the Rakṣases",
+      "new": "the necks of the demons",
+      "n": "26"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "rakṣasām",
+     "problem": "glossary rendering",
+     "fix": "of the demons",
+     "severity": "error",
+     "patch": {
+      "op": "word",
+      "match_w": "rakṣasām",
+      "field": "gloss",
+      "value": "of the demons",
+      "n": "26"
+     }
+    },
+    {
+     "field": "english",
+     "where": "the enemies",
+     "problem": "glossary: arāti = hostile power",
+     "fix": "keep the hostile powers away",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "keep the enemies away",
+      "new": "keep the hostile powers away",
+      "n": "26"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "शत्रुओं को दूर कर",
+     "problem": "same rule; शत्रु is also used for sapatna/amitra elsewhere",
+     "fix": "विरोधी शक्तियों को दूर कर",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "शत्रुओं को दूर कर",
+      "new": "विरोधी शक्तियों को दूर कर",
+      "n": "26"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "arātīḥ",
+     "problem": "glossary rendering",
+     "fix": "hostile powers",
+     "severity": "error",
+     "patch": {
+      "op": "word",
+      "match_w": "arātīḥ",
+      "field": "gloss",
+      "value": "hostile powers",
+      "n": "26"
+     }
+    }
+   ]
+  },
+  {
+   "n": "27",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "(these) / Marut / -power",
+     "problem": "'(these)' is an unsupported insertion (paryūhāmi takes tvā); 'the Marut Dyutāna' makes māruta an identity (Hindi correctly has द्युतान मारुत); '-power' added to brahma/kṣatra",
+     "fix": "set English as given",
+     "severity": "error",
+     "patch": {
+      "op": "set",
+      "field": "english",
+      "value": "Prop up the sky, fill the atmosphere, make yourself firm on the earth. May Dyutāna Māruta fix you, and Mitra and Varuṇa, with firm support. I lay around you, winner of brahma, winner of kṣatra, winner of increase of wealth. Make brahma firm, make kṣatra firm, make life firm, make offspring firm.",
+      "n": "27"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "brahma-vani",
+     "problem": "'power' added",
+     "fix": "winner of brahma",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "brahma-vani",
+      "field": "gloss",
+      "value": "winner of brahma",
+      "n": "27"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "kṣatra-vani",
+     "problem": "'power' added",
+     "fix": "winner of kṣatra",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "kṣatra-vani",
+      "field": "gloss",
+      "value": "winner of kṣatra",
+      "n": "27"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "brahma",
+     "problem": "'brahma-power'",
+     "fix": "brahma",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "brahma",
+      "field": "gloss",
+      "value": "brahma",
+      "n": "27"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "kṣatram",
+     "problem": "'kṣatra-power'",
+     "fix": "kṣatra",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "kṣatram",
+      "field": "gloss",
+      "value": "kṣatra",
+      "n": "27"
+     }
+    }
+   ]
+  },
+  {
+   "n": "28",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "the shelter of all people",
+     "problem": "chāyā: Hindi says छाया (shade); English says shelter, so the two disagree",
+     "fix": "the shade of all people",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "the shelter of all people",
+      "new": "the shade of all people",
+      "n": "28"
+     }
+    }
+   ]
+  },
+  {
+   "n": "29",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "30",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "31",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "32",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "33",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "हे मार्गों के स्वामी",
+     "problem": "adhvanām adhvapate has two words and English renders both ('lord of the paths, lord of the way'); Hindi renders one",
+     "fix": "हे मार्गों के, हे मार्ग के स्वामी, मुझे आगे ले चल",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "हे मार्गों के स्वामी, मुझे आगे ले चल",
+      "new": "हे मार्गों के, हे मार्ग के स्वामी, मुझे आगे ले चल",
+      "n": "33"
+     }
+    },
+    {
+     "field": "english",
+     "where": "order",
+     "problem": "ṛta is 'truth' in unit 7 and 'order' here and in 32; choose one rendering across the chunk and add to GLOSSARY",
+     "fix": "decide and apply to units 7, 32, 33",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "34",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "Rudra-like",
+     "problem": "raudra = 'of/belonging to Rudra'; 'Rudra-like' is an interpretation",
+     "fix": "with the host belonging to Rudra",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "Rudra-like host",
+      "new": "host belonging to Rudra",
+      "n": "34"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "raudreṇa",
+     "problem": "same",
+     "fix": "belonging to Rudra",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "raudreṇa",
+      "field": "gloss",
+      "value": "belonging to Rudra",
+      "n": "34"
+     }
+    }
+   ]
+  },
+  {
+   "n": "35",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "the ghee",
+     "problem": "glossary: ājya = clarified butter, ghṛta = ghee",
+     "fix": "may the aptu partake of the clarified butter",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "of the ghee",
+      "new": "of the clarified butter",
+      "n": "35"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "ājyasya",
+     "problem": "glossary rendering",
+     "fix": "of the clarified butter",
+     "severity": "error",
+     "patch": {
+      "op": "word",
+      "match_w": "ājyasya",
+      "field": "gloss",
+      "value": "of the clarified butter",
+      "n": "35"
+     }
+    }
+   ]
+  },
+  {
+   "n": "36",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "namaḥ",
+     "problem": "nama uktim is the compound 'utterance of homage' (English already so renders); gram says a separate nom. sg.",
+     "fix": "n. stem form, first member of the compound nama-uktim",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "namaḥ",
+      "field": "gram",
+      "value": "n. stem form, first member of the compound nama-uktim",
+      "n": "36"
+     }
+    }
+   ]
+  },
+  {
+   "n": "37",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "prizes",
+     "problem": "glossary: vāja = strength",
+     "fix": "may this one win the strengths in the winning of strength",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "win the prizes in the winning of prizes",
+      "new": "win the strengths in the winning of strength",
+      "n": "37"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "युद्ध में पुरस्कारों",
+     "problem": "'in battle' and 'prizes' are both added; vāja is fixed as strength",
+     "fix": "यह बल-प्राप्ति में बलों को जीते",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "यह युद्ध में पुरस्कारों को जीते",
+      "new": "यह बल-प्राप्ति में बलों को जीते",
+      "n": "37"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "vājān",
+     "problem": "glossary rendering",
+     "fix": "strengths",
+     "severity": "error",
+     "patch": {
+      "op": "word",
+      "match_w": "vājān",
+      "field": "gloss",
+      "value": "strengths",
+      "n": "37"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "vāja-sātau",
+     "problem": "glossary rendering",
+     "fix": "in the winning of strength",
+     "severity": "error",
+     "patch": {
+      "op": "word",
+      "match_w": "vāja-sātau",
+      "field": "gloss",
+      "value": "in the winning of strength",
+      "n": "37"
+     }
+    }
+   ]
+  },
+  {
+   "n": "38",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "39",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "etat",
+     "problem": "etat ('this') is rendered in English but dropped in Hindi",
+     "fix": "add 'यह' at the start of the second sentence",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "40",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "41",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "42",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "43",
+   "verdict": "ok",
+   "issues": []
+  }
+ ],
+ "summary": "22 errors, 31 minor. Main themes: glossary violations (rakṣas=demon in 22-26, arāti in 26, ājya in 35, vāja in 37), additions in English (brackets and 'power' in 27, [serving] in 14), Hindi vipra mistranslation (14) and preṣe (7). Draft notes agree: j for anusvara (7, 10, 12) flagged correctly; sanatāptam in 33 flagged correctly (the Devanagari also lacks the virama); low-confidence 9, 17, 32, 34 are fair; 24 should be medium. No regrouping suggested (unit 9 line c holds two formulas plus the closing phrase, but keep the edition's grouping)."
+}
