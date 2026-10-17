@@ -18,3 +18,4 @@ AI drafts. English uses plain IAST for Sanskrit terms; Hindi stays in Devanagari
 - śarma English = shelter (Hindi आश्रय); adhvara English = rite (Hindi अनुष्ठान); sūrya = Sūrya in every unit; kavi = seer (Hindi कवि)
 - Keep uncertain terms transliterated: sagme, skambhasarjanī, oṇyoḥ
 - ṛta = order (ऋत) everywhere, including ṛtavādin "speaker of order"; Hindi adhvara = अनुष्ठान (not यज्ञ)
+- netra (in compounds) = "having X as leader" (Hindi: X के नेतृत्व वाले); purohita = the one placed in front (priest); samana = contest; stoma and upayāma stay untranslated; vāja = strength in every unit, including vāje-vāje "in each strength"

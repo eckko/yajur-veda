@@ -1,0 +1,847 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "संकल्प (twice)",
+     "problem": "Hindi संकल्प is the fixed rendering of kratu in the glossary, but here it renders ketu/keta (English \"intent\"); the two terms collide across the book.",
+     "fix": "हे देव सविता, यज्ञ को प्रेरित करो, यज्ञपति को सौभाग्य के लिए प्रेरित करो। दिव्य गन्धर्व, जो अभिप्राय को शुद्ध करने वाला है, हमारे अभिप्राय को शुद्ध करे; वाचस्पति हमारे बल को स्वादिष्ट करे। स्वाहा।",
+     "severity": "minor",
+     "patch": {
+      "n": "1",
+      "op": "set",
+      "field": "hindi",
+      "value": "हे देव सविता, यज्ञ को प्रेरित करो, यज्ञपति को सौभाग्य के लिए प्रेरित करो। दिव्य गन्धर्व, जो अभिप्राय को शुद्ध करने वाला है, हमारे अभिप्राय को शुद्ध करे; वाचस्पति हमारे बल को स्वादिष्ट करे। स्वाहा।"
+     }
+    }
+   ]
+  },
+  {
+   "n": "2",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "3",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "उस उत्तम को मैं तुम्हारे लिए ग्रहण करता हूँ",
+     "problem": "Hindi reads vaḥ as dative (\"for you\"), but gloss, gram and English read it as genitive (\"of yours\"); Hindi and English disagree.",
+     "fix": "तुम्हारे उस उत्तम को मैं ग्रहण करता हूँ",
+     "severity": "error",
+     "patch": {
+      "n": "3",
+      "op": "replace",
+      "field": "hindi",
+      "old": "उस उत्तम को मैं तुम्हारे लिए ग्रहण करता हूँ",
+      "new": "तुम्हारे उस उत्तम को मैं ग्रहण करता हूँ"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "In the src, 'mṷpayā' contains the ṣ-mark artefact only.",
+     "problem": "Wrong description: ṷ stands for an accented u (as the book convention says), not a ṣ-mark.",
+     "fix": "In the src, ṷ in 'mṷpayā' marks an accented u (not a variant).",
+     "severity": "minor",
+     "patch": {
+      "n": "3",
+      "op": "replace",
+      "field": "notes",
+      "old": "In the src, 'mṷpayā' contains the ṣ-mark artefact only.",
+      "new": "In the src, ṷ in 'mṷpayā' marks an accented u (not a variant)."
+     }
+    }
+   ]
+  },
+  {
+   "n": "4",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "a thought",
+     "problem": "Glossary fixes mati = reflection (cit = thought); \"thought\" collides with cit.",
+     "fix": "a reflection",
+     "severity": "error",
+     "patch": {
+      "n": "4",
+      "op": "replace",
+      "field": "english",
+      "old": "a thought.",
+      "new": "a reflection."
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "matim",
+     "problem": "Gloss \"thought\" breaks the glossary (mati = reflection).",
+     "fix": "reflection",
+     "severity": "error",
+     "patch": {
+      "n": "4",
+      "op": "word",
+      "match_w": "matim",
+      "field": "gloss",
+      "value": "reflection"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "बुद्धि की ओर",
+     "problem": "Hindi should keep mati distinct (मति); बुद्धि is not in the glossary and would also fit dhī.",
+     "fix": "मति की ओर",
+     "severity": "minor",
+     "patch": {
+      "n": "4",
+      "op": "replace",
+      "field": "hindi",
+      "old": "बुद्धि की ओर",
+      "new": "मति की ओर"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "तुम उन सब का, जो बस्ती में प्रिय हैं, मैंने",
+     "problem": "\"सब\" (all) is not in the text, and \"तुम ... का\" garbles vaḥ (genitive \"of you\") against teṣām viśipriyāṇām.",
+     "fix": "उन बस्ती में प्रिय तुम्हारा मैंने",
+     "severity": "minor",
+     "patch": {
+      "n": "4",
+      "op": "replace",
+      "field": "hindi",
+      "old": "तुम उन सब का, जो बस्ती में प्रिय हैं, मैंने",
+      "new": "उन बस्ती में प्रिय तुम्हारा मैंने"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "grahāḥ",
+     "problem": "Gloss \"grahas (taken portions)\" adds an explanation, and the notes themselves say the line does not explain it.",
+     "fix": "grahas",
+     "severity": "minor",
+     "patch": {
+      "n": "4",
+      "op": "word",
+      "match_w": "grahāḥ",
+      "field": "gloss",
+      "value": "grahas"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "vyantaḥ",
+     "problem": "Root label 'vi-√i' is doubtful: vyantaḥ/vyantu belong to √vī ('enjoy, relish'), the usual root in this formula.",
+     "fix": "pres. part. √vī (vi-an-), m. nom. pl.",
+     "severity": "minor"
+    },
+    {
+     "field": "text_flags",
+     "where": "sa̱mpṛcaṷ / vi̱pṛcaṷ",
+     "problem": "Not typos: ṷ is the accent mark on u, so src already reads sampṛcau / vipṛcau (the flag text itself says so). A text_flag should list only suspected misprints.",
+     "fix": "Remove both text_flags entries (keep the explanation in notes if wanted).",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "5",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "6",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "kakut-mān",
+     "problem": "Stem form wrong: the base is kakud (hump, peak); kakut is only the word-final form, and src kakunmān comes from kakud+mān.",
+     "fix": "kakud-mān",
+     "severity": "minor",
+     "patch": {
+      "n": "6",
+      "op": "word",
+      "match_w": "kakut-mān",
+      "field": "w",
+      "value": "kakud-mān"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "tena",
+     "problem": "Antecedent is ūrmiḥ (masculine); tena is labelled n. here but m. in unit 9.",
+     "fix": "m. inst. sg.",
+     "severity": "minor",
+     "patch": {
+      "n": "6",
+      "op": "word",
+      "match_w": "tena",
+      "field": "gram",
+      "value": "m. inst. sg."
+     }
+    }
+   ]
+  },
+  {
+   "n": "7",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "8",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "9",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "avajighrata",
+     "problem": "-ta is the active 2 pl. imperative ending (middle would be -dhvam); \"mid.\" is wrong.",
+     "fix": "2 pl. imp. ava-√ghrā",
+     "severity": "error",
+     "patch": {
+      "n": "9",
+      "op": "word",
+      "match_w": "avajighrata",
+      "field": "gram",
+      "value": "2 pl. imp. ava-√ghrā"
+     }
+    }
+   ]
+  },
+  {
+   "n": "10",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "11",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "12",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "\"you made him win; Bṛhaspati, strength:\" and \"having made Indra win strength\"",
+     "problem": "The text mirrors the clause (bṛhaspatiṃ vājam ajījapata | ajījapata bṛhaspatiṃ vājam): the second ajījapata governs the following object. The draft leaves \"Bṛhaspati, strength\" verbless and in line b invents a gerund (\"having made ...\") that is not in the text; lines a and b are also treated differently.",
+     "fix": "This is that true agreed speech of yours, by which you made Bṛhaspati win strength; you made Bṛhaspati win strength. O lords of the forest, release yourselves. This is that true agreed speech of yours, by which you made Indra win strength; you made Indra win strength. O lords of the forest, release yourselves.",
+     "severity": "error",
+     "patch": {
+      "n": "12",
+      "op": "set",
+      "field": "english",
+      "value": "This is that true agreed speech of yours, by which you made Bṛhaspati win strength; you made Bṛhaspati win strength. O lords of the forest, release yourselves. This is that true agreed speech of yours, by which you made Indra win strength; you made Indra win strength. O lords of the forest, release yourselves."
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "बृहस्पति, बल; ... जिताकर",
+     "problem": "Same problem in Hindi: verbless fragment in line a, invented gerund जिताकर in line b.",
+     "fix": "यह तुम्हारी वह सच्ची सहमति वाली वाणी हुई, जिससे तुमने बृहस्पति को बल जिताया; तुमने बृहस्पति को बल जिताया; हे वनस्पतियो, अपने को मुक्त करो। यह तुम्हारी वह सच्ची सहमति वाली वाणी हुई, जिससे तुमने इन्द्र को बल जिताया; तुमने इन्द्र को बल जिताया; हे वनस्पतियो, अपने को मुक्त करो।",
+     "severity": "error",
+     "patch": {
+      "n": "12",
+      "op": "set",
+      "field": "hindi",
+      "value": "यह तुम्हारी वह सच्ची सहमति वाली वाणी हुई, जिससे तुमने बृहस्पति को बल जिताया; तुमने बृहस्पति को बल जिताया; हे वनस्पतियो, अपने को मुक्त करो। यह तुम्हारी वह सच्ची सहमति वाली वाणी हुई, जिससे तुमने इन्द्र को बल जिताया; तुमने इन्द्र को बल जिताया; हे वनस्पतियो, अपने को मुक्त करो।"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "The second 'bṛhaspatiṃ vājam' has no verb ...",
+     "problem": "Wrong analysis; no ellipsis, the second ajījapata supplies the verb.",
+     "fix": "The repetition 'ajījapata ... ajījapata' is a mirrored repeat: the second ajījapata governs the following 'bṛhaspatiṃ vājam' (line a) and 'indraṃ vājam' (line b).",
+     "severity": "error",
+     "patch": {
+      "n": "12",
+      "op": "replace",
+      "field": "notes",
+      "old": "The second 'bṛhaspatiṃ vājam' has no verb in the line (ellipsis of 'you made win' is likely) and is rendered as it stands.",
+      "new": "The repetition 'ajījapata ... ajījapata' is a mirrored repeat: the second ajījapata governs the following 'bṛhaspatiṃ vājam' (line a) and 'indraṃ vājam' (line b)."
+     }
+    }
+   ]
+  },
+  {
+   "n": "13",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "covering the roads",
+     "problem": "English \"covering\" has no support and disagrees with Hindi मार्गों को थामते हुए (√skabh = prop, fix).",
+     "fix": "propping (or traversing) the roads",
+     "severity": "minor",
+     "patch": {
+      "n": "13",
+      "op": "replace",
+      "field": "english",
+      "old": "covering the roads",
+      "new": "propping (or traversing) the roads"
+     }
+    }
+   ]
+  },
+  {
+   "n": "14",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "जोश में ... फुर्ती से ... उछलता है",
+     "problem": "\"जोश में\" and \"फुर्ती से\" are additions; the English has participles (gliding, bounding) but Hindi turns the last one into a finite verb.",
+     "fix": "यह वह बलवान कोड़े की ओर तेज़ी से बढ़ता है, गले में बँधा हुआ, पार्श्व में और मुख में। संकल्प के अनुसार दधिक्रा मार्गों के मोड़ों के साथ सरकता हुआ, उछलता हुआ। स्वाहा।",
+     "severity": "minor",
+     "patch": {
+      "n": "14",
+      "op": "set",
+      "field": "hindi",
+      "value": "यह वह बलवान कोड़े की ओर तेज़ी से बढ़ता है, गले में बँधा हुआ, पार्श्व में और मुख में। संकल्प के अनुसार दधिक्रा मार्गों के मोड़ों के साथ सरकता हुआ, उछलता हुआ। स्वाहा।"
+     }
+    },
+    {
+     "field": "english",
+     "where": "following his purpose",
+     "problem": "Glossary: kratu = will (संकल्प). English \"purpose\" departs from it (Hindi already says संकल्प).",
+     "fix": "following his will",
+     "severity": "minor",
+     "patch": {
+      "n": "14",
+      "op": "replace",
+      "field": "english",
+      "old": "following his purpose",
+      "new": "following his will"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "kratum",
+     "problem": "Gloss \"purpose, power\" breaks the glossary (kratu = will).",
+     "fix": "will",
+     "severity": "minor",
+     "patch": {
+      "n": "14",
+      "op": "word",
+      "match_w": "kratum",
+      "field": "gloss",
+      "value": "will"
+     }
+    }
+   ]
+  },
+  {
+   "n": "15",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "the wind blows as after the wing of a bird",
+     "problem": "\"wind\" is added: vāti has no stated subject. \"after him ... as after the wing\" also reverses the simile (parṇaṃ na = like a feather).",
+     "fix": "And of him, running, hastening, eager, it blows after like the wing of a bird. Like a hawk gliding, around the curve of Dadhikrāvan, together with the strength of the one who crosses. Svāhā.",
+     "severity": "error",
+     "patch": {
+      "n": "15",
+      "op": "set",
+      "field": "english",
+      "value": "And of him, running, hastening, eager, it blows after like the wing of a bird. Like a hawk gliding, around the curve of Dadhikrāvan, together with the strength of the one who crosses. Svāhā."
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "वायु पंख की तरह पक्षी के पीछे बहती है",
+     "problem": "Same addition of \"वायु\"; the sentence is also garbled (पक्षी के पीछे).",
+     "fix": "और उसके, जो दौड़ता, वेग से बढ़ता और लालायित है, पीछे पक्षी के पंख की तरह बहता है।",
+     "severity": "error",
+     "patch": {
+      "n": "15",
+      "op": "replace",
+      "field": "hindi",
+      "old": "पीछे वायु पंख की तरह पक्षी के पीछे बहती है।",
+      "new": "पीछे पक्षी के पंख की तरह बहता है।"
+     }
+    },
+    {
+     "field": "text_flags",
+     "where": "druva̭tas",
+     "problem": "Doubtful as a misprint: druvat- is a recorded Vedic by-form of dravat-, and both scripts agree. Prefer a note (\"variant form of dravat\") over a typo flag, or soften the claim.",
+     "fix": "Turn into a note: \"druvataḥ = by-form of dravataḥ\".",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "16",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "बलवान घोड़े पुकारों में और देवों के यज्ञ में",
+     "problem": "\"घोड़े\" is added (the English deliberately keeps \"strong ones\" because the line names no noun); devatātā is \"divine rite\", not \"देवों के यज्ञ\" (yajña is reserved for sacrifice; adhvara/rite = अनुष्ठान).",
+     "fix": "बलवान पुकारों में और दिव्य अनुष्ठान में",
+     "severity": "error",
+     "patch": {
+      "n": "16",
+      "op": "replace",
+      "field": "hindi",
+      "old": "बलवान घोड़े पुकारों में और देवों के यज्ञ में",
+      "new": "बलवान पुकारों में और दिव्य अनुष्ठान में"
+     }
+    }
+   ]
+  },
+  {
+   "n": "17",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "यज्ञ या बुद्धि की प्राप्ति में",
+     "problem": "English says \"offering (or wisdom)\"; Hindi \"यज्ञ\" is not \"offering\", and glossary has medhā = मेधा.",
+     "fix": "आहुति या मेधा की प्राप्ति में",
+     "severity": "minor",
+     "patch": {
+      "n": "17",
+      "op": "replace",
+      "field": "hindi",
+      "old": "यज्ञ या बुद्धि की प्राप्ति में",
+      "new": "आहुति या मेधा की प्राप्ति में"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "maho",
+     "problem": "\"n. acc. sg.\" read as modifying dhanam does not work (the neuter adjective would be mahat); gram and note are inconsistent.",
+     "fix": "Mark as uncertain: mahaḥ (gen. sg. of mah- / adverbial), not an adjective of dhanam; rewrite the note.",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "18",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "knowers of ṛta (order)",
+     "problem": "Glossary: ṛta = order everywhere.",
+     "fix": "knowers of order",
+     "severity": "minor",
+     "patch": {
+      "n": "18",
+      "op": "replace",
+      "field": "english",
+      "old": "knowers of ṛta (order)",
+      "new": "knowers of order"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "vāje-vāje",
+     "problem": "Glossary fixes vāja = strength; \"in every contest\" is a different rendering (samana in unit 9 is already \"contest\").",
+     "fix": "Use a strength-based rendering, e.g. \"in every (contest of) strength\", in gloss, English and Hindi.",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "19",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "jagamyāt",
+     "problem": "\"opt. (intens.)\" is doubtful: jagamyāt is the reduplicated perfect-type optative of √gam, not an intensive.",
+     "fix": "3 sg. opt. (reduplicated stem) ā-√gam",
+     "severity": "minor"
+    },
+    {
+     "field": "gram",
+     "where": "avajighrata",
+     "problem": "Active -ta ending, not middle (same as unit 9).",
+     "fix": "2 pl. imp. ava-√ghrā",
+     "severity": "error",
+     "patch": {
+      "n": "19",
+      "op": "word",
+      "match_w": "avajighrata",
+      "field": "gram",
+      "value": "2 pl. imp. ava-√ghrā"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "सर्वरूप वाले, मेरे पास आएँ",
+     "problem": "Hindi supplies \"to me\" for heaven and earth while the English leaves the verb bare; keep both the same and minimal.",
+     "fix": "सर्वरूप वाले, आएँ",
+     "severity": "minor",
+     "patch": {
+      "n": "19",
+      "op": "replace",
+      "field": "hindi",
+      "old": "सर्वरूप वाले, मेरे पास आएँ",
+      "new": "सर्वरूप वाले, आएँ"
+     }
+    }
+   ]
+  },
+  {
+   "n": "20",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "दिन के लिए स्वाहा; मोहित के लिए स्वाहा",
+     "problem": "The text has one svāhā after \"ahne mugdhāya\"; Hindi inserts an extra svāhā (the English is correct).",
+     "fix": "दिन के लिए, मोहित के लिए स्वाहा",
+     "severity": "error",
+     "patch": {
+      "n": "20",
+      "op": "replace",
+      "field": "hindi",
+      "old": "दिन के लिए स्वाहा; मोहित के लिए स्वाहा;",
+      "new": "दिन के लिए, मोहित के लिए स्वाहा;"
+     }
+    }
+   ]
+  },
+  {
+   "n": "21",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "kalpatātā̱ṃᳪ",
+     "problem": "Suggestion drops the ᳪ sign; the edition writes ṃᳪ together before ś/s (e.g. ujjeṣaṃᳪ in unit 31). Only the doubled tā is the misprint, and the \"stray sign for the next word\" explanation is speculation.",
+     "fix": "suggest: kalpatā̱ṃᳪ; why: the syllable tā is doubled (the Devanagari also has कल्पतातां).",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "22",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "resolve",
+     "problem": "Glossary: kratu = will.",
+     "fix": "will",
+     "severity": "minor",
+     "patch": {
+      "n": "22",
+      "op": "replace",
+      "field": "english",
+      "old": "resolve",
+      "new": "will"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "kratuḥ",
+     "problem": "Gloss \"resolve\" breaks the glossary.",
+     "fix": "will",
+     "severity": "minor",
+     "patch": {
+      "n": "22",
+      "op": "word",
+      "match_w": "kratuḥ",
+      "field": "gloss",
+      "value": "will"
+     }
+    }
+   ]
+  },
+  {
+   "n": "23",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "with priests placed in front",
+     "problem": "purohitāḥ is nominative plural agreeing with vayam (\"we ... as purohitas / placed in front\"), not \"with priests\"; the word-level gram (nom. pl.) contradicts the translation.",
+     "fix": "may we, the purohitas (placed in front), be wakeful in the kingdom",
+     "severity": "error",
+     "patch": {
+      "n": "23",
+      "op": "replace",
+      "field": "english",
+      "old": "may we be wakeful in the kingdom, with priests placed in front",
+      "new": "may we, the purohitas (placed in front), be wakeful in the kingdom"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "पुरोहितों के साथ",
+     "problem": "Same misreading in Hindi.",
+     "fix": "हम पुरोहित राष्ट्र में जागरूक रहें",
+     "severity": "error",
+     "patch": {
+      "n": "23",
+      "op": "replace",
+      "field": "hindi",
+      "old": "हम राष्ट्र में पुरोहितों के साथ जागरूक रहें",
+      "new": "हम पुरोहित राष्ट्र में जागरूक रहें"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "purohitāḥ",
+     "problem": "Gloss \"with priests placed in front\" is instrumental in sense; the form is nominative.",
+     "fix": "as purohitas, placed in front",
+     "severity": "error",
+     "patch": {
+      "n": "23",
+      "op": "word",
+      "match_w": "purohitāḥ",
+      "field": "gloss",
+      "value": "as purohitas, placed in front"
+     }
+    }
+   ]
+  },
+  {
+   "n": "24",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "न देना चाहने वाले से भी",
+     "problem": "\"भी\" (even) is not in the text.",
+     "fix": "न देना चाहने वाले से दिलवाता है",
+     "severity": "minor",
+     "patch": {
+      "n": "24",
+      "op": "replace",
+      "field": "hindi",
+      "old": "न देना चाहने वाले से भी दिलवाता है",
+      "new": "न देना चाहने वाले से दिलवाता है"
+     }
+    }
+   ]
+  },
+  {
+   "n": "25",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "26",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "27",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "also Speech",
+     "problem": "\"also\" / Hindi \"भी\" are not in the text (only ca after Savitṛ). Hindi also uses वाक् here but वाणी for vāc in units 11 and 29.",
+     "fix": "Urge Aryaman, Bṛhaspati and Indra to giving; Speech, Viṣṇu, Sarasvatī, Savitṛ and the strong one. Svāhā.",
+     "severity": "minor",
+     "patch": {
+      "n": "27",
+      "op": "set",
+      "field": "english",
+      "value": "Urge Aryaman, Bṛhaspati and Indra to giving; Speech, Viṣṇu, Sarasvatī, Savitṛ and the strong one. Svāhā."
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "वाक् ... बलवान को भी",
+     "problem": "See English: remove \"भी\", use वाणी as in units 11 and 29.",
+     "fix": "अर्यमा, बृहस्पति और इन्द्र को देने के लिए प्रेरित करो; वाणी, विष्णु, सरस्वती, सविता और बलवान को। स्वाहा।",
+     "severity": "minor",
+     "patch": {
+      "n": "27",
+      "op": "set",
+      "field": "hindi",
+      "value": "अर्यमा, बृहस्पति और इन्द्र को देने के लिए प्रेरित करो; वाणी, विष्णु, सरस्वती, सविता और बलवान को। स्वाहा।"
+     }
+    }
+   ]
+  },
+  {
+   "n": "28",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "सुमन बनो",
+     "problem": "सुमन alone reads as \"flower\"; sumanāḥ here is \"kindly disposed\".",
+     "fix": "प्रसन्नमन बनो",
+     "severity": "minor",
+     "patch": {
+      "n": "28",
+      "op": "replace",
+      "field": "hindi",
+      "old": "सुमन बनो",
+      "new": "प्रसन्नमन बनो"
+     }
+    }
+   ]
+  },
+  {
+   "n": "29",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "30",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "31",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "32",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "33",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "34",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "traya-udaśa-akṣareṇa",
+     "problem": "Invented split: the numeral is trayodaśa (\"udaśa\" is no word). Compare ṣoḍaśa-, saptadaśa-, pañcadaśa- in the same unit.",
+     "fix": "trayodaśa-akṣareṇa",
+     "severity": "error",
+     "patch": {
+      "n": "34",
+      "op": "word",
+      "match_w": "traya-udaśa-akṣareṇa",
+      "field": "w",
+      "value": "trayodaśa-akṣareṇa"
+     }
+    }
+   ]
+  },
+  {
+   "n": "35",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "... को नेता मानने वाले",
+     "problem": "\"मानने\" (who regard as) is added; netra here is bahuvrīhi \"having X as leader\". Same wording in unit 36.",
+     "fix": "अग्नि जिनके नेता हैं (and likewise for Yama, Viśvedevas, Mitra-Varuṇa/Maruts, Soma)",
+     "severity": "minor"
+    },
+    {
+     "field": "split",
+     "where": "sad-bhyaḥ, dakṣiṇā-sad-bhyaḥ, paścāt-sad-bhyaḥ, uttarā-sad-bhyaḥ, upari-sad-bhyaḥ, duvasvat-bhyaḥ",
+     "problem": "Hyphen before the case ending cuts the inflected word in two; elsewhere w keeps case endings whole (e.g. netrebhyaḥ).",
+     "fix": "sadbhyaḥ, dakṣiṇā-sadbhyaḥ, paścāt-sadbhyaḥ, uttarā-sadbhyaḥ, upari-sadbhyaḥ, duvasvadbhyaḥ",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "36",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "... को नेता मानने वाले",
+     "problem": "Same \"मानने\" addition as in unit 35 (agninetrāḥ = \"having Agni as leader\").",
+     "fix": "अग्नि जिनके नेता हैं (etc.)",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "37",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "yajña-vāhasi",
+     "problem": "Form ends in -i: it is the locative of the -as stem yajñavāhas, not a vocative (voc. would be yajñavāhaḥ). \"O bearer of the sacrifice\" is therefore doubtful; the sense is \"in/on the sacrifice-bearer\" (the sacrificer).",
+     "fix": "gloss \"in the sacrifice-bearer\", gram \"tat-puruṣa, m. loc. sg.\"; English \"bestow splendour on the bearer of the sacrifice\"; Hindi \"यज्ञ को वहन करने वाले में तेज प्रदान करो\"; mark uncertain.",
+     "severity": "error"
+    }
+   ]
+  },
+  {
+   "n": "38",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "39",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "Bṛhaspati for speech",
+     "problem": "vācaḥ is genitive (\"of speech\"), as the gloss says; \"for speech\" treats it as a dative.",
+     "fix": "Bṛhaspati of speech",
+     "severity": "minor",
+     "patch": {
+      "n": "39",
+      "op": "replace",
+      "field": "english",
+      "old": "Bṛhaspati for speech",
+      "new": "Bṛhaspati of speech"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "बृहस्पति वाणी के लिए",
+     "problem": "Same dative reading.",
+     "fix": "बृहस्पति वाणी के",
+     "severity": "minor",
+     "patch": {
+      "n": "39",
+      "op": "replace",
+      "field": "hindi",
+      "old": "बृहस्पति वाणी के लिए",
+      "new": "बृहस्पति वाणी के"
+     }
+    }
+   ]
+  },
+  {
+   "n": "40",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "amuṣyai",
+     "problem": "Form is dative singular feminine; \"f. gen. sg.\" mislabels it (the genitive sense is a matter of usage, not the case).",
+     "fix": "f. dat. sg. (used in a genitive sense here; uncertain)",
+     "severity": "minor",
+     "patch": {
+      "n": "40",
+      "op": "word",
+      "match_w": "amuṣyai",
+      "field": "gram",
+      "value": "f. dat. sg. (used in a genitive sense here; uncertain)"
+     }
+    }
+   ]
+  }
+ ],
+ "summary": "17 errors, 33 minor across 26 units; units without issues: 2, 5, 7, 8, 10, 11, 25, 26, 29, 30, 31, 32, 33, 38. No regrouping suggested (edition grouping is sensible). Main patterns: glossary breaks (mati, kratu, ṛta), additions in Hindi (सब, घोड़े, जोश में, वायु, extra svāhā), unit 12 mirrored repetition misread, unit 23 purohitāḥ, unit 34 invented split, unit 37 yajñavāhasi locative, wrong voice label on avajighrata (units 9, 19). Suggested glossary additions: netra = 'having X as leader'; purohita = purohita; samana = contest; stoma and upayāma untranslated; ṷ/ḙ are accent marks (never typo flags)."
+}
