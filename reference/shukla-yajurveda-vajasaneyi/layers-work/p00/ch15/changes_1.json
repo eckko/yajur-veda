@@ -1,0 +1,333 @@
+[
+ {
+  "n": "1",
+  "field": "word.w",
+  "word": "ahēḍan",
+  "old": "ahēḍan",
+  "new": "aheḍan",
+  "why": "reviewer (minor): w 'ahēḍan' uses a macron ē that is not in the plain-IAST convention (aheḍan). Also the vocative trivarūtha is not secure: trivarūthe (locative, e + u) 'in the threefold-protecting shelter' is a live alternative; the note should say so (confidence is already low)."
+ },
+ {
+  "n": "2",
+  "field": "hindi",
+  "old": "बल से उत्पन्न हुए हमारे शत्रुओं को दूर हटाओ; जो अभी उत्पन्न नहीं हुए उन्हें भी, हे जातवेदस्, हटाओ। हमारे पक्ष में बोलो; प्रसन्न रहते हुए हम रहें; हमारे शत्रुओं को दूर हटाओ।",
+  "new": "बल से हमारे उत्पन्न शत्रुओं को दूर हटाओ; जो अभी उत्पन्न नहीं हुए उन्हें भी, हे जातवेदस्, हटाओ। हमारे पक्ष में बोलो; प्रसन्न रहते हुए हम रहें; हमारे शत्रुओं को दूर हटाओ।",
+  "why": "reviewer (error): Hindi attaches sahasā 'with force' to jātān ('born by force'); the English (and the syntax) attach it to the verb: with force push away."
+ },
+ {
+  "n": "2",
+  "field": "english",
+  "old": "With force push away our rivals who are born; push away the unborn ones too, O Jātavedas. Speak on our behalf; being gracious, may we be; push away our rivals.",
+  "new": "With force push away our rivals who are born; push away the unborn ones too, O Jātavedas. Speak on our behalf, being gracious; may we be; push away our rivals.",
+  "why": "reviewer (error): The note says sumanasyamānaḥ (singular) describes the one addressed (Agni), but the English attaches it to 'we'. Translation contradicts the draft's own analysis."
+ },
+ {
+  "n": "2",
+  "field": "hindi",
+  "old": "बल से हमारे उत्पन्न शत्रुओं को दूर हटाओ; जो अभी उत्पन्न नहीं हुए उन्हें भी, हे जातवेदस्, हटाओ। हमारे पक्ष में बोलो; प्रसन्न रहते हुए हम रहें; हमारे शत्रुओं को दूर हटाओ।",
+  "new": "बल से हमारे उत्पन्न शत्रुओं को दूर हटाओ; जो अभी उत्पन्न नहीं हुए उन्हें भी, हे जातवेदस्, हटाओ। प्रसन्न होकर हमारे पक्ष में बोलो; हम रहें; हमारे शत्रुओं को दूर हटाओ।",
+  "why": "reviewer (error): Same error in Hindi: 'प्रसन्न रहते हुए हम रहें' makes the speakers gracious."
+ },
+ {
+  "n": "3",
+  "field": "english",
+  "old": "The sixteenfold stoma is vigour, wealth; the forty-four-fold stoma is brilliance, wealth. You are the filling of Agni, apsas by name; may all the gods praise you. O you whose back is stoma, rich in ghee, sit here; sacrifice for us with wealth together with offspring.",
+  "new": "The sixteenfold stoma is vigour, wealth; the forty-four-fold stoma is brilliance, wealth. You are the filling of Agni, apsas by name; may all the gods praise you. O you whose back is stoma, rich in ghee, sit here; sacrifice to us wealth together with offspring.",
+  "why": "reviewer (error): draviṇā is glossed n. acc. pl. (object of yajasva), but the translation makes it instrumental 'with wealth' and adds 'for us ... with'. Gram and translation disagree; 'with' is not in the text. asme is a dative: to us."
+ },
+ {
+  "n": "3",
+  "field": "hindi",
+  "old": "सोलहगुना स्तोम ओज और धन है; चौवालीसगुना स्तोम तेज और धन है। तुम अग्नि का पूरक हो, अप्सस् नाम वाला; उस तुम्हारी सब देव स्तुति करें। हे स्तोम को पीठ वाली, घी से युक्त, यहाँ बैठो; हमारे लिए सन्तान सहित धन के साथ यज्ञ करो।",
+  "new": "सोलहगुना स्तोम ओज और धन है; चौवालीसगुना स्तोम तेज और धन है। तुम अग्नि का पूरक हो, अप्सस् नाम वाला; उस तुम्हारी सब देव स्तुति करें। हे स्तोम की पीठ वाली, घी से युक्त, यहाँ बैठो; हमारे लिए सन्तान सहित धन के साथ यज्ञ करो।",
+  "why": "reviewer (minor): Wrong postposition: stoma-pṛṣṭhā is 'having stoma as back'."
+ },
+ {
+  "n": "4",
+  "field": "notes",
+  "old": "A list of names of metres (chandas); names are kept as printed and not explained. aṅku̱̱paṃ has a doubled mark in the source; read as aṅkupam (possible). kṣuro bhrajaś chandaḥ taken as Kṣura, then the metre Bhraja.",
+  "new": "A list of names of metres (chandas); names are kept as printed and not explained. aṅku̱̱paṃ has a doubled mark in the source; read as aṅkupam (possible). kṣuro bhrajaś chandaḥ taken as Kṣura, then the metre Bhraja. kṣuro bhrajaś chandaḥ may also be read as one name; the split is uncertain.",
+  "why": "reviewer (minor): Kṣura has no chandaḥ while every other member of the list does, and the tail may be one name (kṣuro-bhraj) or kṣuraḥ with an elided chandaḥ. The note presents the split as the reading."
+ },
+ {
+  "n": "5",
+  "field": "word.gloss",
+  "word": "anuṣṭup",
+  "old": "Anuṣṭubh (name)",
+  "new": "Anuṣṭup (name)",
+  "why": "reviewer (minor): Gloss says 'Anuṣṭubh (name)' but the English/Hindi use Anuṣṭup; the printed token is anuṣṭup."
+ },
+ {
+  "n": "7",
+  "field": "word.w",
+  "word": "iḍena",
+  "old": "iḍena",
+  "new": "aiḍena",
+  "why": "reviewer (error): The word is aiḍena, not iḍena: jinva + aiḍena gives jinvaiḍena, and aiḍena + oṣadhībhiḥ gives aiḍenauṣadhībhiḥ (the printed 'ai' and 'au'). iḍena would give jinveḍena. Also a derivative from Iḍā, so gram 'm.' is fine but the gloss must say so."
+ },
+ {
+  "n": "7",
+  "field": "english",
+  "old": "By the thread, by growth of wealth, enliven growth of wealth; by the creeping together, for the heard, enliven the heard; by iḍa, by plants, enliven plants; by the highest, by bodies, enliven bodies; by the giver of vigour, by study, enliven study; by conquest, by splendour, enliven splendour.",
+  "new": "By the thread, by growth of wealth, enliven growth of wealth; by the creeping together, for the heard, enliven the heard; by the aiḍa, by plants, enliven plants; by the highest, by bodies, enliven bodies; by the giver of vigour, by study, enliven study; by conquest, by splendour, enliven splendour.",
+  "why": "reviewer (error): English follows the wrong stem."
+ },
+ {
+  "n": "7",
+  "field": "hindi",
+  "old": "तन्तु से, धन की पुष्टि से, धन की पुष्टि को जीवन्त करो; संसर्प से, श्रुत के लिए, श्रुत को जीवन्त करो; इड से, ओषधियों से, ओषधियों को जीवन्त करो; उत्तम से, शरीरों से, शरीरों को जीवन्त करो; वयोधा से, अध्ययन से, अध्ययन को जीवन्त करो; अभिजित् से, तेज से, तेज को जीवन्त करो।",
+  "new": "तन्तु से, धन की पुष्टि से, धन की पुष्टि को जीवन्त करो; संसर्प से, श्रुत के लिए, श्रुत को जीवन्त करो; ऐड से, ओषधियों से, ओषधियों को जीवन्त करो; उत्तम से, शरीरों से, शरीरों को जीवन्त करो; वयोधा से, अध्ययन से, अध्ययन को जीवन्त करो; अभिजित् से, तेज से, तेज को जीवन्त करो।",
+  "why": "reviewer (error): Hindi follows the wrong stem."
+ },
+ {
+  "n": "9",
+  "field": "word.w",
+  "word": "akramaḥ",
+  "old": "akramaḥ",
+  "new": "ākramaḥ",
+  "why": "reviewer (error): The double avagraha here is tvā + ākramaḥ (tvā''kramo 'si), so the word is ākramaḥ (cf. ākramāya in the same token), not akramaḥ."
+ },
+ {
+  "n": "9",
+  "field": "english",
+  "old": "You are trivṛt; you for trivṛt. You are pravṛt; you for pravṛt. You are vivṛt; you for vivṛt. You are savṛt; you for savṛt. You are akrama; you for ākrama. You are saṃkrama; you for saṃkrama. You are utkrama; you for utkrama. You are utkrānti; you for utkrānti. By the overlord, with sap, enliven sap.",
+  "new": "You are trivṛt; you for trivṛt. You are pravṛt; you for pravṛt. You are vivṛt; you for vivṛt. You are savṛt; you for savṛt. You are ākrama; you for ākrama. You are saṃkrama; you for saṃkrama. You are utkrama; you for utkrama. You are utkrānti; you for utkrānti. By the overlord, with sap, enliven sap.",
+  "why": "reviewer (error): Follows the wrong word."
+ },
+ {
+  "n": "9",
+  "field": "hindi",
+  "old": "तुम त्रिवृत् हो, त्रिवृत् के लिए तुम्हें; तुम प्रवृत् हो, प्रवृत् के लिए तुम्हें; तुम विवृत् हो, विवृत् के लिए तुम्हें; तुम सवृत् हो, सवृत् के लिए तुम्हें। तुम अक्रम हो, आक्रम के लिए तुम्हें; तुम संक्रम हो, संक्रम के लिए तुम्हें; तुम उत्क्रम हो, उत्क्रम के लिए तुम्हें; तुम उत्क्रान्ति हो, उत्क्रान्ति के लिए तुम्हें। अधिपति से, रस से, रस को जीवन्त करो।",
+  "new": "तुम त्रिवृत् हो, त्रिवृत् के लिए तुम्हें; तुम प्रवृत् हो, प्रवृत् के लिए तुम्हें; तुम विवृत् हो, विवृत् के लिए तुम्हें; तुम सवृत् हो, सवृत् के लिए तुम्हें। तुम आक्रम हो, आक्रम के लिए तुम्हें; तुम संक्रम हो, संक्रम के लिए तुम्हें; तुम उत्क्रम हो, उत्क्रम के लिए तुम्हें; तुम उत्क्रान्ति हो, उत्क्रान्ति के लिए तुम्हें। अधिपति से, रस से, रस को जीवन्त करो।",
+  "why": "reviewer (error): Follows the wrong word."
+ },
+ {
+  "n": "15",
+  "field": "english",
+  "old": "This one in front is the tawny-haired one, having Sūrya's rays; his army-leader and village-leader are Rathagṛtsa and Rathaujas. Puñjikasthalā and Kratusthalā are the two apsarases; the biters, the animals, are the missile; the human slaying is the hurled missile. Homage to them. Let them help us; let them be gracious to us. Him whom we hate and who hates us, him we place in their jaws.",
+  "new": "This one in front is the tawny-haired one, having Sūrya's rays; his army-leader and village-leader are Rathagṛtsa and Rathaujas. Puñjikasthalā and Kratusthalā are the two apsarases; the biting animals are the missile; the human slaying is the hurled missile. Homage to them. Let them help us; let them be gracious to us. Him whom we hate and who hates us, him we place in their jaws.",
+  "why": "reviewer (minor): daṅkṣṇavaḥ paśavaḥ is one phrase 'biting animals', not two items; the draft's list-like rendering is also repeated in Hindi."
+ },
+ {
+  "n": "15",
+  "field": "notes",
+  "old": "ayaṃ puro is read as \"this one in front\". hetiḥ = missile, prahetiḥ = hurled missile (literal). The relation of daṅkṣṇavaḥ, paśavaḥ and hetiḥ is not stated by the line; rendered in parallel with the following units. tebhyo namo astu ... dadhmaḥ is the same refrain in units 15 to 19. Epithets and personal names are transliterated and not explained; the line does not say who \"this one\" is.",
+  "new": "ayaṃ puro is read as \"this one in front\". hetiḥ = missile, prahetiḥ = hurled missile (literal). The relation of daṅkṣṇavaḥ, paśavaḥ and hetiḥ is not stated by the line; rendered in parallel with the following units. tebhyo namo astu ... dadhmaḥ is the same refrain in units 15 to 19. Epithets and personal names are transliterated and not explained; the line does not say who \"this one\" is. The third te before yaṃ dviṣmaḥ is left untranslated (resumptive).",
+  "why": "reviewer (minor): The third 'te' (they) before yaṃ dviṣmaḥ is dropped in both Hindi and English in units 15 to 19; either translate it ('they: him whom we hate ...') or say in the notes that it is left untranslated."
+ },
+ {
+  "n": "16",
+  "field": "word.w",
+  "word": "hetī",
+  "old": "hetī",
+  "new": "hetiḥ",
+  "why": "reviewer (error): Not a typo: -iḥ before r- becomes ī (hetiḥ rakṣāṃsi gives hetī rakṣāṃsi), the same sandhi as yātudhānāḥ hetiḥ. The flag, the 'possibly a dual' note and w 'hetī' are wrong."
+ },
+ {
+  "n": "16",
+  "field": "word.w",
+  "word": "ratha-ecitraḥ",
+  "old": "ratha-ecitraḥ",
+  "new": "rathecitraḥ",
+  "why": "reviewer (error): w 'ratha-ecitraḥ' is not a word. rathe-citra (locative aluk compound, 'bright in the chariot') is the name."
+ },
+ {
+  "n": "19",
+  "field": "english",
+  "old": "This one above and near is Uparyarvāgvasu; his army-leader and village-leader are Senajit and Suṣeṇa. Urvaśī and Pūrvacitti are the two apsarases; the thundering is the missile; lightning is the hurled missile. Homage to them. Let them help us; let them be gracious to us. Him whom we hate and who hates us, him we place in their jaws.",
+  "new": "This one above is Arvāgvasu; his army-leader and village-leader are Senajit and Suṣeṇa. Urvaśī and Pūrvacitti are the two apsarases; the thundering is the missile; lightning is the hurled missile. Homage to them. Let them help us; let them be gracious to us. Him whom we hate and who hates us, him we place in their jaws.",
+  "why": "reviewer (error): 'above and near' is an interpretation that splits the name the gloss keeps whole; 'near' is not in the text."
+ },
+ {
+  "n": "19",
+  "field": "hindi",
+  "old": "यह ऊपर और समीप वाला उपर्यर्वाग्वसु है; उसके सेनानी और ग्रामणी सेनजित् और सुषेण हैं। उर्वशी और पूर्वचित्ति दोनों अप्सराएँ हैं; गर्जना अस्त्र है; बिजली प्रक्षिप्त अस्त्र है। उन्हें नमस्कार हो। वे हमारी रक्षा करें; वे हम पर दया करें। जिससे हम द्वेष करते हैं और जो हमसे द्वेष करता है, उसे हम इनके जबड़ों में रखते हैं।",
+  "new": "यह ऊपर वाला अर्वाग्वसु है; उसके सेनानी और ग्रामणी सेनजित् और सुषेण हैं। उर्वशी और पूर्वचित्ति दोनों अप्सराएँ हैं; गर्जना अस्त्र है; बिजली प्रक्षिप्त अस्त्र है। उन्हें नमस्कार हो। वे हमारी रक्षा करें; वे हम पर दया करें। जिससे हम द्वेष करते हैं और जो हमसे द्वेष करता है, उसे हम इनके जबड़ों में रखते हैं।",
+  "why": "reviewer (error): Same addition ('और समीप') and wrong name."
+ },
+ {
+  "n": "23",
+  "field": "english",
+  "old": "You have become the leader of the sacrifice and of the realm, where you go with your kind niyuts. In the sky you place your light-winning head; O Agni, you have made the oblation-carrying tongue.",
+  "new": "You are the leader of the sacrifice and of the realm, where you go with your kind niyuts. In the sky you place your light-winning head; O Agni, you have made the oblation-carrying tongue.",
+  "why": "reviewer (minor): Gloss says 'you are' (bhuvaḥ, 2 sg. injunctive) but both translations say 'have become / हुए हो'; the following verbs are presents."
+ },
+ {
+  "n": "23",
+  "field": "hindi",
+  "old": "तुम यज्ञ और रजस् के नेता हुए हो, जहाँ तुम शुभ नियुतों के साथ चलते हो। तुम आकाश में स्वर्ग जीतने वाला सिर धारण करते हो; हे अग्नि, तुमने हव्य वहन करने वाली जिह्वा बनाई है।",
+  "new": "तुम यज्ञ और रजस् के नेता हो, जहाँ तुम शुभ नियुतों के साथ चलते हो। तुम आकाश में स्वर्ग जीतने वाला सिर धारण करते हो; हे अग्नि, तुमने हव्य वहन करने वाली जिह्वा बनाई है।",
+  "why": "reviewer (minor): English and gloss say 'light-winning' but Hindi says 'स्वर्ग जीतने वाला'; also नेता हुए हो repeats the tense issue."
+ },
+ {
+  "n": "26",
+  "field": "word.gram",
+  "word": "viśe-viśe",
+  "old": "f. loc. sg.",
+  "new": "f. dat. sg.",
+  "why": "reviewer (error): viśe is the dative singular of viś (locative would be viśi); gram 'f. loc. sg.' and gloss 'in each clan' are wrong."
+ },
+ {
+  "n": "26",
+  "field": "english",
+  "old": "This one has been placed here first by the placers, the hotṛ, the best sacrificer, to be praised in the rites; whom Apnavāna and the Bhṛgus made shine in the woods, bright, pervading, in each clan.",
+  "new": "This one has been placed here first by the placers, the hotṛ, the best sacrificer, to be praised in the rites; whom Apnavāna and the Bhṛgus made shine in the woods, bright, pervading, for each clan.",
+  "why": "reviewer (error): Follows the wrong case."
+ },
+ {
+  "n": "26",
+  "field": "hindi",
+  "old": "इसे यहाँ सबसे पहले स्थापित करने वालों ने स्थापित किया, होता, श्रेष्ठ यज्ञकर्ता, अनुष्ठानों में स्तुति के योग्य; जिसे अप्नवान और भृगुओं ने वनों में प्रदीप्त किया, चमकीला, व्यापक, प्रत्येक कुल में।",
+  "new": "इसे यहाँ सबसे पहले स्थापित करने वालों ने स्थापित किया, होता, श्रेष्ठ यज्ञकर्ता, अनुष्ठानों में स्तुति के योग्य; जिसे अप्नवान और भृगुओं ने वनों में प्रदीप्त किया, चमकीला, व्यापक, प्रत्येक कुल के लिए।",
+  "why": "reviewer (error): Follows the wrong case."
+ },
+ {
+  "n": "27",
+  "field": "hindi",
+  "old": "जन का रक्षक, जाग्रत, अत्यन्त कुशल अग्नि नवीन कल्याण के लिए उत्पन्न हुआ। घी जैसे मुख वाला, आकाश को छूने वाले महान के साथ, भरतों के लिए निर्मल होकर तेज से चमकता है।",
+  "new": "जन का रक्षक, जाग्रत, अत्यन्त कुशल अग्नि नवीन कल्याण के लिए उत्पन्न हुआ। घी के मुख वाला, आकाश को छूने वाले महान के साथ, भरतों के लिए निर्मल होकर तेज से चमकता है।",
+  "why": "reviewer (minor): 'जैसे' adds a simile; ghṛtapratīka is 'having ghee as face'."
+ },
+ {
+  "n": "29",
+  "field": "hindi",
+  "old": "मित्रो, साथ मिलकर तुम्हारा समुचित अन्न और स्तोम अग्नि के लिए, जो सबसे महान है, निवासियों के बीच, रस का वंशज, बलवान।",
+  "new": "मित्रो, साथ मिलकर तुम्हारा सुसंगत अन्न और स्तोम अग्नि के लिए, जो सबसे महान है, निवासियों के बीच, रस का वंशज, बलवान।",
+  "why": "reviewer (minor): samyañcam is 'accordant, united' (English 'accordant'); 'समुचित' means 'proper' and does not match."
+ },
+ {
+  "n": "31",
+  "field": "word.gram",
+  "word": "havante",
+  "old": "3 pl. pres. mid. √hu",
+  "new": "3 pl. pres. mid. √hū",
+  "why": "reviewer (minor): Root is √hū (hve), 'call'; √hu means 'sacrifice'."
+ },
+ {
+  "n": "31",
+  "field": "hindi",
+  "old": "हे अत्यन्त यशस्वी, प्राणी जातियों में तुम्हें पुकारते हैं, ज्वाला-केशों वाले को, हे बहुप्रिय अग्नि, हव्य ढोने के लिए।",
+  "new": "हे अत्यन्त यशस्वी, कुलों में प्राणी तुम्हें पुकारते हैं, ज्वाला-केशों वाले को, हे बहुप्रिय अग्नि, हव्य ढोने के लिए।",
+  "why": "reviewer (minor): viś is 'clan' (glossary, English 'among the clans'); 'जातियों' does not render it and merges jantavaḥ with vikṣu."
+ },
+ {
+  "n": "32",
+  "field": "word.gram",
+  "word": "huve",
+  "old": "1 sg. pres. mid. √hu",
+  "new": "1 sg. pres. mid. √hū",
+  "why": "reviewer (minor): Root is √hū 'call', not √hu 'sacrifice'."
+ },
+ {
+  "n": "1",
+  "field": "text_flags",
+  "old": "~s flag",
+  "new": "removed",
+  "manual": true
+ },
+ {
+  "n": "3",
+  "field": "hindi",
+  "old": "हमारे लिए सन्तान सहित धन के साथ यज्ञ करो",
+  "new": "हमारे लिए धन और सन्तान सहित यज्ञ करो",
+  "manual": true
+ },
+ {
+  "n": "4",
+  "field": "text_flags",
+  "old": "",
+  "new": "2 added",
+  "manual": true
+ },
+ {
+  "n": "6",
+  "field": "split",
+  "old": "anuyā duplicate",
+  "new": "removed",
+  "manual": true
+ },
+ {
+  "n": "8",
+  "field": "gloss/confidence",
+  "old": "interpretive glosses",
+  "new": "terms kept; medium",
+  "manual": true
+ },
+ {
+  "n": "9",
+  "field": "text_flags",
+  "old": "",
+  "new": "removed",
+  "manual": true
+ },
+ {
+  "n": "11",
+  "field": "notes",
+  "old": "(including ājya, here the name of an uktha, not clarified butter) ",
+  "new": "",
+  "manual": true
+ },
+ {
+  "n": "12",
+  "field": "notes",
+  "old": "(including ājya, here the name of an uktha, not clarified butter) ",
+  "new": "",
+  "manual": true
+ },
+ {
+  "n": "13",
+  "field": "notes",
+  "old": "(including ājya, here the name of an uktha, not clarified butter) ",
+  "new": "",
+  "manual": true
+ },
+ {
+  "n": "14",
+  "field": "notes",
+  "old": "(including ājya, here the name of an uktha, not clarified butter) ",
+  "new": "",
+  "manual": true
+ },
+ {
+  "n": "16",
+  "field": "split",
+  "old": "extra ca",
+  "new": "removed",
+  "manual": true
+ },
+ {
+  "n": "17",
+  "field": "split",
+  "old": "ca placement",
+  "new": "fixed",
+  "manual": true
+ },
+ {
+  "n": "19",
+  "field": "split",
+  "old": "uparyarvāgvasuḥ",
+  "new": "upari + arvāgvasuḥ",
+  "manual": true
+ },
+ {
+  "n": "30",
+  "field": "english",
+  "old": "with the samit you bring all together, O lord",
+  "new": "you indeed bring all together, O lord",
+  "manual": true
+ },
+ {
+  "n": "30",
+  "field": "hindi",
+  "old": "तुम समित् के साथ सबको एकत्र करते हो, हे स्वामी।",
+  "new": "तुम सबको निश्चय ही एकत्र करते हो, हे स्वामी।",
+  "manual": true
+ },
+ {
+  "n": "30",
+  "field": "split",
+  "old": "sam + samit",
+  "new": "saṃsam id yuvase",
+  "manual": true
+ }
+]
