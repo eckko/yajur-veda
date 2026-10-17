@@ -21,3 +21,4 @@ AI drafts. English uses plain IAST for Sanskrit terms; Hindi stays in Devanagari
 - netra (in compounds) = "having X as leader" (Hindi: X के नेतृत्व वाले); purohita = the one placed in front (priest); samana = contest; stoma and upayāma stay untranslated; vāja = strength in every unit, including vāje-vāje "in each strength"
 - sūrya stays Sūrya in word glosses too; dhī = insight (धी) in every unit
 - bhuvana = world (भुवन), distinct from loka (लोक); rajas = airy realm (अन्तरिक्ष के क्षेत्र) only where the line supports it; somakrayaṇī and abhigara stay transliterated
+- Deity names such as Vāyu stay names; viś = clan; hotṛ stays hotṛ; varcas = brilliance (Hindi तेज); ūrj = sap/strength (Hindi रस/बल)
