@@ -1,0 +1,422 @@
+[
+ {
+  "id": "00.05.15",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Grammar, sandhi and accents are regular; nothing wrong visible."
+ },
+ {
+  "id": "00.05.35b",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Grammar, sandhi and accents are regular; nothing wrong visible."
+ },
+ {
+  "id": "00.06.12",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Grammar, sandhi and accents are regular; nothing wrong visible."
+ },
+ {
+  "id": "00.07.46a",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Grammar, sandhi and accents are regular; nothing wrong visible."
+ },
+ {
+  "id": "00.08.13a",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Grammar, sandhi and accents are regular; nothing wrong visible."
+ },
+ {
+  "id": "00.08.25b",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Grammar, sandhi and accents are regular; nothing wrong visible."
+ },
+ {
+  "id": "00.08.35b",
+  "kind": "sample",
+  "verdict": "error",
+  "suggest": "उ॒प॒या॒मगृ॑हीतो॒ऽसीन्द्रा॑य त्वा षोड॒शिने॑  ए॒ष ते॒ योनि॒रिन्द्रा॑य त्वा षोड॒शिने॑ ॥",
+  "why": "Avagraha dropped: गृहीतो सीन्द्राय has no word सि; the parallel lines 8.40b/8.44c read गृहीतोऽसि/गृहीतोऽसीन्द्राय."
+ },
+ {
+  "id": "00.08.40b",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Grammar, sandhi and accents are regular; nothing wrong visible."
+ },
+ {
+  "id": "00.08.44c",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Grammar, sandhi and accents are regular; nothing wrong visible."
+ },
+ {
+  "id": "00.09.6b",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Grammar, sandhi and accents are regular; nothing wrong visible."
+ },
+ {
+  "id": "00.09.21b",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Grammar, sandhi and accents are regular; nothing wrong visible."
+ },
+ {
+  "id": "00.10.14a",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Grammar, sandhi and accents are regular; nothing wrong visible."
+ },
+ {
+  "id": "00.10.20a",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Grammar, sandhi and accents are regular; nothing wrong visible."
+ },
+ {
+  "id": "00.10.23a",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Grammar, sandhi and accents are regular; nothing wrong visible."
+ },
+ {
+  "id": "00.11.60b",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Grammar, sandhi and accents are regular; nothing wrong visible."
+ },
+ {
+  "id": "00.11.69b",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Grammar, sandhi and accents are regular; nothing wrong visible."
+ },
+ {
+  "id": "00.12.1b",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Grammar, sandhi and accents are regular; nothing wrong visible."
+ },
+ {
+  "id": "00.12.2a",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Grammar, sandhi and accents are regular; nothing wrong visible."
+ },
+ {
+  "id": "00.12.19a",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Grammar, sandhi and accents are regular; nothing wrong visible."
+ },
+ {
+  "id": "00.12.51a",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Grammar, sandhi and accents are regular; nothing wrong visible."
+ },
+ {
+  "id": "00.12.86",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Grammar, sandhi and accents are regular; nothing wrong visible."
+ },
+ {
+  "id": "00.12.101",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Grammar, sandhi and accents are regular; nothing wrong visible."
+ },
+ {
+  "id": "00.13.30a",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Grammar, sandhi and accents are regular; nothing wrong visible."
+ },
+ {
+  "id": "00.13.43b",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Grammar, sandhi and accents are regular; nothing wrong visible."
+ },
+ {
+  "id": "00.13.49d",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Grammar, sandhi and accents are regular; nothing wrong visible."
+ },
+ {
+  "id": "00.14.9c",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Grammar, sandhi and accents are regular; nothing wrong visible."
+ },
+ {
+  "id": "00.14.16a",
+  "kind": "sample",
+  "verdict": "error",
+  "suggest": "इ॒षश्चो॒र्जश्च॑ शार॒दावृ॒तू अ॒ग्नेर॑न्तः श्ले॒षो॒ऽसि॒ कल्पे॑तां॒ द्यावा॑पृथि॒वी कल्प॑न्ता॒माप॒ ओष॑धय॒ः कल्प॑न्ताम॒ग्नय॒ः पृथ॒ङ्मम॒ ज्यैष्ठ्याय॒ सव्र॑ताः ।",
+  "why": "नम is no word; मम ज्यैष्ठ्याय (for my supremacy) gives the required sense, न/म one akshara apart."
+ },
+ {
+  "id": "00.15.22",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Grammar, sandhi and accents are regular; nothing wrong visible."
+ },
+ {
+  "id": "00.16.31",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Grammar, sandhi and accents are regular; nothing wrong visible."
+ },
+ {
+  "id": "00.16.48a",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Grammar, sandhi and accents are regular; nothing wrong visible."
+ },
+ {
+  "id": "00.16.64b",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Grammar, sandhi and accents are regular; nothing wrong visible."
+ },
+ {
+  "id": "00.17.4",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Grammar, sandhi and accents are regular; nothing wrong visible."
+ },
+ {
+  "id": "00.17.12",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Grammar, sandhi and accents are regular; nothing wrong visible."
+ },
+ {
+  "id": "00.17.18b",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Grammar, sandhi and accents are regular; nothing wrong visible."
+ },
+ {
+  "id": "00.17.28b",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Grammar, sandhi and accents are regular; nothing wrong visible."
+ },
+ {
+  "id": "00.17.41a",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Grammar, sandhi and accents are regular; nothing wrong visible."
+ },
+ {
+  "id": "00.17.51",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Grammar, sandhi and accents are regular; nothing wrong visible."
+ },
+ {
+  "id": "00.17.99a",
+  "kind": "sample",
+  "verdict": "unsure",
+  "suggest": "धाम॑न्ते॒ विश्वं॒",
+  "why": "धामं with anusvara before त is odd (न् stays before त); loc. धामन् ते / धामन्ते expected, but cannot be certain."
+ },
+ {
+  "id": "00.18.4",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Grammar, sandhi and accents are regular; nothing wrong visible."
+ },
+ {
+  "id": "00.18.71b",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Grammar, sandhi and accents are regular; nothing wrong visible."
+ },
+ {
+  "id": "00.19.2a",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Grammar, sandhi and accents are regular; nothing wrong visible."
+ },
+ {
+  "id": "00.19.25",
+  "kind": "sample",
+  "verdict": "unsure",
+  "suggest": "अ॒र्ध-ऋ॒चैरु॒क्थाना॑ᳪ",
+  "why": "Spaced en-dash inside अर्ध – ऋचैः looks like leftover markup, though a dash may be the edition's hiatus mark."
+ },
+ {
+  "id": "00.19.52a",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Grammar, sandhi and accents are regular; nothing wrong visible."
+ },
+ {
+  "id": "00.19.73a",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Grammar, sandhi and accents are regular; nothing wrong visible."
+ },
+ {
+  "id": "00.19.84b",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Grammar, sandhi and accents are regular; nothing wrong visible."
+ },
+ {
+  "id": "00.19.85a",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Grammar, sandhi and accents are regular; nothing wrong visible."
+ },
+ {
+  "id": "00.20.21",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Grammar, sandhi and accents are regular; nothing wrong visible."
+ },
+ {
+  "id": "00.20.67",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Grammar, sandhi and accents are regular; nothing wrong visible."
+ },
+ {
+  "id": "00.20.88",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Grammar, sandhi and accents are regular; nothing wrong visible."
+ },
+ {
+  "id": "00.21.13b",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Grammar, sandhi and accents are regular; nothing wrong visible."
+ },
+ {
+  "id": "00.21.21a",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Grammar, sandhi and accents are regular; nothing wrong visible."
+ },
+ {
+  "id": "00.21.22a",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Grammar, sandhi and accents are regular; nothing wrong visible."
+ },
+ {
+  "id": "00.21.22b",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Grammar, sandhi and accents are regular; nothing wrong visible."
+ },
+ {
+  "id": "00.21.40",
+  "kind": "sample",
+  "verdict": "error",
+  "suggest": "सु॒त्रामा॑णं सवि॒तारं॒",
+  "why": "सुत्रामाण lacks the accusative anusvara; the list इन्द्रᳪ सुत्रामाणं सवितारं वरुणं is all accusatives."
+ },
+ {
+  "id": "00.21.41b",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Grammar, sandhi and accents are regular; nothing wrong visible."
+ },
+ {
+  "id": "00.22.2b",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Grammar, sandhi and accents are regular; nothing wrong visible."
+ },
+ {
+  "id": "00.22.12",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Grammar, sandhi and accents are regular; nothing wrong visible."
+ },
+ {
+  "id": "00.23.5",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Grammar, sandhi and accents are regular; nothing wrong visible."
+ },
+ {
+  "id": "00.24.16b",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Grammar, sandhi and accents are regular; nothing wrong visible."
+ },
+ {
+  "id": "00.24.33b",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Grammar, sandhi and accents are regular; nothing wrong visible."
+ }
+]
