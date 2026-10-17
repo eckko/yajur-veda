@@ -1,0 +1,73 @@
+{"units":[
+{"n":"1","verdict":"ok","issues":[]},
+{"n":"2","verdict":"fix","issues":[
+{"field":"english","where":"Come near, O bounteous one","problem":"'Come near' is an invented imperative; upo/upa/it/nu carry no verb, and the drafter's own note calls it a guess. Hindi 'समीप आओ' repeats it.","fix":"Render the particles literally, e.g. 'Near, indeed, now, O bounteous one; more and more indeed ...'; keep the guess only in notes.","severity":"minor"}]},
+{"n":"3","verdict":"fix","issues":[
+{"field":"gram","where":"ubhe","problem":"agrees with neuter janmanī, so n. acc. du., not f.","fix":"n. acc. du.","severity":"minor","patch":{"n":"3","op":"word","match_w":"ubhe","field":"gram","value":"n. acc. du."}}]},
+{"n":"4","verdict":"fix","issues":[
+{"field":"text_flags","where":"src of the flag","problem":"The flag src 'ā̱dahości̱dyā' is not a printed token; the printed token is 'suma̱tirva̭vṛtyāda̱hości̱dyā'. Because ahoḥ is doubtful, confidence is better low than medium.","fix":"Set flag src to 'suma̱tirva̭vṛtyāda̱hości̱dyā' and confidence to low.","severity":"minor"}]},
+{"n":"5","verdict":"fix","issues":[
+{"field":"english","where":"soma-drinking","problem":"Glossary fixes soma = Soma.","fix":"Soma-drinking","severity":"minor","patch":{"n":"5","op":"replace","field":"english","old":"soma-drinking","new":"Soma-drinking"}},
+{"field":"gloss","where":"soma-pīthaḥ","problem":"Same glossary point.","fix":"Soma-drinking","severity":"minor","patch":{"n":"5","op":"word","match_w":"soma-pīthaḥ","field":"gloss","value":"Soma-drinking"}}]},
+{"n":"6","verdict":"fix","issues":[
+{"field":"gloss","where":"dhiyā","problem":"Glossary: dhī = insight (धी). Draft uses 'thought' and Hindi 'बुद्धि'.","fix":"by insight","severity":"error","patch":{"n":"6","op":"word","match_w":"dhiyā","field":"gloss","value":"by insight"}},
+{"field":"english","where":"by this thought","problem":"Glossary dhī = insight.","fix":"by this insight","severity":"error","patch":{"n":"6","op":"replace","field":"english","old":"by this thought","new":"by this insight"}},
+{"field":"hindi","where":"इस बुद्धि से","problem":"Glossary dhī = धी.","fix":"इस धी से","severity":"error","patch":{"n":"6","op":"replace","field":"hindi","old":"इस बुद्धि से","new":"इस धी से"}}]},
+{"n":"7","verdict":"ok","issues":[]},
+{"n":"8","verdict":"ok","issues":[]},
+{"n":"9","verdict":"fix","issues":[
+{"field":"gram","where":"induḥ (printed indoḥ)","problem":"Printed indo̭r is genitive indoḥ ('of the drop'), as the notes themselves say; the word list gives nominative induḥ.","fix":"m. gen. sg.","severity":"error","patch":{"n":"9","op":"word","match_w":"induḥ","field":"gram","value":"m. gen. sg."}},
+{"field":"split","where":"induḥ","problem":"Wrong form for the printed text.","fix":"indoḥ","severity":"error","patch":{"n":"9","op":"word","match_w":"induḥ","field":"w","value":"indoḥ"}}]},
+{"n":"10","verdict":"ok","issues":[]},
+{"n":"11","verdict":"fix","issues":[
+{"field":"hindi","where":"दोनों भूरे अश्वों के लिए","problem":"'अश्व' (horses) is added; the line and the notes say the text does not say what the two bays are. English has no horses.","fix":"दोनों भूरों के लिए","severity":"error","patch":{"n":"11","op":"replace","field":"hindi","old":"दोनों भूरे अश्वों के लिए","new":"दोनों भूरों के लिए"}},
+{"field":"hindi","where":"भुने दाने","problem":"'भुने' (roasted) is not in the Sanskrit; dhānā is only 'grains'.","fix":"तुम दोनों भूरों के दाने हो","severity":"error","patch":{"n":"11","op":"replace","field":"hindi","old":"तुम दोनों भूरों के भुने दाने हो","new":"तुम दोनों भूरों के दाने हो"}}]},
+{"n":"12","verdict":"fix","issues":[
+{"field":"hindi","where":"अश्व देने वाला / गौ देने वाला","problem":"saniḥ is 'winning'; English says wins, Hindi says gives.","fix":"अश्व जीतने वाला / गौ जीतने वाला","severity":"minor","patch":{"n":"12","op":"replace","field":"hindi","old":"अश्व देने वाला भक्ष","new":"अश्व जीतने वाला भक्ष"}},
+{"field":"hindi","where":"गौ देने वाला","problem":"Same.","fix":"गौ जीतने वाला","severity":"minor","patch":{"n":"12","op":"replace","field":"hindi","old":"गौ देने वाला","new":"गौ जीतने वाला"}}]},
+{"n":"13","verdict":"ok","issues":[]},
+{"n":"14","verdict":"fix","issues":[
+{"field":"hindi","where":"उसे पोंछकर ठीक करें","problem":"'ठीक करें' (set right) is interpretation added to anumārṣṭu 'wipe over'.","fix":"उसे पोंछ दें","severity":"minor","patch":{"n":"14","op":"replace","field":"hindi","old":"उसे पोंछकर ठीक करें","new":"उसे पोंछ दें"}}]},
+{"n":"15","verdict":"ok","issues":[]},
+{"n":"16","verdict":"fix","issues":[
+{"field":"hindi","where":"उसे पोंछकर ठीक करें","problem":"Same as unit 14 (identical text, keep identical wording).","fix":"उसे पोंछ दें","severity":"minor","patch":{"n":"16","op":"replace","field":"hindi","old":"उसे पोंछकर ठीक करें","new":"उसे पोंछ दें"}}]},
+{"n":"17","verdict":"fix","issues":[
+{"field":"english","where":"O Tvaṣṭṛ, O Viṣṇu","problem":"tvaṣṭā viṣṇuḥ are nominative forms (draft's own gram); English invents vocatives.","fix":"Tvaṣṭṛ, Viṣṇu, bestowing","severity":"minor","patch":{"n":"17","op":"replace","field":"english","old":"O Tvaṣṭṛ, O Viṣṇu, bestowing","new":"Tvaṣṭṛ, Viṣṇu, bestowing"}},
+{"field":"hindi","where":"देव अग्नि भी","problem":"'भी' (also) is added.","fix":"देव अग्नि।","severity":"minor","patch":{"n":"17","op":"replace","field":"hindi","old":"देव अग्नि भी।","new":"देव अग्नि।"}}]},
+{"n":"18","verdict":"ok","issues":[]},
+{"n":"19","verdict":"fix","issues":[
+{"field":"gram","where":"preraya","problem":"preraya is pra+īraya, causative of √īr, not √ṛ.","fix":"2 sg. imp. caus. pra-√īr","severity":"minor","patch":{"n":"19","op":"word","match_w":"preraya","field":"gram","value":"2 sg. imp. caus. pra-√īr"}},
+{"field":"english","where":"Whichever eager gods you bring hither","problem":"āvaha is imperative (draft's gram); English and Hindi 'बुलाते हो' make it indicative.","fix":"Whom bring hither, eager, O god: those gods send forth, O Agni, in your own common seat.","severity":"minor"}]},
+{"n":"20","verdict":"fix","issues":[
+{"field":"gloss","where":"ayā","problem":"'by this' with ṛdhak gives the meaningless 'separately by this'. ayā may be ayāḥ (aor. of √i, 'you came'); at least mark it uncertain. Hindi 'इस प्रकार' reflects the same problem.","fix":"gloss 'you came (ayāḥ?)' or mark 'uncertain'; adjust Hindi/English after a human decision.","severity":"minor"}]},
+{"n":"21","verdict":"fix","issues":[
+{"field":"english","where":"place this sacrifice in the wind. Svāhā.","problem":"svāhā stands before 'vāte dhāḥ' in the text; draft moves it to the end while notes say 'as printed'. Notes also speak of a 'second svāhā' but there is one.","fix":"svāhā, place this sacrifice in the wind.","severity":"minor","patch":{"n":"21","op":"replace","field":"english","old":"place this sacrifice in the wind. Svāhā.","new":"svāhā, place this sacrifice in the wind."}},
+{"field":"hindi","where":"इस यज्ञ को वायु में स्थापित करो। स्वाहा।","problem":"Same order issue.","fix":"इस यज्ञ को स्वाहा, वायु में स्थापित करो।","severity":"minor","patch":{"n":"21","op":"replace","field":"hindi","old":"इस यज्ञ को वायु में स्थापित करो। स्वाहा।","new":"इस यज्ञ को स्वाहा, वायु में स्थापित करो।"}}]},
+{"n":"22","verdict":"fix","issues":[
+{"field":"split","where":"saha-sūkta-vākaḥ","problem":"sūktavāka is a ritual recitation term; splitting into sūkta and vāka and inserting 'and' (also Hindi 'वाक्') is not supported.","fix":"w 'sahasūktavākaḥ' glossed 'with the sūktavāka (technical term, kept untranslated)'; English 'with the sūktavāka'; Hindi 'सूक्तवाक सहित'.","severity":"minor"}]},
+{"n":"23","verdict":"fix","issues":[
+{"field":"gloss","where":"sūryāya","problem":"Glossary: Sūrya stays Sūrya.","fix":"for Sūrya","severity":"error","patch":{"n":"23","op":"word","match_w":"sūryāya","field":"gloss","value":"for Sūrya"}},
+{"field":"english","where":"for the sun to follow","problem":"Glossary: Sūrya stays Sūrya.","fix":"for Sūrya to follow","severity":"error","patch":{"n":"23","op":"replace","field":"english","old":"for the sun to follow","new":"for Sūrya to follow"}},
+{"field":"split","where":"akaḥ","problem":"Printed 'karuta' comes from akar + uta; akaḥ+uta would give ako 'uta.","fix":"akar","severity":"minor","patch":{"n":"23","op":"word","match_w":"akaḥ","field":"w","value":"akar"}}]},
+{"n":"24","verdict":"fix","issues":[
+{"field":"english","where":"towards your tongue the ghee moves upward","problem":"ghṛtam is accusative and jihvā nominative with uccaraṇyat; the draft makes ghee the subject, contradicting its own gram.","fix":"towards the ghee your tongue, rising up.","severity":"error","patch":{"n":"24","op":"replace","field":"english","old":"towards your tongue the ghee moves upward.","new":"towards the ghee your tongue, rising up."}},
+{"field":"hindi","where":"तुम्हारी जिह्वा की ओर घी ऊपर चलता हुआ।","problem":"Same case reversal.","fix":"घी की ओर तुम्हारी जिह्वा ऊपर उठती हुई।","severity":"error","patch":{"n":"24","op":"replace","field":"hindi","old":"तुम्हारी जिह्वा की ओर घी ऊपर चलता हुआ।","new":"घी की ओर तुम्हारी जिह्वा ऊपर उठती हुई।"}},
+{"field":"hindi","where":"असुर-सम्बन्धी बल","problem":"Imports 'asura'; English says 'lordly power'.","fix":"प्रभुत्व","severity":"minor","patch":{"n":"24","op":"replace","field":"hindi","old":"असुर-सम्बन्धी बल","new":"प्रभुत्व"}}]},
+{"n":"25","verdict":"fix","issues":[
+{"field":"english","where":"whatever it be","problem":"Unsupported interpretation of yat; also 'of the sacrifice' is pushed onto the locatives although yajñasya sits beside yajñapate.","fix":"Keep yat literal ('that'), e.g. '...may we serve you, that; svāhā.' and note it as uncertain.","severity":"minor"}]},
+{"n":"26","verdict":"fix","issues":[
+{"field":"english","where":"in it grow with well-being","problem":"śam is accusative (draft gram) but translated 'with well-being' and Hindi 'कल्याणकारी होकर' as adjective; case shift.","fix":"Keep śam as object: e.g. 'in it ... well-being, and ... all around', noting the √vah alternative.","severity":"minor"}]},
+{"n":"27","verdict":"fix","issues":[
+{"field":"hindi","where":"पाप को दूर किया","problem":"English says 'appeased'; Hindi says 'removed'. The two must match.","fix":"शान्त किया","severity":"error","patch":{"n":"27","op":"replace","field":"hindi","old":"पाप को दूर किया; मनुष्यों के साथ मनुष्यों द्वारा किए गए पाप को दूर किया।","new":"पाप को शान्त किया; मनुष्यों के साथ मनुष्यों द्वारा किए गए पाप को शान्त किया।"}},
+{"field":"split","where":"nicēruḥ","problem":"Non-IAST ē; Vedic e is plain e.","fix":"niceruḥ","severity":"minor","patch":{"n":"27","op":"word","match_w":"nicēruḥ","field":"w","value":"niceruḥ"}}]},
+{"n":"28","verdict":"ok","issues":[]},
+{"n":"29","verdict":"fix","issues":[
+{"field":"english","where":"with his mother","problem":"'his' is added; mātrā is just 'with the mother' and the notes say the text names no one.","fix":"with the mother","severity":"minor","patch":{"n":"29","op":"replace","field":"english","old":"with his mother","new":"with the mother"}}]},
+{"n":"30","verdict":"fix","issues":[
+{"field":"english","where":"May the one-footed ... spread along the worlds","problem":"The five forms are accusative (draft's gram) and cannot be subjects of plural imperative prathantām; bhuvanā (n. pl.) is the natural subject.","fix":"May the worlds spread out after the one-footed, the two-footed, the three-footed, the four-footed, the eight-footed. (Hindi: एकपदी, द्विपदी, त्रिपदी, चतुष्पदी, अष्टापदी के पीछे लोक फैलें।)","severity":"error"}]},
+{"n":"31","verdict":"ok","issues":[]},
+{"n":"32","verdict":"fix","issues":[
+{"field":"english","where":"with their nourishments","problem":"'their' is added.","fix":"with nourishments","severity":"minor","patch":{"n":"32","op":"replace","field":"english","old":"with their nourishments","new":"with nourishments"}},
+{"field":"hindi","where":"अपने पोषणों से","problem":"'अपने' is added.","fix":"पोषणों से","severity":"minor","patch":{"n":"32","op":"replace","field":"hindi","old":"अपने पोषणों से","new":"पोषणों से"}}]}
+],
+"summary":"7 errors, 21 minor. No regrouping; unit 16 keeps its repeat of unit 14 (patch both identically). Typo flags: unit 4 ahoḥ is plausible but its flag src must be the printed token; unit 19 Latin j in papivājsaś is a real typo and correctly flagged. Glossary extension suggested: Sūrya stays Sūrya in word glosses too; dhī = insight (धी) also in unit 6."}

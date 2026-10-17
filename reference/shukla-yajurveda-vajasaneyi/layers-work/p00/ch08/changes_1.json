@@ -1,0 +1,347 @@
+[
+ {
+  "n": "3",
+  "field": "word.gram",
+  "word": "ubhe",
+  "old": "f. acc. du.",
+  "new": "n. acc. du.",
+  "why": "reviewer (minor): agrees with neuter janmanī, so n. acc. du., not f."
+ },
+ {
+  "n": "5",
+  "field": "english",
+  "old": "O Vivasvat, O Āditya, this is your soma-drinking; delight in it. O men, place your trust in this speech: when the two lords of the house, bestowers of blessing, obtain the desirable, a male son is born, he finds wealth, and then, faultless, he thrives in the house every day.",
+  "new": "O Vivasvat, O Āditya, this is your Soma-drinking; delight in it. O men, place your trust in this speech: when the two lords of the house, bestowers of blessing, obtain the desirable, a male son is born, he finds wealth, and then, faultless, he thrives in the house every day.",
+  "why": "reviewer (minor): Glossary fixes soma = Soma."
+ },
+ {
+  "n": "5",
+  "field": "word.gloss",
+  "word": "soma-pīthaḥ",
+  "old": "soma-drinking",
+  "new": "Soma-drinking",
+  "why": "reviewer (minor): Same glossary point."
+ },
+ {
+  "n": "6",
+  "field": "word.gloss",
+  "word": "dhiyā",
+  "old": "by thought",
+  "new": "by insight",
+  "why": "reviewer (error): Glossary: dhī = insight (धी). Draft uses 'thought' and Hindi 'बुद्धि'."
+ },
+ {
+  "n": "6",
+  "field": "english",
+  "old": "O Savitṛ, give us today the precious thing, and tomorrow too, and day by day give us the precious thing. For, O god, of the precious abode, of the abundant, by this thought may we be sharers of the precious.",
+  "new": "O Savitṛ, give us today the precious thing, and tomorrow too, and day by day give us the precious thing. For, O god, of the precious abode, of the abundant, by this insight may we be sharers of the precious.",
+  "why": "reviewer (error): Glossary dhī = insight."
+ },
+ {
+  "n": "6",
+  "field": "hindi",
+  "old": "हे सविता, आज हमें प्रिय धन दो, कल भी, और दिन-प्रतिदिन प्रिय धन दो। क्योंकि हे देव, प्रिय निवास के, प्रचुर के, इस बुद्धि से हम प्रिय के भागी हों।",
+  "new": "हे सविता, आज हमें प्रिय धन दो, कल भी, और दिन-प्रतिदिन प्रिय धन दो। क्योंकि हे देव, प्रिय निवास के, प्रचुर के, इस धी से हम प्रिय के भागी हों।",
+  "why": "reviewer (error): Glossary dhī = धी."
+ },
+ {
+  "n": "9",
+  "field": "word.gram",
+  "word": "induḥ",
+  "old": "m. nom. sg.",
+  "new": "m. gen. sg.",
+  "why": "reviewer (error): Printed indo̭r is genitive indoḥ ('of the drop'), as the notes themselves say; the word list gives nominative induḥ."
+ },
+ {
+  "n": "9",
+  "field": "word.w",
+  "word": "induḥ",
+  "old": "induḥ",
+  "new": "indoḥ",
+  "why": "reviewer (error): Wrong form for the printed text."
+ },
+ {
+  "n": "11",
+  "field": "hindi",
+  "old": "तुम उपयाम से ग्रहण किए गए हो, तुम भूरे रंग के हो, हारियोजन हो; दोनों भूरे अश्वों के लिए तुम्हें। तुम दोनों भूरों के भुने दाने हो, सोम के साथ, इन्द्र के लिए।",
+  "new": "तुम उपयाम से ग्रहण किए गए हो, तुम भूरे रंग के हो, हारियोजन हो; दोनों भूरों के लिए तुम्हें। तुम दोनों भूरों के भुने दाने हो, सोम के साथ, इन्द्र के लिए।",
+  "why": "reviewer (error): 'अश्व' (horses) is added; the line and the notes say the text does not say what the two bays are. English has no horses."
+ },
+ {
+  "n": "11",
+  "field": "hindi",
+  "old": "तुम उपयाम से ग्रहण किए गए हो, तुम भूरे रंग के हो, हारियोजन हो; दोनों भूरों के लिए तुम्हें। तुम दोनों भूरों के भुने दाने हो, सोम के साथ, इन्द्र के लिए।",
+  "new": "तुम उपयाम से ग्रहण किए गए हो, तुम भूरे रंग के हो, हारियोजन हो; दोनों भूरों के लिए तुम्हें। तुम दोनों भूरों के दाने हो, सोम के साथ, इन्द्र के लिए।",
+  "why": "reviewer (error): 'भुने' (roasted) is not in the Sanskrit; dhānā is only 'grains'."
+ },
+ {
+  "n": "12",
+  "field": "hindi",
+  "old": "तुम्हारा जो अश्व देने वाला भक्ष है, जो गौ देने वाला है, उस तुम्हारे, जिसका यजुः इष्ट है, जिसका सोम स्तुत है, जिसका उक्थ शंसित है, जो आहूत है, उस तुम्हारे भक्ष को मैं, आहूत होकर, खाता हूँ।",
+  "new": "तुम्हारा जो अश्व जीतने वाला भक्ष है, जो गौ देने वाला है, उस तुम्हारे, जिसका यजुः इष्ट है, जिसका सोम स्तुत है, जिसका उक्थ शंसित है, जो आहूत है, उस तुम्हारे भक्ष को मैं, आहूत होकर, खाता हूँ।",
+  "why": "reviewer (minor): saniḥ is 'winning'; English says wins, Hindi says gives."
+ },
+ {
+  "n": "12",
+  "field": "hindi",
+  "old": "तुम्हारा जो अश्व जीतने वाला भक्ष है, जो गौ देने वाला है, उस तुम्हारे, जिसका यजुः इष्ट है, जिसका सोम स्तुत है, जिसका उक्थ शंसित है, जो आहूत है, उस तुम्हारे भक्ष को मैं, आहूत होकर, खाता हूँ।",
+  "new": "तुम्हारा जो अश्व जीतने वाला भक्ष है, जो गौ जीतने वाला है, उस तुम्हारे, जिसका यजुः इष्ट है, जिसका सोम स्तुत है, जिसका उक्थ शंसित है, जो आहूत है, उस तुम्हारे भक्ष को मैं, आहूत होकर, खाता हूँ।",
+  "why": "reviewer (minor): Same."
+ },
+ {
+  "n": "14",
+  "field": "hindi",
+  "old": "हम तेज के साथ, दूध के साथ, शरीरों के साथ, मन के साथ, कल्याणकारी के साथ मिल गए हैं। उदार दाता त्वष्टा धन का वितरण करें, और शरीर का जो ढीला-बिछुड़ा है, उसे पोंछकर ठीक करें।",
+  "new": "हम तेज के साथ, दूध के साथ, शरीरों के साथ, मन के साथ, कल्याणकारी के साथ मिल गए हैं। उदार दाता त्वष्टा धन का वितरण करें, और शरीर का जो ढीला-बिछुड़ा है, उसे पोंछ दें।",
+  "why": "reviewer (minor): 'ठीक करें' (set right) is interpretation added to anumārṣṭu 'wipe over'."
+ },
+ {
+  "n": "16",
+  "field": "hindi",
+  "old": "हम तेज के साथ, दूध के साथ, शरीरों के साथ, मन के साथ, कल्याणकारी के साथ मिल गए हैं। उदार दाता त्वष्टा धन का वितरण करें, और शरीर का जो ढीला-बिछुड़ा है, उसे पोंछकर ठीक करें।",
+  "new": "हम तेज के साथ, दूध के साथ, शरीरों के साथ, मन के साथ, कल्याणकारी के साथ मिल गए हैं। उदार दाता त्वष्टा धन का वितरण करें, और शरीर का जो ढीला-बिछुड़ा है, उसे पोंछ दें।",
+  "why": "reviewer (minor): Same as unit 14 (identical text, keep identical wording)."
+ },
+ {
+  "n": "17",
+  "field": "english",
+  "old": "May Dhātṛ, Rāti, Savitṛ enjoy this, and Prajāpati, the guardian of treasure, the god Agni. O Tvaṣṭṛ, O Viṣṇu, bestowing together with offspring, grant wealth to the sacrificer. Svāhā.",
+  "new": "May Dhātṛ, Rāti, Savitṛ enjoy this, and Prajāpati, the guardian of treasure, the god Agni. Tvaṣṭṛ, Viṣṇu, bestowing together with offspring, grant wealth to the sacrificer. Svāhā.",
+  "why": "reviewer (minor): tvaṣṭā viṣṇuḥ are nominative forms (draft's own gram); English invents vocatives."
+ },
+ {
+  "n": "17",
+  "field": "hindi",
+  "old": "धाता, राति और सविता इसका सेवन करें; प्रजापति, निधि के रक्षक, देव अग्नि भी। त्वष्टा और विष्णु, सन्तान के साथ दान करते हुए, यजमान को धन प्रदान करो। स्वाहा।",
+  "new": "धाता, राति और सविता इसका सेवन करें; प्रजापति, निधि के रक्षक, देव अग्नि। त्वष्टा और विष्णु, सन्तान के साथ दान करते हुए, यजमान को धन प्रदान करो। स्वाहा।",
+  "why": "reviewer (minor): 'भी' (also) is added."
+ },
+ {
+  "n": "19",
+  "field": "word.gram",
+  "word": "preraya",
+  "old": "2 sg. imp. caus. pra-√ṛ",
+  "new": "2 sg. imp. caus. pra-√īr",
+  "why": "reviewer (minor): preraya is pra+īraya, causative of √īr, not √ṛ."
+ },
+ {
+  "n": "21",
+  "field": "english",
+  "old": "O gods, finders of the way, having found the way, go on the way. O lord of the mind, O god, place this sacrifice in the wind. Svāhā.",
+  "new": "O gods, finders of the way, having found the way, go on the way. O lord of the mind, O god, svāhā, place this sacrifice in the wind.",
+  "why": "reviewer (minor): svāhā stands before 'vāte dhāḥ' in the text; draft moves it to the end while notes say 'as printed'. Notes also speak of a 'second svāhā' but there is one."
+ },
+ {
+  "n": "21",
+  "field": "hindi",
+  "old": "हे देवो, मार्ग खोजने वालो, मार्ग पाकर मार्ग पर चलो। हे मन के स्वामी, हे देव, इस यज्ञ को वायु में स्थापित करो। स्वाहा।",
+  "new": "हे देवो, मार्ग खोजने वालो, मार्ग पाकर मार्ग पर चलो। हे मन के स्वामी, हे देव, इस यज्ञ को स्वाहा, वायु में स्थापित करो।",
+  "why": "reviewer (minor): Same order issue."
+ },
+ {
+  "n": "23",
+  "field": "word.gloss",
+  "word": "sūryāya",
+  "old": "for the sun",
+  "new": "for Sūrya",
+  "why": "reviewer (error): Glossary: Sūrya stays Sūrya."
+ },
+ {
+  "n": "23",
+  "field": "english",
+  "old": "Do not be a snake, do not be a pṛdāku. King Varuṇa made a wide path for the sun to follow. For the footless he made feet to set down, and a rebuker even of the heart-piercers. Homage to Varuṇa. Varuṇa's noose stands set.",
+  "new": "Do not be a snake, do not be a pṛdāku. King Varuṇa made a wide path for Sūrya to follow. For the footless he made feet to set down, and a rebuker even of the heart-piercers. Homage to Varuṇa. Varuṇa's noose stands set.",
+  "why": "reviewer (error): Glossary: Sūrya stays Sūrya."
+ },
+ {
+  "n": "23",
+  "field": "word.w",
+  "word": "akaḥ",
+  "old": "akaḥ",
+  "new": "akar",
+  "why": "reviewer (minor): Printed 'karuta' comes from akar + uta; akaḥ+uta would give ako 'uta."
+ },
+ {
+  "n": "24",
+  "field": "english",
+  "old": "The face of Agni has entered the waters, Apām Napāt guarding the lordly power. In every house you offer kindling, O Agni; towards your tongue the ghee moves upward. Svāhā.",
+  "new": "The face of Agni has entered the waters, Apām Napāt guarding the lordly power. In every house you offer kindling, O Agni; towards the ghee your tongue, rising up. Svāhā.",
+  "why": "reviewer (error): ghṛtam is accusative and jihvā nominative with uccaraṇyat; the draft makes ghee the subject, contradicting its own gram."
+ },
+ {
+  "n": "24",
+  "field": "hindi",
+  "old": "अग्नि का अग्रभाग जलों में प्रविष्ट हुआ; अपां नपात असुर-सम्बन्धी बल की रक्षा करता हुआ। प्रत्येक घर में हे अग्नि, तुम समिधा अर्पित करते हो; तुम्हारी जिह्वा की ओर घी ऊपर चलता हुआ। स्वाहा।",
+  "new": "अग्नि का अग्रभाग जलों में प्रविष्ट हुआ; अपां नपात असुर-सम्बन्धी बल की रक्षा करता हुआ। प्रत्येक घर में हे अग्नि, तुम समिधा अर्पित करते हो; घी की ओर तुम्हारी जिह्वा ऊपर उठती हुई। स्वाहा।",
+  "why": "reviewer (error): Same case reversal."
+ },
+ {
+  "n": "24",
+  "field": "hindi",
+  "old": "अग्नि का अग्रभाग जलों में प्रविष्ट हुआ; अपां नपात असुर-सम्बन्धी बल की रक्षा करता हुआ। प्रत्येक घर में हे अग्नि, तुम समिधा अर्पित करते हो; घी की ओर तुम्हारी जिह्वा ऊपर उठती हुई। स्वाहा।",
+  "new": "अग्नि का अग्रभाग जलों में प्रविष्ट हुआ; अपां नपात प्रभुत्व की रक्षा करता हुआ। प्रत्येक घर में हे अग्नि, तुम समिधा अर्पित करते हो; घी की ओर तुम्हारी जिह्वा ऊपर उठती हुई। स्वाहा।",
+  "why": "reviewer (minor): Imports 'asura'; English says 'lordly power'."
+ },
+ {
+  "n": "27",
+  "field": "hindi",
+  "old": "हे अवभृथ, हे निचुम्पुण, तुम निचेरु हो, निचुम्पुण। देवों के साथ मैंने देवों द्वारा किए गए पाप को दूर किया; मनुष्यों के साथ मनुष्यों द्वारा किए गए पाप को दूर किया। हे पुरुरावन् के देव, हानि से रक्षा करो। तुम देवों की समिधा हो।",
+  "new": "हे अवभृथ, हे निचुम्पुण, तुम निचेरु हो, निचुम्पुण। देवों के साथ मैंने देवों द्वारा किए गए पाप को शान्त किया; मनुष्यों के साथ मनुष्यों द्वारा किए गए पाप को शान्त किया। हे पुरुरावन् के देव, हानि से रक्षा करो। तुम देवों की समिधा हो।",
+  "why": "reviewer (error): English says 'appeased'; Hindi says 'removed'. The two must match."
+ },
+ {
+  "n": "27",
+  "field": "word.w",
+  "word": "nicēruḥ",
+  "old": "nicēruḥ",
+  "new": "niceruḥ",
+  "why": "reviewer (minor): Non-IAST ē; Vedic e is plain e."
+ },
+ {
+  "n": "29",
+  "field": "english",
+  "old": "She for whom your embryo is worthy of sacrifice, for whom the womb is golden; him whose limbs are unbent I have united with his mother. Svāhā.",
+  "new": "She for whom your embryo is worthy of sacrifice, for whom the womb is golden; him whose limbs are unbent I have united with the mother. Svāhā.",
+  "why": "reviewer (minor): 'his' is added; mātrā is just 'with the mother' and the notes say the text names no one."
+ },
+ {
+  "n": "32",
+  "field": "english",
+  "old": "May great heaven and earth sprinkle this our sacrifice; may they fill us with their nourishments.",
+  "new": "May great heaven and earth sprinkle this our sacrifice; may they fill us with nourishments.",
+  "why": "reviewer (minor): 'their' is added."
+ },
+ {
+  "n": "32",
+  "field": "hindi",
+  "old": "महान द्यौ और पृथ्वी हमारे इस यज्ञ को सींचें; अपने पोषणों से हमें भरपूर करें।",
+  "new": "महान द्यौ और पृथ्वी हमारे इस यज्ञ को सींचें; पोषणों से हमें भरपूर करें।",
+  "why": "reviewer (minor): 'अपने' is added."
+ },
+ {
+  "n": "2",
+  "field": "english",
+  "old": "Come near, O bounteous one;",
+  "new": "O bounteous one;",
+  "manual": true
+ },
+ {
+  "n": "2",
+  "field": "hindi",
+  "old": "हे मघवन्, समीप आओ;",
+  "new": "हे मघवन्;",
+  "manual": true
+ },
+ {
+  "n": "2",
+  "field": "notes",
+  "old": "'come near' is a guess from upa)",
+  "new": "no verb is supplied)",
+  "manual": true
+ },
+ {
+  "n": "4",
+  "field": "text_flags/confidence",
+  "old": "flag src fixed",
+  "new": "medium->low",
+  "manual": true
+ },
+ {
+  "n": "19",
+  "field": "english",
+  "old": "Whichever eager gods you bring hither, O god, those gods send forth",
+  "new": "Bring hither whichever eager gods, O god: those gods send forth",
+  "manual": true
+ },
+ {
+  "n": "19",
+  "field": "hindi",
+  "old": "जिन उत्सुक देवों को तुम बुलाते हो, हे देव, उन",
+  "new": "जिन उत्सुक देवों को, हे देव, बुला लाओ; उन",
+  "manual": true
+ },
+ {
+  "n": "20",
+  "field": "gloss",
+  "old": "by this",
+  "new": "by this (uncertain; possibly ayāḥ 'you came')",
+  "manual": true
+ },
+ {
+  "n": "22",
+  "field": "gloss",
+  "old": "with the sūkta and the utterance",
+  "new": "with the sūktavāka (a ritual recitation)",
+  "manual": true
+ },
+ {
+  "n": "22",
+  "field": "english",
+  "old": "with the sūkta and the utterance, with all heroes",
+  "new": "with the sūktavāka, with all heroes",
+  "manual": true
+ },
+ {
+  "n": "22",
+  "field": "hindi",
+  "old": "सूक्त और वाक् सहित",
+  "new": "सूक्तवाक सहित",
+  "manual": true
+ },
+ {
+  "n": "25",
+  "field": "english",
+  "old": "may we serve you, whatever it be.",
+  "new": "may we serve you, yat (sense uncertain).",
+  "manual": true
+ },
+ {
+  "n": "25",
+  "field": "hindi",
+  "old": "हम तुम्हारी सेवा करें, जो कुछ भी।",
+  "new": "हम तुम्हारी सेवा करें, यत्।",
+  "manual": true
+ },
+ {
+  "n": "25",
+  "field": "notes",
+  "old": "yat svāhā is read 'whatever it be'; the use of yat is uncertain.",
+  "new": "yat is left untranslated; its use here is uncertain.",
+  "manual": true
+ },
+ {
+  "n": "26",
+  "field": "english",
+  "old": "in it grow with well-being and grow all around.",
+  "new": "in it increase well-being and increase all around.",
+  "manual": true
+ },
+ {
+  "n": "26",
+  "field": "hindi",
+  "old": "उसमें कल्याणकारी होकर बढ़ो और चारों ओर बढ़ो।",
+  "new": "उसमें कल्याण को बढ़ाओ और चारों ओर बढ़ाओ।",
+  "manual": true
+ },
+ {
+  "n": "30",
+  "field": "english",
+  "old": "May the one-footed, the two-footed, the three-footed, the four-footed, the eight-footed spread along the worlds.",
+  "new": "May the worlds spread out after the one-footed, the two-footed, the three-footed, the four-footed, the eight-footed.",
+  "manual": true
+ },
+ {
+  "n": "30",
+  "field": "hindi",
+  "old": "एकपदी, द्विपदी, त्रिपदी, चतुष्पदी, अष्टापदी लोकों में फैलें।",
+  "new": "लोक एकपदी, द्विपदी, त्रिपदी, चतुष्पदी, अष्टापदी के पीछे फैलें।",
+  "manual": true
+ },
+ {
+  "n": "30",
+  "field": "notes",
+  "old": "so they are read as its subjects; what they refer to is not stated and is not added.",
+  "new": "so bhuvanā (worlds) is read as the subject and the five accusatives as what the worlds follow (anu); what they refer to is not stated and is not added.",
+  "manual": true
+ }
+]
