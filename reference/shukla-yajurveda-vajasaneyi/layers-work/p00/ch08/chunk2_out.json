@@ -1,0 +1,557 @@
+[
+ {
+  "n": "33",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ā",
+      "words": [
+       {
+        "w": "ā",
+        "gloss": "toward",
+        "gram": "ind. (preverb)"
+       }
+      ]
+     },
+     {
+      "src": "ti̭ṣṭha",
+      "words": [
+       {
+        "w": "tiṣṭha",
+        "gloss": "mount",
+        "gram": "2 sg. imv. √sthā"
+       }
+      ]
+     },
+     {
+      "src": "vṛtraha̱nratha̭ṃ",
+      "words": [
+       {
+        "w": "vṛtra-han",
+        "gloss": "slayer of Vṛtra",
+        "gram": "tat-puruṣa, m. voc. sg."
+       },
+       {
+        "w": "ratham",
+        "gloss": "chariot",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "yu̱ktā",
+      "words": [
+       {
+        "w": "yuktā",
+        "gloss": "yoked",
+        "gram": "pp. m. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "te̱",
+      "words": [
+       {
+        "w": "te",
+        "gloss": "your",
+        "gram": "gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "brahma̭ṇā̱",
+      "words": [
+       {
+        "w": "brahmaṇā",
+        "gloss": "by the sacred utterance (brahman)",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "harī̭",
+      "words": [
+       {
+        "w": "harī",
+        "gloss": "the two bay horses",
+        "gram": "m. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "|",
+      "words": [
+       {
+        "w": "|",
+        "gloss": "pause mark (danda)",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "a̱rvā̱cīna̱ᳪ ",
+      "words": [
+       {
+        "w": "arvācīnam",
+        "gloss": "turned toward us",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "su",
+      "words": [
+       {
+        "w": "su",
+        "gloss": "well",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "te̱",
+      "words": [
+       {
+        "w": "te",
+        "gloss": "your",
+        "gram": "gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "mano̱",
+      "words": [
+       {
+        "w": "manaḥ",
+        "gloss": "mind",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "grāvā̭",
+      "words": [
+       {
+        "w": "grāvā",
+        "gloss": "pressing stone",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kṛṇotu",
+      "words": [
+       {
+        "w": "kṛṇotu",
+        "gloss": "may it make",
+        "gram": "3 sg. imv. √kṛ"
+       }
+      ]
+     },
+     {
+      "src": "va̱gnunā̭",
+      "words": [
+       {
+        "w": "vagnunā",
+        "gloss": "with its sound",
+        "gram": "m. inst. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "u̱pa̱yā̱magṛ̭hīto̱'sīndrā̭ya",
+      "words": [
+       {
+        "w": "upayāma-gṛhītaḥ",
+        "gloss": "taken with the upayāma",
+        "gram": "pp. m. nom. sg."
+       },
+       {
+        "w": "asi",
+        "gloss": "you are",
+        "gram": "2 sg. pres. √as"
+       },
+       {
+        "w": "indrāya",
+        "gloss": "for Indra",
+        "gram": "m. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "tvā",
+      "words": [
+       {
+        "w": "tvā",
+        "gloss": "you",
+        "gram": "acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ṣoḍa̱śina̭ ",
+      "words": [
+       {
+        "w": "ṣoḍaśine",
+        "gloss": "for the Ṣoḍaśin",
+        "gram": "m. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "e̱ṣa",
+      "words": [
+       {
+        "w": "eṣaḥ",
+        "gloss": "this",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "te̱",
+      "words": [
+       {
+        "w": "te",
+        "gloss": "your",
+        "gram": "gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "yoni̱rindrā̭ya",
+      "words": [
+       {
+        "w": "yoniḥ",
+        "gloss": "seat",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "indrāya",
+        "gloss": "for Indra",
+        "gram": "m. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "tvā",
+      "words": [
+       {
+        "w": "tvā",
+        "gloss": "you",
+        "gram": "acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ṣoḍa̱śinḙ",
+      "words": [
+       {
+        "w": "ṣoḍaśine",
+        "gloss": "for the Ṣoḍaśin",
+        "gram": "m. dat. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हे वृत्र का वध करने वाले, रथ पर चढ़ो; तुम्हारे दोनों हरित घोड़े पवित्र वचन से जोते गए हैं। सोम कूटने का पत्थर अपनी ध्वनि से तुम्हारे मन को भली प्रकार हमारी ओर करे। तू उपयाम से ग्रहण किया गया है; तुझे इन्द्र के लिए, षोडशी के लिए। यह तेरा स्थान है; तुझे इन्द्र के लिए, षोडशी के लिए।",
+  "english": "Mount the chariot, O slayer of Vṛtra; your two bay horses are yoked by the sacred utterance (brahman). May the pressing stone, with its sound, turn your mind well toward us. You are taken with the upayāma; you for Indra, the Ṣoḍaśin. This is your seat; you for Indra, the Ṣoḍaśin.",
+  "text_flags": [],
+  "notes": "Line 1 is a Ṛgvedic-type verse; line 2 is the formula of the Ṣoḍaśin cup, with no verb for 'you for Indra' (nothing supplied). 'upayāma-gṛhīta' rendered literally; upayāma is left untranslated. hari = bay horses; the line itself says only 'two bays'. vagnu = sound/call (possibly 'cry'). The final -a of ṣoḍaśina before eṣa is the pausal Vedic sandhi of ṣoḍaśine.",
+  "confidence": "medium"
+ },
+ {
+  "n": "34",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yu̱kṣvā",
+      "words": [
+       {
+        "w": "yukṣva",
+        "gloss": "yoke",
+        "gram": "2 sg. imv. mid. √yuj"
+       }
+      ]
+     },
+     {
+      "src": "hi",
+      "words": [
+       {
+        "w": "hi",
+        "gloss": "indeed",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ke̱śinā̱",
+      "words": [
+       {
+        "w": "keśinā",
+        "gloss": "the two long-maned ones",
+        "gram": "m. acc. du."
+       }
+      ]
+     },
+     {
+      "src": "harī̱",
+      "words": [
+       {
+        "w": "harī",
+        "gloss": "the two bay horses",
+        "gram": "m. acc. du."
+       }
+      ]
+     },
+     {
+      "src": "vṛṣa̭ṇā",
+      "words": [
+       {
+        "w": "vṛṣaṇā",
+        "gloss": "the two stallions",
+        "gram": "m. acc. du."
+       }
+      ]
+     },
+     {
+      "src": "kakṣya̱prā",
+      "words": [
+       {
+        "w": "kakṣya-prā",
+        "gloss": "filling the girth",
+        "gram": "tat-puruṣa, m. acc. du."
+       }
+      ]
+     },
+     {
+      "src": "|",
+      "words": [
+       {
+        "w": "|",
+        "gloss": "pause mark (danda)",
+        "gram": "punct."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "u̱pa̱yā̱magṛ̭hīto̱'sīndrā̭ya",
+      "words": [
+       {
+        "w": "athā",
+        "gloss": "then",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tvā",
+      "words": [
+       {
+        "w": "naḥ",
+        "gloss": "to us",
+        "gram": "1 pl. gen./dat."
+       }
+      ]
+     },
+     {
+      "src": "ṣoḍa̱śina̭ ",
+      "words": [
+       {
+        "w": "indra",
+        "gloss": "O Indra",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "e̱ṣa",
+      "words": [
+       {
+        "w": "soma-pāḥ",
+        "gloss": "drinker of Soma",
+        "gram": "tat-puruṣa, m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "te̱",
+      "words": [
+       {
+        "w": "girām",
+        "gloss": "of the songs",
+        "gram": "f. gen. pl."
+       },
+       {
+        "w": "upa-śrutim",
+        "gloss": "hearing",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "yoni̱rindrā̭ya",
+      "words": [
+       {
+        "w": "cara",
+        "gloss": "go (to)",
+        "gram": "2 sg. imv. √car"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अपने लम्बे केशों वाले, कक्ष्या भरने वाले बलवान दोनों हरित घोड़ों को जोतो। फिर, हे सोम पीने वाले इन्द्र, हमारे गीतों के श्रवण को प्राप्त हो। तू उपयाम से ग्रहण किया गया है; तुझे इन्द्र के लिए, षोडशी के लिए। यह तेरा स्थान है; तुझे इन्द्र के लिए, षोडशी के लिए।",
+  "english": "Yoke the two long-maned bay stallions, who fill the girth. Then, O Indra, drinker of Soma, come to hear our songs. You are taken with the upayāma; you for Indra, the Ṣoḍaśin. This is your seat; you for Indra, the Ṣoḍaśin.",
+  "text_flags": [],
+  "notes": "'upaśrutim cara' rendered 'come to hear'; 'kakṣya-prā' (filling the girth) is obscure and rendered literally. 'naḥ' taken as 'our' with girām (could also be 'for us'). Token 'girāmupaśrutim' is a single token, so the split shows girām + upa-śrutim in one token.",
+  "confidence": "medium"
+ },
+ {
+  "n": "35",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "indra̱middharī̭",
+      "words": [
+       {
+        "w": "indram",
+        "gloss": "Indra",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "it",
+        "gloss": "indeed",
+        "gram": "ind."
+       },
+       {
+        "w": "harī",
+        "gloss": "the two bay horses",
+        "gram": "m. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "vaha̱to'pra̭tidhṛṣṭaśavasam",
+      "words": [
+       {
+        "w": "vahataḥ",
+        "gloss": "carry",
+        "gram": "3 du. pres. √vah"
+       },
+       {
+        "w": "apratidhṛṣṭa-śavasam",
+        "gloss": "of unassailed strength",
+        "gram": "bahuvrīhi, m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "|",
+      "words": [
+       {
+        "w": "|",
+        "gloss": "pause mark (danda)",
+        "gram": "punct."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "u̱pa̱yā̱magṛ̭hīto̱",
+      "words": [
+       {
+        "w": "ṛṣīṇām",
+        "gloss": "of the sages",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "sīndrā̭ya",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tvā",
+      "words": [
+       {
+        "w": "stutīḥ",
+        "gloss": "praises",
+        "gram": "f. acc. pl."
+       },
+       {
+        "w": "upa",
+        "gloss": "to",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ṣoḍa̱śinḙ ",
+      "words": [
+       {
+        "w": "yajñam",
+        "gloss": "sacrifice",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "e̱ṣa",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "te̱",
+      "words": [
+       {
+        "w": "mānuṣāṇām",
+        "gloss": "of men",
+        "gram": "m. gen. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "दोनों हरित घोड़े अजेय बल वाले इन्द्र को ही ऋषियों की स्तुतियों और मनुष्यों के यज्ञ के पास ले जाते हैं। तू उपयाम से ग्रहण किया गया है; तुझे इन्द्र के लिए, षोडशी के लिए। यह तेरा स्थान है; तुझे इन्द्र के लिए, षोडशी के लिए।",
+  "english": "The two bay horses carry Indra, of unassailed strength, to the praises of the sages and to the sacrifice of men. You are taken with the upayāma; you for Indra, the Ṣoḍaśin. This is your seat; you for Indra, the Ṣoḍaśin.",
+  "text_flags": [
+   {
+    "src": "sīndrā̭ya",
+    "suggest": "'sīndrāya",
+    "why": "possible: avagraha missing before sīndrāya (asi + indrāya); the Devanagari also lacks it"
+   }
+  ],
+  "notes": "Line 2: 'gṛhīto sīndrāya' appears as two tokens with no avagraha. In line 1, 'iddharī' = it + harī; the verb vahataḥ is dual to match the two horses.",
+  "confidence": "medium"
+ }
+]
