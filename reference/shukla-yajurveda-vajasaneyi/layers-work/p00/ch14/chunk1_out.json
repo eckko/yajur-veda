@@ -2767,7 +2767,7 @@
   "hindi": "सिर वयस् है, प्रजापति छन्द है; क्षत्र वयस् है, मयन्द छन्द है; आधार-स्तम्भ वयस् है, अधिपति छन्द है। विश्वकर्मा वयस् है, परमेष्ठी छन्द है; बकरा वयस् है, विवल छन्द है; मेढ़ा वयस् है, विशाल छन्द है। पुरुष वयस् है, तन्द्र छन्द है; बाघ वयस् है, अनाधृष्ट छन्द है; सिंह वयस् है, छदि छन्द है; पष्ठवाट् वयस् है, बृहती छन्द है; उक्षा वयस् है, ककुभ् छन्द है; ऋषभ वयस् है, सतोबृहती छन्द है।",
   "english": "The head is the vayas, Prajāpati the metre; ruling power is the vayas, the mayanda the metre; the prop is the vayas, the overlord the metre. Viśvakarman is the vayas, Parameṣṭhin the metre; the he-goat is the vayas, the vivala the metre; the ram is the vayas, the wide the metre. The man is the vayas, the tandra the metre; the tiger is the vayas, the unassailable the metre; the lion is the vayas, the chadis the metre; the paṣṭhavāh is the vayas, Bṛhatī the metre; the bull (ukṣan) is the vayas, Kakubh the metre; the bull (ṛṣabha) is the vayas, Satobṛhatī the metre.",
   "text_flags": [],
-  "notes": "Each pair reads 'X is the vayas, Y the metre'. vayas (age, vigour; also 'bird') is left untranslated because the line does not fix its sense. mayanda, vivala, tandra, chadis and paṣṭhavāh are obscure and left transliterated; viśāla 'wide' and anādhṛṣṭa 'unassailable' are plain adjectives used as metre names. Lines b and c contain double spaces in the input (after chandaḥ and after chanda).",
+  "notes": "Each pair reads 'X is the vayas, Y the metre'. vayas (age, vigour; also 'bird') is left untranslated because the line does not fix its sense. mayanda, vivala, tandra, chadis and paṣṭhavāh are obscure and left transliterated; viśāla 'wide' and anādhṛṣṭa 'unassailable' are plain adjectives used as metre names. Line c contains double spaces in the input (after chandaḥ and after chanda).",
   "confidence": "medium"
  },
  {
@@ -3047,7 +3047,7 @@
     "why": "possible: 'lokaṃ tā indram' does not fit the preceding pattern and has no verb"
    }
   ],
-  "notes": "GROUPING: the closing words 'lokaṃ tā indram' look like a stray incipit (pratīka) of the following formula, not part of this unit; they are translated only as a fragment. tryavi, dityavāh, pañcāvi, trivatsa and turyavāh are obscure animal terms and are left transliterated; vayas is left untranslated. Double spaces occur in the input (before 'ʼstuṣṭup', after chando and after lokaṃ).",
+  "notes": "GROUPING: the closing words 'lokaṃ tā indram' look like a stray incipit (pratīka) of the following formula, not part of this unit; they are translated only as a fragment. tryavi, dityavāh, pañcāvi, trivatsa and turyavāh are obscure animal terms and are left transliterated; vayas is left untranslated. Double spaces occur in the input (after chando and after lokaṃ).",
   "confidence": "low"
  },
  {
@@ -4855,11 +4855,11 @@
     ]
    }
   ],
-  "hindi": "",
-  "english": "",
+  "hindi": "मेरे जीवन की रक्षा करो, मेरे प्राण की रक्षा करो, मेरे अपान की रक्षा करो, मेरे व्यान की रक्षा करो, मेरी आँख की रक्षा करो; मेरे कान की रक्षा करो, मेरी वाणी को बढ़ाओ, मेरे मन को तृप्त करो, मेरी आत्मा की रक्षा करो, मुझे प्रकाश दो।",
+  "english": "Protect my life, protect my breath, protect my out-breath, protect my diffused breath, protect my eye; protect my ear, swell my speech, quicken my mind, protect my self, grant me light.",
   "text_flags": [],
-  "notes": "",
-  "confidence": "medium"
+  "notes": "'jyotir me yaccha' is rendered 'grant me light'; me may also be read as 'my light'.",
+  "confidence": "high"
  },
  {
   "n": "18",
@@ -5103,10 +5103,10 @@
     ]
    }
   ],
-  "hindi": "",
-  "english": "",
+  "hindi": "मा छन्द है, प्रमा छन्द है, प्रतिमा छन्द है, अस्रीवयस् छन्द है, पंक्ति छन्द है, उष्णिक् छन्द है; बृहती छन्द है, अनुष्टुप् छन्द है, विराज् छन्द है, गायत्री छन्द है, त्रिष्टुप् छन्द है, जगती छन्द है।",
+  "english": "Mā is the metre, pramā the metre, pratimā the metre, asrīvayas the metre, Paṅkti the metre, Uṣṇih the metre; Bṛhatī the metre, Anuṣṭubh the metre, Virāj the metre, Gāyatrī the metre, Triṣṭubh the metre, Jagatī the metre.",
   "text_flags": [],
-  "notes": "",
+  "notes": "mā, pramā, pratimā and asrīvayas are obscure here and left transliterated (mā, pramā, pratimā may be built on √mā 'measure', but the line does not say so). Line b has a double space after chando in the input.",
   "confidence": "medium"
  },
  {
@@ -5326,11 +5326,11 @@
     ]
    }
   ],
-  "hindi": "",
-  "english": "",
+  "hindi": "पृथ्वी छन्द है, अन्तरिक्ष छन्द है, द्यौ छन्द है, वर्ष छन्द हैं, नक्षत्र छन्द हैं, वाणी छन्द है, मन छन्द है; कृषि छन्द है, सोना छन्द है, गाय छन्द है, बकरियाँ छन्द हैं, घोड़ा छन्द है।",
+  "english": "Earth is the metre, the atmosphere the metre, heaven the metre, the years the metre, the stars the metre, speech the metre, mind the metre; ploughing the metre, gold the metre, the cow the metre, the she-goats the metre, the horse the metre.",
   "text_flags": [],
-  "notes": "",
-  "confidence": "medium"
+  "notes": "Line a has a double space after chando in the input (before 'ntarikṣam).",
+  "confidence": "high"
  },
  {
   "n": "20",
@@ -5579,11 +5579,11 @@
     ]
    }
   ],
-  "hindi": "",
-  "english": "",
+  "hindi": "अग्नि देवता है, वात देवता है, सूर्य देवता है, चन्द्रमा देवता है, वसु देवता हैं, रुद्र देवता हैं; आदित्य देवता हैं, मरुत देवता हैं, सब देव देवता हैं, बृहस्पति देवता है, इन्द्र देवता है, वरुण देवता है।",
+  "english": "Agni is the deity, the wind is the deity, Sūrya is the deity, the moon is the deity, the Vasus are the deity, the Rudras are the deity; the Ādityas are the deity, the Maruts are the deity, all the gods are the deity, Bṛhaspati is the deity, Indra is the deity, Varuṇa is the deity.",
   "text_flags": [],
-  "notes": "",
-  "confidence": "medium"
+  "notes": "devatā is singular throughout and is rendered 'the deity'. Double spaces occur in the input (after devatā in both lines). The doubled apostrophe in ''dityā is the edition's mark for the contraction of devatā + ādityāḥ.",
+  "confidence": "high"
  },
  {
   "n": "21",
@@ -5610,7 +5610,7 @@
       "words": [
        {
         "w": "rāṭ",
-        "gloss": "queen",
+        "gloss": "ruler",
         "gram": "f. nom. sg."
        }
       ]
@@ -5752,11 +5752,11 @@
     ]
    }
   ],
-  "hindi": "",
-  "english": "",
+  "hindi": "तुम सिर हो, शासिका; तुम दृढ़ हो, धारण करने वाली; तुम थामने वाली हो, वहन करने वाली। तुम्हें जीवन के लिए, तुम्हें तेज के लिए, तुम्हें कृषि के लिए, तुम्हें क्षेम के लिए।",
+  "english": "You are the head, the ruler; you are firm, the supporter; you are the upholder, the bearer. You for life, you for brilliance, you for ploughing, you for security.",
   "text_flags": [],
-  "notes": "",
-  "confidence": "medium"
+  "notes": "rāṭ is rendered 'ruler'; dharuṇā, dhartrī, dharaṇī are near-synonyms (support, upholder, bearer).",
+  "confidence": "high"
  },
  {
   "n": "22",
@@ -5778,7 +5778,7 @@
       "words": [
        {
         "w": "rāṭ",
-        "gloss": "queen",
+        "gloss": "ruler",
         "gram": "f. nom. sg."
        }
       ]
@@ -5788,7 +5788,7 @@
       "words": [
        {
         "w": "yantrī",
-        "gloss": "restrainer",
+        "gloss": "controller",
         "gram": "f. nom. sg."
        },
        {
@@ -5803,7 +5803,7 @@
       "words": [
        {
         "w": "yamanī",
-        "gloss": "curb",
+        "gloss": "restrainer",
         "gram": "f. nom. sg."
        }
       ]
@@ -5828,7 +5828,7 @@
       "words": [
        {
         "w": "dharitrī",
-        "gloss": "bearer",
+        "gloss": "holder",
         "gram": "f. nom. sg."
        }
       ]
@@ -5945,10 +5945,16 @@
     ]
    }
   ],
-  "hindi": "",
-  "english": "",
-  "text_flags": [],
-  "notes": "",
+  "hindi": "तुम नियन्त्रण करने वाली हो, शासिका; तुम नियन्त्रण करने वाली हो, रोकने वाली; तुम दृढ़ हो, धारण करने वाली। तुम्हें तृप्ति के लिए, तुम्हें रस के लिए, तुम्हें धन के लिए, तुम्हें पोषण के लिए। फिर अंश: लोक, ता, इन्द्र को।",
+  "english": "You are the controller, the ruler; you are the controller, the restrainer; you are firm, the holder. You for refreshment, you for sap, you for wealth, you for nourishment. Then the fragment: the world, tā, Indra.",
+  "text_flags": [
+   {
+    "src": "tā",
+    "suggest": "unclear fragment, possibly the opening words (pratīka) of the next formula",
+    "why": "possible: 'lokaṃ tā indram' has no verb and does not fit the preceding pattern"
+   }
+  ],
+  "notes": "GROUPING: the closing words 'lokaṃ tā indram' look like a stray incipit (pratīka) of the following formula, not part of this unit; they are translated only as a fragment. iṣe is rendered 'for refreshment' (iṣ, 'refreshment, nourishment').",
   "confidence": "medium"
  },
  {
@@ -6300,10 +6306,10 @@
     ]
    }
   ],
-  "hindi": "",
-  "english": "",
+  "hindi": "आशु त्रिवृत् है; भान्त पञ्चदश है; व्योम सप्तदश है; धरुण एकविंश है। प्रतूर्ति अष्टादश है; तपस् नवदश है; अभीवर्त सविंश है; तेज द्वाविंश है। सम्भरण त्रयोविंश है; योनि चतुर्विंश है; गर्भ पञ्चविंश हैं; ओज त्रिणव है। संकल्प एकत्रिंश है; प्रतिष्ठा त्रयस्त्रिंश है; ब्रध्न का शिखर चतुस्त्रिंश है; स्वर्ग षट्त्रिंश है। विवर्त अष्टचत्वारिंश है; धर्त्र चतुष्टोम है।",
+  "english": "Āśu is the threefold (trivṛt); Bhānta is the fifteenfold; the sky is the seventeenfold; the support is the twenty-onefold. Pratūrti is the eighteenfold; Tapas is the nineteenfold; Abhīvarta is the saviṃśa; brilliance is the twenty-twofold. Sambharaṇa is the twenty-threefold; the womb is the twenty-fourfold; the embryos are the twenty-fivefold; vigour is the triṇava. Will is the thirty-onefold; foundation is the thirty-threefold; the summit of Bradhna is the thirty-fourfold; heaven (nāka) is the thirty-sixfold. Vivarta is the forty-eightfold; the support (dhartra) is the catuṣṭoma.",
   "text_flags": [],
-  "notes": "",
+  "notes": "The unit is a list of pairs 'X is the N-fold'. Āśu, Bhānta, Pratūrti, Tapas, Abhīvarta, Sambharaṇa and Vivarta are left as transliterated names because the line does not fix their sense; saviṃśa is obscure and left as printed. Bradhna is kept as a name.",
   "confidence": "medium"
  },
  {
@@ -6656,10 +6662,10 @@
     ]
    }
   ],
-  "hindi": "",
-  "english": "",
+  "hindi": "तुम अग्नि का भाग हो, दीक्षा का आधिपत्य; ब्रह्म सुरक्षित है, त्रिवृत् स्तोम। तुम इन्द्र का भाग हो, विष्णु का आधिपत्य; क्षत्र सुरक्षित है, पञ्चदश स्तोम। तुम मनुष्यों को देखने वालों का भाग हो, धाता का आधिपत्य; जन्म सुरक्षित है, सप्तदश स्तोम। तुम मित्र का भाग हो, वरुण का आधिपत्य; द्युलोक की वर्षा और वात सुरक्षित है, एकविंश स्तोम।",
+  "english": "You are the portion of Agni, the overlordship of dīkṣā; brahma is secured, the threefold stoma. You are the portion of Indra, the overlordship of Viṣṇu; ruling power is secured, the fifteenfold stoma. You are the portion of the watchers of men, the overlordship of Dhātṛ; birth is secured, the seventeenfold stoma. You are the portion of Mitra, the overlordship of Varuṇa; the rain of heaven, the wind, is secured, the twenty-onefold stoma.",
   "text_flags": [],
-  "notes": "",
+  "notes": "spṛta (p.p. of √spṛ) is rendered 'secured' tentatively. 'divo vṛṣṭir vātaḥ spṛtaḥ' has two subjects and a singular participle; it is rendered literally. nṛcakṣasām is taken as 'of the watchers of men' without naming who they are.",
   "confidence": "medium"
  },
  {
@@ -7007,10 +7013,10 @@
     ]
    }
   ],
-  "hindi": "",
-  "english": "",
+  "hindi": "तुम वसुओं का भाग हो, रुद्रों का आधिपत्य; चार पैर वाला सुरक्षित है, चतुर्विंश स्तोम। तुम आदित्यों का भाग हो, मरुतों का आधिपत्य; गर्भ सुरक्षित हैं, पञ्चविंश स्तोम। तुम अदिति के लिए भाग हो, पूषा का आधिपत्य; ओज सुरक्षित है, त्रिणव स्तोम। तुम देव सविता का भाग हो, बृहस्पति का आधिपत्य; मिली हुई दिशाएँ सुरक्षित हैं, चतुष्टोम स्तोम।",
+  "english": "You are the portion of the Vasus, the overlordship of the Rudras; the four-footed is secured, the twenty-fourfold stoma. You are the portion of the Ādityas, the overlordship of the Maruts; the embryos are secured, the twenty-fivefold stoma. You are the portion for Aditi, the overlordship of Pūṣan; vigour is secured, the triṇava stoma. You are the portion of the god Savitṛ, the overlordship of Bṛhaspati; the joined directions are secured, the catuṣṭoma stoma.",
   "text_flags": [],
-  "notes": "",
+  "notes": "'adityai' is dative: 'portion for Aditi' (the preceding stomo and the avagraha give stomo 'dityai). catuṣpād is left as 'the four-footed'. samīcīḥ is rendered 'joined'.",
   "confidence": "medium"
  },
  {
@@ -7185,10 +7191,10 @@
     ]
    }
   ],
-  "hindi": "",
-  "english": "",
+  "hindi": "तुम यवों का भाग हो, अयवों का आधिपत्य; प्रजाएँ सुरक्षित हैं, चतुश्चत्वारिंश स्तोम। तुम ऋभुओं का भाग हो, सब देवों का आधिपत्य; जो हुआ है वह सुरक्षित है, त्रयस्त्रिंश स्तोम।",
+  "english": "You are the portion of the yavas, the overlordship of the ayavas; offspring are secured, the forty-fourfold stoma. You are the portion of the Ṛbhus, the overlordship of all the gods; what has come to be is secured, the thirty-threefold stoma.",
   "text_flags": [],
-  "notes": "",
+  "notes": "yavānām and ayavānām are obscure here (barley and non-barley are the plain senses) and are left transliterated; the line does not say what they refer to.",
   "confidence": "medium"
  },
  {
@@ -7777,11 +7783,11 @@
     ]
    }
   ],
-  "hindi": "",
-  "english": "",
+  "hindi": "एक से उन्होंने स्तुति की; प्रजाएँ अधीयन्त; प्रजापति अधिपति थे। तीन से उन्होंने स्तुति की; ब्रह्म रचा गया; ब्रह्मणस्पति अधिपति थे। पाँच से उन्होंने स्तुति की; प्राणी रचे गए; प्राणियों के पति अधिपति थे। सात से उन्होंने स्तुति की; सात ऋषि रचे गए; धाता अधिपति थे।",
+  "english": "With one they praised; the offspring adhīyanta; Prajāpati was the overlord. With three they praised; brahma was created; Brahmaṇaspati was the overlord. With five they praised; beings were created; the lord of beings was the overlord. With seven they praised; the seven sages were created; Dhātṛ was the overlord.",
   "text_flags": [],
-  "notes": "",
-  "confidence": "medium"
+  "notes": "adhīyanta is an obscure form (possibly passive of adhi-√dhā or adhi-√i) and is left untranslated. The feminine numerals (ekayā, tisṛbhiḥ ...) have no noun in the line; 'with one' etc. is left as printed. brahma is neuter (sacred power), not the priest.",
+  "confidence": "low"
  },
  {
   "n": "29",
@@ -8041,11 +8047,11 @@
     ]
    }
   ],
-  "hindi": "",
-  "english": "",
+  "hindi": "नौ से उन्होंने स्तुति की; पितर रचे गए; अदिति अधिपत्नी थीं। ग्यारह से उन्होंने स्तुति की; ऋतुएँ रची गईं; ऋतुओं से सम्बन्धित अधिपति थे। तेरह से उन्होंने स्तुति की; मास रचे गए; संवत्सर अधिपति था। पन्द्रह से उन्होंने स्तुति की; क्षत्र रचा गया; इन्द्र अधिपति थे। सत्रह से उन्होंने स्तुति की; ग्राम्य पशु रचे गए; बृहस्पति अधिपति थे।",
+  "english": "With nine they praised; the fathers were created; Aditi was the mistress. With eleven they praised; the seasons were created; the seasonal ones were the overlords. With thirteen they praised; the months were created; the year was the overlord. With fifteen they praised; ruling power was created; Indra was the overlord. With seventeen they praised; the domestic animals were created; Bṛhaspati was the overlord.",
   "text_flags": [],
-  "notes": "",
-  "confidence": "medium"
+  "notes": "The nasal sign '~' in āsa~s is the edition's mark for āsan + s-; it is not a typo. ārtavāḥ is rendered 'the seasonal ones' (belonging to the seasons).",
+  "confidence": "high"
  },
  {
   "n": "30",
@@ -8388,10 +8394,16 @@
     ]
    }
   ],
-  "hindi": "",
-  "english": "",
-  "text_flags": [],
-  "notes": "",
+  "hindi": "उन्नीस से उन्होंने स्तुति की; शूद्र और आर्य रचे गए; दिन और रात दो अधिपत्नियाँ थीं। इक्कीस से उन्होंने स्तुति की; एकखुर वाले पशु रचे गए; वरुण अधिपति थे। तेईस से उन्होंने स्तुति की; छोटे पशु रचे गए; पूषा अधिपति थे। पच्चीस से उन्होंने स्तुति की; वन के पशु रचे गए; वायु अधिपति थे। सत्ताईस से उन्होंने स्तुति की; द्यावापृथिवी अलग हुए; वसु, रुद्र और आदित्य अनुसरण करते हुए अलग हुए; वे ही अधिपति थे।",
+  "english": "With nineteen they praised; the Śūdra and the Ārya were created; day and night were the two mistresses. With twenty-one they praised; the one-hooved animals were created; Varuṇa was the overlord. With twenty-three they praised; small animals were created; Pūṣan was the overlord. With twenty-five they praised; the animals of the wilderness were created; Vāyu was the overlord. With twenty-seven they praised; heaven and earth went apart; the Vasus, the Rudras and the Ādityas followed, going apart; they alone were the overlords.",
+  "text_flags": [
+   {
+    "src": "ekaśapāḥ",
+    "suggest": "ekaśaphāḥ",
+    "why": "possible: 'one-hooved' is the usual form; the printed śapa- lacks the aspirate"
+   }
+  ],
+  "notes": "ekaśapāḥ is read as ekaśaphāḥ 'one-hooved' (possible typo, see text_flags). anuvyāyan is rendered 'followed, going apart'; the line does not say whom they followed. Line c uses '~' for the nasal in anuvyāya~s.",
   "confidence": "medium"
  },
  {
@@ -8602,10 +8614,16 @@
     ]
    }
   ],
-  "hindi": "",
-  "english": "",
-  "text_flags": [],
-  "notes": "",
+  "hindi": "उनतीस से उन्होंने स्तुति की; वनस्पतियाँ रची गईं; सोम अधिपति थे। इकतीस से उन्होंने स्तुति की; प्रजाएँ रची गईं; यव और अयव अधिपति थे। तैंतीस से उन्होंने स्तुति की; प्राणी शान्त हुए; प्रजापति परमेष्ठी अधिपति थे। फिर अंश: लोक, ता, इन्द्र को।",
+  "english": "With twenty-nine they praised; the trees were created; Soma was the overlord. With thirty-one they praised; offspring were created; the yavas and the ayavas were the overlords. With thirty-three they praised; the beings grew calm; Prajāpati Parameṣṭhin was the overlord. Then the fragment: the world, tā, Indra.",
+  "text_flags": [
+   {
+    "src": "tā",
+    "suggest": "unclear fragment, possibly the opening words (pratīka) of the next formula",
+    "why": "possible: 'lokaṃ tā indram' has no verb and does not fit the preceding pattern"
+   }
+  ],
+  "notes": "GROUPING: the closing words 'lokaṃ tā indram' look like a stray incipit (pratīka) of the following formula, not part of this unit; they are translated only as a fragment. 'prajāpatiḥ parameṣṭhī' may be one person with two names or two; it is rendered as printed. yava and ayava are left transliterated as in unit 26.",
   "confidence": "medium"
  }
 ]

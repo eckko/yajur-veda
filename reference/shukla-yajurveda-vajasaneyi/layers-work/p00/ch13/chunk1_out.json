@@ -7709,5 +7709,1712 @@
   "text_flags": [],
   "notes": "anīka ('face, host') kept as 'host'. 'ā'prā' is split as ā aprāḥ (aorist of √pṝ, 'filled'); the form is taken as 3 sg.",
   "confidence": "medium"
+ },
+ {
+  "n": "47",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "i̱maṃ",
+      "words": [
+       {
+        "w": "imam",
+        "gloss": "this",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "mā",
+      "words": [
+       {
+        "w": "mā",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "hi̭ᳪsīrdvi̱pāda̭ṃ",
+      "words": [
+       {
+        "w": "hiṃsīḥ",
+        "gloss": "harm",
+        "gram": "2 sg. aor. inj. √hiṃs"
+       },
+       {
+        "w": "dvi-pādam",
+        "gloss": "two-footed",
+        "gram": "bahuvrīhi, m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "pa̱śuᳪ",
+      "words": [
+       {
+        "w": "paśum",
+        "gloss": "animal",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "sa̭hasrā̱kṣo",
+      "words": [
+       {
+        "w": "sahasra-akṣaḥ",
+        "gloss": "thousand-eyed",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "medhā̭ya",
+      "words": [
+       {
+        "w": "medhāya",
+        "gloss": "for the medha",
+        "gram": "m. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "cī̱yamā̭naḥ",
+      "words": [
+       {
+        "w": "cīyamānaḥ",
+        "gloss": "being piled",
+        "gram": "pres. part. pass. m. nom. sg. √ci"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "ma̱yuṃ",
+      "words": [
+       {
+        "w": "mayum",
+        "gloss": "mayu",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "pa̱śuṃ",
+      "words": [
+       {
+        "w": "paśum",
+        "gloss": "animal",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "medha̭magne",
+      "words": [
+       {
+        "w": "medham",
+        "gloss": "medha",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "agne",
+        "gloss": "O Agni",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "juṣasva̱",
+      "words": [
+       {
+        "w": "juṣasva",
+        "gloss": "take pleasure in",
+        "gram": "2 sg. impv. mid. √juṣ"
+       }
+      ]
+     },
+     {
+      "src": "tena̭",
+      "words": [
+       {
+        "w": "tena",
+        "gloss": "with that",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "cinvā̱nasta̱nvo",
+      "words": [
+       {
+        "w": "cinvānaḥ",
+        "gloss": "being piled",
+        "gram": "pres. part. mid. m. nom. sg. √ci"
+       },
+       {
+        "w": "tanvaḥ",
+        "gloss": "of the body",
+        "gram": "f. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "ni",
+      "words": [
+       {
+        "w": "ni",
+        "gloss": "down",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ṣī̭da",
+      "words": [
+       {
+        "w": "ṣīda",
+        "gloss": "sit",
+        "gram": "2 sg. impv. √sad"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "ma̱yuṃ",
+      "words": [
+       {
+        "w": "mayum",
+        "gloss": "mayu",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "te̱",
+      "words": [
+       {
+        "w": "te",
+        "gloss": "your",
+        "gram": "gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "śugṛ̭cchatu̱",
+      "words": [
+       {
+        "w": "śuc",
+        "gloss": "grief",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "ṛcchatu",
+        "gloss": "let it reach",
+        "gram": "3 sg. impv. √ṛ"
+       }
+      ]
+     },
+     {
+      "src": "yaṃ",
+      "words": [
+       {
+        "w": "yam",
+        "gloss": "whom",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "dvi̱ṣmastaṃ",
+      "words": [
+       {
+        "w": "dviṣmaḥ",
+        "gloss": "we hate",
+        "gram": "1 pl. pres. √dviṣ"
+       },
+       {
+        "w": "tam",
+        "gloss": "him",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "te̱",
+      "words": [
+       {
+        "w": "te",
+        "gloss": "your",
+        "gram": "gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "śugṛ̭cchatu",
+      "words": [
+       {
+        "w": "śuc",
+        "gloss": "grief",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "ṛcchatu",
+        "gloss": "let it reach",
+        "gram": "3 sg. impv. √ṛ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इस द्विपाद पशु को हानि न पहुँचा; हे सहस्राक्ष, मेध के लिए चयन किए जाते हुए। हे अग्नि, मयु पशु और मेध को स्वीकार कर; उसके साथ चयित होता हुआ शरीर के पास बैठ। तेरा शोक मयु को प्राप्त हो; जिससे हम द्वेष करते हैं, उसे तेरा शोक प्राप्त हो।",
+  "english": "Do not harm this two-footed animal, you thousand-eyed, being piled for the medha. O Agni, take pleasure in the mayu, the animal, the medha; with that, being piled, settle on the body. May your grief reach the mayu; the one whom we hate, may your grief reach him.",
+  "text_flags": [],
+  "notes": "Obscure: mayu, medha (offering? victim?), tanvaḥ (of the body; case uncertain), and who is addressed in line 1 (taken as the thousand-eyed one). 'śuc' rendered 'grief'. No animal identified.",
+  "confidence": "low"
+ },
+ {
+  "n": "48",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "i̱maṃ",
+      "words": [
+       {
+        "w": "imam",
+        "gloss": "this",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "mā",
+      "words": [
+       {
+        "w": "mā",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "hi̭ᳪsī̱reka̭śaphaṃ",
+      "words": [
+       {
+        "w": "hiṃsīḥ",
+        "gloss": "harm",
+        "gram": "2 sg. aor. inj. √hiṃs"
+       },
+       {
+        "w": "eka-śapham",
+        "gloss": "one-hoofed",
+        "gram": "bahuvrīhi, m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "pa̱śuṃ",
+      "words": [
+       {
+        "w": "paśum",
+        "gloss": "animal",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ka̭nikra̱daṃ",
+      "words": [
+       {
+        "w": "kanikradam",
+        "gloss": "crying out",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā̱jina̱ṃ",
+      "words": [
+       {
+        "w": "vājinam",
+        "gloss": "strong",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vāji̭neṣu",
+      "words": [
+       {
+        "w": "vājineṣu",
+        "gloss": "among the strong",
+        "gram": "m. loc. pl."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "gau̱ramā̭ra̱ṇyamanṷ",
+      "words": [
+       {
+        "w": "gauram",
+        "gloss": "the gaura",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "āraṇyam",
+        "gloss": "wild",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "anu",
+        "gloss": "according to",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "te",
+      "words": [
+       {
+        "w": "te",
+        "gloss": "to you",
+        "gram": "dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "diśāmi̱",
+      "words": [
+       {
+        "w": "diśāmi",
+        "gloss": "I assign",
+        "gram": "1 sg. pres. √diś"
+       }
+      ]
+     },
+     {
+      "src": "tena̭",
+      "words": [
+       {
+        "w": "tena",
+        "gloss": "with that",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "cinvā̱nasta̱nvo",
+      "words": [
+       {
+        "w": "cinvānaḥ",
+        "gloss": "being piled",
+        "gram": "pres. part. mid. m. nom. sg. √ci"
+       },
+       {
+        "w": "tanvaḥ",
+        "gloss": "of the body",
+        "gram": "f. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "ni",
+      "words": [
+       {
+        "w": "ni",
+        "gloss": "down",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ṣī̭da",
+      "words": [
+       {
+        "w": "ṣīda",
+        "gloss": "sit",
+        "gram": "2 sg. impv. √sad"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "gau̱raṃ",
+      "words": [
+       {
+        "w": "gauram",
+        "gloss": "the gaura",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "te̱",
+      "words": [
+       {
+        "w": "te",
+        "gloss": "your",
+        "gram": "gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "śugṛ̭cchatu̱",
+      "words": [
+       {
+        "w": "śuc",
+        "gloss": "grief",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "ṛcchatu",
+        "gloss": "let it reach",
+        "gram": "3 sg. impv. √ṛ"
+       }
+      ]
+     },
+     {
+      "src": "yaṃ",
+      "words": [
+       {
+        "w": "yam",
+        "gloss": "whom",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "dvi̱ṣmastaṃ",
+      "words": [
+       {
+        "w": "dviṣmaḥ",
+        "gloss": "we hate",
+        "gram": "1 pl. pres. √dviṣ"
+       },
+       {
+        "w": "tam",
+        "gloss": "him",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "te̱",
+      "words": [
+       {
+        "w": "te",
+        "gloss": "your",
+        "gram": "gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "śugṛ̭cchatu",
+      "words": [
+       {
+        "w": "śuc",
+        "gloss": "grief",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "ṛcchatu",
+        "gloss": "let it reach",
+        "gram": "3 sg. impv. √ṛ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इस एकखुर पशु को हानि न पहुँचा, जो पुकारता है और बलवानों में बलवान् है। मैं तेरे लिए गौर वनचर को निर्दिष्ट करता हूँ; उसके साथ चयित होता हुआ शरीर के पास बैठ। तेरा शोक गौर को प्राप्त हो; जिससे हम द्वेष करते हैं, उसे तेरा शोक प्राप्त हो।",
+  "english": "Do not harm this one-hoofed animal, crying out, strong among the strong. I assign to you the gaura, the wild one; with that, being piled, settle on the body. May your grief reach the gaura; the one whom we hate, may your grief reach him.",
+  "text_flags": [],
+  "notes": "gaura kept as a word (no animal identified); 'anu diśāmi' read as 'I assign'; tanvaḥ as in the previous unit.",
+  "confidence": "medium"
+ },
+ {
+  "n": "49",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "i̱maᳪ",
+      "words": [
+       {
+        "w": "imam",
+        "gloss": "this",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "sā̭ha̱sraᳪ",
+      "words": [
+       {
+        "w": "sāhasram",
+        "gloss": "thousandfold",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "śa̱tadhā̭ra̱mutsa̭ṃ",
+      "words": [
+       {
+        "w": "śata-dhāram",
+        "gloss": "with a hundred streams",
+        "gram": "bahuvrīhi, m. acc. sg."
+       },
+       {
+        "w": "utsam",
+        "gloss": "spring",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vya̱cyamā̭naᳪ",
+      "words": [
+       {
+        "w": "vyacyamānam",
+        "gloss": "being spread out",
+        "gram": "pres. part. pass. m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "sari̱rasya̱",
+      "words": [
+       {
+        "w": "sarirasya",
+        "gloss": "of the sarira",
+        "gram": "n. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "madhyḙ",
+      "words": [
+       {
+        "w": "madhye",
+        "gloss": "in the middle",
+        "gram": "n. loc. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "ghṛ̱taṃ",
+      "words": [
+       {
+        "w": "ghṛtam",
+        "gloss": "ghee",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "duhā̭nā̱madi̭ti̱ṃ",
+      "words": [
+       {
+        "w": "duhānām",
+        "gloss": "yielding",
+        "gram": "pres. part. mid. f. acc. sg. √duh"
+       },
+       {
+        "w": "aditim",
+        "gloss": "Aditi",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "janā̱yāgne̱",
+      "words": [
+       {
+        "w": "janāya",
+        "gloss": "for the people",
+        "gram": "m. dat. sg."
+       },
+       {
+        "w": "agne",
+        "gloss": "O Agni",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "mā",
+      "words": [
+       {
+        "w": "mā",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "hi̭ᳪsīḥ",
+      "words": [
+       {
+        "w": "hiṃsīḥ",
+        "gloss": "harm",
+        "gram": "2 sg. aor. inj. √hiṃs"
+       }
+      ]
+     },
+     {
+      "src": "para̱me",
+      "words": [
+       {
+        "w": "parame",
+        "gloss": "in the highest",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vyo̭man",
+      "words": [
+       {
+        "w": "vyoman",
+        "gloss": "in the firmament",
+        "gram": "n. loc. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "ga̱va̱yamā̭ra̱ṇyamanṷ",
+      "words": [
+       {
+        "w": "gavayam",
+        "gloss": "the gavaya",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "āraṇyam",
+        "gloss": "wild",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "anu",
+        "gloss": "according to",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "te",
+      "words": [
+       {
+        "w": "te",
+        "gloss": "to you",
+        "gram": "dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "diśāmi̱",
+      "words": [
+       {
+        "w": "diśāmi",
+        "gloss": "I assign",
+        "gram": "1 sg. pres. √diś"
+       }
+      ]
+     },
+     {
+      "src": "tena̭",
+      "words": [
+       {
+        "w": "tena",
+        "gloss": "with that",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "cinvā̱nasta̱nvo",
+      "words": [
+       {
+        "w": "cinvānaḥ",
+        "gloss": "being piled",
+        "gram": "pres. part. mid. m. nom. sg. √ci"
+       },
+       {
+        "w": "tanvaḥ",
+        "gloss": "of the body",
+        "gram": "f. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "ni",
+      "words": [
+       {
+        "w": "ni",
+        "gloss": "down",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ṣī̭da",
+      "words": [
+       {
+        "w": "ṣīda",
+        "gloss": "sit",
+        "gram": "2 sg. impv. √sad"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "ga̱va̱yaṃ",
+      "words": [
+       {
+        "w": "gavayam",
+        "gloss": "the gavaya",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "te̱",
+      "words": [
+       {
+        "w": "te",
+        "gloss": "your",
+        "gram": "gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "śugṛ̭cchatu̱",
+      "words": [
+       {
+        "w": "śuc",
+        "gloss": "grief",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "ṛcchatu",
+        "gloss": "let it reach",
+        "gram": "3 sg. impv. √ṛ"
+       }
+      ]
+     },
+     {
+      "src": "yaṃ",
+      "words": [
+       {
+        "w": "yam",
+        "gloss": "whom",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "dvi̱ṣmastaṃ",
+      "words": [
+       {
+        "w": "dviṣmaḥ",
+        "gloss": "we hate",
+        "gram": "1 pl. pres. √dviṣ"
+       },
+       {
+        "w": "tam",
+        "gloss": "him",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "te̱",
+      "words": [
+       {
+        "w": "te",
+        "gloss": "your",
+        "gram": "gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "śugṛ̭cchatu",
+      "words": [
+       {
+        "w": "śuc",
+        "gloss": "grief",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "ṛcchatu",
+        "gloss": "let it reach",
+        "gram": "3 sg. impv. √ṛ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "सैकड़ों धाराओं वाले इस सहस्रगुणी स्रोत को, जो सरिर के मध्य फैलाया जा रहा है, और जनों के लिए घृत दुहती हुई अदिति को; हे अग्नि, परम आकाश में हानि न पहुँचा। मैं तेरे लिए गवय वनचर को निर्दिष्ट करता हूँ; उसके साथ चयित होता हुआ शरीर के पास बैठ। तेरा शोक गवय को प्राप्त हो; जिससे हम द्वेष करते हैं, उसे तेरा शोक प्राप्त हो।",
+  "english": "This thousandfold spring with a hundred streams, being spread out in the middle of the sarira, and Aditi yielding ghee for the people: O Agni, do not harm them in the highest firmament. I assign to you the gavaya, the wild one; with that, being piled, settle on the body. May your grief reach the gavaya; the one whom we hate, may your grief reach him.",
+  "text_flags": [],
+  "notes": "The objects of mā hiṃsīḥ (the spring and Aditi) are carried over from the first two lines. vyacyamānam and sarira are obscure. gavaya is kept as a word.",
+  "confidence": "low"
+ },
+ {
+  "n": "50",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "i̱mamṷ̄rṇā̱yuṃ",
+      "words": [
+       {
+        "w": "imam",
+        "gloss": "this",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "ūrṇāyum",
+        "gloss": "woolly one",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "varṷṇasya̱",
+      "words": [
+       {
+        "w": "varuṇasya",
+        "gloss": "of Varuṇa",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "nābhi̱ṃ",
+      "words": [
+       {
+        "w": "nābhim",
+        "gloss": "navel",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "tvaca̭ṃ",
+      "words": [
+       {
+        "w": "tvacam",
+        "gloss": "skin",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "paśū̱nāṃ",
+      "words": [
+       {
+        "w": "paśūnām",
+        "gloss": "of animals",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "dvi̱padā̱ṃ",
+      "words": [
+       {
+        "w": "dvi-padām",
+        "gloss": "of two-footed",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "catṷṣpadām",
+      "words": [
+       {
+        "w": "catuḥ-padām",
+        "gloss": "of four-footed",
+        "gram": "m. gen. pl."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "tvaṣṭṷḥ",
+      "words": [
+       {
+        "w": "tvaṣṭuḥ",
+        "gloss": "of Tvaṣṭṛ",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "pra̱jānā̭ṃ",
+      "words": [
+       {
+        "w": "prajānām",
+        "gloss": "of creatures",
+        "gram": "f. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "pratha̱maṃ",
+      "words": [
+       {
+        "w": "prathamam",
+        "gloss": "first",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ja̱nitra̱magne̱",
+      "words": [
+       {
+        "w": "janitram",
+        "gloss": "origin",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "agne",
+        "gloss": "O Agni",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "mā",
+      "words": [
+       {
+        "w": "mā",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "hi̭ᳪsīḥ",
+      "words": [
+       {
+        "w": "hiṃsīḥ",
+        "gloss": "harm",
+        "gram": "2 sg. aor. inj. √hiṃs"
+       }
+      ]
+     },
+     {
+      "src": "para̱me",
+      "words": [
+       {
+        "w": "parame",
+        "gloss": "in the highest",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vyo̭man",
+      "words": [
+       {
+        "w": "vyoman",
+        "gloss": "in the firmament",
+        "gram": "n. loc. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "uṣṭra̭māra̱ṇyamanṷ",
+      "words": [
+       {
+        "w": "uṣṭram",
+        "gloss": "the camel-named animal, uṣṭra",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "āraṇyam",
+        "gloss": "wild",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "anu",
+        "gloss": "according to",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "te",
+      "words": [
+       {
+        "w": "te",
+        "gloss": "to you",
+        "gram": "dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "diśāmi̱",
+      "words": [
+       {
+        "w": "diśāmi",
+        "gloss": "I assign",
+        "gram": "1 sg. pres. √diś"
+       }
+      ]
+     },
+     {
+      "src": "tena̭",
+      "words": [
+       {
+        "w": "tena",
+        "gloss": "with that",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "cinvā̱nasta̱vo",
+      "words": [
+       {
+        "w": "cinvānaḥ",
+        "gloss": "being piled",
+        "gram": "pres. part. mid. m. nom. sg. √ci"
+       },
+       {
+        "w": "tanvaḥ",
+        "gloss": "of the body",
+        "gram": "f. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "ni",
+      "words": [
+       {
+        "w": "ni",
+        "gloss": "down",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ṣī̭da",
+      "words": [
+       {
+        "w": "ṣīda",
+        "gloss": "sit",
+        "gram": "2 sg. impv. √sad"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "uṣṭra̭ṃ",
+      "words": [
+       {
+        "w": "uṣṭram",
+        "gloss": "the uṣṭra",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "te̱",
+      "words": [
+       {
+        "w": "te",
+        "gloss": "your",
+        "gram": "gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "śugṛ̭cchatu̱",
+      "words": [
+       {
+        "w": "śuc",
+        "gloss": "grief",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "ṛcchatu",
+        "gloss": "let it reach",
+        "gram": "3 sg. impv. √ṛ"
+       }
+      ]
+     },
+     {
+      "src": "yaṃ",
+      "words": [
+       {
+        "w": "yam",
+        "gloss": "whom",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "dvi̱ṣmastaṃ",
+      "words": [
+       {
+        "w": "dviṣmaḥ",
+        "gloss": "we hate",
+        "gram": "1 pl. pres. √dviṣ"
+       },
+       {
+        "w": "tam",
+        "gloss": "him",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "te̱",
+      "words": [
+       {
+        "w": "te",
+        "gloss": "your",
+        "gram": "gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "śugṛ̭cchatu",
+      "words": [
+       {
+        "w": "śuc",
+        "gloss": "grief",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "ṛcchatu",
+        "gloss": "let it reach",
+        "gram": "3 sg. impv. √ṛ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इस ऊर्णायु को, वरुण की नाभि को, द्विपाद और चतुष्पाद पशुओं की त्वचा को, त्वष्टा की प्रजाओं के प्रथम उत्पत्ति-स्थान को; हे अग्नि, परम आकाश में हानि न पहुँचा। मैं तेरे लिए उष्ट्र वनचर को निर्दिष्ट करता हूँ; उसके साथ चयित होता हुआ शरीर के पास बैठ। तेरा शोक उष्ट्र को प्राप्त हो; जिससे हम द्वेष करते हैं, उसे तेरा शोक प्राप्त हो।",
+  "english": "This woolly one, the navel of Varuṇa, the skin of animals, two-footed and four-footed, the first origin of Tvaṣṭṛ's creatures: O Agni, do not harm it in the highest firmament. I assign to you the uṣṭra, the wild one; with that, being piled, settle on the body. May your grief reach the uṣṭra; the one whom we hate, may your grief reach him.",
+  "text_flags": [
+   {
+    "src": "cinvā̱nasta̱vo",
+    "suggest": "cinvānastanvo",
+    "why": "possible: n dropped; parallel lines in the neighbouring units read tanvo"
+   }
+  ],
+  "notes": "Printed 'cinvā̱nasta̱vo' is probably an error for cinvānas tanvo (as in the parallel units 47 to 49 and 51). uṣṭra kept as a word (no animal identified). 'tvaṣṭuḥ prajānām' read as 'of Tvaṣṭṛ's creatures'.",
+  "confidence": "medium"
+ },
+ {
+  "n": "51",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "a̱jo",
+      "words": [
+       {
+        "w": "ajaḥ",
+        "gloss": "goat",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "hya̱gneraja̭niṣṭa̱",
+      "words": [
+       {
+        "w": "hi",
+        "gloss": "for",
+        "gram": "ind."
+       },
+       {
+        "w": "agneḥ",
+        "gloss": "from Agni",
+        "gram": "m. abl. sg."
+       },
+       {
+        "w": "ajaniṣṭa",
+        "gloss": "was born",
+        "gram": "3 sg. aor. mid. √jan"
+       }
+      ]
+     },
+     {
+      "src": "śokā̱tso",
+      "words": [
+       {
+        "w": "śokāt",
+        "gloss": "from the blaze",
+        "gram": "m. abl. sg."
+       },
+       {
+        "w": "saḥ",
+        "gloss": "he",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "a̭paśyajjani̱tāra̱magrḙ",
+      "words": [
+       {
+        "w": "apaśyat",
+        "gloss": "saw",
+        "gram": "3 sg. impf. √paś"
+       },
+       {
+        "w": "janitāram",
+        "gloss": "begetter",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "agre",
+        "gloss": "at first",
+        "gram": "loc. sg. (adv.)"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "tena̭",
+      "words": [
+       {
+        "w": "tena",
+        "gloss": "by him",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "de̱vā",
+      "words": [
+       {
+        "w": "devāḥ",
+        "gloss": "the gods",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "de̱vatā̱magra̭māya̱~stena̱",
+      "words": [
+       {
+        "w": "devatām",
+        "gloss": "deity",
+        "gram": "f. acc. sg."
+       },
+       {
+        "w": "agram",
+        "gloss": "foremost",
+        "gram": "f. acc. sg."
+       },
+       {
+        "w": "āyan",
+        "gloss": "reached",
+        "gram": "3 pl. impf. ā-√i"
+       },
+       {
+        "w": "tena",
+        "gloss": "by him",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "roha̭māya̱nnupa̱",
+      "words": [
+       {
+        "w": "roham",
+        "gloss": "ascent",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "āyan",
+        "gloss": "reached",
+        "gram": "3 pl. impf. ā-√i"
+       },
+       {
+        "w": "upa",
+        "gloss": "near",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "medhyā̭saḥ",
+      "words": [
+       {
+        "w": "medhyāsaḥ",
+        "gloss": "fit for the offering",
+        "gram": "m. nom. pl."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "śa̱ra̱bhamā̭ra̱ṇyamanṷ",
+      "words": [
+       {
+        "w": "śarabham",
+        "gloss": "the śarabha",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "āraṇyam",
+        "gloss": "wild",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "anu",
+        "gloss": "according to",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "te",
+      "words": [
+       {
+        "w": "te",
+        "gloss": "to you",
+        "gram": "dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "diśāmi̱",
+      "words": [
+       {
+        "w": "diśāmi",
+        "gloss": "I assign",
+        "gram": "1 sg. pres. √diś"
+       }
+      ]
+     },
+     {
+      "src": "tena̭",
+      "words": [
+       {
+        "w": "tena",
+        "gloss": "with that",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "cinvā̱nasta̱nvo",
+      "words": [
+       {
+        "w": "cinvānaḥ",
+        "gloss": "being piled",
+        "gram": "pres. part. mid. m. nom. sg. √ci"
+       },
+       {
+        "w": "tanvaḥ",
+        "gloss": "of the body",
+        "gram": "f. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "ni",
+      "words": [
+       {
+        "w": "ni",
+        "gloss": "down",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ṣī̭da",
+      "words": [
+       {
+        "w": "ṣīda",
+        "gloss": "sit",
+        "gram": "2 sg. impv. √sad"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "śa̱ra̱bhaṃ",
+      "words": [
+       {
+        "w": "śarabham",
+        "gloss": "the śarabha",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "te̱",
+      "words": [
+       {
+        "w": "te",
+        "gloss": "your",
+        "gram": "gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "śugṛ̭cchatu̱",
+      "words": [
+       {
+        "w": "śuc",
+        "gloss": "grief",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "ṛcchatu",
+        "gloss": "let it reach",
+        "gram": "3 sg. impv. √ṛ"
+       }
+      ]
+     },
+     {
+      "src": "yaṃ",
+      "words": [
+       {
+        "w": "yam",
+        "gloss": "whom",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "dvi̱ṣmastaṃ",
+      "words": [
+       {
+        "w": "dviṣmaḥ",
+        "gloss": "we hate",
+        "gram": "1 pl. pres. √dviṣ"
+       },
+       {
+        "w": "tam",
+        "gloss": "him",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "te̱",
+      "words": [
+       {
+        "w": "te",
+        "gloss": "your",
+        "gram": "gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "śugṛ̭cchatu",
+      "words": [
+       {
+        "w": "śuc",
+        "gloss": "grief",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "ṛcchatu",
+        "gloss": "let it reach",
+        "gram": "3 sg. impv. √ṛ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "बकरा अग्नि की ज्वाला से उत्पन्न हुआ; उसने आरम्भ में अपने जनक को देखा। उसके द्वारा देवता अग्र देवता को प्राप्त हुए; उसके द्वारा मेध्य जन आरोह के समीप पहुँचे। मैं तेरे लिए शरभ वनचर को निर्दिष्ट करता हूँ; उसके साथ चयित होता हुआ शरीर के पास बैठ। तेरा शोक शरभ को प्राप्त हो; जिससे हम द्वेष करते हैं, उसे तेरा शोक प्राप्त हो।",
+  "english": "The goat was born from the blaze of Agni; he saw his begetter at first. By him the gods reached the foremost deity; by him those fit for the offering came near the ascent. I assign to you the śarabha, the wild one; with that, being piled, settle on the body. May your grief reach the śarabha; the one whom we hate, may your grief reach him.",
+  "text_flags": [],
+  "notes": "Obscure: aja (goat, or 'unborn'), 'devatām agram āyan', roha, medhyāsaḥ. The printed 'āya~stena' is āyan tena. śarabha kept as a word.",
+  "confidence": "low"
+ },
+ {
+  "n": "52",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tvaṃ",
+      "words": [
+       {
+        "w": "tvam",
+        "gloss": "you",
+        "gram": "nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ya̭viṣṭha",
+      "words": [
+       {
+        "w": "yaviṣṭha",
+        "gloss": "O youngest",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "dā̱śuṣo̱",
+      "words": [
+       {
+        "w": "dāśuṣaḥ",
+        "gloss": "of the giver",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "nṝ~ḥ ",
+      "words": [
+       {
+        "w": "nṝn",
+        "gloss": "men",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "pā̭hi",
+      "words": [
+       {
+        "w": "pāhi",
+        "gloss": "protect",
+        "gram": "2 sg. impv. √pā"
+       }
+      ]
+     },
+     {
+      "src": "śṛṇu̱dhī",
+      "words": [
+       {
+        "w": "śṛṇudhi",
+        "gloss": "hear",
+        "gram": "2 sg. impv. √śru"
+       }
+      ]
+     },
+     {
+      "src": "gira̭ḥ",
+      "words": [
+       {
+        "w": "giraḥ",
+        "gloss": "songs",
+        "gram": "f. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "|",
+      "words": [
+       {
+        "w": "|",
+        "gloss": "pause mark (danda)",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "rakṣā̭",
+      "words": [
+       {
+        "w": "rakṣa",
+        "gloss": "protect",
+        "gram": "2 sg. impv. √rakṣ"
+       }
+      ]
+     },
+     {
+      "src": "to̱kamu̱ta",
+      "words": [
+       {
+        "w": "tokam",
+        "gloss": "offspring",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "uta",
+        "gloss": "also",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tmanā̭",
+      "words": [
+       {
+        "w": "tmanā",
+        "gloss": "yourself",
+        "gram": "m. inst. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हे सबसे युवा, तू दाता के पुरुषों की रक्षा कर; वाणियों को सुन। स्वयं भी सन्तान की रक्षा कर।",
+  "english": "You, O youngest, protect the men of the giver; hear the songs. Protect the offspring too, yourself.",
+  "text_flags": [],
+  "notes": "Printed 'nṝ~ḥ' is read as nṝn. dāśuṣaḥ (of the giver, worshipper) as printed.",
+  "confidence": "high"
  }
 ]
