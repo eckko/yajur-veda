@@ -387,13 +387,7 @@
   ],
   "hindi": "वह प्रज्वलित, शुभ, कवि, स्तुति के योग्य अग्नि वाणी से स्तुति के योग्य है। हे अनेक रूपों वाले, हमारे लिए समृद्धि के साथ चमक।",
   "english": "He, kindled, the good one, the seer, Agni, to be praised with song. O many-faced one, shine richly for us.",
-  "text_flags": [
-   {
-    "src": "vasṷṣka̱vira̱gnirī̱ḍenyo̭",
-    "suggest": "vasuḥ kaviḥ agniḥ īḍenyaḥ",
-    "why": "sandhi resolved: vasuḥ kaviḥ agniḥ īḍenyaḥ; the printed token is a fused form (possible)"
-   }
-  ],
+  "text_flags": [],
   "notes": "vasu is rendered 'the good one'; purvaṇīka (many-faced / of many ranks) is uncertain.",
   "confidence": "medium"
  },
@@ -1468,13 +1462,7 @@
   ],
   "hindi": "हे अत्यन्त उज्ज्वल, तुम अपने मुख में पिघले घी के दोनों चमचों को तैयार करते हो। और हे बल के स्वामी, स्तुतियों में हमें भर दो। स्तुति करने वालों के लिए अन्न लाओ।",
   "english": "O bright one, in your mouth you prepare both ladles of melted butter. And, O lord of might, fill us up in the hymns. Bring sustenance to the praisers.",
-  "text_flags": [
-   {
-    "src": "u̱ktheṣṷ",
-    "suggest": "uktheṣu",
-    "why": "possible: printed ṷ mark is part of the token; the form is the locative plural uktheṣu"
-   }
-  ],
+  "text_flags": [],
   "notes": "śrīṇīṣe (mix, prepare) and utpupūryāḥ (fill up) are uncertain in sense;",
   "confidence": "low"
  },
@@ -3712,14 +3700,8 @@
   ],
   "hindi": "यह तुम्हारी योनि है, उपयुक्त समय की, जहाँ से उत्पन्न होकर तुम चमके। उसे जानते हुए, हे अग्नि, चढ़ो, और फिर हमारा धन बढ़ाओ।",
   "english": "This is your womb, of the proper season, from which, born, you shone. Knowing it, O Agni, mount, and then increase our wealth.",
-  "text_flags": [
-   {
-    "src": "ro̱hāthā̭",
-    "suggest": "rohātha",
-    "why": "possible: roha atha, with atha 'then'"
-   }
-  ],
-  "notes": "Token 'yoni̭rṛ̱tviyo̱' is read yoniḥ ṛtviyaḥ. ṛtviya is rendered 'of the proper season' (alternatively 'belonging to order').",
+  "text_flags": [],
+  "notes": "The printed ro̱hāthā̭ is read roha atha. Token 'yoni̭rṛ̱tviyo̱' is read yoniḥ ṛtviyaḥ. ṛtviya is rendered 'of the proper season' (alternatively 'belonging to order').",
   "confidence": "medium"
  },
  {
@@ -4847,10 +4829,614 @@
     ]
    }
   ],
-  "hindi": "जैसे घास के मैदान में उत्सुक हिनहिनाता घोड़ा, जब वह महान घेरे से बाहर निकला। तब उसकी ज्वाला के पीछे हवा चलती है, और तब निश्चय ही तुम्हारा मार्ग काला है।",
+  "hindi": "जैसे घास के मैदान में उत्सुक फुफकारता घोड़ा, जब वह महान घेरे से बाहर निकला। तब उसकी ज्वाला के पीछे हवा चलती है, और तब निश्चय ही तुम्हारा मार्ग काला है।",
   "english": "Like a snorting horse, eager in the pasture, when he has gone out from the great enclosure. Then the wind blows after his flame, and then indeed your course is black.",
   "text_flags": [],
   "notes": "aviṣyan is uncertain ('being eager'); saṃvaraṇa read as 'enclosure'; the horse comparison and the subject 'he' of the second line are not further identified.",
   "confidence": "low"
+ },
+ {
+  "n": "63",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ā̱yoṣṭvā̱",
+      "words": [
+       {
+        "w": "āyoḥ",
+        "gloss": "of life",
+        "gram": "n. gen. sg."
+       },
+       {
+        "w": "tvā",
+        "gloss": "you",
+        "gram": "pron. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "sada̭ne",
+      "words": [
+       {
+        "w": "sadane",
+        "gloss": "in the seat",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "sādayā̱myava̭taśchā̱yāyā̭ᳪ",
+      "words": [
+       {
+        "w": "sādayāmi",
+        "gloss": "I set down",
+        "gram": "1 sg. pres. caus. √sad"
+       },
+       {
+        "w": "avataḥ",
+        "gloss": "of the well",
+        "gram": "m. gen. sg."
+       },
+       {
+        "w": "chāyāyām",
+        "gloss": "in the shade",
+        "gram": "f. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "samu̱drasya̱",
+      "words": [
+       {
+        "w": "samudrasya",
+        "gloss": "of the ocean",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "hṛda̭ye",
+      "words": [
+       {
+        "w": "hṛdaye",
+        "gloss": "in the heart",
+        "gram": "n. loc. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "ra̱śmī̱vatī̱ṃ",
+      "words": [
+       {
+        "w": "raśmī-vatīm",
+        "gloss": "rich in rays",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhāsva̭tī̱mā",
+      "words": [
+       {
+        "w": "bhāsvatīm",
+        "gloss": "shining",
+        "gram": "f. acc. sg."
+       },
+       {
+        "w": "ā",
+        "gloss": "upon",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yā",
+      "words": [
+       {
+        "w": "yā",
+        "gloss": "who",
+        "gram": "rel. f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "dyāṃ",
+      "words": [
+       {
+        "w": "dyām",
+        "gloss": "heaven",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhāsyāpṛ̭thi̱vīmorva̱ntari̭kṣam",
+      "words": [
+       {
+        "w": "bhāsi",
+        "gloss": "you shine",
+        "gram": "2 sg. pres. √bhā"
+       },
+       {
+        "w": "ā",
+        "gloss": "upon",
+        "gram": "ind."
+       },
+       {
+        "w": "pṛthivīm",
+        "gloss": "earth",
+        "gram": "f. acc. sg."
+       },
+       {
+        "w": "urum",
+        "gloss": "wide",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "antarikṣam",
+        "gloss": "mid-space",
+        "gram": "n. acc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जीवन के आसन पर मैं तुम्हें बैठाता हूँ, कुएँ की छाया में, समुद्र के हृदय में। किरणों वाली, चमकने वाली, जो तुम द्यौ पर चमकती हो, पृथ्वी पर और विस्तृत अन्तरिक्ष पर।",
+  "english": "I set you in the seat of life, in the shade of the well, in the heart of the ocean. Ray-possessing, shining one, who shine upon heaven, and upon the earth and the wide mid-space.",
+  "text_flags": [],
+  "notes": "āyoḥ (of life) and avataḥ (of the well) are uncertain readings; the grammar of the second line ('bhāsvatīm ā yā ... bhāsi ā') is unclear and the rendering is tentative.",
+  "confidence": "low"
+ },
+ {
+  "n": "64",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "pa̱ra̱me̱ṣṭhī",
+      "words": [
+       {
+        "w": "parameṣṭhī",
+        "gloss": "Parameṣṭhin",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tvā̭",
+      "words": [
+       {
+        "w": "tvā",
+        "gloss": "you",
+        "gram": "pron. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "sādayatu",
+      "words": [
+       {
+        "w": "sādayatu",
+        "gloss": "let him set down",
+        "gram": "3 sg. impv. caus. √sad"
+       }
+      ]
+     },
+     {
+      "src": "di̱vaspṛ̱ṣṭhe",
+      "words": [
+       {
+        "w": "divaḥ-pṛṣṭhe",
+        "gloss": "on the back of heaven",
+        "gram": "tat-puruṣa n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vyaca̭svatī̱ṃ",
+      "words": [
+       {
+        "w": "vyacasvatīm",
+        "gloss": "wide",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "pratha̭svatī̱ṃ",
+      "words": [
+       {
+        "w": "prathasvatīm",
+        "gloss": "broad",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "diva̭ṃ",
+      "words": [
+       {
+        "w": "divam",
+        "gloss": "heaven",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "yaccha̱",
+      "words": [
+       {
+        "w": "yaccha",
+        "gloss": "hold",
+        "gram": "2 sg. impv. √yam"
+       }
+      ]
+     },
+     {
+      "src": "diva̭ṃ",
+      "words": [
+       {
+        "w": "divam",
+        "gloss": "heaven",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "dṛᳪha̱",
+      "words": [
+       {
+        "w": "dṛṃha",
+        "gloss": "make firm",
+        "gram": "2 sg. impv. √dṛṃh"
+       }
+      ]
+     },
+     {
+      "src": "diva̱ṃ",
+      "words": [
+       {
+        "w": "divam",
+        "gloss": "heaven",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "mā",
+      "words": [
+       {
+        "w": "mā",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "hi̭ᳪsīḥ",
+      "words": [
+       {
+        "w": "hiṃsīḥ",
+        "gloss": "harm",
+        "gram": "2 sg. inj. √hiṃs"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "viśva̭smai",
+      "words": [
+       {
+        "w": "viśvasmai",
+        "gloss": "for all",
+        "gram": "m. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "prā̱ṇāyā̭pā̱nāya̭",
+      "words": [
+       {
+        "w": "prāṇāya",
+        "gloss": "for the in-breath (prāṇa)",
+        "gram": "m. dat. sg."
+       },
+       {
+        "w": "apānāya",
+        "gloss": "for the out-breath (apāna)",
+        "gram": "m. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "vyā̱nāyo̭dā̱nāya̭",
+      "words": [
+       {
+        "w": "vyānāya",
+        "gloss": "for the through-breath (vyāna)",
+        "gram": "m. dat. sg."
+       },
+       {
+        "w": "udānāya",
+        "gloss": "for the up-breath (udāna)",
+        "gram": "m. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "prati̱ṣṭhāyai̭",
+      "words": [
+       {
+        "w": "pratiṣṭhāyai",
+        "gloss": "for support",
+        "gram": "f. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca̱ritrā̭ya",
+      "words": [
+       {
+        "w": "caritrāya",
+        "gloss": "for conduct",
+        "gram": "n. dat. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "sūrya̭stvā̱'bhi",
+      "words": [
+       {
+        "w": "sūryaḥ",
+        "gloss": "Sūrya",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "tvā",
+        "gloss": "you",
+        "gram": "pron. acc. sg."
+       },
+       {
+        "w": "abhi",
+        "gloss": "over",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pā̭tu",
+      "words": [
+       {
+        "w": "pātu",
+        "gloss": "let him protect",
+        "gram": "3 sg. impv. √pā"
+       }
+      ]
+     },
+     {
+      "src": "ma̱hyā",
+      "words": [
+       {
+        "w": "mahyā",
+        "gloss": "great",
+        "gram": "f. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "sva̱styā",
+      "words": [
+       {
+        "w": "svastyā",
+        "gloss": "with well-being",
+        "gram": "f. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "cha̱rdiṣā̱",
+      "words": [
+       {
+        "w": "chardiṣā",
+        "gloss": "with a covering",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "śanta̭mena̱",
+      "words": [
+       {
+        "w": "śam-tamena",
+        "gloss": "most beneficial",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "tayā̭",
+      "words": [
+       {
+        "w": "tayā",
+        "gloss": "with that",
+        "gram": "pron. f. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "de̱vata̭yā'ṅgira̱svad",
+      "words": [
+       {
+        "w": "devatayā",
+        "gloss": "deity",
+        "gram": "f. inst. sg."
+       },
+       {
+        "w": "aṅgirasvat",
+        "gloss": "like Aṅgiras",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "dhru̱ve",
+      "words": [
+       {
+        "w": "dhruve",
+        "gloss": "firm",
+        "gram": "f. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "sī̭datam",
+      "words": [
+       {
+        "w": "sīdatam",
+        "gloss": "sit down",
+        "gram": "2 du. impv. √sad"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "परमेष्ठी तुम्हें स्वर्ग की पीठ पर बैठाए, तुम विशाल और विस्तृत को। स्वर्ग को थामो, स्वर्ग को दृढ़ करो, स्वर्ग को हानि मत पहुँचाओ। समस्त प्राण, अपान, व्यान, उदान, प्रतिष्ठा और संचरण के लिए। सूर्य तुम्हारी महान कल्याण और अत्यन्त सुखकारी आवरण से रक्षा करे; उस देवता के साथ अंगिरा के समान तुम दोनों दृढ़ होकर बैठो।",
+  "english": "May Parameṣṭhin set you, the wide and broad one, on the back of heaven. Hold up heaven, make heaven firm, do not harm heaven. For all of the in-breath (prāṇa), out-breath (apāna), through-breath (vyāna), up-breath (udāna), for support and for conduct. May Sūrya protect you with great well-being and the most beneficial covering; with that deity, like Aṅgiras, sit down firmly, you two.",
+  "text_flags": [],
+  "notes": "Three printed lines of one numbered verse. The addressee is not stated; the dual sīdatam is kept. caritra rendered 'conduct' (alternatively 'movement'). mahyā is read as the instrumental feminine of mahī.",
+  "confidence": "medium"
+ },
+ {
+  "n": "65",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sa̱hasra̭sya",
+      "words": [
+       {
+        "w": "sahasrasya",
+        "gloss": "of the thousand",
+        "gram": "n. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "pra̱mā'si̭ ",
+      "words": [
+       {
+        "w": "pramā",
+        "gloss": "measure",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "asi",
+        "gloss": "you are",
+        "gram": "2 sg. pres. √as"
+       }
+      ]
+     },
+     {
+      "src": "sa̱hasra̭sya",
+      "words": [
+       {
+        "w": "sahasrasya",
+        "gloss": "of the thousand",
+        "gram": "n. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "prati̱mā'si̭",
+      "words": [
+       {
+        "w": "pratimā",
+        "gloss": "counterpart",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "asi",
+        "gloss": "you are",
+        "gram": "2 sg. pres. √as"
+       }
+      ]
+     },
+     {
+      "src": "sa̱hasra̭syo̱nmā'si̭",
+      "words": [
+       {
+        "w": "sahasrasya",
+        "gloss": "of the thousand",
+        "gram": "n. gen. sg."
+       },
+       {
+        "w": "unmā",
+        "gloss": "over-measure",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "asi",
+        "gloss": "you are",
+        "gram": "2 sg. pres. √as"
+       }
+      ]
+     },
+     {
+      "src": "sāha̱sro̱'si",
+      "words": [
+       {
+        "w": "sāhasraḥ",
+        "gloss": "belonging to the thousand",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "asi",
+        "gloss": "you are",
+        "gram": "2 sg. pres. √as"
+       }
+      ]
+     },
+     {
+      "src": "sa̱hasrā̭ya",
+      "words": [
+       {
+        "w": "sahasrāya",
+        "gloss": "for the thousand",
+        "gram": "n. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "tvā",
+      "words": [
+       {
+        "w": "tvā",
+        "gloss": "you",
+        "gram": "pron. acc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "तुम सहस्र की प्रमा हो, सहस्र की प्रतिमा हो, सहस्र की उन्मा हो, तुम सहस्र से सम्बन्धित हो; सहस्र के लिए तुम।",
+  "english": "You are the measure of the thousand, you are the counterpart of the thousand, you are the over-measure of the thousand, you belong to the thousand; for the thousand, you.",
+  "text_flags": [],
+  "notes": "The printed double space after the first pramā'si is kept. pramā, pratimā and unmā (measure, counterpart, over-measure) are literal and the last phrase 'sahasrāya tvā' has no verb in the line.",
+  "confidence": "medium"
  }
 ]
