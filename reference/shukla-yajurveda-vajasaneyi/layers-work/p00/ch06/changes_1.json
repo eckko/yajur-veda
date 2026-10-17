@@ -1,0 +1,493 @@
+[
+ {
+  "n": "2",
+  "field": "hindi",
+  "old": "तुम अग्रगामी हो; हे सुगम प्रवेश वाले, उन्नेताओं के इस विषय में सावधान रहो। तुम पर कोई खड़ा होगा। देव सविता तुम्हें मधु से अभिषिक्त करें, उत्तम फल वाली ओषधियों के लिए तुम्हें। तुमने अग्र भाग से द्युलोक को छुआ, मध्य भाग से अन्तरिक्ष को भर दिया, निचले भाग से पृथ्वी को दृढ़ किया।",
+  "new": "तुम अग्रगामी हो; हे सुगम प्रवेश वाले, उन्नेताओं के इस विषय में जानो। तुम पर कोई खड़ा होगा। देव सविता तुम्हें मधु से अभिषिक्त करें, उत्तम फल वाली ओषधियों के लिए तुम्हें। तुमने अग्र भाग से द्युलोक को छुआ, मध्य भाग से अन्तरिक्ष को भर दिया, निचले भाग से पृथ्वी को दृढ़ किया।",
+  "why": "reviewer (minor): vittāt is 'know'; 'सावधान रहो' (be careful) adds an interpretation."
+ },
+ {
+  "n": "3",
+  "field": "word.gram",
+  "word": "paramam",
+  "old": "n. acc. sg.",
+  "new": "n. nom. sg.",
+  "why": "reviewer (error): Subject of passive bhāri together with padam and tat; neuter nom., not acc."
+ },
+ {
+  "n": "3",
+  "field": "word.gram",
+  "word": "padam",
+  "old": "n. acc. sg.",
+  "new": "n. nom. sg.",
+  "why": "reviewer (error): Same: nominative subject of bhāri, not accusative."
+ },
+ {
+  "n": "4",
+  "field": "english",
+  "old": "Look at the rites of Viṣṇu, from which he has beheld the ordinances, Indra's fitting friend.",
+  "new": "Look at the rites of Viṣṇu, from which he has beheld the observances, Indra's fitting friend.",
+  "why": "reviewer (minor): Glossary fixes vrata = observance."
+ },
+ {
+  "n": "4",
+  "field": "word.gloss",
+  "word": "vratāni",
+  "old": "ordinances",
+  "new": "observances",
+  "why": "reviewer (minor): Same glossary rule."
+ },
+ {
+  "n": "7",
+  "field": "word.w",
+  "word": "tvaṣṭaḥ",
+  "old": "tvaṣṭaḥ",
+  "new": "tvaṣṭar",
+  "why": "reviewer (error): Printed tvaṣṭar (vocative of tvaṣṭṛ); the visarga form is not the vocative and does not match the printed token."
+ },
+ {
+  "n": "8",
+  "field": "hindi",
+  "old": "हे धनवती स्त्रियो, रमण करो; हे बृहस्पति, वसुओं को धारण करो। हे देवों के हव्य, मैं तुम्हें ऋत के पाश से बाँधता हूँ। धर्षा, मानुष।",
+  "new": "हे धनवतियो, रमण करो; हे बृहस्पति, वसुओं को धारण करो। हे देवों के हव्य, मैं तुम्हें ऋत के पाश से बाँधता हूँ। धर्षा, मानुष।",
+  "why": "reviewer (error): 'स्त्रियो' (women) is added; revatīḥ is only 'wealthy ones'."
+ },
+ {
+  "n": "8",
+  "field": "hindi",
+  "old": "हे धनवतियो, रमण करो; हे बृहस्पति, वसुओं को धारण करो। हे देवों के हव्य, मैं तुम्हें ऋत के पाश से बाँधता हूँ। धर्षा, मानुष।",
+  "new": "हे धनवतियो, रमण करो; हे बृहस्पति, धनों को धारण करो। हे देवों के हव्य, मैं तुम्हें ऋत के पाश से बाँधता हूँ। धर्षा, मानुष।",
+  "why": "reviewer (minor): English and gloss say 'goods' (vasūni); Hindi 'वसुओं' reads as the class of gods."
+ },
+ {
+  "n": "8",
+  "field": "word.gloss",
+  "word": "deva-haviḥ",
+  "old": "offering of the gods",
+  "new": "offering for the gods",
+  "why": "reviewer (minor): 'offering of the gods' here but 'offering for the gods' in unit 10; use one rendering."
+ },
+ {
+  "n": "9",
+  "field": "notes",
+  "old": "'agnīṣomābhyām juṣṭam' taken as 'pleasing to Agni and Soma' (dative dual form). 'anu ... manyatām' read as 'consent' with 'anu' repeated for each person.",
+  "new": "'agnīṣomābhyām juṣṭam' taken as 'pleasing to Agni and Soma' (dative dual form). 'anu ... manyatām' read as 'consent' with 'anu' repeated for each person. The object of 'ni yunajmi' (and 'prokṣāmi' has tvā) is not printed in the first clause; 'you' is supplied.",
+  "why": "reviewer (minor): No tvā is printed in 'agnīṣomābhyāṃ juṣṭaṃ ni yunajmi'; 'you' (and Hindi 'तुम्हें') is supplied. Mention in notes."
+ },
+ {
+  "n": "12",
+  "field": "word.gloss",
+  "word": "pṛdākuḥ",
+  "old": "pṛdāku (kind of snake)",
+  "new": "pṛdāku (obscure)",
+  "why": "reviewer (minor): 'kind of snake' is an identification; the notes say it is not identified."
+ },
+ {
+  "n": "13",
+  "field": "hindi",
+  "old": "हे दैवी जलो, शुद्ध होकर वहन करो। देवों में भली-भाँति परोसे हुए; भली-भाँति परोसे हुए हम परोसने वाले हों।",
+  "new": "हे दैवी जलो, शुद्ध होकर वहन करो; भली-भाँति परोसे हुए; देवों में भली-भाँति परोसे हुए हम परोसने वाले हों।",
+  "why": "reviewer (error): Two supariviṣṭā are printed; the first (after voḍhvam) is omitted in the Hindi."
+ },
+ {
+  "n": "13",
+  "field": "english",
+  "old": "O divine waters, pure, carry on. Well served among the gods; well served, may we be the servers.",
+  "new": "O divine waters, pure, carry; well served; among the gods well served, may we be the servers.",
+  "why": "reviewer (error): Same omission of the first supariviṣṭā; 'carry on' also adds an idiom."
+ },
+ {
+  "n": "14",
+  "field": "hindi",
+  "old": "तुम्हारी वाणी को शुद्ध करता हूँ, तुम्हारे प्राण को शुद्ध करता हूँ, तुम्हारी आँख को शुद्ध करता हूँ, तुम्हारे कान को शुद्ध करता हूँ, तुम्हारी नाभि को शुद्ध करता हूँ, तुम्हारे मेढ्र को शुद्ध करता हूँ, तुम्हारी गुदा को शुद्ध करता हूँ, तुम्हारे चरित्रों को शुद्ध करता हूँ।",
+  "new": "तुम्हारी वाणी को शुद्ध करता हूँ, तुम्हारे प्राण को शुद्ध करता हूँ, तुम्हारी आँख को शुद्ध करता हूँ, तुम्हारे कान को शुद्ध करता हूँ, तुम्हारी नाभि को शुद्ध करता हूँ, तुम्हारे मेढ्र को शुद्ध करता हूँ, तुम्हारी गुदा को शुद्ध करता हूँ, तुम्हारे चलने के साधनों को शुद्ध करता हूँ।",
+  "why": "reviewer (error): Hindi चरित्र means character/conduct; the gloss is 'means of going'."
+ },
+ {
+  "n": "15",
+  "field": "english",
+  "old": "May your mind swell fully; may your speech swell fully; may your breath swell fully; may your eye swell fully; may your ear swell fully. What of yours is harsh, what abides, may that swell fully, may it be removed, may that of yours be purified, for happy days. O herb, protect; O blade, do not harm him.",
+  "new": "May your mind swell fully; may your speech swell fully; may your breath swell fully; may your eye swell fully; may your ear swell fully. What of yours is harsh, what abides, may that swell fully, may it be removed, may that of yours be purified, for well-being, for the days. O herb, protect; O blade, do not harm him.",
+  "why": "reviewer (minor): 'happy' is added; the notes themselves read śam + ahobhyaḥ."
+ },
+ {
+  "n": "15",
+  "field": "hindi",
+  "old": "तुम्हारा मन पूरी तरह पुष्ट हो, तुम्हारी वाणी पुष्ट हो, तुम्हारा प्राण पुष्ट हो, तुम्हारी आँख पुष्ट हो, तुम्हारा कान पुष्ट हो। तुम्हारा जो कठोर है, जो टिका हुआ है, वह पुष्ट हो, हटाया जाए; वह तुम्हारा शुद्ध हो, शुभ दिनों के लिए। हे ओषधि, रक्षा करो; हे स्वधिति, इसे हानि मत पहुँचाओ।",
+  "new": "तुम्हारा मन पूरी तरह पुष्ट हो, तुम्हारी वाणी पुष्ट हो, तुम्हारा प्राण पुष्ट हो, तुम्हारी आँख पुष्ट हो, तुम्हारा कान पुष्ट हो। तुम्हारा जो कठोर है, जो टिका हुआ है, वह पुष्ट हो, हटाया जाए; वह तुम्हारा शुद्ध हो, कल्याण के लिए, दिनों के लिए। हे ओषधि, रक्षा करो; हे स्वधिति, इसे हानि मत पहुँचाओ।",
+  "why": "reviewer (minor): Same."
+ },
+ {
+  "n": "16",
+  "field": "hindi",
+  "old": "तुम राक्षसों का भाग हो। राक्षस निकाल दिया गया है; यहाँ मैं राक्षस पर खड़ा होता हूँ; यहाँ मैं राक्षस को नीचे दबाता हूँ; यहाँ मैं राक्षस को सबसे नीचे के अन्धकार में ले जाता हूँ। हे द्यावापृथिवी, घी से स्वयं को ढक लो। हे वायु, बूँदों का सेवन करो; अग्नि आज्य का सेवन करे। स्वाहा। हे स्वाहा से बनी दोनो, ऊँचे आकाश को, मरुतों के आकाश को जाओ।",
+  "new": "तुम राक्षसों का भाग हो। राक्षस निकाल दिया गया है; यहाँ मैं राक्षस पर खड़ा होता हूँ; यहाँ मैं राक्षस को नीचे दबाता हूँ; यहाँ मैं राक्षस को सबसे नीचे के अन्धकार में ले जाता हूँ। हे द्यावापृथिवी, घी से स्वयं को ढक लो। हे वायु, बूँदों का सेवन करो; अग्नि आज्य का सेवन करे। स्वाहा। हे स्वाहा से बनी दोनों, ऊँचे आकाश को, मरुतों के आकाश को जाओ।",
+  "why": "reviewer (minor): Typo."
+ },
+ {
+  "n": "16",
+  "field": "word.gram",
+  "word": "adhamam",
+  "old": "m. acc. sg.",
+  "new": "n. acc. sg.",
+  "why": "reviewer (minor): Agrees with tamaḥ (n.), not masculine."
+ },
+ {
+  "n": "17",
+  "field": "hindi",
+  "old": "हे जलो, इसे बहा ले जाओ, दोष और मल को, जो कुछ भी हो। और जो मैंने असत्य से द्रोह किया है, और जो अभीरुण मैंने शाप दिया है। जल और पवमान मुझे उस पाप से छुड़ाएँ।",
+  "new": "हे जलो, इसे बहा ले जाओ, दोष और मल को, जो कुछ भी हो। और जो मैंने असत्य से द्रोह किया है, और जो अभीरुण मैंने शाप दिया है। जल और पवित्र करने वाला मुझे उस पाप से छुड़ाएँ।",
+  "why": "reviewer (minor): English 'purifying one' (no identity added) but Hindi leaves पवमान, which is a divine name in Hindi usage."
+ },
+ {
+  "n": "18",
+  "field": "hindi",
+  "old": "तुम्हारा मन मन से मिले, प्राण प्राण से मिले। तुम रेट् हो; अग्नि तुम्हें मिलाए, जल तुम्हें। वायु के वेग के लिए तुम्हें, पूषा की गति के लिए तुम्हें; ताप का डोलना हुआ, द्वेष अलग किया गया।",
+  "new": "तुम्हारा मन मन से मिले, प्राण प्राण से मिले। तुम रेट् हो; अग्नि तुम्हें मिलाए; जलों ने तुम्हें मिला दिया। वायु के वेग के लिए तुम्हें, पूषा की गति के लिए तुम्हें; ताप का डोलना हुआ, द्वेष अलग किया गया।",
+  "why": "reviewer (error): 'samariṇan' is dropped in the Hindi, and in the English 'They joined.' is detached; āpas tvā samariṇan is one clause across the line break."
+ },
+ {
+  "n": "20",
+  "field": "word.w",
+  "word": "tvaṣṭaḥ",
+  "old": "tvaṣṭaḥ",
+  "new": "tvaṣṭar",
+  "why": "reviewer (error): Printed tvaṣṭar (vocative)."
+ },
+ {
+  "n": "22",
+  "field": "hindi",
+  "old": "जलों को और ओषधियों को हानि मत पहुँचाओ। हे राजन् वरुण, हर आश्रय से, उस से हमें छुड़ाओ। जो वे कहते हैं, अघ्न्या, और हे वरुण, इस प्रकार हम शपथ या शाप देते हैं, उससे हे वरुण हमें छुड़ाओ। जल और ओषधियाँ हमारे लिए मित्रवत हों; जो हमसे द्वेष करता है और जिससे हम द्वेष करते हैं, उसके लिए वे शत्रुवत हों।",
+  "new": "जलों को और ओषधियों को हानि मत पहुँचाओ। हे राजन् वरुण, हर धाम से, उस से हमें छुड़ाओ। जो वे कहते हैं, अघ्न्या, और हे वरुण, इस प्रकार हम शपथ या शाप देते हैं, उससे हे वरुण हमें छुड़ाओ। जल और ओषधियाँ हमारे लिए मित्रवत हों; जो हमसे द्वेष करता है और जिससे हम द्वेष करते हैं, उसके लिए वे शत्रुवत हों।",
+  "why": "reviewer (minor): The glossary reserves आश्रय for śarma; dhāman is 'abode'."
+ },
+ {
+  "n": "23",
+  "field": "hindi",
+  "old": "इन जलों को, जो हव्य वाले हैं, हव्य वाला सेवा करता है। हव्य से युक्त हो दिव्य अध्वर; हव्य से युक्त हों सूर्य।",
+  "new": "इन जलों को, जो हव्य वाले हैं, हव्य वाला सेवा करता है। हव्य से युक्त हो दिव्य अनुष्ठान; हव्य से युक्त हों सूर्य।",
+  "why": "reviewer (error): Glossary: Hindi adhvara = अनुष्ठान (not यज्ञ, not transliterated)."
+ },
+ {
+  "n": "23",
+  "field": "english",
+  "old": "These waters have offerings; the one who has the offering serves them. May the divine rite be provided with offerings; may Sūrya be provided with offerings.",
+  "new": "The one who has the offering serves these waters, which are rich in offerings. May the divine rite be provided with offerings; may Sūrya be provided with offerings.",
+  "why": "reviewer (error): Word split labels haviṣmatīḥ imāḥ āpaḥ as acc. pl. (object of vivāsati) and the Hindi follows, but the English makes them a subject with an added verb 'have'."
+ },
+ {
+  "n": "24",
+  "field": "hindi",
+  "old": "अग्नि के, जिसका घर गिरा नहीं है, आसन में मैं तुम्हें बैठाता हूँ। तुम इन्द्र और अग्नि के भाग हो; तुम मित्र और वरुण के भाग हो; तुम सब देवों के भाग हो। वे जो सूर्य के समीप हैं, या जिनके साथ सूर्य है, वे हमारे अध्वर को आगे बढ़ाएँ।",
+  "new": "अग्नि के, जिसका घर गिरा नहीं है, आसन में मैं तुम्हें बैठाता हूँ। तुम इन्द्र और अग्नि के भाग हो; तुम मित्र और वरुण के भाग हो; तुम सब देवों के भाग हो। वे जो सूर्य के समीप हैं, या जिनके साथ सूर्य है, वे हमारे अनुष्ठान को आगे बढ़ाएँ।",
+  "why": "reviewer (error): Glossary: Hindi adhvara = अनुष्ठान."
+ },
+ {
+  "n": "25",
+  "field": "hindi",
+  "old": "हृदय के लिए तुम्हें, मन के लिए तुम्हें, द्यु के लिए तुम्हें, सूर्य के लिए तुम्हें। इस अध्वर को ऊपर की ओर, द्युलोक में देवों के बीच, होत्रा के साथ थामो।",
+  "new": "हृदय के लिए तुम्हें, मन के लिए तुम्हें, द्यु के लिए तुम्हें, सूर्य के लिए तुम्हें। इस अनुष्ठान को ऊपर की ओर, द्युलोक में देवों के बीच, होत्रा के साथ थामो।",
+  "why": "reviewer (error): Glossary: Hindi adhvara = अनुष्ठान."
+ },
+ {
+  "n": "25",
+  "field": "hindi",
+  "old": "हृदय के लिए तुम्हें, मन के लिए तुम्हें, द्यु के लिए तुम्हें, सूर्य के लिए तुम्हें। इस अनुष्ठान को ऊपर की ओर, द्युलोक में देवों के बीच, होत्रा के साथ थामो।",
+  "new": "हृदय के लिए तुम्हें, मन के लिए तुम्हें, द्युलोक के लिए तुम्हें, सूर्य के लिए तुम्हें। इस अनुष्ठान को ऊपर की ओर, द्युलोक में देवों के बीच, होत्रा के साथ थामो।",
+  "why": "reviewer (minor): dive is 'for heaven' and rendered द्युलोक in unit 1."
+ },
+ {
+  "n": "26",
+  "field": "english",
+  "old": "O Soma, king, descend upon all creatures; let all creatures descend to you. Let Agni hear my call with the kindling; let the waters and the divine dhiṣaṇās hear. O pressing stones, listen to the sacrifice like those who know; let the god Savitṛ hear my call. Svāhā.",
+  "new": "O Soma, O king, descend upon all creatures; let all creatures descend to you. Let Agni hear my call with the kindling; let the waters and the divine dhiṣaṇās hear. O pressing stones, listen to the sacrifice like those who know; let the god Savitṛ hear my call. Svāhā.",
+  "why": "reviewer (minor): Two vocatives; the glossary form for rājan is 'O king'."
+ },
+ {
+  "n": "27",
+  "field": "english",
+  "old": "O divine waters, offspring of the waters, the wave of yours that is fit for offering, full of vigour, most exhilarating: give it to the gods among the gods, to the drinkers of the bright, whose portions you are. Svāhā.",
+  "new": "O divine waters, O offspring of the waters, the wave of yours that is fit for offering, full of vigour, most exhilarating: give it to the gods among the gods, to the drinkers of the bright, whose portions you are. Svāhā.",
+  "why": "reviewer (error): napāt is a separate singular vocative; the apposition makes the plural waters 'offspring of the waters'."
+ },
+ {
+  "n": "27",
+  "field": "hindi",
+  "old": "हे दैवी जलो, जलों की सन्तान, तुम्हारी जो लहर हव्य के योग्य, बल वाली, अत्यन्त मदकारी है, उसे देवों के लिए देवों में दो, उन शुक्र पीने वालों के लिए, जिनके तुम भाग हो। स्वाहा।",
+  "new": "हे दैवी जलो, हे जलों की सन्तान, तुम्हारी जो लहर हव्य के योग्य, बल वाली, अत्यन्त मदकारी है, उसे देवों के लिए देवों में दो, उन शुक्र पीने वालों के लिए, जिनके तुम भाग हो। स्वाहा।",
+  "why": "reviewer (minor): Same apposition."
+ },
+ {
+  "n": "27",
+  "field": "hindi",
+  "old": "हे दैवी जलो, हे जलों की सन्तान, तुम्हारी जो लहर हव्य के योग्य, बल वाली, अत्यन्त मदकारी है, उसे देवों के लिए देवों में दो, उन शुक्र पीने वालों के लिए, जिनके तुम भाग हो। स्वाहा।",
+  "new": "हे दैवी जलो, हे जलों की सन्तान, तुम्हारी जो लहर हव्य के योग्य, बल वाली, अत्यन्त मदकारी है, उसे देवों के लिए देवों में दो, उन उज्ज्वल को पीने वालों के लिए, जिनके तुम भाग हो। स्वाहा।",
+  "why": "reviewer (minor): Glossary: śukra Hindi = उज्ज्वल."
+ },
+ {
+  "n": "29",
+  "field": "hindi",
+  "old": "हे अग्नि, जिस मर्त्य की तुमने युद्धों में रक्षा की, जिसे तुमने संघर्षों में प्रेरित किया, वह स्थायी अन्नों को धारण करने वाला हो। स्वाहा।",
+  "new": "हे अग्नि, जिस मर्त्य की तुमने युद्धों में रक्षा की, जिसे तुमने बल के संघर्षों में प्रेरित किया, वह स्थायी अन्नों को धारण करने वाला हो। स्वाहा।",
+  "why": "reviewer (minor): Glossary: vāja = strength; 'contests' drops it."
+ },
+ {
+  "n": "30",
+  "field": "hindi",
+  "old": "देव सविता की प्रेरणा में, अश्विनों की भुजाओं से और पूषा के हाथों से मैं ग्रहण करता हूँ। तुम रावा हो; इस अध्वर को गहरा बनाओ, इन्द्र के लिए सबसे अच्छा सुसम्पन्न। उत्तम पवि से, बल वाले, मधु वाले, दूध वाले मुझको तृप्त करो; तुम निग्राभ्या हो, देवों द्वारा सुनी हुई।",
+  "new": "देव सविता की प्रेरणा में, अश्विनों की भुजाओं से और पूषा के हाथों से मैं ग्रहण करता हूँ। तुम रावा हो; इस अनुष्ठान को गहरा बनाओ, इन्द्र के लिए सबसे अच्छा सुसम्पन्न। उत्तम पवि से, बल वाले, मधु वाले, दूध वाले मुझको तृप्त करो; तुम निग्राभ्या हो, देवों द्वारा सुनी हुई।",
+  "why": "reviewer (error): Glossary: Hindi adhvara = अनुष्ठान."
+ },
+ {
+  "n": "30",
+  "field": "english",
+  "old": "At the impulse of the god Savitṛ, with the arms of the two Aśvins and the hands of Pūṣan, I take. You are rāvā; make this rite deep, best delivered for Indra. With the highest pavi, you are the nigrābhyā, heard by the gods; satisfy me, who am full of vigour, honey and milk.",
+  "new": "At the impulse of the god Savitṛ, with the arms of the two Aśvins and the hands of Pūṣan, I take. You are rāvā; make this rite deep, best delivered for Indra. With the highest pavi, you are the nigrābhyās, heard by the gods; satisfy me, who am full of vigour, honey and milk.",
+  "why": "reviewer (minor): nigrābhyāḥ stha is plural; singular 'you' (and Hindi 'तुम ... हो') mislabels it."
+ },
+ {
+  "n": "34",
+  "field": "hindi",
+  "old": "तुम तेज़ हो, वृत्र को जीतने वाली, राध से स्वागत की गई, अमृत की पत्नियाँ हो। हे दिव्य स्त्रियो, देवों के बीच इस यज्ञ को ले चलो; बुलाई हुई तुम सोम का पान करो।",
+  "new": "तुम तेज़ हो, वृत्र को जीतने वाली, राध से स्वागत की गई, अमर की पत्नियाँ हो। हे दिव्य स्त्रियो, देवों के बीच इस यज्ञ को ले चलो; बुलाई हुई तुम सोम का पान करो।",
+  "why": "reviewer (error): English says 'the immortal' (amṛtasya, masc.); Hindi अमृत means nectar."
+ },
+ {
+  "n": "34",
+  "field": "hindi",
+  "old": "तुम तेज़ हो, वृत्र को जीतने वाली, राध से स्वागत की गई, अमर की पत्नियाँ हो। हे दिव्य स्त्रियो, देवों के बीच इस यज्ञ को ले चलो; बुलाई हुई तुम सोम का पान करो।",
+  "new": "तुम तेज़ हो, वृत्र को जीतने वाली, राध से स्वागत की गई, अमर की पत्नियाँ हो। हे देवियो, देवों के बीच इस यज्ञ को ले चलो; बुलाई हुई तुम सोम का पान करो।",
+  "why": "reviewer (error): 'स्त्रियो' (women) added; devīḥ is 'divine ones' / goddesses."
+ },
+ {
+  "n": "6",
+  "field": "text_flags",
+  "old": "why",
+  "new": "j note",
+  "manual": true
+ },
+ {
+  "n": "10",
+  "field": "text_flags",
+  "old": "why",
+  "new": "j note",
+  "manual": true
+ },
+ {
+  "n": "11",
+  "field": "text_flags",
+  "old": "why",
+  "new": "j note",
+  "manual": true
+ },
+ {
+  "n": "16",
+  "field": "text_flags",
+  "old": "why",
+  "new": "j note",
+  "manual": true
+ },
+ {
+  "n": "7",
+  "field": "split",
+  "old": "prāguḥ (invented noun)",
+  "new": "pra aguḥ (verb)",
+  "manual": true
+ },
+ {
+  "n": "7",
+  "field": "gram",
+  "old": "m. acc. pl.",
+  "new": "m. nom. pl.",
+  "manual": true
+ },
+ {
+  "n": "7",
+  "field": "gram",
+  "old": "tat-puruṣa m. acc. pl.",
+  "new": "adj. superl. (-tama), m. acc. pl.",
+  "manual": true
+ },
+ {
+  "n": "7",
+  "field": "english",
+  "old": "to the gods, the divine clans, the prāgu eager ones, the best bearers.",
+  "new": "the divine clans, the eager ones, went forth to the gods, the best bearers.",
+  "manual": true
+ },
+ {
+  "n": "7",
+  "field": "hindi",
+  "old": "देवों के प्रति, दैवी प्रजाओं के प्रति, प्रागु उत्सुकों के प्रति, सबसे अधिक वहन करने वालों के प्रति।",
+  "new": "दैवी प्रजाएँ, उत्सुक, देवों के पास, सबसे अधिक वहन करने वालों के पास आगे गईं।",
+  "manual": true
+ },
+ {
+  "n": "10",
+  "field": "english",
+  "old": "which is present",
+  "new": "even as it is",
+  "manual": true
+ },
+ {
+  "n": "10",
+  "field": "hindi",
+  "old": "जो भली-भाँति खाया हुआ है",
+  "new": "जो भली-भाँति खाया हुआ भी है",
+  "manual": true
+ },
+ {
+  "n": "11",
+  "field": "english",
+  "old": "be one with its body",
+  "new": "be one with this one's body",
+  "manual": true
+ },
+ {
+  "n": "11",
+  "field": "notes",
+  "old": "'varṣaḥ' taken as vocative 'rain' (uncertain) and left as varṣa in the translation;",
+  "new": "'varṣaḥ' taken as vocative 'rain' (uncertain) and left as varṣa in the translation (the Hindi वर्ष is the same Sanskrit word, not 'year');",
+  "manual": true
+ },
+ {
+  "n": "14",
+  "field": "notes",
+  "old": "(commentators take it as feet); ",
+  "new": "; ",
+  "manual": true
+ },
+ {
+  "n": "18",
+  "field": "english",
+  "old": "the heat has wavered;",
+  "new": "the wavering of the heat has happened (uncertain);",
+  "manual": true
+ },
+ {
+  "n": "19",
+  "field": "gloss",
+  "old": "forward directions",
+  "new": "pra-directions",
+  "manual": true
+ },
+ {
+  "n": "19",
+  "field": "gloss",
+  "old": "near directions",
+  "new": "ā-directions",
+  "manual": true
+ },
+ {
+  "n": "19",
+  "field": "gloss",
+  "old": "intermediate directions",
+  "new": "vi-directions",
+  "manual": true
+ },
+ {
+  "n": "19",
+  "field": "gloss",
+  "old": "upward directions",
+  "new": "ud-directions",
+  "manual": true
+ },
+ {
+  "n": "19",
+  "field": "english",
+  "old": "forward directions, near directions, intermediate directions, upward directions",
+  "new": "pra-directions, ā-directions, vi-directions, ud-directions",
+  "manual": true
+ },
+ {
+  "n": "21",
+  "field": "confidence",
+  "old": "medium",
+  "new": "low",
+  "manual": true
+ },
+ {
+  "n": "22",
+  "field": "english",
+  "old": "'unslayable ones!'",
+  "new": "'aghnyā'",
+  "manual": true
+ },
+ {
+  "n": "22",
+  "field": "notes",
+  "old": "('aghnyā' rendered 'unslayable', no noun added;",
+  "new": "('aghnyā' left untranslated in both languages;",
+  "manual": true
+ },
+ {
+  "n": "25",
+  "field": "english",
+  "old": "in heaven among the gods, with the hotrā.",
+  "new": "in heaven among the gods, hotrā (form uncertain).",
+  "manual": true
+ },
+ {
+  "n": "25",
+  "field": "hindi",
+  "old": "देवों के बीच, होत्रा के साथ थामो।",
+  "new": "देवों के बीच थामो; होत्रा।",
+  "manual": true
+ },
+ {
+  "n": "28",
+  "field": "text_flags",
+  "old": "kṣityā flag",
+  "new": "removed",
+  "manual": true
+ },
+ {
+  "n": "28",
+  "field": "notes",
+  "old": "(case and sense doubtful; could be 'from')",
+  "new": "(ai before a vowel appears as ā, as in unit 16; sense doubtful)",
+  "manual": true
+ },
+ {
+  "n": "29",
+  "field": "english",
+  "old": "he will hold lasting refreshments",
+  "new": "may he hold lasting refreshments",
+  "manual": true
+ },
+ {
+  "n": "29",
+  "field": "hindi",
+  "old": "स्थायी अन्नों को",
+  "new": "स्थायी पुष्टिकर वस्तुओं को",
+  "manual": true
+ },
+ {
+  "n": "34",
+  "field": "hindi",
+  "old": "राध से",
+  "new": "दान से",
+  "manual": true
+ },
+ {
+  "n": "36",
+  "field": "hindi",
+  "old": "आगे, पीछे, ऊपर, नीचे",
+  "new": "आगे, दूर, ऊपर, नीचे",
+  "manual": true
+ },
+ {
+  "n": "36",
+  "field": "notes",
+  "old": "(commentators take them as east, west, north, south)",
+  "new": "(the line names no directions)",
+  "manual": true
+ },
+ {
+  "n": "37",
+  "field": "confidence",
+  "old": "high",
+  "new": "medium",
+  "manual": true
+ }
+]

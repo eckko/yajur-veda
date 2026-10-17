@@ -24,3 +24,4 @@ AI drafts. English uses plain IAST for Sanskrit terms; Hindi stays in Devanagari
 - Deity names such as Vāyu stay names; viś = clan; hotṛ stays hotṛ; varcas = brilliance (Hindi तेज); ūrj = sap/strength (Hindi रस/बल)
 - yoni = womb (Hindi योनि, feminine: तुम्हारी योनि); vāja = strength also in vājasāti; Marka, Śaṇḍa and Tutha stay names
 - yoni = womb (Hindi योनि, feminine: तुम्हारी योनि); vāja = strength also in vājasāti; Marka, Śaṇḍa and Tutha stay names
+- dhāman = abode (Hindi धाम, not आश्रय); tvaṣṭar is the vocative of tvaṣṭṛ; Hindi never uses अमृत for amṛta "the immortal"
