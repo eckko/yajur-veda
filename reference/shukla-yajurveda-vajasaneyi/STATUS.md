@@ -1,0 +1,53 @@
+# Status: shukla-yajurveda-vajasaneyi
+
+Updated: 2026-10-17 on branch docs/2026-10-17/version-1. Base source: S1 (DharmicData, Madhyandina). 40 of 40 adhyayas extracted, 1,975 verses, 3,309 lines.
+
+The checker reports 24 errors, all stray Latin `j`/`k` letters kept exactly as in S1 (logged line by line in ISSUES.md). No other errors. No translations found yet.
+
+| Part | Chapter | Sanskrit lines | Source | Hindi | English | Check | Notes |
+|---|---|---|---|---|---|---|---|
+| 00 | 01 | 57 | S1 | -- | -- | pass |  |
+| 00 | 02 | 52 | S1 | -- | -- | errors (Latin) | 1 line(s) with stray Latin letter (checker error, see ISSUES.md) |
+| 00 | 03 | 81 | S1 | -- | -- | errors (Latin) | 2 line(s) with stray Latin letter (checker error, see ISSUES.md) |
+| 00 | 04 | 55 | S1 | -- | -- | errors (Latin) | 4 line(s) with stray Latin letter (checker error, see ISSUES.md) |
+| 00 | 05 | 73 | S1 | -- | -- | errors (Latin) | 4 line(s) with stray Latin letter (checker error, see ISSUES.md) |
+| 00 | 06 | 57 | S1 | -- | -- | errors (Latin) | 6 line(s) with stray Latin letter (checker error, see ISSUES.md) |
+| 00 | 07 | 97 | S1 | -- | -- | errors (Latin) | 6 line(s) with stray Latin letter (checker error, see ISSUES.md) |
+| 00 | 08 | 130 | S1 | -- | -- | errors (Latin) | 1 line(s) with stray Latin letter (checker error, see ISSUES.md) |
+| 00 | 09 | 71 | S1 | -- | -- | pass |  |
+| 00 | 10 | 61 | S1 | -- | -- | pass |  |
+| 00 | 11 | 132 | S1 | -- | -- | pass |  |
+| 00 | 12 | 179 | S1 | -- | -- | pass |  |
+| 00 | 13 | 105 | S1 | -- | -- | pass |  |
+| 00 | 14 | 68 | S1 | -- | -- | pass |  |
+| 00 | 15 | 107 | S1 | -- | -- | pass |  |
+| 00 | 16 | 78 | S1 | -- | -- | pass |  |
+| 00 | 17 | 176 | S1 | -- | -- | pass |  |
+| 00 | 18 | 114 | S1 | -- | -- | pass |  |
+| 00 | 19 | 155 | S1 | -- | -- | pass |  |
+| 00 | 20 | 127 | S1 | -- | -- | pass |  |
+| 00 | 21 | 96 | S1 | -- | -- | pass |  |
+| 00 | 22 | 41 | S1 | -- | -- | pass |  |
+| 00 | 23 | 101 | S1 | -- | -- | pass |  |
+| 00 | 24 | 50 | S1 | -- | -- | pass |  |
+| 00 | 25 | 87 | S1 | -- | -- | pass |  |
+| 00 | 26 | 45 | S1 | -- | -- | pass |  |
+| 00 | 27 | 91 | S1 | -- | -- | pass |  |
+| 00 | 28 | 94 | S1 | -- | -- | pass |  |
+| 00 | 29 | 117 | S1 | -- | -- | pass |  |
+| 00 | 30 | 29 | S1 | -- | -- | pass |  |
+| 00 | 31 | 44 | S1 | -- | -- | pass |  |
+| 00 | 32 | 32 | S1 | -- | -- | pass |  |
+| 00 | 33 | 171 | S1 | -- | -- | pass |  |
+| 00 | 34 | 109 | S1 | -- | -- | pass |  |
+| 00 | 35 | 34 | S1 | -- | -- | pass |  |
+| 00 | 36 | 37 | S1 | -- | -- | pass |  |
+| 00 | 37 | 43 | S1 | -- | -- | pass |  |
+| 00 | 38 | 55 | S1 | -- | -- | pass |  |
+| 00 | 39 | 24 | S1 | -- | -- | pass |  |
+| 00 | 40 | 34 | S1 | -- | -- | pass |  |
+
+## Next
+- Get S2 (Sanskrit Library TEI XML) or S3 (GRETIL) downloaded by the owner to cross-check and to resolve the `j` letters and numbering notes.
+- Find Hindi and English translations (none looked for yet).
+- Parser: tools/parse_s1.py (re-run reproduces text/ exactly).
