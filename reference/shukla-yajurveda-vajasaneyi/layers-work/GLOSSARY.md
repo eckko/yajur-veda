@@ -14,3 +14,6 @@ AI drafts. English uses plain IAST for Sanskrit terms; Hindi stays in Devanagari
 - Hindi: śarma = आश्रय (never शर्म); nāka = स्वर्ग; rāsnā = मेखला; śukra = उज्ज्वल. Keep dhiṣaṇā, veṣa, kāmadhukṣaḥ transliterated as uncertain terms
 - kavi = seer (kave "O seer"), apart from ṛṣi = sage; Hindi brahman = ब्रह्मन् (never ब्रह्मा); ājya = clarified butter, ghṛta = ghee; śoṣa = dryness; hima = winter (Hindi शीत ऋतु); āśis = wish, blessing; Āgnīdhra stays untranslated (priest)
 - karma = rite (ritual act) in this Samhita (overrides the generic "action"); vipra = inspired one (not ṛṣi/sage); no brackets in Hindi even for supplied words; do not add identities the line does not state
+- dhī = insight (धी); medhā = wisdom (मेधा); cit = thought (चित्); mati = reflection; kratu = will (संकल्प); vrata = observance (व्रत), also Varuṇa's vratāni
+- śarma English = shelter (Hindi आश्रय); adhvara English = rite (Hindi अनुष्ठान); sūrya = Sūrya in every unit; kavi = seer (Hindi कवि)
+- Keep uncertain terms transliterated: sagme, skambhasarjanī, oṇyoḥ

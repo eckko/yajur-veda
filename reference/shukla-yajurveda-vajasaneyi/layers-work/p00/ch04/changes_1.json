@@ -1,0 +1,598 @@
+[
+ {
+  "n": "2",
+  "field": "hindi",
+  "old": "जल, जो माताएँ हैं, हमें शुद्ध करें; घृत को पवित्र करने वाली (देवियाँ) हमें घृत से पवित्र करें। क्योंकि ये दिव्य (जल) सारी अशुद्धि बहा ले जाते हैं; इनमें से मैं शुद्ध और पवित्र होकर निकलता हूँ। तू दीक्षा और तप का शरीर है; उस कल्याणकारी और सुखद तुझको मैं धारण करता हूँ, शुभ वर्ण को पुष्ट करता हुआ।",
+  "new": "जल, जो माताएँ हैं, हमें शुद्ध करें; घृत को पवित्र करने वाली हमें घृत से पवित्र करें। क्योंकि ये दिव्य (जल) सारी अशुद्धि बहा ले जाते हैं; इनमें से मैं शुद्ध और पवित्र होकर निकलता हूँ। तू दीक्षा और तप का शरीर है; उस कल्याणकारी और सुखद तुझको मैं धारण करता हूँ, शुभ वर्ण को पुष्ट करता हुआ।",
+  "why": "reviewer (minor): bracketed gloss in the Hindi (the brief and glossary forbid brackets in Hindi)"
+ },
+ {
+  "n": "2",
+  "field": "hindi",
+  "old": "जल, जो माताएँ हैं, हमें शुद्ध करें; घृत को पवित्र करने वाली हमें घृत से पवित्र करें। क्योंकि ये दिव्य (जल) सारी अशुद्धि बहा ले जाते हैं; इनमें से मैं शुद्ध और पवित्र होकर निकलता हूँ। तू दीक्षा और तप का शरीर है; उस कल्याणकारी और सुखद तुझको मैं धारण करता हूँ, शुभ वर्ण को पुष्ट करता हुआ।",
+  "new": "जल, जो माताएँ हैं, हमें शुद्ध करें; घृत को पवित्र करने वाली हमें घृत से पवित्र करें। क्योंकि ये देवियाँ सारी अशुद्धि बहा ले जाती हैं; इनमें से मैं शुद्ध और पवित्र होकर निकलता हूँ। तू दीक्षा और तप का शरीर है; उस कल्याणकारी और सुखद तुझको मैं धारण करता हूँ, शुभ वर्ण को पुष्ट करता हुआ।",
+  "why": "reviewer (minor): bracketed gloss in the Hindi (the brief and glossary forbid brackets in Hindi); devīḥ is feminine plural 'the divine ones'"
+ },
+ {
+  "n": "4",
+  "field": "hindi",
+  "old": "चित्त का स्वामी मुझे पवित्र करे, वाणी का स्वामी मुझे पवित्र करे; देव सविता मुझे अखण्डित छन्ने से, सूर्य की किरणों से पवित्र करे। हे छन्ने के स्वामी, छन्ने से पवित्र हुए उस तेरे (प्रसंग में), मैं जिस कामना से पवित्र करता हूँ, उसे मैं सिद्ध कर सकूँ।",
+  "new": "चित्त का स्वामी मुझे पवित्र करे, वाणी का स्वामी मुझे पवित्र करे; देव सविता मुझे अखण्डित छन्ने से, सूर्य की किरणों से पवित्र करे। हे छन्ने के स्वामी, छन्ने से पवित्र हुए उस तेरे, मैं जिस कामना से पवित्र करता हूँ, उसे मैं सिद्ध कर सकूँ।",
+  "why": "reviewer (minor): Bracketed addition in the Hindi ('in the matter of') that the Sanskrit does not have."
+ },
+ {
+  "n": "4",
+  "field": "english",
+  "old": "May the lord of thought purify me; may the lord of speech purify me; may the god Savitṛ purify me with the unbroken strainer, with the rays of the sun. O lord of the strainer, of you who are purified by the strainer: with whatever desire I purify, may I be able to achieve that.",
+  "new": "May the lord of thought purify me; may the lord of speech purify me; may the god Savitṛ purify me with the unbroken strainer, with the rays of Sūrya. O lord of the strainer, of you who are purified by the strainer: with whatever desire I purify, may I be able to achieve that.",
+  "why": "reviewer (minor): Glossary: Sūrya stays Sūrya."
+ },
+ {
+  "n": "5",
+  "field": "hindi",
+  "old": "हे देवो, हम तुमसे उस अनुष्ठान में चलते हुए यज्ञ में वांछित धन माँगते हैं। हे यज्ञ के योग्य देवो, हम तुम्हें आशीर्वादों के लिए बुलाते हैं।",
+  "new": "हे देवो, हम तुमसे चलते हुए अनुष्ठान में वांछित धन माँगते हैं। हे यज्ञ के योग्य देवो, हम तुम्हें आशीर्वादों के लिए बुलाते हैं।",
+  "why": "reviewer (error): adhvare is doubled ('rite' and 'sacrifice') and 'उस' is added; glossary: adhvara = rite."
+ },
+ {
+  "n": "5",
+  "field": "english",
+  "old": "O gods, we ask of you what is precious, at the sacrifice now proceeding. O gods worthy of sacrifice, we call on you for blessings.",
+  "new": "O gods, we ask of you what is precious, at the rite now proceeding. O gods worthy of sacrifice, we call on you for blessings.",
+  "why": "reviewer (error): Glossary: adhvara = rite (yajña stays sacrifice)."
+ },
+ {
+  "n": "6",
+  "field": "hindi",
+  "old": "स्वाहा! मन से यज्ञ को (मैं आरम्भ करता हूँ); स्वाहा! विशाल अन्तरिक्ष से; स्वाहा! द्युलोक और पृथिवी से; स्वाहा! वायु से मैं ग्रहण करता हूँ; स्वाहा!",
+  "new": "स्वाहा! यज्ञ को मन से; स्वाहा! विशाल अन्तरिक्ष से; स्वाहा! द्युलोक और पृथिवी से; स्वाहा! वायु से मैं ग्रहण करता हूँ; स्वाहा!",
+  "why": "reviewer (error): Bracketed verb 'I begin' does not match ārabhe as translated in English ('take up') and as the Hindi itself renders it at the end ('ग्रहण करता हूँ'); brackets forbidden."
+ },
+ {
+  "n": "7",
+  "field": "hindi",
+  "old": "आकूति को, प्रयोग (प्रयुज्) को, अग्नि को स्वाहा; मेधा को, मन को, अग्नि को स्वाहा; दीक्षा को, तप को, अग्नि को स्वाहा; सरस्वती को, पूषा को, अग्नि को स्वाहा। हे दिव्य, विशाल, सबका कल्याण करने वाले जलो, हे द्यावापृथिवी, हे विशाल अन्तरिक्ष, हम बृहस्पति की हवि से सेवा करें। स्वाहा!",
+  "new": "आकूति को, प्रयोग को, अग्नि को स्वाहा; मेधा को, मन को, अग्नि को स्वाहा; दीक्षा को, तप को, अग्नि को स्वाहा; सरस्वती को, पूषा को, अग्नि को स्वाहा। हे दिव्य, विशाल, सबका कल्याण करने वाले जलो, हे द्यावापृथिवी, हे विशाल अन्तरिक्ष, हम बृहस्पति की हवि से सेवा करें। स्वाहा!",
+  "why": "reviewer (minor): bracketed gloss in the Hindi (the brief and glossary forbid brackets in Hindi)"
+ },
+ {
+  "n": "7",
+  "field": "hindi",
+  "old": "आकूति को, प्रयोग को, अग्नि को स्वाहा; मेधा को, मन को, अग्नि को स्वाहा; दीक्षा को, तप को, अग्नि को स्वाहा; सरस्वती को, पूषा को, अग्नि को स्वाहा। हे दिव्य, विशाल, सबका कल्याण करने वाले जलो, हे द्यावापृथिवी, हे विशाल अन्तरिक्ष, हम बृहस्पति की हवि से सेवा करें। स्वाहा!",
+  "new": "आकूति को, प्रयोग को, अग्नि को स्वाहा; मेधा को, मन को, अग्नि को स्वाहा; दीक्षा को, तप को, अग्नि को स्वाहा; सरस्वती को, पूषा को, अग्नि को स्वाहा। हे दिव्य, विशाल, सबका कल्याण करने वाले जलो, हे द्यावापृथिवी, हे विशाल अन्तरिक्ष, हम बृहस्पति को हवि से पूजें। स्वाहा!",
+  "why": "reviewer (error): bṛhaspataye is dative (object of vidh 'worship, serve'), haviṣā is the instrument; the Hindi turned it into a genitive 'Bṛhaspati's oblation', contradicting the English."
+ },
+ {
+  "n": "8",
+  "field": "notes",
+  "old": "Lines 1 and 2 follow the familiar Ṛgvedic wording; 'iṣudhyati' taken as 'implores/seeks'; 'puṣyase' as a dative infinitive 'for thriving' (alternatively 'to thrive'). 'netuḥ' could also be read as a separate noun phrase 'of the god, the leader'.",
+  "new": "'iṣudhyati' taken as 'implores/seeks'; 'puṣyase' as a dative infinitive 'for thriving' (alternatively 'to thrive'). 'netuḥ' could also be read as a separate noun phrase 'of the god, the leader'.",
+  "why": "reviewer (minor): Imports another book/parallel (brief: do not import other books)."
+ },
+ {
+  "n": "9",
+  "field": "hindi",
+  "old": "तुम दोनों ऋक् और साम की शिल्प-कृतियाँ हो; उन तुम दोनों को मैं ग्रहण करता हूँ; वे तुम दोनों इस यज्ञ की समाप्ति तक मेरी रक्षा करो। तू शरण है, मुझे शरण दे; तुझे नमस्कार हो; मुझे हिंसित मत कर।",
+  "new": "तुम दोनों ऋक् और साम की शिल्प-कृतियाँ हो; उन तुम दोनों को मैं ग्रहण करता हूँ; वे तुम दोनों इस यज्ञ की समाप्ति तक मेरी रक्षा करो। तू आश्रय है, मुझे आश्रय दे; तुझे नमस्कार हो; मुझे हिंसित मत कर।",
+  "why": "reviewer (minor): Glossary: Hindi śarma = आश्रय (never शरण/शर्म in this book)."
+ },
+ {
+  "n": "9",
+  "field": "english",
+  "old": "You two are the works of art of the Ṛc and the Sāman. I take hold of you two; protect me, you two, up to the close of this sacrifice. You are protection; give me protection. Homage to you; do not harm me.",
+  "new": "You two are the works of art of the Ṛc and the Sāman. I take hold of you two; protect me, you two, up to the close of this sacrifice. You are shelter; give me shelter. Homage to you; do not harm me.",
+  "why": "reviewer (minor): Inconsistent with unit 10 ('shelter') for the same word śarma."
+ },
+ {
+  "n": "10",
+  "field": "hindi",
+  "old": "तू शक्ति है, आङ्गिरसी है, ऊन के समान कोमल है; मुझमें बल स्थापित कर। तू सोम का आवरण है; तू विष्णु का शरण है, यजमान का शरण है; तू इन्द्र की योनि है; खेतों को उत्तम अन्न वाला बना। हे वनस्पति, ऊपर उठ; सीधे खड़े होकर इस यज्ञ की समाप्ति तक मुझे कष्ट से बचा।",
+  "new": "तू शक्ति है, आङ्गिरसी है, ऊन के समान कोमल है; मुझमें बल स्थापित कर। तू सोम का आवरण है; तू विष्णु का आश्रय है, यजमान का आश्रय है; तू इन्द्र की योनि है; खेतों को उत्तम अन्न वाला बना। हे वनस्पति, ऊपर उठ; सीधे खड़े होकर इस यज्ञ की समाप्ति तक मुझे कष्ट से बचा।",
+  "why": "reviewer (minor): Glossary: Hindi śarma = आश्रय."
+ },
+ {
+  "n": "11",
+  "field": "hindi",
+  "old": "व्रत का पालन करो: अग्नि ब्रह्मा है, अग्नि यज्ञ है, यज्ञ के योग्य वनस्पति है। हम अपने अभीष्ट के लिए उस दिव्य, अत्यन्त कृपालु, तेज देने वाली और यज्ञ को वहन करने वाली बुद्धि (प्रार्थना) का स्मरण करते हैं; वह हमारे वश में और सुगम हो। जो देवता मन से उत्पन्न हैं, मन से जुड़े हैं और दक्ष संकल्प वाले हैं, वे हमारी सहायता करें, वे हमारी रक्षा करें; उनके लिए स्वाहा!",
+  "new": "व्रत का पालन करो: अग्नि ब्रह्मन् है, अग्नि यज्ञ है, यज्ञ के योग्य वनस्पति है। हम अपने अभीष्ट के लिए उस दिव्य, अत्यन्त कृपालु, तेज देने वाली और यज्ञ को वहन करने वाली बुद्धि (प्रार्थना) का स्मरण करते हैं; वह हमारे वश में और सुगम हो। जो देवता मन से उत्पन्न हैं, मन से जुड़े हैं और दक्ष संकल्प वाले हैं, वे हमारी सहायता करें, वे हमारी रक्षा करें; उनके लिए स्वाहा!",
+  "why": "reviewer (error): Glossary: Hindi brahman = ब्रह्मन् (never ब्रह्मा)."
+ },
+ {
+  "n": "11",
+  "field": "hindi",
+  "old": "व्रत का पालन करो: अग्नि ब्रह्मन् है, अग्नि यज्ञ है, यज्ञ के योग्य वनस्पति है। हम अपने अभीष्ट के लिए उस दिव्य, अत्यन्त कृपालु, तेज देने वाली और यज्ञ को वहन करने वाली बुद्धि (प्रार्थना) का स्मरण करते हैं; वह हमारे वश में और सुगम हो। जो देवता मन से उत्पन्न हैं, मन से जुड़े हैं और दक्ष संकल्प वाले हैं, वे हमारी सहायता करें, वे हमारी रक्षा करें; उनके लिए स्वाहा!",
+  "new": "व्रत का पालन करो: अग्नि ब्रह्मन् है, अग्नि यज्ञ है, यज्ञ के योग्य वनस्पति है। हम अपने अभीष्ट के लिए उस दिव्य, अत्यन्त कृपालु, तेज देने वाली और यज्ञ को वहन करने वाली बुद्धि का स्मरण करते हैं; वह हमारे वश में और सुगम हो। जो देवता मन से उत्पन्न हैं, मन से जुड़े हैं और दक्ष संकल्प वाले हैं, वे हमारी सहायता करें, वे हमारी रक्षा करें; उनके लिए स्वाहा!",
+  "why": "reviewer (minor): bracketed gloss in the Hindi (the brief and glossary forbid brackets in Hindi)"
+ },
+ {
+  "n": "12",
+  "field": "hindi",
+  "old": "हे जलो, पीए जाने पर तुम हमारे उदर के भीतर स्फूर्तिदायक और अत्यन्त सुखकर होओ। वे दिव्य, अमर, ऋत को बढ़ाने वाली (जलदेवियाँ) हमारे लिए रोग-रहित, पीड़ा-रहित और निर्दोष होकर प्रिय लगें।",
+  "new": "हे जलो, पीए जाने पर तुम हमारे उदर के भीतर स्फूर्तिदायक और अत्यन्त सुखकर होओ। वे दिव्य, अमर, ऋत को बढ़ाने वाली हमारे लिए रोग-रहित, पीड़ा-रहित और निर्दोष होकर प्रिय लगें।",
+  "why": "reviewer (minor): bracketed gloss in the Hindi (the brief and glossary forbid brackets in Hindi)"
+ },
+ {
+  "n": "13",
+  "field": "hindi",
+  "old": "यह तेरा यज्ञीय शरीर है; मैं जलों को छोड़ता हूँ, सन्तान को नहीं। हे कष्ट से मुक्त करने वाले, स्वाहा से अर्पित (जलो), पृथिवी में प्रवेश करो। पृथिवी के साथ एक हो जा।",
+  "new": "यह तेरा यज्ञीय शरीर है; मैं जलों को छोड़ता हूँ, सन्तान को नहीं। हे कष्ट से मुक्त करने वालो, स्वाहा से अर्पित होने वालो, पृथिवी में प्रवेश करो। पृथिवी के साथ एक हो जा।",
+  "why": "reviewer (minor): bracketed gloss in the Hindi (the brief and glossary forbid brackets in Hindi); also singular 'वाले' for a plural address."
+ },
+ {
+  "n": "13",
+  "field": "english",
+  "old": "This is your sacrificial body; I release the waters, not the offspring. You who free from distress, offered with svāhā, enter the earth. Unite with the earth.",
+  "new": "This is your sacrificial body; I release the waters, not the offspring. You who free from distress, you who are made with svāhā, enter the earth. Unite with the earth.",
+  "why": "reviewer (minor): Ungrammatical English ('You who free')."
+ },
+ {
+  "n": "14",
+  "field": "hindi",
+  "old": "हे अग्नि, तू भली-भाँति जागता रह; हम भली-भाँति आनन्दित हों। सावधान रहते हुए हमारी रक्षा कर; जागने पर हमें फिर से (स्वस्थ/पूर्ण) कर।",
+  "new": "हे अग्नि, तू भली-भाँति जागता रह; हम भली-भाँति आनन्दित हों। सावधान रहते हुए हमारी रक्षा कर; जागने पर हमें फिर से नवीन कर।",
+  "why": "reviewer (error): Unsupported addition ('healthy/whole') in brackets with a slash; punaskṛdhi has no such object."
+ },
+ {
+  "n": "14",
+  "field": "english",
+  "old": "O Agni, stay well awake; may we rejoice well. Protect us, not neglecting us; at our waking make us whole again.",
+  "new": "O Agni, stay well awake; may we rejoice well. Protect us, not neglecting us; at our waking make us anew.",
+  "why": "reviewer (error): Unsupported addition 'whole' (the notes admit it is not in the text)."
+ },
+ {
+  "n": "14",
+  "field": "notes",
+  "old": "'rakṣā ṇo' = rakṣa naḥ. 'apra-yucchan' (not neglecting, vigilant) is a Vedic participle; sense taken from the usual reading. 'punaskṛdhi' (punaḥ kṛdhi) rendered 'make (us) again', with 'whole' supplied only as the natural sense (not in the text); alternative: 'renew us'.",
+  "new": "'rakṣā ṇo' = rakṣa naḥ. 'apra-yucchan' (not neglecting, vigilant) is a Vedic participle; sense taken from the usual reading. 'punaskṛdhi' (punaḥ kṛdhi) rendered 'make (us) anew'; alternative: 'restore us'.",
+  "why": "reviewer (minor): Notes must match the corrected translation."
+ },
+ {
+  "n": "15",
+  "field": "hindi",
+  "old": "मेरे पास फिर से मन आ गया है, फिर से आयु आ गई है, फिर से प्राण, फिर से आत्मा आ गई है, फिर से दृष्टि, फिर से श्रवण-शक्ति आ गई है। अहिंसित, शरीर के रक्षक वैश्वानर अग्नि हमें दुर्गति से और निन्दा से बचाएँ।",
+  "new": "मेरे पास फिर से मन आ गया है, फिर से आयु आ गई है, फिर से प्राण, फिर से आत्मा आ गई है, फिर से दृष्टि, फिर से श्रवण-शक्ति आ गई है। अहिंसित, शरीर के रक्षक वैश्वानर अग्नि हमें दुर्गति से और निन्दा से बचाए।",
+  "why": "reviewer (minor): pātu is 3 sg.; the Hindi verb is plural."
+ },
+ {
+  "n": "17",
+  "field": "hindi",
+  "old": "हे शुक्र (दीप्तिमान्), यह तेरा शरीर है, यह तेज है; उसके साथ एक हो, दीप्ति को प्राप्त कर। तू वेगवती है, मन से धारण की गई है, विष्णु के लिए प्रिय/स्वीकृत है।",
+  "new": "हे उज्ज्वल, यह तेरा शरीर है, यह तेज है; उसके साथ एक हो, दीप्ति को प्राप्त कर। तू वेगवती है, मन से धारण की गई है, विष्णु के लिए प्रिय/स्वीकृत है।",
+  "why": "reviewer (minor): bracketed gloss in the Hindi (the brief and glossary forbid brackets in Hindi); glossary: Hindi śukra = उज्ज्वल."
+ },
+ {
+  "n": "17",
+  "field": "hindi",
+  "old": "हे उज्ज्वल, यह तेरा शरीर है, यह तेज है; उसके साथ एक हो, दीप्ति को प्राप्त कर। तू वेगवती है, मन से धारण की गई है, विष्णु के लिए प्रिय/स्वीकृत है।",
+  "new": "हे उज्ज्वल, यह तेरा शरीर है, यह तेज है; उसके साथ एक हो, दीप्ति को प्राप्त कर। तू वेगवती है, मन से धारण की गई है, विष्णु के लिए प्रिय है।",
+  "why": "reviewer (minor): Slash alternative inside the Hindi translation."
+ },
+ {
+  "n": "18",
+  "field": "hindi",
+  "old": "उस सत्य-प्रेरणा वाली तेरी प्रेरणा में मैं तेरे शरीर के नियन्त्रण को प्राप्त करूँ। स्वाहा! तू शुक्र (उज्ज्वल) है, चन्द्र (दीप्तिमान्) है, अमृत है, सब देवों से सम्बद्ध है।",
+  "new": "उस सत्य-प्रेरणा वाली तेरी प्रेरणा में मैं तेरे शरीर के नियन्त्रण को प्राप्त करूँ। स्वाहा! तू उज्ज्वल है, दीप्तिमान् है, अमृत है, सब देवों से सम्बद्ध है।",
+  "why": "reviewer (minor): bracketed gloss in the Hindi (the brief and glossary forbid brackets in Hindi) (twice); glossary: śukra = उज्ज्वल."
+ },
+ {
+  "n": "21",
+  "field": "hindi",
+  "old": "तू धन वाली है, अदिति है, आदित्य-सम्बन्धी है, रुद्र-सम्बन्धी है, दीप्तिमती है। बृहस्पति तुझे अनुग्रह में रमाए; रुद्र वसुओं के साथ (प्रसन्न हुआ है)।",
+  "new": "तू धन वाली है, अदिति है, आदित्य-सम्बन्धी है, रुद्र-सम्बन्धी है, दीप्तिमती है। बृहस्पति तुझे अनुग्रह में रमाए; रुद्र वसुओं के साथ प्रसन्न हुआ है।",
+  "why": "reviewer (minor): bracketed gloss in the Hindi (the brief and glossary forbid brackets in Hindi)"
+ },
+ {
+  "n": "21",
+  "field": "english",
+  "old": "You are the wealthy one, you are Aditi, you belong to the Ādityas, you belong to the Rudras, you are shining. May Bṛhaspati delight you in his favour; Rudra, with the Vasus, has taken pleasure.",
+  "new": "You are the wealthy one, you are Aditi, you belong to the Ādityas, you belong to the Rudras, you are shining. May Bṛhaspati delight you in favour; Rudra, with the Vasus, has taken pleasure.",
+  "why": "reviewer (minor): 'his' is not in the text (sumne is a bare locative)."
+ },
+ {
+  "n": "21",
+  "field": "word.gloss",
+  "word": "cake",
+  "old": "I have desired (uncertain)",
+  "new": "has taken pleasure (uncertain)",
+  "why": "reviewer (minor): Gloss 'I have desired' contradicts the translation ('has taken pleasure') and the subject Rudra."
+ },
+ {
+  "n": "21",
+  "field": "word.gram",
+  "word": "cake",
+  "old": "1 sg. pf. mid.",
+  "new": "3 sg. pf. mid. ā-√kan/√kā (uncertain)",
+  "why": "reviewer (minor): '1 sg.' cannot be right with the nominative subject rudraḥ."
+ },
+ {
+  "n": "22",
+  "field": "word.gram",
+  "word": "vi-yauṣma",
+  "old": "1 pl. aor. opt. pass. vi-√yu",
+  "new": "1 pl. aor. inj. act. vi-√yu (prohibitive with mā)",
+  "why": "reviewer (minor): Not an optative and not passive: with mā it is the aorist injunctive."
+ },
+ {
+  "n": "22",
+  "field": "notes",
+  "old": "Line 2 is difficult: the printed tokens 'tve rā yo me rāyo mā vayaṃ' look damaged or wrongly spaced; 'viyaṷṣma' = viyauṣma (aorist optative of vi-√yu, 'may we be parted'). The closing 'toto rāyaḥ' is unclear. Translation is tentative; ritual sense not imported.",
+  "new": "Line 2 is difficult: the printed tokens 'tve rā yo me rāyo mā vayaṃ' look damaged or wrongly spaced; 'viyaṷṣma' = viyauṣma (aorist optative of vi-√yu, 'may we be parted'). The closing 'toto rāyaḥ' is unclear. Translation is tentative; ritual sense not imported. Reviewer: viyauṣma with mā is the aorist injunctive (prohibitive), not an optative.",
+  "why": "reviewer (minor): Notes repeat the wrong label."
+ },
+ {
+  "n": "23",
+  "field": "hindi",
+  "old": "मैं दिव्य बुद्धि के साथ, उदार और विशाल दृष्टि वाली (देवी) के साथ संयुक्त/दृष्ट हुआ हूँ। मेरी आयु का हरण मत कर; और मैं तेरी (आयु का) न करूँ। हे देवी, तेरे दर्शन में मैं वीर (पुत्र) को प्राप्त करूँ।",
+  "new": "मैं दिव्य बुद्धि के साथ, उदार और विशाल दृष्टि वाली के साथ संयुक्त हुआ हूँ। मेरी आयु का हरण मत कर; और मैं तेरी (आयु का) न करूँ। हे देवी, तेरे दर्शन में मैं वीर (पुत्र) को प्राप्त करूँ।",
+  "why": "reviewer (minor): bracketed gloss in the Hindi (the brief and glossary forbid brackets in Hindi); slash alternative; 'देवी' not in the text here."
+ },
+ {
+  "n": "23",
+  "field": "hindi",
+  "old": "मैं दिव्य बुद्धि के साथ, उदार और विशाल दृष्टि वाली के साथ संयुक्त हुआ हूँ। मेरी आयु का हरण मत कर; और मैं तेरी (आयु का) न करूँ। हे देवी, तेरे दर्शन में मैं वीर (पुत्र) को प्राप्त करूँ।",
+  "new": "मैं दिव्य बुद्धि के साथ, उदार और विशाल दृष्टि वाली के साथ संयुक्त हुआ हूँ। मेरी आयु का हरण मत कर; और न मैं तेरी। हे देवी, तेरे दर्शन में मैं वीर (पुत्र) को प्राप्त करूँ।",
+  "why": "reviewer (minor): bracketed gloss in the Hindi (the brief and glossary forbid brackets in Hindi); the supplied noun is not in the Sanskrit."
+ },
+ {
+  "n": "23",
+  "field": "hindi",
+  "old": "मैं दिव्य बुद्धि के साथ, उदार और विशाल दृष्टि वाली के साथ संयुक्त हुआ हूँ। मेरी आयु का हरण मत कर; और न मैं तेरी। हे देवी, तेरे दर्शन में मैं वीर (पुत्र) को प्राप्त करूँ।",
+  "new": "मैं दिव्य बुद्धि के साथ, उदार और विशाल दृष्टि वाली के साथ संयुक्त हुआ हूँ। मेरी आयु का हरण मत कर; और न मैं तेरी। हे देवी, तेरे दर्शन में मैं वीर को प्राप्त करूँ।",
+  "why": "reviewer (error): Unsupported addition 'son' (the draft's own note says the text does not say 'son')."
+ },
+ {
+  "n": "24",
+  "field": "hindi",
+  "old": "'यह तेरा गायत्र भाग है' ऐसा मेरे लिए सोम से कहो। 'यह तेरा त्रैष्टुभ भाग है' ऐसा मेरे लिए सोम से कहो। 'यह तेरा जागत भाग है' ऐसा मेरे लिए सोम से कहो। 'छन्दों के नाम वालों के साम्राज्य को जा' ऐसा मेरे लिए सोम से कहो। तू हमारा है; तेरा शुक्र (उज्ज्वल) ग्रह लेने योग्य है; विवेकशील जन तुझे छाँटें।",
+  "new": "'यह तेरा गायत्र भाग है' ऐसा मेरे लिए सोम से कहो। 'यह तेरा त्रैष्टुभ भाग है' ऐसा मेरे लिए सोम से कहो। 'यह तेरा जागत भाग है' ऐसा मेरे लिए सोम से कहो। 'छन्दों के नाम वालों के साम्राज्य को जा' ऐसा मेरे लिए सोम से कहो। तू हमारा है; तेरा उज्ज्वल ग्रह ग्रहण करने योग्य है; विवेकशील जन तुझे छाँटें।",
+  "why": "reviewer (minor): bracketed gloss in the Hindi (the brief and glossary forbid brackets in Hindi)"
+ },
+ {
+  "n": "25",
+  "field": "english",
+  "old": "I praise that god Savitṛ of the two (heaven and earth), poet-willed, of true impulse, bestower of treasure; the dear thought, the poet. His lofty splendour, his light, shone in the impulse; the golden-handed, of good skill, measured out heaven by his grace. For the creatures (I take) you; let the creatures breathe after you; you breathe after the creatures.",
+  "new": "I praise that god Savitṛ of the two, poet-willed, of true impulse, bestower of treasure; the dear thought, the poet. His lofty splendour, his light, shone in the impulse; the golden-handed, of good skill, measured out heaven by his grace. For the creatures (I take) you; let the creatures breathe after you; you breathe after the creatures.",
+  "why": "reviewer (error): Commentary imported into the translation; oṇyoḥ is obscure and the line does not name the two."
+ },
+ {
+  "n": "25",
+  "field": "hindi",
+  "old": "उस देव सविता की मैं स्तुति करता हूँ, जो द्यावापृथिवी का है, कवि-सदृश प्रज्ञा वाला, सत्य-प्रेरणा वाला, रत्न देने वाला है; (उस) प्रिय, मनन-योग्य, कवि की। जिसकी ऊँची दीप्ति ने प्रेरणा में प्रकाश किया; स्वर्ण-हस्त, सुकर्मा ने कृपा से स्वर्लोक को नापा। प्रजाओं के लिए तुझे; प्रजाएँ तेरे पीछे साँस लें; तू प्रजाओं के पीछे साँस ले।",
+  "new": "उस देव सविता की मैं स्तुति करता हूँ, जो दोनों का है, कवि-सदृश प्रज्ञा वाला, सत्य-प्रेरणा वाला, रत्न देने वाला है; (उस) प्रिय, मनन-योग्य, कवि की। जिसकी ऊँची दीप्ति ने प्रेरणा में प्रकाश किया; स्वर्ण-हस्त, सुकर्मा ने कृपा से स्वर्लोक को नापा। प्रजाओं के लिए तुझे; प्रजाएँ तेरे पीछे साँस लें; तू प्रजाओं के पीछे साँस ले।",
+  "why": "reviewer (error): Same imported commentary in the Hindi."
+ },
+ {
+  "n": "25",
+  "field": "word.gloss",
+  "word": "oṇyoḥ",
+  "old": "of the two (heaven and earth)",
+  "new": "of the two (obscure)",
+  "why": "reviewer (minor): Gloss imports the commentary 'heaven and earth'."
+ },
+ {
+  "n": "25",
+  "field": "hindi",
+  "old": "उस देव सविता की मैं स्तुति करता हूँ, जो दोनों का है, कवि-सदृश प्रज्ञा वाला, सत्य-प्रेरणा वाला, रत्न देने वाला है; (उस) प्रिय, मनन-योग्य, कवि की। जिसकी ऊँची दीप्ति ने प्रेरणा में प्रकाश किया; स्वर्ण-हस्त, सुकर्मा ने कृपा से स्वर्लोक को नापा। प्रजाओं के लिए तुझे; प्रजाएँ तेरे पीछे साँस लें; तू प्रजाओं के पीछे साँस ले।",
+  "new": "उस देव सविता की मैं स्तुति करता हूँ, जो दोनों का है, कवि-सदृश प्रज्ञा वाला, सत्य-प्रेरणा वाला, रत्न देने वाला है; प्रिय मति, कवि की ओर। जिसकी ऊँची दीप्ति ने प्रेरणा में प्रकाश किया; स्वर्ण-हस्त, सुकर्मा ने कृपा से स्वर्लोक को नापा। प्रजाओं के लिए तुझे; प्रजाएँ तेरे पीछे साँस लें; तू प्रजाओं के पीछे साँस ले।",
+  "why": "reviewer (minor): bracketed gloss in the Hindi (the brief and glossary forbid brackets in Hindi); 'मनन-योग्य' is an addition for matim."
+ },
+ {
+  "n": "25",
+  "field": "english",
+  "old": "I praise that god Savitṛ of the two, poet-willed, of true impulse, bestower of treasure; the dear thought, the poet. His lofty splendour, his light, shone in the impulse; the golden-handed, of good skill, measured out heaven by his grace. For the creatures (I take) you; let the creatures breathe after you; you breathe after the creatures.",
+  "new": "I praise that god Savitṛ of the two, seer-willed, of true impulse, bestower of treasure; the dear thought, the poet. His lofty splendour, his light, shone in the impulse; the golden-handed, of good skill, measured out heaven by his grace. For the creatures (I take) you; let the creatures breathe after you; you breathe after the creatures.",
+  "why": "reviewer (minor): Glossary: kavi = seer."
+ },
+ {
+  "n": "25",
+  "field": "english",
+  "old": "I praise that god Savitṛ of the two, seer-willed, of true impulse, bestower of treasure; the dear thought, the poet. His lofty splendour, his light, shone in the impulse; the golden-handed, of good skill, measured out heaven by his grace. For the creatures (I take) you; let the creatures breathe after you; you breathe after the creatures.",
+  "new": "I praise that god Savitṛ of the two, seer-willed, of true impulse, bestower of treasure; the dear thought, the seer. His lofty splendour, his light, shone in the impulse; the golden-handed, of good skill, measured out heaven by his grace. For the creatures (I take) you; let the creatures breathe after you; you breathe after the creatures.",
+  "why": "reviewer (minor): Glossary: kavi = seer."
+ },
+ {
+  "n": "25",
+  "field": "word.gram",
+  "word": "priyam",
+  "old": "f. acc. sg.",
+  "new": "m. acc. sg. (agrees with kavim)",
+  "why": "reviewer (minor): priyam cannot be feminine with matim (that would be priyām); it agrees with kavim."
+ },
+ {
+  "n": "25",
+  "field": "notes",
+  "old": "'oṇyoḥ' is obscure (traditionally 'of the two, i.e. heaven and earth'); 'kavikratum' and 'ratnadhām' follow the familiar Ṛgvedic wording; 'kṛpā' ambiguous (grace / form). 'amimīta' read as 'measured out'. The last sentence is a separate formula; the object 'tvā' stays implied ('I take you').",
+  "new": "'oṇyoḥ' is obscure (traditionally 'of the two, i.e. heaven and earth'); 'kṛpā' ambiguous (grace / form). 'amimīta' read as 'measured out'. The last sentence is a separate formula; the object 'tvā' stays implied ('I take you').",
+  "why": "reviewer (minor): Imports another book."
+ },
+ {
+  "n": "25",
+  "field": "notes",
+  "old": "'oṇyoḥ' is obscure (traditionally 'of the two, i.e. heaven and earth'); 'kṛpā' ambiguous (grace / form). 'amimīta' read as 'measured out'. The last sentence is a separate formula; the object 'tvā' stays implied ('I take you').",
+  "new": "'oṇyoḥ' is obscure (the printed line does not say what the two are); 'kṛpā' ambiguous (grace / form). 'amimīta' read as 'measured out'. The last sentence is a separate formula; the object 'tvā' stays implied ('I take you').",
+  "why": "reviewer (minor): Commentary imported into the note."
+ },
+ {
+  "n": "26",
+  "field": "hindi",
+  "old": "मैं तुझ शुक्र (उज्ज्वल) को शुक्र से खरीदता हूँ, चन्द्र (दीप्तिमान्) को चन्द्र से, अमृत को अमृत से। (सग्मे) तेरी गौ, हममें तेरे दीप्तिमान् (पदार्थ)। तू तप का शरीर है, प्रजापति का वर्ण है; सर्वोच्च (मूल्य) से तू खरीदा जाता है। मैं सहस्र-गुण पोषण से पुष्ट होऊँ।",
+  "new": "मैं तुझ उज्ज्वल को उज्ज्वल से खरीदता हूँ, दीप्तिमान् को दीप्तिमान् से, अमृत को अमृत से। (सग्मे) तेरी गौ, हममें तेरे दीप्तिमान् (पदार्थ)। तू तप का शरीर है, प्रजापति का वर्ण है; सर्वोच्च (मूल्य) से तू खरीदा जाता है। मैं सहस्र-गुण पोषण से पुष्ट होऊँ।",
+  "why": "reviewer (minor): bracketed gloss in the Hindi (the brief and glossary forbid brackets in Hindi); glossary: śukra = उज्ज्वल."
+ },
+ {
+  "n": "26",
+  "field": "hindi",
+  "old": "मैं तुझ उज्ज्वल को उज्ज्वल से खरीदता हूँ, दीप्तिमान् को दीप्तिमान् से, अमृत को अमृत से। (सग्मे) तेरी गौ, हममें तेरे दीप्तिमान् (पदार्थ)। तू तप का शरीर है, प्रजापति का वर्ण है; सर्वोच्च (मूल्य) से तू खरीदा जाता है। मैं सहस्र-गुण पोषण से पुष्ट होऊँ।",
+  "new": "मैं तुझ उज्ज्वल को उज्ज्वल से खरीदता हूँ, दीप्तिमान् को दीप्तिमान् से, अमृत को अमृत से। सग्मे तेरी गौ, हममें तेरे दीप्तिमान् (पदार्थ)। तू तप का शरीर है, प्रजापति का वर्ण है; सर्वोच्च (मूल्य) से तू खरीदा जाता है। मैं सहस्र-गुण पोषण से पुष्ट होऊँ।",
+  "why": "reviewer (minor): bracketed gloss in the Hindi (the brief and glossary forbid brackets in Hindi)"
+ },
+ {
+  "n": "26",
+  "field": "hindi",
+  "old": "मैं तुझ उज्ज्वल को उज्ज्वल से खरीदता हूँ, दीप्तिमान् को दीप्तिमान् से, अमृत को अमृत से। सग्मे तेरी गौ, हममें तेरे दीप्तिमान् (पदार्थ)। तू तप का शरीर है, प्रजापति का वर्ण है; सर्वोच्च (मूल्य) से तू खरीदा जाता है। मैं सहस्र-गुण पोषण से पुष्ट होऊँ।",
+  "new": "मैं तुझ उज्ज्वल को उज्ज्वल से खरीदता हूँ, दीप्तिमान् को दीप्तिमान् से, अमृत को अमृत से। सग्मे तेरी गौ, हममें तेरे दीप्तिमान् पदार्थ। तू तप का शरीर है, प्रजापति का वर्ण है; सर्वोच्च (मूल्य) से तू खरीदा जाता है। मैं सहस्र-गुण पोषण से पुष्ट होऊँ।",
+  "why": "reviewer (minor): bracketed gloss in the Hindi (the brief and glossary forbid brackets in Hindi)"
+ },
+ {
+  "n": "26",
+  "field": "hindi",
+  "old": "मैं तुझ उज्ज्वल को उज्ज्वल से खरीदता हूँ, दीप्तिमान् को दीप्तिमान् से, अमृत को अमृत से। सग्मे तेरी गौ, हममें तेरे दीप्तिमान् पदार्थ। तू तप का शरीर है, प्रजापति का वर्ण है; सर्वोच्च (मूल्य) से तू खरीदा जाता है। मैं सहस्र-गुण पोषण से पुष्ट होऊँ।",
+  "new": "मैं तुझ उज्ज्वल को उज्ज्वल से खरीदता हूँ, दीप्तिमान् को दीप्तिमान् से, अमृत को अमृत से। सग्मे तेरी गौ, हममें तेरे दीप्तिमान् पदार्थ। तू तप का शरीर है, प्रजापति का वर्ण है; सर्वोच्च से तू खरीदा जाता है। मैं सहस्र-गुण पोषण से पुष्ट होऊँ।",
+  "why": "reviewer (minor): Bracketed addition 'price/value' not in the text."
+ },
+ {
+  "n": "26",
+  "field": "english",
+  "old": "I buy you, the bright one, with the bright; the shining with the shining; the immortal with the immortal. In ... your cow; in us your shining things. You are the body of tapas, the colour of Prajāpati; you are bought with the highest. May I thrive in a thousandfold increase.",
+  "new": "I buy you, the bright one, with the bright; the shining with the shining; the immortal with the immortal. In sagme (obscure) your cow; in us your shining things. You are the body of tapas, the colour of Prajāpati; you are bought with the highest. May I thrive in a thousandfold increase.",
+  "why": "reviewer (minor): An ellipsis in place of a word that is printed; keep it transliterated like the Hindi."
+ },
+ {
+  "n": "27",
+  "field": "hindi",
+  "old": "हे मित्र, हमारे पास आ, उत्तम मैत्री स्थापित करने वाले; इन्द्र के विशाल दक्षिण (भाग) में प्रवेश कर — चाहने वाले की ओर चाहते हुए, सुखद (की ओर) सुखद होकर। हे स्वान, भ्राज, अङ्घारि, बम्भारि, हस्त, सुहस्त, कृशानु, ये तुम्हारे सोम-क्रयण (से सम्बद्ध) हैं; उनकी रक्षा करो; वे तुम्हें हानि न पहुँचाएँ।",
+  "new": "हे मित्र, हमारे पास आ, उत्तम मैत्री स्थापित करने वाले; इन्द्र के विशाल दक्षिण में प्रवेश कर — चाहने वाले की ओर चाहते हुए, सुखद (की ओर) सुखद होकर। हे स्वान, भ्राज, अङ्घारि, बम्भारि, हस्त, सुहस्त, कृशानु, ये तुम्हारे सोम-क्रयण (से सम्बद्ध) हैं; उनकी रक्षा करो; वे तुम्हें हानि न पहुँचाएँ।",
+  "why": "reviewer (minor): bracketed gloss in the Hindi (the brief and glossary forbid brackets in Hindi)"
+ },
+ {
+  "n": "27",
+  "field": "hindi",
+  "old": "हे मित्र, हमारे पास आ, उत्तम मैत्री स्थापित करने वाले; इन्द्र के विशाल दक्षिण में प्रवेश कर — चाहने वाले की ओर चाहते हुए, सुखद (की ओर) सुखद होकर। हे स्वान, भ्राज, अङ्घारि, बम्भारि, हस्त, सुहस्त, कृशानु, ये तुम्हारे सोम-क्रयण (से सम्बद्ध) हैं; उनकी रक्षा करो; वे तुम्हें हानि न पहुँचाएँ।",
+  "new": "हे मित्र, हमारे पास आ, उत्तम मैत्री स्थापित करने वाले; इन्द्र के विशाल दक्षिण में प्रवेश कर — चाहने वाले की ओर चाहते हुए, सुखद की ओर सुखद होकर। हे स्वान, भ्राज, अङ्घारि, बम्भारि, हस्त, सुहस्त, कृशानु, ये तुम्हारे सोम-क्रयण (से सम्बद्ध) हैं; उनकी रक्षा करो; वे तुम्हें हानि न पहुँचाएँ।",
+  "why": "reviewer (minor): bracketed gloss in the Hindi (the brief and glossary forbid brackets in Hindi)"
+ },
+ {
+  "n": "27",
+  "field": "hindi",
+  "old": "हे मित्र, हमारे पास आ, उत्तम मैत्री स्थापित करने वाले; इन्द्र के विशाल दक्षिण में प्रवेश कर — चाहने वाले की ओर चाहते हुए, सुखद की ओर सुखद होकर। हे स्वान, भ्राज, अङ्घारि, बम्भारि, हस्त, सुहस्त, कृशानु, ये तुम्हारे सोम-क्रयण (से सम्बद्ध) हैं; उनकी रक्षा करो; वे तुम्हें हानि न पहुँचाएँ।",
+  "new": "हे मित्र, हमारे पास आ, उत्तम मैत्री स्थापित करने वाले; इन्द्र के विशाल दक्षिण में प्रवेश कर — चाहने वाले की ओर चाहते हुए, सुखद की ओर सुखद होकर। हे स्वान, भ्राज, अङ्घारि, बम्भारि, हस्त, सुहस्त, कृशानु, ये तुम्हारे सोम-क्रयण हैं; उनकी रक्षा करो; वे तुम्हें हानि न पहुँचाएँ।",
+  "why": "reviewer (minor): bracketed gloss in the Hindi (the brief and glossary forbid brackets in Hindi)"
+ },
+ {
+  "n": "29",
+  "field": "hindi",
+  "old": "हमने कल्याण की ओर ले जाने वाले, निर्दोष (निर्विघ्न) मार्ग पर पैर रखा है, जिससे मनुष्य सब शत्रुओं से बचता है और धन पाता है।",
+  "new": "हमने कल्याण की ओर ले जाने वाले, निर्विघ्न मार्ग पर पैर रखा है, जिससे मनुष्य सब शत्रुओं से बचता है और धन पाता है।",
+  "why": "reviewer (minor): bracketed gloss in the Hindi (the brief and glossary forbid brackets in Hindi)"
+ },
+ {
+  "n": "30",
+  "field": "hindi",
+  "old": "तू अदिति की त्वचा है; अदिति के आसन पर बैठ। वृषभ ने द्युलोक को थामा, अन्तरिक्ष को नापा, पृथिवी का विस्तार (नापा)। सम्राट् सब भुवनों पर बैठ गया; वे सब वरुण के व्रत (नियम) हैं।",
+  "new": "तू अदिति की त्वचा है; अदिति के आसन पर बैठ। वृषभ ने द्युलोक को थामा, अन्तरिक्ष को नापा, पृथिवी के विस्तार को भी नापा। सम्राट् सब भुवनों पर बैठ गया; वे सब वरुण के व्रत (नियम) हैं।",
+  "why": "reviewer (minor): bracketed gloss in the Hindi (the brief and glossary forbid brackets in Hindi)"
+ },
+ {
+  "n": "30",
+  "field": "hindi",
+  "old": "तू अदिति की त्वचा है; अदिति के आसन पर बैठ। वृषभ ने द्युलोक को थामा, अन्तरिक्ष को नापा, पृथिवी के विस्तार को भी नापा। सम्राट् सब भुवनों पर बैठ गया; वे सब वरुण के व्रत (नियम) हैं।",
+  "new": "तू अदिति की त्वचा है; अदिति के आसन पर बैठ। वृषभ ने द्युलोक को थामा, अन्तरिक्ष को नापा, पृथिवी के विस्तार को भी नापा। सम्राट् सब भुवनों पर बैठ गया; वे सब वरुण के व्रत हैं।",
+  "why": "reviewer (minor): bracketed gloss in the Hindi (the brief and glossary forbid brackets in Hindi)"
+ },
+ {
+  "n": "30",
+  "field": "word.gloss",
+  "word": "adityai",
+  "old": "of Aditi",
+  "new": "for Aditi",
+  "why": "reviewer (error): adityai is dative singular; labelled genitive."
+ },
+ {
+  "n": "30",
+  "field": "word.gram",
+  "word": "adityai",
+  "old": "f. gen. sg.",
+  "new": "f. dat. sg.",
+  "why": "reviewer (error): Wrong case label (dative, not genitive); the English 'seat of Aditi' is acceptable as a dative of possession, as the notes say."
+ },
+ {
+  "n": "31",
+  "field": "english",
+  "old": "Varuṇa stretched out the mid-region over the forests; he placed vigour in the horses, milk in the cows, will in the hearts, fire among the peoples, the sun in the sky, Soma on the rock.",
+  "new": "Varuṇa stretched out the mid-region over the forests; he placed strength in the horses, milk in the cows, will in the hearts, fire among the peoples, the sun in the sky, Soma on the rock.",
+  "why": "reviewer (minor): Glossary: vāja = strength."
+ },
+ {
+  "n": "31",
+  "field": "word.gloss",
+  "word": "vājam",
+  "old": "vigour",
+  "new": "strength",
+  "why": "reviewer (minor): Glossary: vāja = strength."
+ },
+ {
+  "n": "31",
+  "field": "english",
+  "old": "Varuṇa stretched out the mid-region over the forests; he placed strength in the horses, milk in the cows, will in the hearts, fire among the peoples, the sun in the sky, Soma on the rock.",
+  "new": "Varuṇa stretched out the mid-region over the forests; he placed strength in the horses, milk in the cows, will in the hearts, fire among the peoples, Sūrya in the sky, Soma on the rock.",
+  "why": "reviewer (minor): Glossary: Sūrya stays Sūrya."
+ },
+ {
+  "n": "32",
+  "field": "hindi",
+  "old": "सूर्य के नेत्र पर चढ़ो, अग्नि के नेत्र की पुतली पर, जहाँ तुम चमकते हुए, विद्वान् (प्रेरित) के साथ घोड़ों से चलते हो।",
+  "new": "सूर्य के नेत्र पर चढ़ो, अग्नि के नेत्र की पुतली पर, जहाँ तुम चमकते हुए, विद्वान् के साथ घोड़ों से चलते हो।",
+  "why": "reviewer (minor): bracketed gloss in the Hindi (the brief and glossary forbid brackets in Hindi)"
+ },
+ {
+  "n": "32",
+  "field": "english",
+  "old": "Ascend the eye of the sun, the pupil of the eye of Agni, where you move, shining, with the bay horses, with the inspired one.",
+  "new": "Ascend the eye of Sūrya, the pupil of the eye of Agni, where you move, shining, with the bay horses, with the inspired one.",
+  "why": "reviewer (minor): Glossary: Sūrya stays Sūrya."
+ },
+ {
+  "n": "33",
+  "field": "hindi",
+  "old": "हे दोनों बैलो, आओ; जुए को वहन करने वाले, जोते जाओ; अश्रु-रहित, वीरों का वध न करने वाले, ब्रह्म (मन्त्र) को प्रेरित करने वाले; यजमान के घरों को कुशलपूर्वक जाओ।",
+  "new": "हे दोनों बैलो, आओ; जुए को वहन करने वाले, जोते जाओ; अश्रु-रहित, वीरों का वध न करने वाले, ब्रह्म को प्रेरित करने वाले; यजमान के घरों को कुशलपूर्वक जाओ।",
+  "why": "reviewer (minor): bracketed gloss in the Hindi (the brief and glossary forbid brackets in Hindi)"
+ },
+ {
+  "n": "35",
+  "field": "hindi",
+  "old": "मित्र और वरुण के नेत्र को, महान् देव को नमस्कार; उस ऋत की सेवा करो। दूर तक देखने वाले, देवों से उत्पन्न, केतु (ध्वजा), द्यौ के पुत्र सूर्य की स्तुति करो।",
+  "new": "मित्र और वरुण के नेत्र को, महान् देव को नमस्कार; उस ऋत की सेवा करो। दूर तक देखने वाले, देवों से उत्पन्न, ध्वजा, द्यौ के पुत्र सूर्य की स्तुति करो।",
+  "why": "reviewer (minor): bracketed gloss in the Hindi (the brief and glossary forbid brackets in Hindi); English translates ketu as 'banner'."
+ },
+ {
+  "n": "35",
+  "field": "english",
+  "old": "Homage to the eye of Mitra and Varuṇa, to the great god; honour that order. To the far-seeing, god-born banner, the son of heaven, to the Sun, recite praise.",
+  "new": "Homage to the eye of Mitra and Varuṇa, to the great god; honour that order. To the far-seeing, god-born banner, the son of heaven, to Sūrya, recite praise.",
+  "why": "reviewer (minor): Glossary: Sūrya stays Sūrya."
+ },
+ {
+  "n": "36",
+  "field": "hindi",
+  "old": "तू वरुण का आधार है; तुम दोनों वरुण के स्कम्भ-सर्जनी (खम्भे को छोड़ने/गढ़ने वाली) हो; तू वरुण की ऋत-सदनी है; तू वरुण का ऋत-सदन है। वरुण के ऋत-सदन में बैठ।",
+  "new": "तू वरुण का आधार है; तुम दोनों वरुण के स्कम्भसर्जनी हो; तू वरुण की ऋत-सदनी है; तू वरुण का ऋत-सदन है। वरुण के ऋत-सदन में बैठ।",
+  "why": "reviewer (minor): Bracketed gloss with a slash, although the notes say the term is left untranslated on purpose."
+ },
+ {
+  "n": "37",
+  "field": "hindi",
+  "old": "तेरे जिन धामों को लोग हवि से पूजते हैं, तेरे उन सबको घेरने वाला तू यज्ञ को (घेरने वाला) हो। घर को बढ़ाने वाला, पार लगाने वाला, उत्तम वीरों वाला, वीरों का वध न करने वाला होकर, हे सोम, घरों की ओर चल।",
+  "new": "तेरे जिन धामों को लोग हवि से पूजते हैं, तेरे उन सबको घेरने वाला तू यज्ञ को घेरने वाला हो। घर को बढ़ाने वाला, पार लगाने वाला, उत्तम वीरों वाला, वीरों का वध न करने वाला होकर, हे सोम, घरों की ओर चल।",
+  "why": "reviewer (minor): bracketed gloss in the Hindi (the brief and glossary forbid brackets in Hindi)"
+ },
+ {
+  "n": "2",
+  "field": "notes",
+  "old": "ud ... ā ... emi read together ('I come up out of these'; tmesis);",
+  "new": "ud ... ā ... emi may be read together ('I come up out of these'; tmesis), but the division is uncertain (ā-pūtaḥ, or ā ... emi);",
+  "manual": true
+ },
+ {
+  "n": "7",
+  "field": "english",
+  "old": "to the Yoker",
+  "new": "to Application",
+  "manual": true
+ },
+ {
+  "n": "7",
+  "field": "english",
+  "old": "Hail to Insight",
+  "new": "Hail to Wisdom",
+  "manual": true
+ },
+ {
+  "n": "7",
+  "field": "notes",
+  "old": "'prayuje' is obscure ('the yoker/application')",
+  "new": "'prayuje' is obscure (rendered 'Application' in the abstract)",
+  "manual": true
+ },
+ {
+  "n": "10",
+  "field": "notes",
+  "old": "'ūrk asi āṅgirasī ūrṇamradāḥ' fused in one token.",
+  "new": "'ūrk asi āṅgirasī ūrṇamradāḥ' fused in one token; the printed ūrṇammradā has a doubled m (orthographic gemination), kept in src and read as ūrṇa-mradāḥ.",
+  "manual": true
+ },
+ {
+  "n": "11",
+  "field": "english",
+  "old": "the divine thought,",
+  "new": "the divine insight,",
+  "manual": true
+ },
+ {
+  "n": "11",
+  "field": "english",
+  "old": "of skilful power",
+  "new": "of skilful will",
+  "manual": true
+ },
+ {
+  "n": "11",
+  "field": "hindi",
+  "old": "बुद्धि का स्मरण",
+  "new": "धी का स्मरण",
+  "manual": true
+ },
+ {
+  "n": "16",
+  "field": "english",
+  "old": "May the god Savitṛ, the giver of wealth, give us wealth.",
+  "new": "May our god Savitṛ, the giver of wealth, give wealth.",
+  "manual": true
+ },
+ {
+  "n": "19",
+  "field": "english",
+  "old": "you are the skilful one, you are of the ruling power,",
+  "new": "you are Dakṣiṇā, you are Kṣatriyā,",
+  "manual": true
+ },
+ {
+  "n": "19",
+  "field": "notes",
+  "old": "Last clause",
+  "new": "Dakṣiṇā ('skilful one' or the sacrificial fee) and Kṣatriyā ('of the ruling power') are left as names in both languages; 'adhvanaḥ pātu' could also be ablative ('guard from the road'). Last clause",
+  "manual": true
+ },
+ {
+  "n": "20",
+  "field": "hindi",
+  "old": "हे देवी, तू इन्द्र के लिए देव सोम की ओर जा।",
+  "new": "हे देवी, तू देव की ओर, इन्द्र के लिए सोम की ओर जा।",
+  "manual": true
+ },
+ {
+  "n": "26",
+  "field": "text_flags",
+  "old": "[{\"src\": \"para̱meṇa̭\", \"suggest\": \"parameṇa paśunā\", \"why\": \"possible: a word (paśunā 'with an animal') seems omitted after parameṇa, where the printed text also has a double space\"}]",
+  "new": "[]",
+  "manual": true
+ },
+ {
+  "n": "26",
+  "field": "notes",
+  "old": "The missing word after parameṇa is suspected from parallel readings of the formula; not applied.",
+  "new": "The printed text has a double space after parameṇa, which may mark a dropped word; nothing is supplied.",
+  "manual": true
+ },
+ {
+  "n": "28",
+  "field": "notes",
+  "old": "In the printed 'amṛtā~2 anu' the '~2' marks prolongation in the source (pluta); word read as amṛtān (acc. pl.), with the nasal not shown.",
+  "new": "In the printed 'amṛtā~2 anu' the Devanagari has both the candrabindu and the pluta mark (अमृताँ॒२); '~2' is its Latin-script carrier. Word read as amṛtān (acc. pl.).",
+  "manual": true
+ },
+ {
+  "n": "35",
+  "field": "gram",
+  "old": "m. dat. sg. (Vedic form for mahe)",
+  "new": "uncertain; not a dative form, read as 'great' agreeing with devāya (cf. mahe)",
+  "manual": true
+ },
+ {
+  "n": "37",
+  "field": "text_flags",
+  "old": "",
+  "new": "added carā flag",
+  "manual": true
+ }
+]

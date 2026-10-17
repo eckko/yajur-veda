@@ -1,0 +1,5842 @@
+[
+ {
+  "n": "1",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "u̱pa̱yā̱magṛ̭hīto'syādi̱tyebhya̭stvā",
+      "words": [
+       {
+        "w": "upayāma-gṛhītaḥ",
+        "gloss": "taken with the upayāma (obscure term)",
+        "gram": "m. nom. sg. pp."
+       },
+       {
+        "w": "asi",
+        "gloss": "you are",
+        "gram": "2 sg. pres. √as"
+       },
+       {
+        "w": "ādityebhyaḥ",
+        "gloss": "for the Ādityas",
+        "gram": "m. dat. pl."
+       },
+       {
+        "w": "tvā",
+        "gloss": "you",
+        "gram": "acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "|",
+      "words": [
+       {
+        "w": "|",
+        "gloss": "pause mark",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "viṣṇa̭",
+      "words": [
+       {
+        "w": "viṣṇo",
+        "gloss": "O Viṣṇu",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "urugāyai̱ṣa",
+      "words": [
+       {
+        "w": "urugāya",
+        "gloss": "O wide-going one",
+        "gram": "m. voc. sg."
+       },
+       {
+        "w": "eṣaḥ",
+        "gloss": "this",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "te̱",
+      "words": [
+       {
+        "w": "te",
+        "gloss": "your",
+        "gram": "gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "soma̱staᳪ",
+      "words": [
+       {
+        "w": "somaḥ",
+        "gloss": "Soma",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "tam",
+        "gloss": "that",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ra̭kṣasva̱",
+      "words": [
+       {
+        "w": "rakṣasva",
+        "gloss": "guard",
+        "gram": "2 sg. imp. mid. √rakṣ"
+       }
+      ]
+     },
+     {
+      "src": "mā",
+      "words": [
+       {
+        "w": "mā",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tvā̭",
+      "words": [
+       {
+        "w": "tvā",
+        "gloss": "you",
+        "gram": "acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "dabhan",
+      "words": [
+       {
+        "w": "dabhan",
+        "gloss": "let them harm",
+        "gram": "3 pl. aor. inj. √dabh"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "तुम उपयाम से ग्रहण किए गए हो; आदित्यों के लिए तुम्हें। हे विष्णु, हे उरुगाय, यह तुम्हारा सोम है; उसकी रक्षा करो; वे तुम्हें हानि न पहुँचाएँ।",
+  "english": "You are taken with the upayāma; you for the Ādityas. O Viṣṇu, O wide-going one, this is your Soma; guard it; let them not harm you.",
+  "text_flags": [],
+  "notes": "upayāma is an obscure ritual term, left untranslated. dabhan is read as a 3 pl. aorist injunctive with prohibitive mā; the subject is not stated. urugāya is rendered as the epithet 'wide-going'.",
+  "confidence": "medium"
+ },
+ {
+  "n": "2",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ka̱dā",
+      "words": [
+       {
+        "w": "kadā",
+        "gloss": "when",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ca̱na",
+      "words": [
+       {
+        "w": "cana",
+        "gloss": "ever",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sta̱rīra̭si̱",
+      "words": [
+       {
+        "w": "starīḥ",
+        "gloss": "barren cow",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "asi",
+        "gloss": "you are",
+        "gram": "2 sg. pres. √as"
+       }
+      ]
+     },
+     {
+      "src": "nendra̭",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       },
+       {
+        "w": "indra",
+        "gloss": "O Indra",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "saścasi",
+      "words": [
+       {
+        "w": "saścasi",
+        "gloss": "you hold back (obscure)",
+        "gram": "2 sg. pres. √sac (uncertain)"
+       }
+      ]
+     },
+     {
+      "src": "dā̱śuṣḙ",
+      "words": [
+       {
+        "w": "dāśuṣe",
+        "gloss": "to the offerer",
+        "gram": "m. dat. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "upo̱pennu",
+      "words": [
+       {
+        "w": "upo",
+        "gloss": "near",
+        "gram": "ind."
+       },
+       {
+        "w": "upa",
+        "gloss": "near",
+        "gram": "ind."
+       },
+       {
+        "w": "it",
+        "gloss": "indeed",
+        "gram": "ind."
+       },
+       {
+        "w": "nu",
+        "gloss": "now",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ma̭ghava̱n ",
+      "words": [
+       {
+        "w": "maghavan",
+        "gloss": "O bounteous one",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhūya̱",
+      "words": [
+       {
+        "w": "bhūyaḥ",
+        "gloss": "more",
+        "gram": "adj. n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "innu",
+      "words": [
+       {
+        "w": "it",
+        "gloss": "indeed",
+        "gram": "ind."
+       },
+       {
+        "w": "nu",
+        "gloss": "now",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "te̱",
+      "words": [
+       {
+        "w": "te",
+        "gloss": "your",
+        "gram": "gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "dāna̭ṃ",
+      "words": [
+       {
+        "w": "dānam",
+        "gloss": "gift",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "de̱vasya̭",
+      "words": [
+       {
+        "w": "devasya",
+        "gloss": "of the god",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "pṛcyata",
+      "words": [
+       {
+        "w": "pṛcyate",
+        "gloss": "is joined (obscure)",
+        "gram": "3 sg. pres. pass. √pṛc"
+       }
+      ]
+     },
+     {
+      "src": "ādi̱tyebhya̭stvā",
+      "words": [
+       {
+        "w": "ādityebhyaḥ",
+        "gloss": "for the Ādityas",
+        "gram": "m. dat. pl."
+       },
+       {
+        "w": "tvā",
+        "gloss": "you",
+        "gram": "acc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हे इन्द्र, तुम कभी बाँझ नहीं हो; तुम दाता के प्रति विमुख नहीं होते। हे मघवन्, समीप आओ; अब और अधिक ही तुम्हारा, देव का, दान जुड़ता है। आदित्यों के लिए तुम्हें।",
+  "english": "O Indra, you are never barren; you do not hold back from the offerer. Come near, O bounteous one; more and more indeed is joined the gift of you, the god. You for the Ādityas.",
+  "text_flags": [],
+  "notes": "Obscure: saścasi (taken as 'you hold back', an uncertain sense), the sequence upopennu (read upo upa it nu, uncertain; 'come near' is a guess from upa) and pṛcyate (read 'is joined'; other renderings 'is mingled, abounds'). devasya is taken as 'of the god' with te, without adding an identity. Rendering follows the words as given; confidence is low.",
+  "confidence": "low"
+ },
+ {
+  "n": "3",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ka̱dā",
+      "words": [
+       {
+        "w": "kadā",
+        "gloss": "when",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ca̱na",
+      "words": [
+       {
+        "w": "cana",
+        "gloss": "ever",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pra",
+      "words": [
+       {
+        "w": "pra",
+        "gloss": "forth",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yṷcchasyu̱bhe",
+      "words": [
+       {
+        "w": "yucchasi",
+        "gloss": "you neglect",
+        "gram": "2 sg. pres. √yuch"
+       },
+       {
+        "w": "ubhe",
+        "gloss": "both",
+        "gram": "f. acc. du."
+       }
+      ]
+     },
+     {
+      "src": "ni",
+      "words": [
+       {
+        "w": "ni",
+        "gloss": "down",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pā̭si̱",
+      "words": [
+       {
+        "w": "pāsi",
+        "gloss": "you protect",
+        "gram": "2 sg. pres. √pā"
+       }
+      ]
+     },
+     {
+      "src": "janma̭nī",
+      "words": [
+       {
+        "w": "janmanī",
+        "gloss": "births",
+        "gram": "n. acc. du."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "turī̭yāditya̱",
+      "words": [
+       {
+        "w": "turīya",
+        "gloss": "fourth",
+        "gram": "adj. n. nom. sg."
+       },
+       {
+        "w": "āditya",
+        "gloss": "O Āditya",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "sava̭naṃ",
+      "words": [
+       {
+        "w": "savanam",
+        "gloss": "pressing",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ta",
+      "words": [
+       {
+        "w": "te",
+        "gloss": "your",
+        "gram": "gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "indri̱yamāta̭sthāva̱mṛta̭ṃ",
+      "words": [
+       {
+        "w": "indriyam",
+        "gloss": "power",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "ā-tasthau",
+        "gloss": "has stood",
+        "gram": "3 sg. pf. ā-√sthā"
+       },
+       {
+        "w": "amṛtam",
+        "gloss": "immortal",
+        "gram": "adj. n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "di̱vyā̱di̱tyebhya̭stvā",
+      "words": [
+       {
+        "w": "divi",
+        "gloss": "in heaven",
+        "gram": "loc. sg."
+       },
+       {
+        "w": "ādityebhyaḥ",
+        "gloss": "for the Ādityas",
+        "gram": "m. dat. pl."
+       },
+       {
+        "w": "tvā",
+        "gloss": "you",
+        "gram": "acc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "तुम कभी नहीं चूकते; तुम दोनों जन्मों की रक्षा करते हो। हे आदित्य, चौथा सवन तुम्हारा है; तुम्हारा बल अमर रूप में स्वर्ग में स्थित हुआ है। आदित्यों के लिए तुम्हें।",
+  "english": "You never neglect; you protect both births. The fourth pressing is yours, O Āditya; your power has taken its stand, immortal, in heaven. You for the Ādityas.",
+  "text_flags": [],
+  "notes": "turīya 'fourth' is taken as agreeing with savana, and the sentence is read as 'the fourth pressing is yours'; this is uncertain. amṛtam may be a noun ('the immortal') rather than an adjective. 'both births' is the literal janmanī.",
+  "confidence": "medium"
+ },
+ {
+  "n": "4",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ya̱jño",
+      "words": [
+       {
+        "w": "yajñaḥ",
+        "gloss": "sacrifice",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "de̱vānā̱ṃ",
+      "words": [
+       {
+        "w": "devānām",
+        "gloss": "of the gods",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "pratyḙti",
+      "words": [
+       {
+        "w": "prati-eti",
+        "gloss": "goes towards",
+        "gram": "3 sg. pres. prati-√i"
+       }
+      ]
+     },
+     {
+      "src": "su̱mnamādi̭tyāso̱",
+      "words": [
+       {
+        "w": "sumnam",
+        "gloss": "favour",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "ādityāsaḥ",
+        "gloss": "O Ādityas",
+        "gram": "m. voc. pl."
+       }
+      ]
+     },
+     {
+      "src": "bhava̭tā",
+      "words": [
+       {
+        "w": "bhavata",
+        "gloss": "be",
+        "gram": "2 pl. imp. √bhū"
+       }
+      ]
+     },
+     {
+      "src": "mṛḍa̱yanta̭ḥ",
+      "words": [
+       {
+        "w": "mṛḍayantaḥ",
+        "gloss": "making gracious",
+        "gram": "m. nom. pl. pres. part. caus. √mṛḍ"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "ā",
+      "words": [
+       {
+        "w": "ā",
+        "gloss": "hither",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vo̱'rvācī̭",
+      "words": [
+       {
+        "w": "vaḥ",
+        "gloss": "your",
+        "gram": "gen. pl."
+       },
+       {
+        "w": "arvācī",
+        "gloss": "turned towards us",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "suma̱tirva̭vṛtyāda̱hości̱dyā",
+      "words": [
+       {
+        "w": "sumatiḥ",
+        "gloss": "good thought, favour",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "vavṛtyāt",
+        "gloss": "may it turn",
+        "gram": "3 sg. opt. √vṛt"
+       },
+       {
+        "w": "ahoḥ",
+        "gloss": "distress (uncertain)",
+        "gram": "m. abl. sg."
+       },
+       {
+        "w": "cit",
+        "gloss": "even",
+        "gram": "ind."
+       },
+       {
+        "w": "yā",
+        "gloss": "which",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "va̭rivo̱vitta̱rāsa̭dādi̱tyebhya̭stvā",
+      "words": [
+       {
+        "w": "varivo-vit-tarā",
+        "gloss": "more finder of wide room",
+        "gram": "f. nom. sg. comp."
+       },
+       {
+        "w": "asat",
+        "gloss": "may it be",
+        "gram": "3 sg. aor. opt. √as"
+       },
+       {
+        "w": "ādityebhyaḥ",
+        "gloss": "for the Ādityas",
+        "gram": "m. dat. pl."
+       },
+       {
+        "w": "tvā",
+        "gloss": "you",
+        "gram": "acc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "देवों का यज्ञ अनुग्रह की ओर जाता है; हे आदित्यो, प्रसन्न करते हुए कृपालु बनो। तुम्हारी हमारी ओर मुड़ी हुई सुमति यहाँ लौट आए, जो संकट से भी विस्तृत स्थान को अधिक पाने वाली हो। आदित्यों के लिए तुम्हें।",
+  "english": "The sacrifice of the gods goes towards favour; O Ādityas, be gracious, showing kindness. May your favour, turned towards us, come back hither, that which would be, even out of distress, the better finder of wide room. You for the Ādityas.",
+  "text_flags": [
+   {
+    "src": "ā̱dahości̱dyā",
+    "suggest": "aṃhoś cid yā",
+    "why": "possible: the word ahoḥ is not otherwise known; parallel texts read aṃhoḥ 'distress', so the anusvāra may be missing"
+   }
+  ],
+  "notes": "Reading of ahoḥ/aṃhoḥ as 'distress' is uncertain. varivovit-tarā is read as 'more finding wide room' (variva- = wide space, freedom); alternatives exist. vo is taken as vaḥ 'your' with sumati.",
+  "confidence": "medium"
+ },
+ {
+  "n": "5",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "viva̭svannādityai̱ṣa",
+      "words": [
+       {
+        "w": "vivasvan",
+        "gloss": "O Vivasvat",
+        "gram": "m. voc. sg."
+       },
+       {
+        "w": "āditya",
+        "gloss": "O Āditya",
+        "gram": "m. voc. sg."
+       },
+       {
+        "w": "eṣaḥ",
+        "gloss": "this",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tḙ",
+      "words": [
+       {
+        "w": "te",
+        "gloss": "your",
+        "gram": "gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "somapī̱thastasmi̭n ",
+      "words": [
+       {
+        "w": "soma-pīthaḥ",
+        "gloss": "soma-drinking",
+        "gram": "m. nom. sg. tat-puruṣa"
+       },
+       {
+        "w": "tasmin",
+        "gloss": "in that",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "matsva",
+      "words": [
+       {
+        "w": "matsva",
+        "gloss": "delight",
+        "gram": "2 sg. imp. mid. √mad"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "śrada̭smai",
+      "words": [
+       {
+        "w": "śrat",
+        "gloss": "trust",
+        "gram": "ind."
+       },
+       {
+        "w": "asmai",
+        "gloss": "in this",
+        "gram": "m. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "naro̱",
+      "words": [
+       {
+        "w": "naraḥ",
+        "gloss": "O men",
+        "gram": "m. voc. pl."
+       }
+      ]
+     },
+     {
+      "src": "vaca̭se",
+      "words": [
+       {
+        "w": "vacase",
+        "gloss": "in speech",
+        "gram": "n. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "dadhātana̱",
+      "words": [
+       {
+        "w": "dadhātana",
+        "gloss": "place",
+        "gram": "2 pl. imp. √dhā"
+       }
+      ]
+     },
+     {
+      "src": "yadā̭śī̱rdā",
+      "words": [
+       {
+        "w": "yat",
+        "gloss": "when",
+        "gram": "ind."
+       },
+       {
+        "w": "āśīḥ-dā",
+        "gloss": "granting blessing",
+        "gram": "f. nom. du. comp."
+       }
+      ]
+     },
+     {
+      "src": "dampa̭tī",
+      "words": [
+       {
+        "w": "dam-patī",
+        "gloss": "the two lords of the house",
+        "gram": "m. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "vā̱mama̭śnu̱taḥ",
+      "words": [
+       {
+        "w": "vāmam",
+        "gloss": "the desirable",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "aśnutaḥ",
+        "gloss": "they two obtain",
+        "gram": "3 du. pres. √aś"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "pumā̭n ",
+      "words": [
+       {
+        "w": "pumān",
+        "gloss": "male",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "pu̱tro",
+      "words": [
+       {
+        "w": "putraḥ",
+        "gloss": "son",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "jā̭yate",
+      "words": [
+       {
+        "w": "jāyate",
+        "gloss": "is born",
+        "gram": "3 sg. pres. mid. √jan"
+       }
+      ]
+     },
+     {
+      "src": "vi̱ndate̱",
+      "words": [
+       {
+        "w": "vindate",
+        "gloss": "finds",
+        "gram": "3 sg. pres. mid. √vid"
+       }
+      ]
+     },
+     {
+      "src": "vasvadhā̭",
+      "words": [
+       {
+        "w": "vasu",
+        "gloss": "wealth",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "adha",
+        "gloss": "then",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vi̱śvāhā̭ra̱pa",
+      "words": [
+       {
+        "w": "viśvāhā",
+        "gloss": "every day",
+        "gram": "ind."
+       },
+       {
+        "w": "arapaḥ",
+        "gloss": "faultless",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ḙdhate",
+      "words": [
+       {
+        "w": "edhate",
+        "gloss": "thrives",
+        "gram": "3 sg. pres. mid. √edh"
+       }
+      ]
+     },
+     {
+      "src": "gṛ̱he",
+      "words": [
+       {
+        "w": "gṛhe",
+        "gloss": "in the house",
+        "gram": "n. loc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हे विवस्वान्, हे आदित्य, यह तुम्हारा सोमपान है; उसमें आनन्द लो। हे मनुष्यो, इस वचन में श्रद्धा रखो: जब आशीर्वाद देने वाले दम्पती वांछित को प्राप्त करते हैं, तब पुरुष पुत्र उत्पन्न होता है, वह धन पाता है और तब निर्दोष होकर प्रतिदिन घर में समृद्ध होता है।",
+  "english": "O Vivasvat, O Āditya, this is your soma-drinking; delight in it. O men, place your trust in this speech: when the two lords of the house, bestowers of blessing, obtain the desirable, a male son is born, he finds wealth, and then, faultless, he thrives in the house every day.",
+  "text_flags": [],
+  "notes": "Line 2 is hard: 'yad āśīrdā dampatī vāmam aśnutaḥ' is rendered with yad as 'when', āśīrdā as an adjective of the pair ('bestowers of blessing') and vāma as 'the desirable'; the construction is uncertain. The text speaks of 'the two lords of the house' (dampatī) without naming them; arapaḥ is read 'faultless' (a-rapas). Vivasvat and Āditya are two vocatives as printed and are not further identified.",
+  "confidence": "low"
+ },
+ {
+  "n": "6",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vā̱mama̱dya",
+      "words": [
+       {
+        "w": "vāmam",
+        "gloss": "the precious thing",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "adya",
+        "gloss": "today",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sa̭vitarvā̱mamu̱",
+      "words": [
+       {
+        "w": "savitaḥ",
+        "gloss": "O Savitṛ",
+        "gram": "m. voc. sg."
+       },
+       {
+        "w": "vāmam",
+        "gloss": "the precious thing",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "u",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śvo",
+      "words": [
+       {
+        "w": "śvaḥ",
+        "gloss": "tomorrow",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "di̱ve",
+      "words": [
+       {
+        "w": "dive",
+        "gloss": "by day",
+        "gram": "m. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "di̭ve",
+      "words": [
+       {
+        "w": "dive",
+        "gloss": "by day",
+        "gram": "m. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā̱mama̱smabhya̭ᳪ",
+      "words": [
+       {
+        "w": "vāmam",
+        "gloss": "the precious thing",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "asmabhyam",
+        "gloss": "to us",
+        "gram": "dat. pl."
+       }
+      ]
+     },
+     {
+      "src": "sāvīḥ",
+      "words": [
+       {
+        "w": "sāvīḥ",
+        "gloss": "impel, give",
+        "gram": "2 sg. aor. inj. √sū"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "vā̱masya̱",
+      "words": [
+       {
+        "w": "vāmasya",
+        "gloss": "of the precious",
+        "gram": "n. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "hi",
+      "words": [
+       {
+        "w": "hi",
+        "gloss": "for",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kṣaya̭sya",
+      "words": [
+       {
+        "w": "kṣayasya",
+        "gloss": "of the abode",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "deva̱",
+      "words": [
+       {
+        "w": "deva",
+        "gloss": "O god",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhūrḙra̱yā",
+      "words": [
+       {
+        "w": "bhūreḥ",
+        "gloss": "of the abundant",
+        "gram": "m. gen. sg."
+       },
+       {
+        "w": "ayā",
+        "gloss": "by this",
+        "gram": "f. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "dhi̱yā",
+      "words": [
+       {
+        "w": "dhiyā",
+        "gloss": "by thought",
+        "gram": "f. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā̭ma̱bhāja̭ḥ",
+      "words": [
+       {
+        "w": "vāma-bhājaḥ",
+        "gloss": "sharers of the precious",
+        "gram": "m. nom. pl. tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "syāma",
+      "words": [
+       {
+        "w": "syāma",
+        "gloss": "may we be",
+        "gram": "1 pl. opt. √as"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हे सविता, आज हमें प्रिय धन दो, कल भी, और दिन-प्रतिदिन प्रिय धन दो। क्योंकि हे देव, प्रिय निवास के, प्रचुर के, इस बुद्धि से हम प्रिय के भागी हों।",
+  "english": "O Savitṛ, give us today the precious thing, and tomorrow too, and day by day give us the precious thing. For, O god, of the precious abode, of the abundant, by this thought may we be sharers of the precious.",
+  "text_flags": [],
+  "notes": "vāma 'precious, desirable thing' is rendered as 'the precious thing'. dive dive is read as 'day by day' (a reduplicated dative idiom). The last clause is elliptical; the genitives vāmasya kṣayasya bhūreḥ depend on the sharing in an uncertain way.",
+  "confidence": "medium"
+ },
+ {
+  "n": "7",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "u̱pa̱yā̱magṛ̭hīto'si",
+      "words": [
+       {
+        "w": "upayāma-gṛhītaḥ",
+        "gloss": "taken with the upayāma (obscure term)",
+        "gram": "m. nom. sg. pp."
+       },
+       {
+        "w": "asi",
+        "gloss": "you are",
+        "gram": "2 sg. pres. √as"
+       }
+      ]
+     },
+     {
+      "src": "sāvi̱tro̱'si",
+      "words": [
+       {
+        "w": "sāvitraḥ",
+        "gloss": "belonging to Savitṛ",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "asi",
+        "gloss": "you are",
+        "gram": "2 sg. pres. √as"
+       }
+      ]
+     },
+     {
+      "src": "cano̱dhāśca̭no̱dhā",
+      "words": [
+       {
+        "w": "canodhāḥ",
+        "gloss": "bestower of food",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "canodhāḥ",
+        "gloss": "bestower of food",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "a̭si̱",
+      "words": [
+       {
+        "w": "asi",
+        "gloss": "you are",
+        "gram": "2 sg. pres. √as"
+       }
+      ]
+     },
+     {
+      "src": "cano̱",
+      "words": [
+       {
+        "w": "canaḥ",
+        "gloss": "food",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "mayi̭",
+      "words": [
+       {
+        "w": "mayi",
+        "gloss": "in me",
+        "gram": "loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "dhehi",
+      "words": [
+       {
+        "w": "dhehi",
+        "gloss": "place",
+        "gram": "2 sg. imp. √dhā"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "jinva̭",
+      "words": [
+       {
+        "w": "jinva",
+        "gloss": "quicken",
+        "gram": "2 sg. imp. √jinv"
+       }
+      ]
+     },
+     {
+      "src": "ya̱jñaṃ",
+      "words": [
+       {
+        "w": "yajñam",
+        "gloss": "sacrifice",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "jinva̭",
+      "words": [
+       {
+        "w": "jinva",
+        "gloss": "quicken",
+        "gram": "2 sg. imp. √jinv"
+       }
+      ]
+     },
+     {
+      "src": "ya̱jñapa̭ti̱ṃ",
+      "words": [
+       {
+        "w": "yajña-patim",
+        "gloss": "lord of the sacrifice",
+        "gram": "m. acc. sg. tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "bhagā̭ya",
+      "words": [
+       {
+        "w": "bhagāya",
+        "gloss": "for Bhaga",
+        "gram": "m. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "de̱vāya̭",
+      "words": [
+       {
+        "w": "devāya",
+        "gloss": "for the god",
+        "gram": "m. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "tvā",
+      "words": [
+       {
+        "w": "tvā",
+        "gloss": "you",
+        "gram": "acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "savi̱tre",
+      "words": [
+       {
+        "w": "savitre",
+        "gloss": "for Savitṛ",
+        "gram": "m. dat. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "तुम उपयाम से ग्रहण किए गए हो, तुम सावित्र हो, तुम अन्न देने वाले हो, अन्न देने वाले हो; मुझमें अन्न स्थापित करो। यज्ञ को प्रेरित करो, यज्ञपति को प्रेरित करो। भग के लिए, देव सविता के लिए तुम्हें।",
+  "english": "You are taken with the upayāma; you are Sāvitra; you are a bestower of food, a bestower of food; place food in me. Quicken the sacrifice, quicken the lord of the sacrifice. You for Bhaga, for the god Savitṛ.",
+  "text_flags": [],
+  "notes": "canodhāḥ (canas 'food, satisfaction') is repeated as printed. bhagāya devāya savitre may be read as 'for Bhaga, for the god Savitṛ' or 'for the god Savitṛ the giver (bhaga)'; the first, literal reading is used. Sāvitra is rendered 'belonging to Savitṛ'.",
+  "confidence": "medium"
+ },
+ {
+  "n": "8",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "u̱pa̱yā̱magṛ̭hīto'si",
+      "words": [
+       {
+        "w": "upayāma-gṛhītaḥ",
+        "gloss": "taken with the upayāma (obscure term)",
+        "gram": "m. nom. sg. pp."
+       },
+       {
+        "w": "asi",
+        "gloss": "you are",
+        "gram": "2 sg. pres. √as"
+       }
+      ]
+     },
+     {
+      "src": "su̱śarmā̭'si",
+      "words": [
+       {
+        "w": "su-śarmā",
+        "gloss": "of good shelter",
+        "gram": "m. nom. sg. bahuvrīhi"
+       },
+       {
+        "w": "asi",
+        "gloss": "you are",
+        "gram": "2 sg. pres. √as"
+       }
+      ]
+     },
+     {
+      "src": "supratiṣṭhā̱no",
+      "words": [
+       {
+        "w": "su-pratiṣṭhānaḥ",
+        "gloss": "well established",
+        "gram": "m. nom. sg. bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "bṛ̱hadṷkṣāya̱",
+      "words": [
+       {
+        "w": "bṛhat-ukṣāya",
+        "gloss": "to the great bull",
+        "gram": "m. dat. sg. comp."
+       }
+      ]
+     },
+     {
+      "src": "nama̭ḥ",
+      "words": [
+       {
+        "w": "namaḥ",
+        "gloss": "homage",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "viśvḙbhyastvā",
+      "words": [
+       {
+        "w": "viśvebhyaḥ",
+        "gloss": "for all",
+        "gram": "m. dat. pl."
+       },
+       {
+        "w": "tvā",
+        "gloss": "you",
+        "gram": "acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "de̱vebhya̭",
+      "words": [
+       {
+        "w": "devebhyaḥ",
+        "gloss": "for the gods",
+        "gram": "m. dat. pl."
+       }
+      ]
+     },
+     {
+      "src": "e̱ṣa",
+      "words": [
+       {
+        "w": "eṣaḥ",
+        "gloss": "this",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "te̱",
+      "words": [
+       {
+        "w": "te",
+        "gloss": "your",
+        "gram": "gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "yoni̱rviśvḙbhyastvā",
+      "words": [
+       {
+        "w": "yoniḥ",
+        "gloss": "womb",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "viśvebhyaḥ",
+        "gloss": "for all",
+        "gram": "m. dat. pl."
+       },
+       {
+        "w": "tvā",
+        "gloss": "you",
+        "gram": "acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "de̱vebhya̭ḥ",
+      "words": [
+       {
+        "w": "devebhyaḥ",
+        "gloss": "for the gods",
+        "gram": "m. dat. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "तुम उपयाम से ग्रहण किए गए हो, तुम उत्तम आश्रय वाले हो, भली-भाँति प्रतिष्ठित हो; महान वृषभ को नमस्कार। सब देवों के लिए तुम्हें। यह तुम्हारी योनि है। सब देवों के लिए तुम्हें।",
+  "english": "You are taken with the upayāma; you are of good shelter, well established; homage to the great bull. You for all the gods. This is your womb. You for all the gods.",
+  "text_flags": [],
+  "notes": "bṛhadukṣāya is taken as a dative 'to the great bull' (ukṣan); the form with -a is as printed. yoni is rendered 'womb' (its literal sense); it may mean 'seat, source' in context.",
+  "confidence": "medium"
+ },
+ {
+  "n": "9",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "u̱pa̱yā̱magṛ̭hīto'si̱",
+      "words": [
+       {
+        "w": "upayāma-gṛhītaḥ",
+        "gloss": "taken with the upayāma (obscure term)",
+        "gram": "m. nom. sg. pp."
+       },
+       {
+        "w": "asi",
+        "gloss": "you are",
+        "gram": "2 sg. pres. √as"
+       }
+      ]
+     },
+     {
+      "src": "bṛha̱spati̭sutasya",
+      "words": [
+       {
+        "w": "bṛhaspati-sutasya",
+        "gloss": "of the one pressed by Bṛhaspati",
+        "gram": "m. gen. sg. tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "deva",
+      "words": [
+       {
+        "w": "deva",
+        "gloss": "O god",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "soma",
+      "words": [
+       {
+        "w": "soma",
+        "gloss": "O Soma",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ta̱",
+      "words": [
+       {
+        "w": "te",
+        "gloss": "your",
+        "gram": "gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "indo̭rindri̱yāva̭ta̱ḥ",
+      "words": [
+       {
+        "w": "induḥ",
+        "gloss": "drop",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "indriyāvataḥ",
+        "gloss": "possessing power",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "patnī̭vato̱",
+      "words": [
+       {
+        "w": "patnīvataḥ",
+        "gloss": "accompanied by wives",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "grahā̭~2",
+      "words": [
+       {
+        "w": "grahān",
+        "gloss": "cups",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "ṛdhyāsam",
+      "words": [
+       {
+        "w": "ṛdhyāsam",
+        "gloss": "may I prosper",
+        "gram": "1 sg. prec. √ṛdh"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "a̱haṃ",
+      "words": [
+       {
+        "w": "aham",
+        "gloss": "I",
+        "gram": "nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "pa̱rastā̭da̱hama̱vastā̱dyada̱ntari̭kṣa̱ṃ",
+      "words": [
+       {
+        "w": "parastāt",
+        "gloss": "from above, beyond",
+        "gram": "ind."
+       },
+       {
+        "w": "aham",
+        "gloss": "I",
+        "gram": "nom. sg."
+       },
+       {
+        "w": "avastāt",
+        "gloss": "from below",
+        "gram": "ind."
+       },
+       {
+        "w": "yat",
+        "gloss": "which",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "antarikṣam",
+        "gloss": "midspace",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tadṷ",
+      "words": [
+       {
+        "w": "tat",
+        "gloss": "that",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "u",
+        "gloss": "indeed",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "me",
+      "words": [
+       {
+        "w": "me",
+        "gloss": "my",
+        "gram": "gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "pi̱tā'bhṷ̄t",
+      "words": [
+       {
+        "w": "pitā",
+        "gloss": "father",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "abhūt",
+        "gloss": "became",
+        "gram": "3 sg. aor. √bhū"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "a̱haᳪ",
+      "words": [
+       {
+        "w": "aham",
+        "gloss": "I",
+        "gram": "nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sūrya̭mubha̱yato̭",
+      "words": [
+       {
+        "w": "sūryam",
+        "gloss": "Sūrya",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "ubhayataḥ",
+        "gloss": "on both sides",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "dadarśā̱haṃ",
+      "words": [
+       {
+        "w": "dadarśa",
+        "gloss": "saw",
+        "gram": "1 sg. pf. √dṛś"
+       },
+       {
+        "w": "aham",
+        "gloss": "I",
+        "gram": "nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "de̱vānā̭ṃ",
+      "words": [
+       {
+        "w": "devānām",
+        "gloss": "of the gods",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "para̱maṃ",
+      "words": [
+       {
+        "w": "paramam",
+        "gloss": "highest",
+        "gram": "adj. n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "guhā̱",
+      "words": [
+       {
+        "w": "guhā",
+        "gloss": "in secret",
+        "gram": "f. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "yat",
+      "words": [
+       {
+        "w": "yat",
+        "gloss": "which",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "तुम उपयाम से ग्रहण किए गए हो। हे देव सोम, बृहस्पति द्वारा निचोड़े गए तुम्हारे बिन्दु के बलयुक्त और पत्नियों वाले ग्रहों को मैं पाकर समृद्ध होऊँ। मैं ऊपर से हूँ, मैं नीचे से हूँ; जो अन्तरिक्ष है, वही मेरा पिता हुआ। मैंने सूर्य को दोनों ओर से देखा; मैंने देवों के उस परम को देखा जो गुहा में है।",
+  "english": "You are taken with the upayāma. O god Soma, of you, the drop pressed by Bṛhaspati, may I prosper in the cups that have power and are accompanied by wives. I am from above, I am from below; what is the midspace, that became my father. I saw Sūrya on both sides; I saw the highest of the gods, which is in secret.",
+  "text_flags": [],
+  "notes": "Obscure in several places. bṛhaspatisutasya is taken as 'of the one pressed by Bṛhaspati', agreeing with indoḥ/Soma; ta indor is read te indoḥ 'of you, the drop'. ṛdhyāsam with accusative grahān is read as 'may I prosper in/through' (uncertain construction); the mark ~2 on grahān is a printed nasal/length sign. Line 3, 'devānāṃ paramaṃ guhā yat', is read 'the highest of the gods, which is in secret' (aham dadarśa governs it). Antarikṣa is rendered 'midspace'.",
+  "confidence": "low"
+ },
+ {
+  "n": "10",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "agnā3i̱",
+      "words": [
+       {
+        "w": "agne",
+        "gloss": "O Agni",
+        "gram": "m. voc. sg. (with pluta mark)"
+       }
+      ]
+     },
+     {
+      "src": "patnī̭vantsa̱jūrde̱vena̱",
+      "words": [
+       {
+        "w": "patnīvan",
+        "gloss": "O one accompanied by wives",
+        "gram": "m. voc. sg."
+       },
+       {
+        "w": "sajūḥ",
+        "gloss": "united",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "devena",
+        "gloss": "with the god",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "tvaṣṭrā̱",
+      "words": [
+       {
+        "w": "tvaṣṭrā",
+        "gloss": "with Tvaṣṭṛ",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "soma̭ṃ",
+      "words": [
+       {
+        "w": "somam",
+        "gloss": "Soma",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "piba̱",
+      "words": [
+       {
+        "w": "piba",
+        "gloss": "drink",
+        "gram": "2 sg. imp. √pā"
+       }
+      ]
+     },
+     {
+      "src": "svāhā̭",
+      "words": [
+       {
+        "w": "svāhā",
+        "gloss": "svāhā",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "pra̱jāpa̭ti̱rvṛṣā̭'si",
+      "words": [
+       {
+        "w": "prajāpatiḥ",
+        "gloss": "Prajāpati",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "vṛṣā",
+        "gloss": "bull",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "asi",
+        "gloss": "you are",
+        "gram": "2 sg. pres. √as"
+       }
+      ]
+     },
+     {
+      "src": "reto̱dhā",
+      "words": [
+       {
+        "w": "retodhāḥ",
+        "gloss": "placer of seed",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "reto̱",
+      "words": [
+       {
+        "w": "retaḥ",
+        "gloss": "seed",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "mayi̭",
+      "words": [
+       {
+        "w": "mayi",
+        "gloss": "in me",
+        "gram": "loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "dhehi",
+      "words": [
+       {
+        "w": "dhehi",
+        "gloss": "place",
+        "gram": "2 sg. imp. √dhā"
+       }
+      ]
+     },
+     {
+      "src": "pra̱jāpa̭teste̱ ",
+      "words": [
+       {
+        "w": "prajāpateḥ",
+        "gloss": "of Prajāpati",
+        "gram": "m. gen. sg."
+       },
+       {
+        "w": "te",
+        "gloss": "your",
+        "gram": "gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "vṛṣṇo̭",
+      "words": [
+       {
+        "w": "vṛṣṇaḥ",
+        "gloss": "of the bull",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "reto̱dhaso̭",
+      "words": [
+       {
+        "w": "retodhasaḥ",
+        "gloss": "of the placer of seed",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "reto̱dhāma̭śīya",
+      "words": [
+       {
+        "w": "retodhām",
+        "gloss": "the placing of seed",
+        "gram": "f. acc. sg."
+       },
+       {
+        "w": "aśīya",
+        "gloss": "may I obtain",
+        "gram": "1 sg. opt. √aś"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हे अग्नि, पत्नियों वाले, देव त्वष्टा के साथ मिलकर सोम पियो। स्वाहा। तुम प्रजापति हो, वृषभ हो, बीज स्थापित करने वाले हो; मुझमें बीज स्थापित करो। प्रजापति के, तुम वृषभ के, बीज स्थापित करने वाले के बीज-स्थापन को मैं प्राप्त करूँ।",
+  "english": "O Agni, O one accompanied by wives, united with the god Tvaṣṭṛ, drink the Soma. Svāhā. You are Prajāpati, a bull, a placer of seed; place seed in me. May I obtain the seed-placing of you, of Prajāpati, the bull, the placer of seed.",
+  "text_flags": [],
+  "notes": "agnā3i is read as agne with a prolongation (pluta) mark. 'prajāpatir vṛṣā'si' could be 'you are Prajāpati, a bull' or 'Prajāpati, you are a bull'; the first is used. retodhām is read as a noun 'the placing of seed' (uncertain).",
+  "confidence": "medium"
+ },
+ {
+  "n": "11",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "u̱pa̱yā̱magṛ̭hīto'si̱",
+      "words": [
+       {
+        "w": "upayāma-gṛhītaḥ",
+        "gloss": "taken with the upayāma (obscure term)",
+        "gram": "m. nom. sg. pp."
+       },
+       {
+        "w": "asi",
+        "gloss": "you are",
+        "gram": "2 sg. pres. √as"
+       }
+      ]
+     },
+     {
+      "src": "hari̭rasi",
+      "words": [
+       {
+        "w": "hariḥ",
+        "gloss": "bay, tawny",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "asi",
+        "gloss": "you are",
+        "gram": "2 sg. pres. √as"
+       }
+      ]
+     },
+     {
+      "src": "hāriyoja̱no",
+      "words": [
+       {
+        "w": "hāri-yojanaḥ",
+        "gloss": "Hāriyojana (obscure term)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "hari̭bhyāṃ",
+      "words": [
+       {
+        "w": "haribhyām",
+        "gloss": "for the two bays",
+        "gram": "m. dat. du."
+       }
+      ]
+     },
+     {
+      "src": "tvā",
+      "words": [
+       {
+        "w": "tvā",
+        "gloss": "you",
+        "gram": "acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "|",
+      "words": [
+       {
+        "w": "|",
+        "gloss": "pause mark",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "haryo̭rdhā̱nā",
+      "words": [
+       {
+        "w": "haryoḥ",
+        "gloss": "of the two bays",
+        "gram": "m. gen. du."
+       },
+       {
+        "w": "dhānāḥ",
+        "gloss": "grains",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "stha̭",
+      "words": [
+       {
+        "w": "stha",
+        "gloss": "you are",
+        "gram": "2 pl. pres. √as"
+       }
+      ]
+     },
+     {
+      "src": "sa̱haso̭mā̱",
+      "words": [
+       {
+        "w": "saha-somāḥ",
+        "gloss": "together with Soma",
+        "gram": "f. nom. pl. comp."
+       }
+      ]
+     },
+     {
+      "src": "indrā̭ya",
+      "words": [
+       {
+        "w": "indrāya",
+        "gloss": "for Indra",
+        "gram": "m. dat. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "तुम उपयाम से ग्रहण किए गए हो, तुम भूरे रंग के हो, हारियोजन हो; दोनों भूरे अश्वों के लिए तुम्हें। तुम दोनों भूरों के भुने दाने हो, सोम के साथ, इन्द्र के लिए।",
+  "english": "You are taken with the upayāma; you are tawny; you are Hāriyojana; you for the two bays. You are the grains of the two bays, together with Soma, for Indra.",
+  "text_flags": [],
+  "notes": "hāriyojana is an obscure term, kept as printed. hari is rendered 'tawny, bay' (the colour word); haribhyām and haryoḥ are read as 'the two bays' (a pair of bay ones); the text does not say what they are. dhānā is read 'grains'.",
+  "confidence": "low"
+ },
+ {
+  "n": "12",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yastḙ",
+      "words": [
+       {
+        "w": "yaḥ",
+        "gloss": "which",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "te",
+        "gloss": "your",
+        "gram": "gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "aśva̱sani̭rbha̱kṣo",
+      "words": [
+       {
+        "w": "aśva-saniḥ",
+        "gloss": "winning horses",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "bhakṣaḥ",
+        "gloss": "draught",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "yo",
+      "words": [
+       {
+        "w": "yaḥ",
+        "gloss": "which",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "go̱sani̱stasya̭",
+      "words": [
+       {
+        "w": "go-saniḥ",
+        "gloss": "winning cows",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "tasya",
+        "gloss": "of that",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "ta",
+      "words": [
+       {
+        "w": "te",
+        "gloss": "of you",
+        "gram": "gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "i̱ṣṭaya̭juṣa",
+      "words": [
+       {
+        "w": "iṣṭa-yajuṣaḥ",
+        "gloss": "whose yajus is desired (uncertain)",
+        "gram": "m. gen. sg. comp."
+       }
+      ]
+     },
+     {
+      "src": "stu̱taso̭masya",
+      "words": [
+       {
+        "w": "stuta-somasya",
+        "gloss": "whose Soma is praised",
+        "gram": "m. gen. sg. comp."
+       }
+      ]
+     },
+     {
+      "src": "śa̱stoktha̱syopa̭hūta̱syopa̭hūto",
+      "words": [
+       {
+        "w": "śasta-ukthasya",
+        "gloss": "whose recitation is recited",
+        "gram": "m. gen. sg. comp."
+       },
+       {
+        "w": "upahūtasya",
+        "gloss": "invoked",
+        "gram": "m. gen. sg."
+       },
+       {
+        "w": "upahūtaḥ",
+        "gloss": "invoked",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhakṣayāmi",
+      "words": [
+       {
+        "w": "bhakṣayāmi",
+        "gloss": "I partake",
+        "gram": "1 sg. pres. √bhakṣ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "तुम्हारा जो अश्व देने वाला भक्ष है, जो गौ देने वाला है, उस तुम्हारे, जिसका यजुः इष्ट है, जिसका सोम स्तुत है, जिसका उक्थ शंसित है, जो आहूत है, उस तुम्हारे भक्ष को मैं, आहूत होकर, खाता हूँ।",
+  "english": "Your draught that wins horses, that wins cows: of you, of that kind, whose yajus is desired, whose Soma is praised, whose recitation is recited, who are invoked, I, invoked, partake.",
+  "text_flags": [],
+  "notes": "Obscure. aśvasani and gosani are read 'winning horses / winning cows'. iṣṭayajuṣaḥ (iṣṭa = desired or offered) is uncertain. The genitive chain describes te; upahūtasya upahūtaḥ is read as 'of the invoked one, I the invoked'. bhakṣayāmi is read 'I partake' (denominative of bhakṣa).",
+  "confidence": "low"
+ },
+ {
+  "n": "13",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "de̱vakṛ̭ta̱syaina̭so'va̱yaja̭namasi",
+      "words": [
+       {
+        "w": "deva-kṛtasya",
+        "gloss": "made by the gods",
+        "gram": "n. gen. sg. comp."
+       },
+       {
+        "w": "enasaḥ",
+        "gloss": "of the sin",
+        "gram": "n. gen. sg."
+       },
+       {
+        "w": "ava-yajanam",
+        "gloss": "expiation",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "asi",
+        "gloss": "you are",
+        "gram": "2 sg. pres. √as"
+       }
+      ]
+     },
+     {
+      "src": "manu̱ṣya̱kṛta̱syaina̭so'va̱yaja̭namasi",
+      "words": [
+       {
+        "w": "manuṣya-kṛtasya",
+        "gloss": "made by men",
+        "gram": "n. gen. sg. comp."
+       },
+       {
+        "w": "enasaḥ",
+        "gloss": "of the sin",
+        "gram": "n. gen. sg."
+       },
+       {
+        "w": "ava-yajanam",
+        "gloss": "expiation",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "asi",
+        "gloss": "you are",
+        "gram": "2 sg. pres. √as"
+       }
+      ]
+     },
+     {
+      "src": "pi̱tṛkṛ̭ta̱syaina̭so'va̱yaja̭namasyā̱tmakṛ̭tasyainaso'va̱yaja̭nama̱syena̭sa",
+      "words": [
+       {
+        "w": "pitṛ-kṛtasya",
+        "gloss": "made by the fathers",
+        "gram": "n. gen. sg. comp."
+       },
+       {
+        "w": "enasaḥ",
+        "gloss": "of the sin",
+        "gram": "n. gen. sg."
+       },
+       {
+        "w": "ava-yajanam",
+        "gloss": "expiation",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "asi",
+        "gloss": "you are",
+        "gram": "2 sg. pres. √as"
+       },
+       {
+        "w": "ātma-kṛtasya",
+        "gloss": "made by oneself",
+        "gram": "n. gen. sg. comp."
+       },
+       {
+        "w": "enasaḥ",
+        "gloss": "of the sin",
+        "gram": "n. gen. sg."
+       },
+       {
+        "w": "ava-yajanam",
+        "gloss": "expiation",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "asi",
+        "gloss": "you are",
+        "gram": "2 sg. pres. √as"
+       },
+       {
+        "w": "enasaḥ",
+        "gloss": "of sin",
+        "gram": "n. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "enaso'va̱yaja̭namasi",
+      "words": [
+       {
+        "w": "enasaḥ",
+        "gloss": "of sin",
+        "gram": "n. gen. sg."
+       },
+       {
+        "w": "ava-yajanam",
+        "gloss": "expiation",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "asi",
+        "gloss": "you are",
+        "gram": "2 sg. pres. √as"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "yaccā̱hameno̭",
+      "words": [
+       {
+        "w": "yat",
+        "gloss": "which",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "aham",
+        "gloss": "I",
+        "gram": "nom. sg."
+       },
+       {
+        "w": "enaḥ",
+        "gloss": "sin",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vi̱dvā~śca̱kāra̱",
+      "words": [
+       {
+        "w": "vidvān",
+        "gloss": "knowing",
+        "gram": "m. nom. sg. pf. part."
+       },
+       {
+        "w": "cakāra",
+        "gloss": "I did",
+        "gram": "1 sg. pf. √kṛ"
+       }
+      ]
+     },
+     {
+      "src": "yaccāvi̭dvā̱~stasya̱",
+      "words": [
+       {
+        "w": "yat",
+        "gloss": "which",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "avidvān",
+        "gloss": "not knowing",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "tasya",
+        "gloss": "of that",
+        "gram": "n. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "sarvasyaina̭so'va̱yaja̭namasi",
+      "words": [
+       {
+        "w": "sarvasya",
+        "gloss": "of all",
+        "gram": "n. gen. sg."
+       },
+       {
+        "w": "enasaḥ",
+        "gloss": "of the sin",
+        "gram": "n. gen. sg."
+       },
+       {
+        "w": "ava-yajanam",
+        "gloss": "expiation",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "asi",
+        "gloss": "you are",
+        "gram": "2 sg. pres. √as"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "तुम देवों द्वारा किए गए पाप का प्रायश्चित्त हो; तुम मनुष्यों द्वारा किए गए पाप का प्रायश्चित्त हो; तुम पितरों द्वारा किए गए पाप का प्रायश्चित्त हो; तुम स्वयं किए गए पाप का प्रायश्चित्त हो; तुम पाप-पाप का प्रायश्चित्त हो। और जो पाप मैंने जानते हुए किया, और जो अनजाने में किया, उस सब पाप का तुम प्रायश्चित्त हो।",
+  "english": "You are the expiation of the sin made by the gods; you are the expiation of the sin made by men; you are the expiation of the sin made by the fathers; you are the expiation of the sin made by oneself; you are the expiation of sin upon sin. And whatever sin I have done knowing, and whatever not knowing, of all that sin you are the expiation.",
+  "text_flags": [],
+  "notes": "avayajana (ava-yajana) is rendered 'expiation' (literally a sacrificing-away). enasa enaso is read 'of sin upon sin'. 'yac cāham eno vidvāṃś cakāra yac cāvidvāṃs tasya' is read as 'the sin which I did knowing, and which not knowing, of that'. The mark ~ on vidvā~ś and avidvā~s is a printed nasal sign. The English of the last sentence follows the Sanskrit order.",
+  "confidence": "medium"
+ },
+ {
+  "n": "14",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "saṃ",
+      "words": [
+       {
+        "w": "sam",
+        "gloss": "together",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "varca̭sā̱",
+      "words": [
+       {
+        "w": "varcasā",
+        "gloss": "with splendour",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "paya̭sā̱",
+      "words": [
+       {
+        "w": "payasā",
+        "gloss": "with milk",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "saṃ",
+      "words": [
+       {
+        "w": "sam",
+        "gloss": "together",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ta̱nūbhi̱raga̭nmahi̱",
+      "words": [
+       {
+        "w": "tanūbhiḥ",
+        "gloss": "with bodies",
+        "gram": "f. inst. pl."
+       },
+       {
+        "w": "aganmahi",
+        "gloss": "we have come",
+        "gram": "1 pl. aor. mid. √gam"
+       }
+      ]
+     },
+     {
+      "src": "mana̭sā̱",
+      "words": [
+       {
+        "w": "manasā",
+        "gloss": "with mind",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "saᳪ",
+      "words": [
+       {
+        "w": "sam",
+        "gloss": "together",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śi̱vena̭",
+      "words": [
+       {
+        "w": "śivena",
+        "gloss": "with the kind",
+        "gram": "n. inst. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "tvaṣṭā̭",
+      "words": [
+       {
+        "w": "tvaṣṭā",
+        "gloss": "Tvaṣṭṛ",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "su̱datro̱",
+      "words": [
+       {
+        "w": "su-datraḥ",
+        "gloss": "generous giver",
+        "gram": "m. nom. sg. bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "vi",
+      "words": [
+       {
+        "w": "vi",
+        "gloss": "apart",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "da̭dhātu̱",
+      "words": [
+       {
+        "w": "dadhātu",
+        "gloss": "may he distribute",
+        "gram": "3 sg. imp. √dhā"
+       }
+      ]
+     },
+     {
+      "src": "rāyo'nṷmārṣṭu",
+      "words": [
+       {
+        "w": "rāyaḥ",
+        "gloss": "riches",
+        "gram": "m. acc. pl."
+       },
+       {
+        "w": "anu-mārṣṭu",
+        "gloss": "may he wipe over",
+        "gram": "3 sg. imp. anu-√mṛj"
+       }
+      ]
+     },
+     {
+      "src": "ta̱nvo",
+      "words": [
+       {
+        "w": "tanvaḥ",
+        "gloss": "of the body",
+        "gram": "f. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "yadvili̭ṣṭam",
+      "words": [
+       {
+        "w": "yat",
+        "gloss": "what",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "viliṣṭam",
+        "gloss": "loosened, misjoined (obscure)",
+        "gram": "n. nom. sg. pp."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हम तेज के साथ, दूध के साथ, शरीरों के साथ, मन के साथ, कल्याणकारी के साथ मिल गए हैं। उदार दाता त्वष्टा धन का वितरण करें, और शरीर का जो ढीला-बिछुड़ा है, उसे पोंछकर ठीक करें।",
+  "english": "We have come together with splendour, with milk, with bodies, with mind, with the kind one. May Tvaṣṭṛ, the generous giver, distribute riches, and may he wipe over whatever is loosened of the body.",
+  "text_flags": [],
+  "notes": "saṃ ... aganmahi is read with all the instrumentals; śivena is taken as a noun-adjective 'the kind (one)' and could agree with manasā ('with a kindly mind'); the second reading is also natural. viliṣṭam is obscure ('loosened, misjoined'). payas is rendered 'milk' (could be 'fluid, juice'). Unit 16 repeats this text.",
+  "confidence": "medium"
+ },
+ {
+  "n": "15",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sami̭ndra",
+      "words": [
+       {
+        "w": "sam",
+        "gloss": "together",
+        "gram": "ind."
+       },
+       {
+        "w": "indra",
+        "gloss": "O Indra",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ṇo̱",
+      "words": [
+       {
+        "w": "naḥ",
+        "gloss": "us",
+        "gram": "acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "mana̭sā",
+      "words": [
+       {
+        "w": "manasā",
+        "gloss": "with mind",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "neṣi̱",
+      "words": [
+       {
+        "w": "neṣi",
+        "gloss": "you lead",
+        "gram": "2 sg. aor. subj. √nī"
+       }
+      ]
+     },
+     {
+      "src": "gobhi̱ḥ",
+      "words": [
+       {
+        "w": "gobhiḥ",
+        "gloss": "with cows",
+        "gram": "f. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "saᳪ ",
+      "words": [
+       {
+        "w": "sam",
+        "gloss": "together",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sū̱ribhi̭rmaghava̱ntsaᳪ ",
+      "words": [
+       {
+        "w": "sūribhiḥ",
+        "gloss": "with patrons",
+        "gram": "m. inst. pl."
+       },
+       {
+        "w": "maghavan",
+        "gloss": "O bounteous one",
+        "gram": "m. voc. sg."
+       },
+       {
+        "w": "sam",
+        "gloss": "together",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sva̱styā",
+      "words": [
+       {
+        "w": "svastyā",
+        "gloss": "with well-being",
+        "gram": "f. inst. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "saṃ",
+      "words": [
+       {
+        "w": "sam",
+        "gloss": "together",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "brahma̭ṇā",
+      "words": [
+       {
+        "w": "brahmaṇā",
+        "gloss": "with brahman",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "de̱vakṛ̭ta̱ṃ",
+      "words": [
+       {
+        "w": "deva-kṛtam",
+        "gloss": "made by the gods",
+        "gram": "n. nom. sg. comp."
+       }
+      ]
+     },
+     {
+      "src": "yadasti̱",
+      "words": [
+       {
+        "w": "yat",
+        "gloss": "which",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "asti",
+        "gloss": "is",
+        "gram": "3 sg. pres. √as"
+       }
+      ]
+     },
+     {
+      "src": "saṃ",
+      "words": [
+       {
+        "w": "sam",
+        "gloss": "together",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "de̱vānā̭ᳪ",
+      "words": [
+       {
+        "w": "devānām",
+        "gloss": "of the gods",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "suma̱tau",
+      "words": [
+       {
+        "w": "sumatau",
+        "gloss": "in the favour",
+        "gram": "f. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ya̱jñiyā̭nā̱ᳪ",
+      "words": [
+       {
+        "w": "yajñiyānām",
+        "gloss": "of those worthy of sacrifice",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "svāhā̭",
+      "words": [
+       {
+        "w": "svāhā",
+        "gloss": "svāhā",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हे इन्द्र, हमें मन से, गौओं से, संरक्षकों से, हे मघवन्, और कल्याण से मिलाओ; ब्रह्मन् से और जो देवों द्वारा किया हुआ है उससे मिलाओ; यज्ञ के योग्य देवों की सुमति में मिलाओ। स्वाहा।",
+  "english": "O Indra, bring us together with mind, with cows, with patrons, O bounteous one, with well-being; together with brahman, and with whatever is made by the gods; together in the favour of the gods worthy of sacrifice. Svāhā.",
+  "text_flags": [],
+  "notes": "sam ... neṣi is read as 'unite us', and the repeated sam as continuing it. sūri is rendered 'patron' (also 'wise man'); brahmaṇā is the neuter brahman (sacred formula or prayer), left as 'brahman'. 'devakṛtaṃ yad asti' is read as 'whatever is made by the gods'.",
+  "confidence": "medium"
+ },
+ {
+  "n": "16",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "saṃ",
+      "words": [
+       {
+        "w": "sam",
+        "gloss": "together",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "varca̭sā̱",
+      "words": [
+       {
+        "w": "varcasā",
+        "gloss": "with splendour",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "paya̭sā̱",
+      "words": [
+       {
+        "w": "payasā",
+        "gloss": "with milk",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "saṃ",
+      "words": [
+       {
+        "w": "sam",
+        "gloss": "together",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ta̱nūbhi̱raga̭nmahi̱",
+      "words": [
+       {
+        "w": "tanūbhiḥ",
+        "gloss": "with bodies",
+        "gram": "f. inst. pl."
+       },
+       {
+        "w": "aganmahi",
+        "gloss": "we have come",
+        "gram": "1 pl. aor. mid. √gam"
+       }
+      ]
+     },
+     {
+      "src": "mana̭sā̱",
+      "words": [
+       {
+        "w": "manasā",
+        "gloss": "with mind",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "saᳪ",
+      "words": [
+       {
+        "w": "sam",
+        "gloss": "together",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śi̱vena̭",
+      "words": [
+       {
+        "w": "śivena",
+        "gloss": "with the kind",
+        "gram": "n. inst. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "tvaṣṭā̭",
+      "words": [
+       {
+        "w": "tvaṣṭā",
+        "gloss": "Tvaṣṭṛ",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "su̱datro̱",
+      "words": [
+       {
+        "w": "su-datraḥ",
+        "gloss": "generous giver",
+        "gram": "m. nom. sg. bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "vi",
+      "words": [
+       {
+        "w": "vi",
+        "gloss": "apart",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "da̭dhātu̱",
+      "words": [
+       {
+        "w": "dadhātu",
+        "gloss": "may he distribute",
+        "gram": "3 sg. imp. √dhā"
+       }
+      ]
+     },
+     {
+      "src": "rāyo'nṷmārṣṭu",
+      "words": [
+       {
+        "w": "rāyaḥ",
+        "gloss": "riches",
+        "gram": "m. acc. pl."
+       },
+       {
+        "w": "anu-mārṣṭu",
+        "gloss": "may he wipe over",
+        "gram": "3 sg. imp. anu-√mṛj"
+       }
+      ]
+     },
+     {
+      "src": "ta̱nvo",
+      "words": [
+       {
+        "w": "tanvaḥ",
+        "gloss": "of the body",
+        "gram": "f. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "yadvili̭ṣṭam",
+      "words": [
+       {
+        "w": "yat",
+        "gloss": "what",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "viliṣṭam",
+        "gloss": "loosened, misjoined (obscure)",
+        "gram": "n. nom. sg. pp."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हम तेज के साथ, दूध के साथ, शरीरों के साथ, मन के साथ, कल्याणकारी के साथ मिल गए हैं। उदार दाता त्वष्टा धन का वितरण करें, और शरीर का जो ढीला-बिछुड़ा है, उसे पोंछकर ठीक करें।",
+  "english": "We have come together with splendour, with milk, with bodies, with mind, with the kind one. May Tvaṣṭṛ, the generous giver, distribute riches, and may he wipe over whatever is loosened of the body.",
+  "text_flags": [],
+  "notes": "GROUPING: the text is identical to unit 14 (repeated in the edition); both units kept as given. saṃ ... aganmahi is read with all the instrumentals; śivena is taken as a noun-adjective 'the kind (one)' and could agree with manasā ('with a kindly mind'); the second reading is also natural. viliṣṭam is obscure ('loosened, misjoined'). payas is rendered 'milk' (could be 'fluid, juice').",
+  "confidence": "medium"
+ },
+ {
+  "n": "17",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "dhā̱tā",
+      "words": [
+       {
+        "w": "dhātā",
+        "gloss": "Dhātṛ",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "rā̱tiḥ",
+      "words": [
+       {
+        "w": "rātiḥ",
+        "gloss": "Rāti (gift)",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sa̭vi̱tedaṃ",
+      "words": [
+       {
+        "w": "savitā",
+        "gloss": "Savitṛ",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "idam",
+        "gloss": "this",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "jṷṣantāṃ",
+      "words": [
+       {
+        "w": "juṣantām",
+        "gloss": "may they enjoy",
+        "gram": "3 pl. imp. mid. √juṣ"
+       }
+      ]
+     },
+     {
+      "src": "pra̱jāpa̭tirnidhi̱pā",
+      "words": [
+       {
+        "w": "prajā-patiḥ",
+        "gloss": "Prajāpati",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "nidhi-pāḥ",
+        "gloss": "guardian of treasure",
+        "gram": "m. nom. sg. tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "de̱vo",
+      "words": [
+       {
+        "w": "devaḥ",
+        "gloss": "god",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "a̱gniḥ",
+      "words": [
+       {
+        "w": "agniḥ",
+        "gloss": "Agni",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "tvaṣṭā̱",
+      "words": [
+       {
+        "w": "tvaṣṭā",
+        "gloss": "Tvaṣṭṛ",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "viṣṇṷḥ",
+      "words": [
+       {
+        "w": "viṣṇuḥ",
+        "gloss": "Viṣṇu",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "pra̱jayā̭",
+      "words": [
+       {
+        "w": "prajayā",
+        "gloss": "with offspring",
+        "gram": "f. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "saᳪrarā̱ṇā",
+      "words": [
+       {
+        "w": "saṃrarāṇāḥ",
+        "gloss": "bestowing together",
+        "gram": "m. nom. pl. pf. part. mid. sam-√rā"
+       }
+      ]
+     },
+     {
+      "src": "yaja̭mānāya̱",
+      "words": [
+       {
+        "w": "yajamānāya",
+        "gloss": "for the sacrificer",
+        "gram": "m. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "dravi̭ṇaṃ",
+      "words": [
+       {
+        "w": "draviṇam",
+        "gloss": "wealth",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "dadhāta̱",
+      "words": [
+       {
+        "w": "dadhāta",
+        "gloss": "bestow",
+        "gram": "2 pl. imp. √dhā"
+       }
+      ]
+     },
+     {
+      "src": "svāhā̭",
+      "words": [
+       {
+        "w": "svāhā",
+        "gloss": "svāhā",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "धाता, राति और सविता इसका सेवन करें; प्रजापति, निधि के रक्षक, देव अग्नि भी। त्वष्टा और विष्णु, सन्तान के साथ दान करते हुए, यजमान को धन प्रदान करो। स्वाहा।",
+  "english": "May Dhātṛ, Rāti, Savitṛ enjoy this, and Prajāpati, the guardian of treasure, the god Agni. O Tvaṣṭṛ, O Viṣṇu, bestowing together with offspring, grant wealth to the sacrificer. Svāhā.",
+  "text_flags": [],
+  "notes": "Dhātṛ and Rāti are kept as names; rāti means 'gift' and may not be a personal name here. nidhipāḥ is taken with Prajāpati as printed (prajāpatir nidhipā), but could be a separate title. dadhāta is a plural imperative, so tvaṣṭā viṣṇuḥ are read as addressed together with the others; the text gives no further identification. saṃrarāṇāḥ is read 'bestowing together' (uncertain sense).",
+  "confidence": "medium"
+ },
+ {
+  "n": "18",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "su̱gā",
+      "words": [
+       {
+        "w": "su-gā",
+        "gloss": "easy to go",
+        "gram": "n. acc. pl. comp."
+       }
+      ]
+     },
+     {
+      "src": "vo̭",
+      "words": [
+       {
+        "w": "vaḥ",
+        "gloss": "for you",
+        "gram": "dat. pl."
+       }
+      ]
+     },
+     {
+      "src": "devā̱ḥ",
+      "words": [
+       {
+        "w": "devāḥ",
+        "gloss": "O gods",
+        "gram": "m. voc. pl."
+       }
+      ]
+     },
+     {
+      "src": "sada̭nā",
+      "words": [
+       {
+        "w": "sadanā",
+        "gloss": "seats",
+        "gram": "n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "akarma̱",
+      "words": [
+       {
+        "w": "akarma",
+        "gloss": "we have made",
+        "gram": "1 pl. aor. √kṛ"
+       }
+      ]
+     },
+     {
+      "src": "ya",
+      "words": [
+       {
+        "w": "ye",
+        "gloss": "who",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "ā̭ja̱gmedaᳪ",
+      "words": [
+       {
+        "w": "ājagma",
+        "gloss": "you have come",
+        "gram": "2 pl. pf. ā-√gam"
+       },
+       {
+        "w": "idam",
+        "gloss": "this",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "sava̭naṃ",
+      "words": [
+       {
+        "w": "savanam",
+        "gloss": "pressing",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "juṣā̱ṇāḥ",
+      "words": [
+       {
+        "w": "juṣāṇāḥ",
+        "gloss": "enjoying",
+        "gram": "m. nom. pl. pres. part. mid. √juṣ"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "bhara̭māṇā̱",
+      "words": [
+       {
+        "w": "bharamāṇāḥ",
+        "gloss": "bearing",
+        "gram": "m. nom. pl. pres. part. mid. √bhṛ"
+       }
+      ]
+     },
+     {
+      "src": "vaha̭mānā",
+      "words": [
+       {
+        "w": "vahamānāḥ",
+        "gloss": "carrying",
+        "gram": "m. nom. pl. pres. part. mid. √vah"
+       }
+      ]
+     },
+     {
+      "src": "ha̱vīᳪṣya̱sme",
+      "words": [
+       {
+        "w": "havīṃṣi",
+        "gloss": "oblations",
+        "gram": "n. acc. pl."
+       },
+       {
+        "w": "asme",
+        "gloss": "to us",
+        "gram": "dat. pl."
+       }
+      ]
+     },
+     {
+      "src": "dha̭tta",
+      "words": [
+       {
+        "w": "dhatta",
+        "gloss": "give",
+        "gram": "2 pl. imp. √dhā"
+       }
+      ]
+     },
+     {
+      "src": "vasavo̱",
+      "words": [
+       {
+        "w": "vasavaḥ",
+        "gloss": "O Vasus",
+        "gram": "m. voc. pl."
+       }
+      ]
+     },
+     {
+      "src": "vasṷ̄ni̱",
+      "words": [
+       {
+        "w": "vasūni",
+        "gloss": "goods",
+        "gram": "n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "svāhā̭",
+      "words": [
+       {
+        "w": "svāhā",
+        "gloss": "svāhā",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हे देवो, हमने तुम्हारे लिए सुगम आसन बनाए हैं, तुम जो इस सवन में आनन्द लेते हुए आए हो। हवियाँ लाते हुए, वहन करते हुए, हे वसुओ, हमें धन दो। स्वाहा।",
+  "english": "O gods, we have made easy seats for you, you who have come to this pressing, enjoying it. Bearing and carrying the oblations, O Vasus, give us wealth. Svāhā.",
+  "text_flags": [],
+  "notes": "sugā is read as 'easy to go (to)', agreeing with sadanā. vasūni is rendered 'wealth, goods'; vasavaḥ is kept as 'Vasus' (a class of gods named in the line).",
+  "confidence": "high"
+ },
+ {
+  "n": "19",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yā~2 ",
+      "words": [
+       {
+        "w": "yān",
+        "gloss": "whom",
+        "gram": "m. acc. pl. (with printed nasal mark)"
+       }
+      ]
+     },
+     {
+      "src": "ā'va̭ha",
+      "words": [
+       {
+        "w": "ā-vaha",
+        "gloss": "bring hither",
+        "gram": "2 sg. imp. ā-√vah"
+       }
+      ]
+     },
+     {
+      "src": "uśa̱to",
+      "words": [
+       {
+        "w": "uśataḥ",
+        "gloss": "eager",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "dḙva",
+      "words": [
+       {
+        "w": "deva",
+        "gloss": "O god",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "de̱vā~stān",
+      "words": [
+       {
+        "w": "devān",
+        "gloss": "gods",
+        "gram": "m. acc. pl."
+       },
+       {
+        "w": "tān",
+        "gloss": "them",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "prera̭ya̱",
+      "words": [
+       {
+        "w": "preraya",
+        "gloss": "send forth",
+        "gram": "2 sg. imp. caus. pra-√ṛ"
+       }
+      ]
+     },
+     {
+      "src": "sve",
+      "words": [
+       {
+        "w": "sve",
+        "gloss": "in your own",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "a̭gne",
+      "words": [
+       {
+        "w": "agne",
+        "gloss": "O Agni",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "sa̱dhasthḙ",
+      "words": [
+       {
+        "w": "sadha-sthe",
+        "gloss": "in the common seat",
+        "gram": "n. loc. sg. tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "ja̱kṣi̱vāᳪsa̭ḥ",
+      "words": [
+       {
+        "w": "jakṣivāṃsaḥ",
+        "gloss": "having eaten",
+        "gram": "m. nom. pl. pf. part. √jakṣ"
+       }
+      ]
+     },
+     {
+      "src": "papi̱vājsa̭śca̱",
+      "words": [
+       {
+        "w": "papivāṃsaḥ",
+        "gloss": "having drunk",
+        "gram": "m. nom. pl. pf. part. √pā"
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "viśve'sṷṃ",
+      "words": [
+       {
+        "w": "viśve",
+        "gloss": "all",
+        "gram": "m. nom. pl."
+       },
+       {
+        "w": "asum",
+        "gloss": "life-breath",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "gha̱rmaᳪ",
+      "words": [
+       {
+        "w": "gharmam",
+        "gloss": "heat, hot offering",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "sva̱rāti̭ṣṭha̱tānu̱",
+      "words": [
+       {
+        "w": "svar",
+        "gloss": "heaven",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "ā-tiṣṭhata",
+        "gloss": "mount",
+        "gram": "2 pl. imp. ā-√sthā"
+       },
+       {
+        "w": "anu",
+        "gloss": "after",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "svāhā̭",
+      "words": [
+       {
+        "w": "svāhā",
+        "gloss": "svāhā",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जिन उत्सुक देवों को तुम बुलाते हो, हे देव, उन देवों को हे अग्नि, अपने साथ के आसन में प्रेरित करो। भोजन कर चुके और पी चुके तुम सब प्राण पर, घर्म पर, स्वर्ग पर क्रम से आरूढ़ हो जाओ। स्वाहा।",
+  "english": "Whichever eager gods you bring hither, O god, those gods send forth, O Agni, in your own common seat. All of you who have eaten and drunk, mount the life-breath, the hot offering, heaven, in turn. Svāhā.",
+  "text_flags": [
+   {
+    "src": "papi̱vājsa̭śca̱",
+    "suggest": "papivāṃsaś ca",
+    "why": "typo: Latin letter j typed for the anusvāra (the Devanagari line also has j), the perfect participle is papivāṃsaḥ"
+   }
+  ],
+  "notes": "yā~2 is yān with a printed nasal/length mark. The construction of line 1 is uncertain: āvaha (imperative) with yān ... tān is rendered as a relative clause. In line 2 the objects of ātiṣṭhata (asum, gharmam, svar) and the sense of anu 'in turn, after' are uncertain; asu is rendered 'life-breath', gharma 'heat, hot offering'. sve ... sadhasthe is read 'in your own common seat' (uncertain).",
+  "confidence": "low"
+ },
+ {
+  "n": "20",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "va̱yaᳪ ",
+      "words": [
+       {
+        "w": "vayam",
+        "gloss": "we",
+        "gram": "nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "hi",
+      "words": [
+       {
+        "w": "hi",
+        "gloss": "for",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tvā̭",
+      "words": [
+       {
+        "w": "tvā",
+        "gloss": "you",
+        "gram": "acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "praya̱ti",
+      "words": [
+       {
+        "w": "prayati",
+        "gloss": "being undertaken",
+        "gram": "m. loc. sg. pres. part. pra-√i"
+       }
+      ]
+     },
+     {
+      "src": "ya̱jñe",
+      "words": [
+       {
+        "w": "yajñe",
+        "gloss": "in the sacrifice",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "a̱sminna̭gne̱",
+      "words": [
+       {
+        "w": "asmin",
+        "gloss": "this",
+        "gram": "m. loc. sg."
+       },
+       {
+        "w": "agne",
+        "gloss": "O Agni",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "hotā̭ra̱mavṛ̭ṇīmahī̱ha",
+      "words": [
+       {
+        "w": "hotāram",
+        "gloss": "hotṛ",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "avṛṇīmahi",
+        "gloss": "we chose",
+        "gram": "1 pl. impf. mid. √vṛ"
+       },
+       {
+        "w": "iha",
+        "gloss": "here",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "ṛdha̭gayā̱",
+      "words": [
+       {
+        "w": "ṛdhak",
+        "gloss": "separately",
+        "gram": "ind."
+       },
+       {
+        "w": "ayā",
+        "gloss": "by this",
+        "gram": "f. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "ṛdha̭gu̱tāśa̭miṣṭhāḥ",
+      "words": [
+       {
+        "w": "ṛdhak",
+        "gloss": "separately",
+        "gram": "ind."
+       },
+       {
+        "w": "uta",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "aśamiṣṭhāḥ",
+        "gloss": "you toiled",
+        "gram": "2 sg. aor. mid. √śam"
+       }
+      ]
+     },
+     {
+      "src": "prajā̱nan ",
+      "words": [
+       {
+        "w": "prajānan",
+        "gloss": "knowing well",
+        "gram": "m. nom. sg. pres. part. pra-√jñā"
+       }
+      ]
+     },
+     {
+      "src": "ya̱jñamupa̭",
+      "words": [
+       {
+        "w": "yajñam",
+        "gloss": "sacrifice",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "upa",
+        "gloss": "to",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yāhi",
+      "words": [
+       {
+        "w": "yāhi",
+        "gloss": "go",
+        "gram": "2 sg. imp. √yā"
+       }
+      ]
+     },
+     {
+      "src": "vi̱dvāntsvāhā̭",
+      "words": [
+       {
+        "w": "vidvān",
+        "gloss": "knowing",
+        "gram": "m. nom. sg. pf. part. √vid"
+       },
+       {
+        "w": "svāhā",
+        "gloss": "svāhā",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हे अग्नि, हमने तुम्हें यहाँ इस चल रहे यज्ञ में होता चुना है। अलग-अलग इस प्रकार तुमने परिश्रम किया है; भली-भाँति जानते हुए, जानने वाले तुम यज्ञ के पास जाओ। स्वाहा।",
+  "english": "For we chose you here, O Agni, as hotṛ in this sacrifice that is under way. Separately by this, separately you have toiled; knowing well, knowing, go to the sacrifice. Svāhā.",
+  "text_flags": [],
+  "notes": "Line 2 is obscure: 'ṛdhag ayā ṛdhag utāśamiṣṭhāḥ' is rendered literally ('separately by this, separately you have toiled'); aśamiṣṭhāḥ is read as an aorist of √śam 'toil'. The sense is uncertain. prayati is read as a participle 'being undertaken'.",
+  "confidence": "low"
+ },
+ {
+  "n": "21",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "devā̭",
+      "words": [
+       {
+        "w": "devāḥ",
+        "gloss": "O gods",
+        "gram": "m. voc. pl."
+       }
+      ]
+     },
+     {
+      "src": "gātuvido",
+      "words": [
+       {
+        "w": "gātu-vidaḥ",
+        "gloss": "finders of the way",
+        "gram": "m. voc. pl. tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "gā̱tuṃ",
+      "words": [
+       {
+        "w": "gātum",
+        "gloss": "way",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vi̱ttvā",
+      "words": [
+       {
+        "w": "vittvā",
+        "gloss": "having found",
+        "gram": "abs. √vid"
+       }
+      ]
+     },
+     {
+      "src": "gā̱tumi̭ta",
+      "words": [
+       {
+        "w": "gātum",
+        "gloss": "way",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "ita",
+        "gloss": "go",
+        "gram": "2 pl. imp. √i"
+       }
+      ]
+     },
+     {
+      "src": "|",
+      "words": [
+       {
+        "w": "|",
+        "gloss": "pause mark",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "mana̭saspata",
+      "words": [
+       {
+        "w": "manasaḥ",
+        "gloss": "of the mind",
+        "gram": "n. gen. sg."
+       },
+       {
+        "w": "pate",
+        "gloss": "O lord",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "i̱maṃ",
+      "words": [
+       {
+        "w": "imam",
+        "gloss": "this",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "dḙva",
+      "words": [
+       {
+        "w": "deva",
+        "gloss": "O god",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ya̱jñaᳪ ",
+      "words": [
+       {
+        "w": "yajñam",
+        "gloss": "sacrifice",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "svāhā̱",
+      "words": [
+       {
+        "w": "svāhā",
+        "gloss": "svāhā",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vātḙ",
+      "words": [
+       {
+        "w": "vāte",
+        "gloss": "in the wind",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "dhāḥ",
+      "words": [
+       {
+        "w": "dhāḥ",
+        "gloss": "place",
+        "gram": "2 sg. aor. inj. √dhā"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हे देवो, मार्ग खोजने वालो, मार्ग पाकर मार्ग पर चलो। हे मन के स्वामी, हे देव, इस यज्ञ को वायु में स्थापित करो। स्वाहा।",
+  "english": "O gods, finders of the way, having found the way, go on the way. O lord of the mind, O god, place this sacrifice in the wind. Svāhā.",
+  "text_flags": [],
+  "notes": "The second svāhā and the order 'svāhā vāte dhāḥ' are as printed; svāhā is read as a formula inserted before the verb. manasaspati is read as 'lord of the mind' (manasas-pati).",
+  "confidence": "medium"
+ },
+ {
+  "n": "22",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yajña̭",
+      "words": [
+       {
+        "w": "yajña",
+        "gloss": "O sacrifice",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ya̱jñaṃ",
+      "words": [
+       {
+        "w": "yajñam",
+        "gloss": "sacrifice",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ga̭ccha",
+      "words": [
+       {
+        "w": "gaccha",
+        "gloss": "go",
+        "gram": "2 sg. imp. √gam"
+       }
+      ]
+     },
+     {
+      "src": "ya̱jñapati̭ṃ",
+      "words": [
+       {
+        "w": "yajña-patim",
+        "gloss": "lord of the sacrifice",
+        "gram": "m. acc. sg. tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "gaccha̱",
+      "words": [
+       {
+        "w": "gaccha",
+        "gloss": "go",
+        "gram": "2 sg. imp. √gam"
+       }
+      ]
+     },
+     {
+      "src": "svāṃ",
+      "words": [
+       {
+        "w": "svām",
+        "gloss": "your own",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "yoni̭ṃ",
+      "words": [
+       {
+        "w": "yonim",
+        "gloss": "womb, source",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "gaccha̱",
+      "words": [
+       {
+        "w": "gaccha",
+        "gloss": "go",
+        "gram": "2 sg. imp. √gam"
+       }
+      ]
+     },
+     {
+      "src": "svāhā̭",
+      "words": [
+       {
+        "w": "svāhā",
+        "gloss": "svāhā",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "e̱ṣa",
+      "words": [
+       {
+        "w": "eṣaḥ",
+        "gloss": "this",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tḙ",
+      "words": [
+       {
+        "w": "te",
+        "gloss": "your",
+        "gram": "gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "ya̱jño",
+      "words": [
+       {
+        "w": "yajñaḥ",
+        "gloss": "sacrifice",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ya̭jñapate",
+      "words": [
+       {
+        "w": "yajña-pate",
+        "gloss": "O lord of the sacrifice",
+        "gram": "m. voc. sg. tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "sa̱hasṷ̄ktavāka̱ḥ",
+      "words": [
+       {
+        "w": "saha-sūkta-vākaḥ",
+        "gloss": "with the sūkta and the utterance",
+        "gram": "m. nom. sg. bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "sarva̭vīra̱staṃ ",
+      "words": [
+       {
+        "w": "sarva-vīraḥ",
+        "gloss": "with all heroes",
+        "gram": "m. nom. sg. bahuvrīhi"
+       },
+       {
+        "w": "tam",
+        "gloss": "that",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "jṷṣasva̱",
+      "words": [
+       {
+        "w": "juṣasva",
+        "gloss": "enjoy",
+        "gram": "2 sg. imp. mid. √juṣ"
+       }
+      ]
+     },
+     {
+      "src": "svāhā̭",
+      "words": [
+       {
+        "w": "svāhā",
+        "gloss": "svāhā",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हे यज्ञ, यज्ञ के पास जाओ, यज्ञपति के पास जाओ, अपनी योनि में जाओ। स्वाहा। हे यज्ञपति, यह तुम्हारा यज्ञ है, सूक्त और वाक् सहित, सब वीरों सहित; उसका सेवन करो। स्वाहा।",
+  "english": "O sacrifice, go to the sacrifice, go to the lord of the sacrifice, go to your own womb. Svāhā. This is your sacrifice, O lord of the sacrifice, with the sūkta and the utterance, with all heroes; enjoy it. Svāhā.",
+  "text_flags": [],
+  "notes": "sahasūktavākaḥ is read as saha-sūkta-vākaḥ 'with sūkta and utterance' (uncertain; other splits exist). yoni is rendered 'womb, source'.",
+  "confidence": "medium"
+ },
+ {
+  "n": "23",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "māhi̭rbhū̱rmā",
+      "words": [
+       {
+        "w": "mā",
+        "gloss": "not",
+        "gram": "ind."
+       },
+       {
+        "w": "ahiḥ",
+        "gloss": "snake",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "bhūḥ",
+        "gloss": "be",
+        "gram": "2 sg. aor. inj. √bhū"
+       },
+       {
+        "w": "mā",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pṛdā̭kuḥ",
+      "words": [
+       {
+        "w": "pṛdākuḥ",
+        "gloss": "pṛdāku (obscure animal name)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "|",
+      "words": [
+       {
+        "w": "|",
+        "gloss": "pause mark",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "u̱ruᳪ ",
+      "words": [
+       {
+        "w": "urum",
+        "gloss": "wide",
+        "gram": "adj. m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "hi",
+      "words": [
+       {
+        "w": "hi",
+        "gloss": "for",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "rājā̱",
+      "words": [
+       {
+        "w": "rājā",
+        "gloss": "king",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "varṷṇaśca̱kāra̱",
+      "words": [
+       {
+        "w": "varuṇaḥ",
+        "gloss": "Varuṇa",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "cakāra",
+        "gloss": "made",
+        "gram": "3 sg. pf. √kṛ"
+       }
+      ]
+     },
+     {
+      "src": "sūryā̭ya̱",
+      "words": [
+       {
+        "w": "sūryāya",
+        "gloss": "for the sun",
+        "gram": "m. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "panthā̱manvḙta̱vā",
+      "words": [
+       {
+        "w": "panthām",
+        "gloss": "path",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "anu-etavai",
+        "gloss": "to follow",
+        "gram": "inf. anu-√i"
+       }
+      ]
+     },
+     {
+      "src": "ṷ",
+      "words": [
+       {
+        "w": "u",
+        "gloss": "indeed",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "a̱pade̱",
+      "words": [
+       {
+        "w": "apade",
+        "gloss": "for the footless",
+        "gram": "n. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "pādā̱",
+      "words": [
+       {
+        "w": "pādā",
+        "gloss": "feet",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "prati̭dhātave'karu̱tāpa̭va̱ktā",
+      "words": [
+       {
+        "w": "prati-dhātave",
+        "gloss": "to place",
+        "gram": "inf. prati-√dhā"
+       },
+       {
+        "w": "akaḥ",
+        "gloss": "he made",
+        "gram": "3 sg. aor. inj. √kṛ"
+       },
+       {
+        "w": "uta",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "apa-vaktā",
+        "gloss": "rebuker",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "hṛ̭dayā̱vidha̭ścit",
+      "words": [
+       {
+        "w": "hṛdaya-vidhaḥ",
+        "gloss": "heart-piercers",
+        "gram": "m. acc. pl. tat-puruṣa"
+       },
+       {
+        "w": "cit",
+        "gloss": "even",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "namo̱",
+      "words": [
+       {
+        "w": "namaḥ",
+        "gloss": "homage",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "varṷṇāyā̱bhiṣṭhi̭to̱",
+      "words": [
+       {
+        "w": "varuṇāya",
+        "gloss": "to Varuṇa",
+        "gram": "m. dat. sg."
+       },
+       {
+        "w": "abhi-ṣṭhitaḥ",
+        "gloss": "stands set",
+        "gram": "m. nom. sg. pp."
+       }
+      ]
+     },
+     {
+      "src": "varṷṇasya̱",
+      "words": [
+       {
+        "w": "varuṇasya",
+        "gloss": "of Varuṇa",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "pāśa̭ḥ",
+      "words": [
+       {
+        "w": "pāśaḥ",
+        "gloss": "noose",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "साँप मत बनो, पृदाकु मत बनो। राजा वरुण ने सूर्य के अनुसरण के लिए विस्तृत मार्ग बनाया। उसने पाँवरहित के लिए पाँव रखने को पाँव बनाए, और हृदय को बेधने वालों का भी निन्दक बनाया। वरुण को नमस्कार। वरुण का पाश खड़ा है।",
+  "english": "Do not be a snake, do not be a pṛdāku. King Varuṇa made a wide path for the sun to follow. For the footless he made feet to set down, and a rebuker even of the heart-piercers. Homage to Varuṇa. Varuṇa's noose stands set.",
+  "text_flags": [],
+  "notes": "The pause mark | is a separate token as printed. pṛdāku is kept (an obscure animal name). Line 2 is obscure: akaḥ is the 3 sg. aorist 'he made'; apavaktā is read 'rebuker, one who speaks against'; 'he made a rebuker even of the heart-piercers' is a literal rendering of an unclear clause. abhiṣṭhitaḥ is read 'stands set (over)'; no object is stated.",
+  "confidence": "low"
+ },
+ {
+  "n": "24",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "a̱gneranī̭kama̱pa",
+      "words": [
+       {
+        "w": "agneḥ",
+        "gloss": "of Agni",
+        "gram": "m. gen. sg."
+       },
+       {
+        "w": "anīkam",
+        "gloss": "face",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "apaḥ",
+        "gloss": "the waters",
+        "gram": "f. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "ā",
+      "words": [
+       {
+        "w": "ā",
+        "gloss": "into",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vi̭veśā̱pāṃ",
+      "words": [
+       {
+        "w": "viveśa",
+        "gloss": "entered",
+        "gram": "3 sg. pf. √viś"
+       },
+       {
+        "w": "apām",
+        "gloss": "of the waters",
+        "gram": "f. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "napā̭t ",
+      "words": [
+       {
+        "w": "napāt",
+        "gloss": "son",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "prati̱rakṣa̭nnasu̱rya̱m",
+      "words": [
+       {
+        "w": "prati-rakṣan",
+        "gloss": "guarding",
+        "gram": "m. nom. sg. pres. part. prati-√rakṣ"
+       },
+       {
+        "w": "asuryam",
+        "gloss": "lordly power",
+        "gram": "n. acc. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "damḙdame",
+      "words": [
+       {
+        "w": "dame-dame",
+        "gloss": "in each house",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "sa̱midha̭ṃ",
+      "words": [
+       {
+        "w": "samidham",
+        "gloss": "kindling",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "yakṣyagne̱",
+      "words": [
+       {
+        "w": "yakṣi",
+        "gloss": "you sacrifice",
+        "gram": "2 sg. pres. √yaj"
+       },
+       {
+        "w": "agne",
+        "gloss": "O Agni",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "prati̭",
+      "words": [
+       {
+        "w": "prati",
+        "gloss": "towards",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "te",
+      "words": [
+       {
+        "w": "te",
+        "gloss": "your",
+        "gram": "gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "ji̱hvā",
+      "words": [
+       {
+        "w": "jihvā",
+        "gloss": "tongue",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ghṛ̱tamucca̭raṇya̱t ",
+      "words": [
+       {
+        "w": "ghṛtam",
+        "gloss": "ghee",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "ut-caraṇyat",
+        "gloss": "moving up (obscure)",
+        "gram": "pres. part. denom."
+       }
+      ]
+     },
+     {
+      "src": "svāhā̭",
+      "words": [
+       {
+        "w": "svāhā",
+        "gloss": "svāhā",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अग्नि का अग्रभाग जलों में प्रविष्ट हुआ; अपां नपात असुर-सम्बन्धी बल की रक्षा करता हुआ। प्रत्येक घर में हे अग्नि, तुम समिधा अर्पित करते हो; तुम्हारी जिह्वा की ओर घी ऊपर चलता हुआ। स्वाहा।",
+  "english": "The face of Agni has entered the waters, Apām Napāt guarding the lordly power. In every house you offer kindling, O Agni; towards your tongue the ghee moves upward. Svāhā.",
+  "text_flags": [],
+  "notes": "apāṃ napāt is kept as 'Apām Napāt' (literally 'son of the waters'). asurya is rendered 'lordly power' (a-sura-ya, uncertain). yakṣi samidham is read 'you offer kindling'. ghṛtam uccaraṇyat is obscure and the sentence is incomplete as printed.",
+  "confidence": "low"
+ },
+ {
+  "n": "25",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sa̱mu̱dre",
+      "words": [
+       {
+        "w": "samudre",
+        "gloss": "in the ocean",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "te̱",
+      "words": [
+       {
+        "w": "te",
+        "gloss": "your",
+        "gram": "gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "hṛda̭yama̱psvantaḥ",
+      "words": [
+       {
+        "w": "hṛdayam",
+        "gloss": "heart",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "apsu",
+        "gloss": "in the waters",
+        "gram": "f. loc. pl."
+       },
+       {
+        "w": "antaḥ",
+        "gloss": "within",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "saṃ",
+      "words": [
+       {
+        "w": "sam",
+        "gloss": "together",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tvā̭",
+      "words": [
+       {
+        "w": "tvā",
+        "gloss": "you",
+        "gram": "acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "viśa̱ntvoṣa̭dhīru̱tāpa̭ḥ",
+      "words": [
+       {
+        "w": "viśantu",
+        "gloss": "may they enter",
+        "gram": "3 pl. imp. √viś"
+       },
+       {
+        "w": "oṣadhīḥ",
+        "gloss": "plants",
+        "gram": "f. nom. pl."
+       },
+       {
+        "w": "uta",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "āpaḥ",
+        "gloss": "waters",
+        "gram": "f. nom. pl."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "ya̱jñasya̭",
+      "words": [
+       {
+        "w": "yajñasya",
+        "gloss": "of the sacrifice",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "tvā",
+      "words": [
+       {
+        "w": "tvā",
+        "gloss": "you",
+        "gram": "acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "yajñapate",
+      "words": [
+       {
+        "w": "yajña-pate",
+        "gloss": "O lord of the sacrifice",
+        "gram": "m. voc. sg. tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "sū̱ktoktaṷ",
+      "words": [
+       {
+        "w": "sūkta-uktau",
+        "gloss": "in the saying of the sūkta",
+        "gram": "f. loc. sg. tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "namovā̱ke",
+      "words": [
+       {
+        "w": "namaḥ-vāke",
+        "gloss": "in the utterance of homage",
+        "gram": "m. loc. sg. tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "vi̭dhema̱",
+      "words": [
+       {
+        "w": "vidhema",
+        "gloss": "may we serve",
+        "gram": "1 pl. opt. √vidh"
+       }
+      ]
+     },
+     {
+      "src": "yatsvāhā̭",
+      "words": [
+       {
+        "w": "yat",
+        "gloss": "that",
+        "gram": "ind."
+       },
+       {
+        "w": "svāhā",
+        "gloss": "svāhā",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "समुद्र में तुम्हारा हृदय है, जलों के भीतर। तुममें ओषधियाँ और जल प्रविष्ट हों। हे यज्ञपति, यज्ञ के सूक्त-कथन में और नमः-वाक् में हम तुम्हारी सेवा करें, जो कुछ भी। स्वाहा।",
+  "english": "In the ocean is your heart, within the waters. May plants and waters enter you. O lord of the sacrifice, in the saying of the sūkta and the utterance of homage of the sacrifice, may we serve you, whatever it be. Svāhā.",
+  "text_flags": [],
+  "notes": "yajñasya is read with the two locatives ('of the sacrifice'). yat svāhā is read 'whatever it be'; the use of yat is uncertain. oṣadhi is rendered 'plant'.",
+  "confidence": "medium"
+ },
+ {
+  "n": "26",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "devī̭rāpa",
+      "words": [
+       {
+        "w": "devīḥ",
+        "gloss": "O divine ones",
+        "gram": "f. voc. pl."
+       },
+       {
+        "w": "āpaḥ",
+        "gloss": "O waters",
+        "gram": "f. voc. pl."
+       }
+      ]
+     },
+     {
+      "src": "e̱ṣa",
+      "words": [
+       {
+        "w": "eṣaḥ",
+        "gloss": "this",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vo̱",
+      "words": [
+       {
+        "w": "vaḥ",
+        "gloss": "your",
+        "gram": "gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "garbha̱staᳪ ",
+      "words": [
+       {
+        "w": "garbhaḥ",
+        "gloss": "embryo",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "tam",
+        "gloss": "that",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "suprī̭ta̱ᳪ",
+      "words": [
+       {
+        "w": "su-prītam",
+        "gloss": "well pleased",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "subhṛ̭taṃ",
+      "words": [
+       {
+        "w": "su-bhṛtam",
+        "gloss": "well borne",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "bibhṛta",
+      "words": [
+       {
+        "w": "bibhṛta",
+        "gloss": "bear",
+        "gram": "2 pl. imp. √bhṛ"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "deva̭",
+      "words": [
+       {
+        "w": "deva",
+        "gloss": "O god",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "somai̱ṣa",
+      "words": [
+       {
+        "w": "soma",
+        "gloss": "O Soma",
+        "gram": "m. voc. sg."
+       },
+       {
+        "w": "eṣaḥ",
+        "gloss": "this",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tḙ",
+      "words": [
+       {
+        "w": "te",
+        "gloss": "your",
+        "gram": "gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "lo̱kastasmi̱ñchaṃ",
+      "words": [
+       {
+        "w": "lokaḥ",
+        "gloss": "world",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "tasmin",
+        "gloss": "in that",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca̱",
+      "words": [
+       {
+        "w": "śam",
+        "gloss": "well-being",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vakṣva̱",
+      "words": [
+       {
+        "w": "vakṣva",
+        "gloss": "grow",
+        "gram": "2 sg. imp. mid. √vakṣ"
+       }
+      ]
+     },
+     {
+      "src": "pari̭",
+      "words": [
+       {
+        "w": "pari",
+        "gloss": "around",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ca̱",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vakṣva̭",
+      "words": [
+       {
+        "w": "vakṣva",
+        "gloss": "grow",
+        "gram": "2 sg. imp. mid. √vakṣ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हे दिव्य जलो, यह तुम्हारा गर्भ है; उसे भली-भाँति प्रसन्न, भली-भाँति धारित करके धारण करो। हे देव सोम, यह तुम्हारा लोक है; उसमें कल्याणकारी होकर बढ़ो और चारों ओर बढ़ो।",
+  "english": "O divine waters, this is your embryo; bear him, well pleased and well borne. O god Soma, this is your world; in it grow with well-being and grow all around.",
+  "text_flags": [],
+  "notes": "vakṣva is read as an imperative of √vakṣ 'grow, be strong'; it could also be √vah 'carry' (vakṣva as future-imperative), which would give 'bear well-being and bear around'. The first reading is used (uncertain). devīr āpaḥ is read as a vocative address; the embryo is not identified.",
+  "confidence": "medium"
+ },
+ {
+  "n": "27",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ava̭bhṛtha",
+      "words": [
+       {
+        "w": "ava-bhṛtha",
+        "gloss": "O final bath",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "nicumpuṇa",
+      "words": [
+       {
+        "w": "nicumpuṇa",
+        "gloss": "O Nicumpuṇa (obscure)",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "nice̱rura̭si",
+      "words": [
+       {
+        "w": "nicēruḥ",
+        "gloss": "nicēru (obscure)",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "asi",
+        "gloss": "you are",
+        "gram": "2 sg. pres. √as"
+       }
+      ]
+     },
+     {
+      "src": "nicumpu̱ṇaḥ",
+      "words": [
+       {
+        "w": "nicumpuṇaḥ",
+        "gloss": "Nicumpuṇa (obscure)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "ava̭",
+      "words": [
+       {
+        "w": "ava",
+        "gloss": "down, away",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "devairde̱vakṛ̭ta̱meno̭'yāsiṣa̱mava̱",
+      "words": [
+       {
+        "w": "devaiḥ",
+        "gloss": "with the gods",
+        "gram": "m. inst. pl."
+       },
+       {
+        "w": "deva-kṛtam",
+        "gloss": "made by the gods",
+        "gram": "n. acc. sg. comp."
+       },
+       {
+        "w": "enaḥ",
+        "gloss": "sin",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "ayāsiṣam",
+        "gloss": "I have appeased",
+        "gram": "1 sg. aor. ava-√yā"
+       },
+       {
+        "w": "ava",
+        "gloss": "down, away",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "martyai̱rmartya̭kṛtaṃ",
+      "words": [
+       {
+        "w": "martyaiḥ",
+        "gloss": "with mortals",
+        "gram": "m. inst. pl."
+       },
+       {
+        "w": "martya-kṛtam",
+        "gloss": "made by mortals",
+        "gram": "n. acc. sg. comp."
+       }
+      ]
+     },
+     {
+      "src": "puru̱rāvṇo̭",
+      "words": [
+       {
+        "w": "pururāvṇaḥ",
+        "gloss": "Pururāvan (obscure form)",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "deva",
+      "words": [
+       {
+        "w": "deva",
+        "gloss": "O god",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ri̱ṣaspā̭hi",
+      "words": [
+       {
+        "w": "riṣaḥ",
+        "gloss": "from harm",
+        "gram": "f. abl. sg."
+       },
+       {
+        "w": "pāhi",
+        "gloss": "protect",
+        "gram": "2 sg. imp. √pā"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "de̱vānā̭ᳪ ",
+      "words": [
+       {
+        "w": "devānām",
+        "gloss": "of the gods",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "sa̱mida̭si",
+      "words": [
+       {
+        "w": "samit",
+        "gloss": "kindling-stick",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "asi",
+        "gloss": "you are",
+        "gram": "2 sg. pres. √as"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हे अवभृथ, हे निचुम्पुण, तुम निचेरु हो, निचुम्पुण। देवों के साथ मैंने देवों द्वारा किए गए पाप को दूर किया; मनुष्यों के साथ मनुष्यों द्वारा किए गए पाप को दूर किया। हे पुरुरावन् के देव, हानि से रक्षा करो। तुम देवों की समिधा हो।",
+  "english": "O avabhṛtha, O Nicumpuṇa, you are nicēru, Nicumpuṇa. With the gods I have appeased the sin made by the gods; with mortals the sin made by mortals. O god of Pururāvan, protect from harm. You are the kindling-stick of the gods.",
+  "text_flags": [],
+  "notes": "Very obscure: nicumpuṇa, nicēru and pururāvṇaḥ are kept untranslated (pururāvṇo deva is rendered 'O god of Pururāvan', uncertain). ayāsiṣam (ava-√yā) is read 'I have appeased'; other renderings are 'I have averted, removed'. avabhṛtha is the final bath (a ritual term kept as 'avabhṛtha'). samit is read 'kindling-stick' (samidh).",
+  "confidence": "low"
+ },
+ {
+  "n": "28",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "eja̭tu̱",
+      "words": [
+       {
+        "w": "ejatu",
+        "gloss": "let it move",
+        "gram": "3 sg. imp. √ej"
+       }
+      ]
+     },
+     {
+      "src": "daśa̭māsyo̱",
+      "words": [
+       {
+        "w": "daśa-māsyaḥ",
+        "gloss": "ten-month old",
+        "gram": "m. nom. sg. comp."
+       }
+      ]
+     },
+     {
+      "src": "garbho̭",
+      "words": [
+       {
+        "w": "garbhaḥ",
+        "gloss": "embryo",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ja̱rāyṷṇā",
+      "words": [
+       {
+        "w": "jarāyuṇā",
+        "gloss": "with the afterbirth",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "sa̱ha",
+      "words": [
+       {
+        "w": "saha",
+        "gloss": "together",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "|",
+      "words": [
+       {
+        "w": "|",
+        "gloss": "pause mark",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "yathā̱'yaṃ",
+      "words": [
+       {
+        "w": "yathā",
+        "gloss": "as",
+        "gram": "ind."
+       },
+       {
+        "w": "ayam",
+        "gloss": "this",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā̱yureja̭ti̱",
+      "words": [
+       {
+        "w": "vāyuḥ",
+        "gloss": "wind",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ejati",
+        "gloss": "moves",
+        "gram": "3 sg. pres. √ej"
+       }
+      ]
+     },
+     {
+      "src": "yathā̭",
+      "words": [
+       {
+        "w": "yathā",
+        "gloss": "as",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "samu̱dra",
+      "words": [
+       {
+        "w": "samudraḥ",
+        "gloss": "ocean",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "eja̭ti",
+      "words": [
+       {
+        "w": "ejati",
+        "gloss": "moves",
+        "gram": "3 sg. pres. √ej"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "e̱vā̱yaṃ",
+      "words": [
+       {
+        "w": "evā",
+        "gloss": "so",
+        "gram": "ind."
+       },
+       {
+        "w": "ayam",
+        "gloss": "this",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "daśa̭māsyo̱",
+      "words": [
+       {
+        "w": "daśa-māsyaḥ",
+        "gloss": "ten-month old",
+        "gram": "m. nom. sg. comp."
+       }
+      ]
+     },
+     {
+      "src": "asra̭jja̱rāyṷṇā",
+      "words": [
+       {
+        "w": "asraj",
+        "gloss": "was released (obscure form)",
+        "gram": "3 sg. aor. pass. √sṛj"
+       }
+      ]
+     },
+     {
+      "src": "sa̱ha",
+      "words": [
+       {
+        "w": "jarāyuṇā",
+        "gloss": "with the afterbirth",
+        "gram": "m. inst. sg."
+       },
+       {
+        "w": "saha",
+        "gloss": "together",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "दस मास का गर्भ जरायु के साथ हिले। जैसे यह वायु चलती है, जैसे समुद्र हिलता है, वैसे ही यह दस मास का गर्भ जरायु के साथ छूटा।",
+  "english": "Let the ten-month embryo move together with the afterbirth. As this wind moves, as the ocean moves, so this ten-month one was released together with the afterbirth.",
+  "text_flags": [],
+  "notes": "asraj is read as a form of √sṛj 'was released' (the exact form, aorist passive or injunctive, is uncertain). The word and the line break after 'saha' are as printed. The subject is the embryo as stated; nothing more is added.",
+  "confidence": "medium"
+ },
+ {
+  "n": "29",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yasyai̭",
+      "words": [
+       {
+        "w": "yasyai",
+        "gloss": "to whom",
+        "gram": "f. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "te",
+      "words": [
+       {
+        "w": "te",
+        "gloss": "your",
+        "gram": "gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "ya̱jñiyo̱",
+      "words": [
+       {
+        "w": "yajñiyaḥ",
+        "gloss": "worthy of sacrifice",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "garbho̱",
+      "words": [
+       {
+        "w": "garbhaḥ",
+        "gloss": "embryo",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "yasyai̱",
+      "words": [
+       {
+        "w": "yasyai",
+        "gloss": "to whom",
+        "gram": "f. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "yoni̭rhiraṇyī",
+      "words": [
+       {
+        "w": "yoniḥ",
+        "gloss": "womb",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "hiraṇyī",
+        "gloss": "golden",
+        "gram": "f. nom. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "aṅgā̱nyahrṷtā̱",
+      "words": [
+       {
+        "w": "aṅgāni",
+        "gloss": "limbs",
+        "gram": "n. nom. pl."
+       },
+       {
+        "w": "ahrutā",
+        "gloss": "unbent",
+        "gram": "n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "yasya̱",
+      "words": [
+       {
+        "w": "yasya",
+        "gloss": "whose",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "taṃ",
+      "words": [
+       {
+        "w": "tam",
+        "gloss": "him",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "mā̱trā",
+      "words": [
+       {
+        "w": "mātrā",
+        "gloss": "with the mother",
+        "gram": "f. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "sama̭jīgama̱ᳪ",
+      "words": [
+       {
+        "w": "samajīgamam",
+        "gloss": "I have caused to meet",
+        "gram": "1 sg. aor. caus. sam-√gam"
+       }
+      ]
+     },
+     {
+      "src": "svāhā̭",
+      "words": [
+       {
+        "w": "svāhā",
+        "gloss": "svāhā",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जिसके लिए तुम्हारा यज्ञ के योग्य गर्भ है, जिसके लिए सुनहरी योनि है; जिसके अंग अवक्र हैं, उसे मैंने माता से मिला दिया है। स्वाहा।",
+  "english": "She for whom your embryo is worthy of sacrifice, for whom the womb is golden; him whose limbs are unbent I have united with his mother. Svāhā.",
+  "text_flags": [],
+  "notes": "yasyai is a dative form of the relative (the construction 'to whom ... the embryo' is read loosely as 'she for whom'). ahrutā is read 'unbent, not crooked' (a-hruta), uncertain. The text does not say who the mother or the embryo is.",
+  "confidence": "low"
+ },
+ {
+  "n": "30",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "puruda̱smo",
+      "words": [
+       {
+        "w": "puru-dasmaḥ",
+        "gloss": "rich in wonders",
+        "gram": "m. nom. sg. bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "viṣṷrūpa̱",
+      "words": [
+       {
+        "w": "viṣu-rūpaḥ",
+        "gloss": "of various forms",
+        "gram": "m. nom. sg. bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "indṷra̱ntarma̭hi̱māna̭mānañja̱",
+      "words": [
+       {
+        "w": "induḥ",
+        "gloss": "drop",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "antaḥ",
+        "gloss": "within",
+        "gram": "ind."
+       },
+       {
+        "w": "mahimānam",
+        "gloss": "greatness",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "ānañja",
+        "gloss": "has anointed (obscure)",
+        "gram": "3 sg. pf. ā-√añj"
+       }
+      ]
+     },
+     {
+      "src": "dhīra̭ḥ",
+      "words": [
+       {
+        "w": "dhīraḥ",
+        "gloss": "wise",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "eka̭padīṃ",
+      "words": [
+       {
+        "w": "eka-padīm",
+        "gloss": "one-footed",
+        "gram": "f. acc. sg. comp."
+       }
+      ]
+     },
+     {
+      "src": "dvi̱padī̭ṃ",
+      "words": [
+       {
+        "w": "dvi-padīm",
+        "gloss": "two-footed",
+        "gram": "f. acc. sg. comp."
+       }
+      ]
+     },
+     {
+      "src": "tri̱padī̱ṃ",
+      "words": [
+       {
+        "w": "tri-padīm",
+        "gloss": "three-footed",
+        "gram": "f. acc. sg. comp."
+       }
+      ]
+     },
+     {
+      "src": "catu̱ṣpadīma̱ṣṭāpa̭dī̱ṃ",
+      "words": [
+       {
+        "w": "catuṣ-padīm",
+        "gloss": "four-footed",
+        "gram": "f. acc. sg. comp."
+       },
+       {
+        "w": "aṣṭā-padīm",
+        "gloss": "eight-footed",
+        "gram": "f. acc. sg. comp."
+       }
+      ]
+     },
+     {
+      "src": "bhuva̱nānṷ",
+      "words": [
+       {
+        "w": "bhuvanā",
+        "gloss": "worlds",
+        "gram": "n. acc. pl."
+       },
+       {
+        "w": "anu",
+        "gloss": "along",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "prathantā̱ᳪ ",
+      "words": [
+       {
+        "w": "prathantām",
+        "gloss": "may they spread",
+        "gram": "3 pl. imp. mid. √prath"
+       }
+      ]
+     },
+     {
+      "src": "svāhā̭",
+      "words": [
+       {
+        "w": "svāhā",
+        "gloss": "svāhā",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "बहुत आश्चर्यों वाला, नाना रूपों वाला, बिन्दु, धीर, भीतर महिमा को आलिप्त कर चुका है। एकपदी, द्विपदी, त्रिपदी, चतुष्पदी, अष्टापदी लोकों में फैलें। स्वाहा।",
+  "english": "Rich in wonders, of various forms, the drop, the wise one has anointed the greatness within. May the one-footed, the two-footed, the three-footed, the four-footed, the eight-footed spread along the worlds. Svāhā.",
+  "text_flags": [],
+  "notes": "Obscure. ānañja is read 'has anointed' (ā-√añj), with mahimānam as object; the sense 'has made manifest' is also possible. induḥ is rendered 'drop'. The five feminine numerals (ekapadī ... aṣṭāpadī) are accusative as printed but the verb prathantām is plural imperative, so they are read as its subjects; what they refer to is not stated and is not added.",
+  "confidence": "low"
+ },
+ {
+  "n": "31",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "marṷto̱",
+      "words": [
+       {
+        "w": "marutaḥ",
+        "gloss": "O Maruts",
+        "gram": "m. voc. pl."
+       }
+      ]
+     },
+     {
+      "src": "yasya̱",
+      "words": [
+       {
+        "w": "yasya",
+        "gloss": "whose",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "hi",
+      "words": [
+       {
+        "w": "hi",
+        "gloss": "for",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kṣayḙ",
+      "words": [
+       {
+        "w": "kṣaye",
+        "gloss": "in the dwelling",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "pā̱thā",
+      "words": [
+       {
+        "w": "pāthā",
+        "gloss": "you protect",
+        "gram": "2 pl. pres. √pā"
+       }
+      ]
+     },
+     {
+      "src": "di̱vo",
+      "words": [
+       {
+        "w": "divaḥ",
+        "gloss": "of heaven",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "vi̭mahasaḥ",
+      "words": [
+       {
+        "w": "vi-mahasaḥ",
+        "gloss": "of great glory",
+        "gram": "m. voc. pl. bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "|",
+      "words": [
+       {
+        "w": "|",
+        "gloss": "pause mark",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "sa",
+      "words": [
+       {
+        "w": "saḥ",
+        "gloss": "he",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sṷgo̱pāta̭mo̱",
+      "words": [
+       {
+        "w": "su-gopā-tamaḥ",
+        "gloss": "best protected",
+        "gram": "m. nom. sg. superl."
+       }
+      ]
+     },
+     {
+      "src": "jana̭ḥ",
+      "words": [
+       {
+        "w": "janaḥ",
+        "gloss": "man",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हे मरुतो, स्वर्ग के महान तेज वाले, जिसके निवास में तुम रक्षा करते हो, वह मनुष्य सर्वोत्तम रक्षित है।",
+  "english": "O Maruts of heaven, of great glory, he in whose dwelling you give protection is the best protected man.",
+  "text_flags": [],
+  "notes": "pāthā is read as √pā 'protect'; √pā 'drink' is also possible ('in whose dwelling you drink'). divaḥ is read 'of heaven' with vimahasaḥ. The quality of the order of the clause is as printed.",
+  "confidence": "medium"
+ },
+ {
+  "n": "32",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ma̱hī",
+      "words": [
+       {
+        "w": "mahī",
+        "gloss": "the two great",
+        "gram": "f. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "dyauḥ",
+      "words": [
+       {
+        "w": "dyauḥ",
+        "gloss": "heaven",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "pṛ̭thi̱vī",
+      "words": [
+       {
+        "w": "pṛthivī",
+        "gloss": "earth",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca̭",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "naḥ",
+        "gloss": "our",
+        "gram": "gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "i̱maṃ",
+      "words": [
+       {
+        "w": "imam",
+        "gloss": "this",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ya̱jñaṃ",
+      "words": [
+       {
+        "w": "yajñam",
+        "gloss": "sacrifice",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "mi̭mikṣatām",
+      "words": [
+       {
+        "w": "mimikṣatām",
+        "gloss": "may they two sprinkle",
+        "gram": "3 du. imp. desid. √mikṣ"
+       }
+      ]
+     },
+     {
+      "src": "|",
+      "words": [
+       {
+        "w": "|",
+        "gloss": "pause mark",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "pi̱pṛ̱tāṃ",
+      "words": [
+       {
+        "w": "pipṛtām",
+        "gloss": "may they two fill",
+        "gram": "3 du. imp. √pṛ"
+       }
+      ]
+     },
+     {
+      "src": "no̱",
+      "words": [
+       {
+        "w": "naḥ",
+        "gloss": "us",
+        "gram": "acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "bharī̭mabhiḥ",
+      "words": [
+       {
+        "w": "bharīmabhiḥ",
+        "gloss": "with nourishments",
+        "gram": "n. inst. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "महान द्यौ और पृथ्वी हमारे इस यज्ञ को सींचें; अपने पोषणों से हमें भरपूर करें।",
+  "english": "May great heaven and earth sprinkle this our sacrifice; may they fill us with their nourishments.",
+  "text_flags": [],
+  "notes": "mimikṣatām is read 'may they sprinkle, moisten' (desiderative of √mikṣ, uncertain). bharīman is rendered 'nourishment' (bearing, bringing). mahī dyauḥ pṛthivī ca is read as two nouns with a dual adjective.",
+  "confidence": "medium"
+ }
+]
